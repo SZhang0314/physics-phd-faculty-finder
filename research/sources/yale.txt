@@ -1,0 +1,383 @@
+Primary Faculty | Department of Physics (https://physics.yale.edu/people/faculty/primary-faculty)
+citeturn49view0 [wordlim: 200] Crawled: 3 days ago; Content type: text/html; Source: open({"ref_id":"https://physics.yale.edu/people/faculty/primary-faculty","lineno":null}); Total lines: 529
+L0: cite0†Department of Physics L1: 
+L2: Menu
+L3: 
+L4: cite1†Yale Faculty of Arts and Sciences†fas.yale.edu L5: 
+L6:   * cite2†Contact L7:   * cite3†Visit L8:   * cite4†Opportunities L9:   * cite5†Give L10:   * cite6†About L11: 
+L12: [Input: Search this site]
+L13: 
+L14: cite0†Department of Physics L15: 
+L16:   * Academics Academics
+L17:     * Academics
+L18: Explore Academics
+L19:     * cite7†Undergraduate L20:       * cite8†Prospective Undergraduate Information L21:       * cite9†Selecting Introductory Courses L22:       * cite10†Physics Labs L23:       * cite11†Undergraduate Research Opportunities L24:     * cite12†Graduate L25:       * cite13†Prospective Ph.D. information L26:       * cite14†Graduate Student Handbook L27:       * cite15†Important Dates and Deadlines L28:       * cite16†Graduate Open House L29:       * cite17†Incoming First Years L30:     * cite18†Postdoctoral Fellowships L31:     * cite19†External Awards & Fellowships L32:   * cite20†Research Research
+L33:     * Research
+L34: cite20†Research L35:     * cite21†Astrophysics and Cosmology L36:     * cite22†Atomic, Molecular, and Optical Physics L37:     * cite23†Biophysics L38:     * Condensed Matter Physics
+L39:       * cite24†Experiment L40:       * cite25†Theory L41:     * cite26†Gravitational Physics L42:     * Nuclear Physics
+L43:       * cite27†Experiment L44:       * cite28†Theory L45:     * Particle Physics
+L46:       * cite29†Experiment L47:       * cite30†Theory L48:     * cite31†Quantum Physics L49:   * cite32†People People
+L50:     * People
+L51: cite32†Explore People L52:     * cite33†Faculty L53:       * cite34†Primary Faculty L54:       * cite35†Secondary Faculty L55:       * cite36†Instructional Faculty L56:       * cite37†Emeriti L57:       * cite38†Adjunct Faculty L58:       * cite39†Visiting Appointments L59:     * cite40†Research Scientists L60:     * cite41†Postdoctoral Researchers L61:       * cite42†Postdoctoral Prize Fellows L62:       * cite43†Postdoctoral Researchers L63:     * cite44†Graduate Students L64:     * Staff
+L65:       * cite45†Administrative Staff L66:       * cite46†Research Staff L67:     * cite47†Alumni L68:     * cite48†In Memoriam L69:     * cite49†University Directory†directory.yale.edu L70:   * cite50†News, Events, & Media News, Events, & Media
+L71:     * News, Events, & Media
+L72: cite50†Explore News, Events, & Media L73:     * cite51†Department News L74:     * cite52†Honors L75:     * cite53†Calendar of Events L76:       * cite54†Physics Club L77:       * cite55†Prize Lectures L78:     * cite56†Seminar Series L79:       * cite57†Visiting Speaker Information L80:     * cite58†Photo Galleries L81:     * cite59†Videos L82:     * cite60†Wright Lab Media†wlab.yale.edu L83:     * cite61†Yale Scientific Magazine†www.yalescientific.org L84:   * Community Community
+L85:     * Community
+L86: 
+L87: Explore Community
+L88:     * cite62†Student Organizations L89:     * cite63†Outreach L90: cite1†Yale Faculty of Arts and Sciences†fas.yale.edu L91: 
+L92:   * cite2†Contact L93:   * cite3†Visit L94:   * cite4†Opportunities L95:   * cite5†Give L96:   * cite6†About L97: 
+L98: [Input: Search this site]
+L99: # Primary Faculty
+L100: 
+L101: Search [Input]
+L102: 
+L103: [Input]
+L104: 
+L105:   * Physics
+L106: 
+L107: ### cite64†Yoram Alhassid L108: 
+L109: Frederick Phineas Rose Professor of Physics
+L110: 
+L111: Email (yoram.alhassid@yale.edu)
+L112: 
+L113: 203-432-6922
+L114: 
+L115: cite65†Image: Yoram Alhassid L116: 
+L117:   * Physics
+L118: 
+L119: ### cite66†Sean Barrett L120: 
+L121: Professor of Physics and Applied Physics
+L122: 
+L123: Email (sean.barrett@yale.edu)
+L124: 
+L125: 203-432-6928
+L126: 
+L127: cite67†Image: Sean Barrett L128: 
+L129:   * Physics
+L130: 
+L131: ### cite68†Charles Brown L132: 
+L133: Assistant Professor of Physics
+L134: 
+L135: Email (charles.d.brown@yale.edu)
+L136: 
+L137: (203) 432-5096
+L138: 
+L139: cite69†Image: headshot L140: 
+L141:   * Physics
+L142: ### cite70†Helen Caines L143: 
+L144: Horace D. Taft Professor of Physics
+L145: 
+L146: Director of Graduate Studies
+L147: 
+L148: Email (helen.caines@yale.edu)
+L149: 
+L150: (203) 432-5831
+L151: 
+L152: cite71†Image: Caines Profile L153: 
+L154:   * Physics
+L155: 
+L156: ### cite72†Meng Cheng L157: 
+L158: Associate Professor of Physics
+L159: 
+L160: Associate Director of Undergraduate Studies
+L161: 
+L162: Email (m.cheng@yale.edu)
+L163: 
+L164: (203) 432-5195
+L165: 
+L166: cite73†Image: Meng Cheng L167: 
+L168:   * Physics
+L169: ### cite74†Sarah Demers L170: 
+L171: Professor of Physics
+L172: 
+L173: Department Chair
+L174: 
+L175: Email (sarah.demerskonezny@yale.edu)
+L176: 
+L177: (203) 432-3650
+L178: 
+L179: cite75†Image: Demers Profile L180: 
+L181:   * Physics
+L182: 
+L183: ### cite76†Steven Girvin L184: 
+L185: Sterling Professor of Physics
+L186: 
+L187: Email (steven.girvin@yale.edu)
+L188: 
+L189: (203) 432-5082
+L190: 
+L191: cite77†Image: Girvin Profile Jan 2025 L192: 
+L193:   * Physics
+L194: 
+L195: ### cite78†Larry Gladney L196: 
+L197: Professor of Physics and Astronomy
+L198: 
+L199: Email (larry.gladney@yale.edu)
+L200: 
+L201: cite79†Image: Larry Gladney L202: 
+L203:   * Physics
+L204: ### cite80†Leonid Glazman L205: 
+L206: Donner Professor of Physics
+L207: 
+L208: Email (leonid.glazman@yale.edu)
+L209: 
+L210: (203) 432-6920
+L211: 
+L212: cite81†Image: Leonid Glazman L213: 
+L214:   * Physics
+L215: 
+L216: ### cite82†Walter Goldberger L217: 
+L218: Professor of Physics
+L219: 
+L220: Email (walter.goldberger@yale.edu)
+L221: 
+L222: (203) 432-6902
+L223: 
+L224: cite83†Image: Goldberger Profile Jan 2025 L225: 
+L226:   * Physics
+L227: 
+L228: ### cite84†Jack Harris L229: 
+L230: Professor of Physics
+L231: 
+L232: Email (jack.harris@yale.edu)
+L233: 
+L234: (203) 432-3826
+L235: 
+L236: cite85†Image: Jack Harris Profile Jan 2025 L237: 
+L238:   * Physics
+L239: ### cite86†Laura Havener L240: 
+L241: Assistant Professor of Physics
+L242: 
+L243: Email (laura.havener@yale.edu)
+L244: 
+L245: (203) 432-6259
+L246: 
+L247: cite87†Image: Havener Profile L248: 
+L249:   * Physics
+L250: 
+L251: ### cite88†Karsten Heeger L252: 
+L253: Eugene Higgins Professor of Physics
+L254: 
+L255: Director Wright Laboratory
+L256: 
+L257: Email (karsten.heeger@yale.edu)
+L258: 
+L259: (203) 432-3378
+L260: 
+L261: cite89†Image: Heeger Profile L262: 
+L263:   * Physics
+L264: 
+L265: ### cite90†Eduardo Higino da Silva Neto L266: 
+L267: Assistant Professor of Physics
+L268: 
+L269: Email (eduardo.dasilvaneto@yale.edu)
+L270: 
+L271: cite91†Image: Eduardo Higino da Silva Neto L272: 
+L273:   * Physics
+L274: ### cite92†Steve Lamoreaux L275: 
+L276: Eugene Higgins Professor of Physics
+L277: 
+L278: Email (steve.lamoreaux@yale.edu)
+L279: 
+L280: (203) 432-5276
+L281: 
+L282: cite93†Image: Lamoureaux Profile L283: 
+L284:   * Physics
+L285: 
+L286: ### cite94†Konrad Lehnert L287: 
+L288: Eugene Higgins Professor of Physics
+L289: 
+L290: Email (konrad.lehnert@yale.edu)
+L291: 
+L292: cite95†Image: Lehnert Profile Jan 2025 L293: 
+L294:   * Physics
+L295: 
+L296: ### cite96†Christopher Lynn L297: 
+L298: Assistant Professor of Physics
+L299: 
+L300: Email (christopher.lynn@yale.edu)
+L301: 
+L302: cite97†Image: Lynn Profile 3 L303: 
+L304:   * Physics
+L305: ### cite98†Benjamin Machta L306: 
+L307: Associate Professor of Physics
+L308: 
+L309: Email (benjamin.machta@yale.edu)
+L310: 
+L311: (203) 432-3650
+L312: 
+L313: cite99†Image: Benjamin Machta L314: 
+L315:   * Physics
+L316: 
+L317: ### cite100†Reina Maruyama L318: 
+L319: Professor of Physics and Astronomy
+L320: 
+L321: Director of Undergraduate Studies
+L322: 
+L323: Email (reina.maruyama@yale.edu)
+L324: 
+L325: (203) 432-3362
+L326: 
+L327: cite101†Image: Maruyama Profile L328: 
+L329:   * Physics
+L330: 
+L331: ### cite102†Chiara Mingarelli L332: 
+L333: Assistant Professor of Physics
+L334: 
+L335: Email (chiara.mingarelli@yale.edu)
+L336: 
+L337: cite103†Image: Mingarelli Profile Jan 2025 L338: 
+L339:   * Physics
+L340: ### cite104†Simon Mochrie L341: 
+L342: Professor of Physics & Applied Physics
+L343: 
+L344: Email (simon.mochrie@yale.edu)
+L345: 
+L346: (203) 436-4809
+L347: 
+L348: cite105†Image: Simon Mochrie L349: 
+L350:   * Physics
+L351: 
+L352: ### cite106†Vincent Moncrief L353: 
+L354: Professor of Physics and of Mathematics
+L355: 
+L356: Email (vincent.moncrief@yale.edu)
+L357: 
+L358: (203) 432-8283
+L359: 
+L360: cite107†Image: Moncrief Profile L361: 
+L362:   * Physics
+L363: 
+L364: ### cite108†David Moore L365: 
+L366: Associate Professor of Physics
+L367: 
+L368: Director of Graduate Admissions
+L369: 
+L370: Email (david.c.moore@yale.edu)
+L371: 
+L372: (203) 432-7986
+L373: 
+L374: cite109†Image: headshot L375: 
+L376:   * Physics
+L377: ### cite110†Ian Moult L378: 
+L379: Assistant Professor of Physics
+L380: 
+L381: Email (ian.moult@yale.edu)
+L382: 
+L383: (203) 436-2348
+L384: 
+L385: cite111†Image: Headshot of Ian Moult with mountains in the background L386: 
+L387:   * Physics
+L388: 
+L389: ### cite112†Daisuke Nagai L390: 
+L391: Professor of Physics and of Astronomy
+L392: 
+L393: Email (daisuke.nagai@yale.edu)
+L394: 
+L395: (203) 909-4266
+L396: 
+L397: cite113†Image: Daisuke Nagai L398: 
+L399:   * Physics
+L400: 
+L401: ### cite114†Nir Navon L402: 
+L403: Associate Professor of Physics
+L404: 
+L405: Email (nir.navon@yale.edu)
+L406: 
+L407: (203) 436-4997
+L408: 
+L409: cite115†Image: Nir Navon L410: 
+L411:   * Physics
+L412: ### cite116†Laura Newburgh L413: 
+L414: Associate Professor of Physics
+L415: 
+L416: Email (laura.newburgh@yale.edu)
+L417: 
+L418: (203) 432-9168
+L419: 
+L420: cite117†Image: Laura Newburgh L421: 
+L422:   * Physics
+L423: 
+L424: ### cite118†Nikhil Padmanabhan L425: 
+L426: Professor of Physics
+L427: 
+L428: Email (nikhil.padmanabhan@yale.edu)
+L429: 
+L430: (203) 432-9950
+L431: 
+L432: cite119†Image: Padmanabhan Profile L433: 
+L434:   * Physics
+L435: 
+L436: ### cite120†David Poland L437: 
+L438: Professor of Physics
+L439: 
+L440: Email (david.poland@yale.edu)
+L441: 
+L442: (203) 432-6959
+L443: 
+L444: cite121†Image: Poland Profile L445: 
+L446:   * Physics
+L447: ### cite122†Nicholas Read L448: 
+L449: Henry Ford II Professor of Physics & Professor of Applied Physics and Mathematics
+L450: 
+L451: Email (nicholas.read@yale.edu)
+L452: 
+L453: (203) 432-5042
+L454: 
+L455: cite123†Image: Read Profile L456: 
+L457:   * Physics
+L458: 
+L459: ### cite124†Ramamurti Shankar L460: 
+L461: J.W. Gibbs Professor of Physics
+L462: 
+L463: Email (r.shankar@yale.edu)
+L464: 
+L465: (203) 432-6917
+L466: 
+L467: cite125†Image: Ramamurti Shankar L468: 
+L469:   * Physics
+L470: 
+L471: ### cite126†Witold Skiba L472: 
+L473: Professor of Physics
+L474: 
+L475: Email (witold.skiba@yale.edu)
+L476: 
+L477: (203) 432-3903
+L478: 
+L479: cite127†Image: Yalesites Profile Placeholder 2026 L480: 
+L481:   * Physics
+L482: ### cite128†Alison Sweeney L483: 
+L484: Associate Professor of Physics and of Ecology &Evolutionary Biology
+L485: 
+L486: Email (alison.sweeney@yale.edu)
+L487: 
+L488: cite129†Image: Alison Sweeney L489: 
+L490:   * Physics
+L491: 
+L492: ### cite130†Paul Tipton L493: 
+L494: Eugene Higgins Professor of Physics
+L495: 
+L496: Email (paul.tipton@yale.edu)
+L497: 
+L498: (203) 436-8501
+L499: 
+L500: cite131†Image: Tipton Profile Jan 2025 L501: 
+L502:   * Physics
+L503: 
+L504: ### cite132†Meg Urry L505: 
+L506: Israel Munson Professor of Physics
+L507: 
+L508: Email (meg.urry@yale.edu)
+L509: 
+L510: (203) 432-5997
+L511: 
+L512: cite133†Image: Urry Profile Jan 2025 L513: 
+L514: ## Academics
+L515: ## Helpful Links
+L516: 
+L517:   * cite20†Research L518:   * cite134†Undergraduates L519:   * cite135†Graduates L520: 
+L521:   * cite50†News & Events L522:   * cite136†Important Dates and Deadlines L523:   * cite137†Faculty L524:   * cite138†Internal Pages L525: 
+L526: cite139††yale.edu L527: 
+L528: cite140†Accessibility at Yale†usability.yale.edu | cite141†Privacy Policy†privacy.yale.edu | Copyright © 2026 Yale University. All rights reserved.
+

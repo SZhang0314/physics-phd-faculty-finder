@@ -1,0 +1,735 @@
+Faculty | Physics Department (https://physics.stanford.edu/people/faculty)
+citeturn44view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://physics.stanford.edu/people/faculty","lineno":null}); Total lines: 1060
+L0: cite0†Skip to main content L1: 
+L2: cite1†Stanford University†www.stanford.edu L3: 
+L4: cite2†Stanford Physics Department School of Humanities and Sciences L5: 
+L6: Search [Input]
+L7: 
+L8: [Input]
+L9: 
+L10: Menu
+L11: 
+L12:   * [Button: People]
+L13: 
+L14:     * cite3†Faculty [Button: Toggle Faculty ]
+L15: 
+L16:       * cite4†Emeritus Faculty L17:       * cite5†Courtesy Faculty L18: 
+L19:     * cite6†Visiting Professors and Scholars L20:     * cite7†Physics Students [Button: Toggle Physics Students ]
+L21:       * cite7†Undergraduate Physics Majors L22:       * cite8†Undergraduate Physics Minors L23:       * cite9†Undergraduate Engineering Physics Majors L24:       * cite10†Graduate Students L25: 
+L26:     * cite11†Staff [Button: Toggle Staff ]
+L27: 
+L28:       * cite11†Academic Staff L29:       * cite12†Research Staff L30:       * cite13†Administrative Staff L31: 
+L32:   * [Button: Undergraduate]
+L33: 
+L34:     * cite14†Prospective Students [Button: Toggle Prospective Students ]
+L35:       * cite15†Placement Diagnostic L36:       * cite16†Advanced Placement and Transfer Credit L37:       * cite17†Advice for Physics Students L38: 
+L39:     * cite18†Undergraduate Students Overview [Button: Toggle Undergraduate Students Overview ]
+L40: 
+L41:       * cite19†Physics Major [Button: Toggle Physics Major ]
+L42: 
+L43:         * cite20†How to Declare L44:         * cite21†Senior Thesis and Honors L45:         * cite22†Engineering Physics L46: 
+L47:       * cite23†Minors L48:       * cite24†Undergraduate Courses L49:       * cite25†Undergraduate Resources L50:     * cite26†Undergraduate Research [Button: Toggle Undergraduate Research ]
+L51: 
+L52:       * cite27†How to apply L53:       * cite28†Research Positions L54:       * cite29†Frequently Asked Questions L55:       * cite30†2026 Schedule & Events L56:       * cite31†Research Opportunities Outside Stanford L57: 
+L58:     * cite32†Stanford University Physics Society (SUPS) L59:     * cite33†Conferences for Students L60: 
+L61:   * [Button: Graduate]
+L62: 
+L63:     * cite34†Graduate Admissions [Button: Toggle Graduate Admissions ]
+L64:       * cite35†Application FAQs L65:       * cite36†Financial Support L66:       * cite37†Graduate Life L67: 
+L68:     * cite38†Graduate Program Overview [Button: Toggle Graduate Program Overview ]
+L69: 
+L70:       * cite39†Degree Requirements L71:       * cite40†Graduate Handbook L72:       * cite41†Graduate Resources & Forms [Button: Toggle Graduate Resources & Forms ]
+L73: 
+L74:         * cite42†Advising L75:         * cite43†Physics Education Resources L76:         * cite44†Qualifying Exam L77:         * cite45†Ph.D. Conferral L78:         * cite46†Graduate Forms L79:     * cite47†Teaching Assistantships [Button: Toggle Teaching Assistantships ]
+L80: 
+L81:       * cite48†TA Application L82:       * cite49†Job Duties L83:       * cite50†Job Expectations and Pay L84: 
+L85:   * [Button: Research]
+L86:     * cite51†Research Overview L87:     * cite52†Atomic, Molecular and Optical Physics L88:     * cite53†Biophysics L89:     * cite54†Experimental Condensed Matter Physics L90:     * cite55†Experimental Particle Physics L91:     * cite56†Experimental and Observational Astrophysics and Cosmology L92:     * cite57†Physics and Science Education Research L93:     * cite58†Leinweber Institute for Theoretical Physics at Stanford L94:     * cite59†Theoretical Astrophysics and Cosmology L95: 
+L96:   * [Button: Resources]
+L97:     * cite60†Resources Overview L98:     * cite61†Resources For Students & Postdocs L99:     * cite62†Resources for Staff & Faculty L100:     * cite63†Resources for Graduate Advisors L101:     * cite64†Health And Safety L102:     * cite65†Building Management L103:     * cite66†Machine Shop [Button: Toggle Machine Shop ]
+L104: 
+L105:       * cite67†Machines L106:       * cite68†Examples of Machine Shop Work L107:       * cite69†Materials & Tools Vendors L108:       * cite70†Student Shop [Button: Toggle Student Shop ]
+L109: 
+L110:         * cite71†SOP for the use of the student machine shop L111:     * cite72†Physics Stockroom [Button: Toggle Physics Stockroom ]
+L112: 
+L113:       * cite73†Physics Stockroom Self-Service Purchase Form L114: 
+L115:     * cite74†Student Observatory L116:     * cite75†Photo and Video Archives L117: 
+L118:   * [Button: News & Events]
+L119: 
+L120:     * cite76†The Stanford Physics Department Annual Newsletter - 2025/26 [Button: Toggle The Stanford Physics Department Annual Newsletter - 2025/26 ]
+L121: 
+L122:       * cite77†The Stanford Physics Department Annual Newsletter - 2024/25 L123:     * cite78†Recent News L124:     * cite79†Upcoming Events L125:     * cite80†Annual Events [Button: Toggle Annual Events ]
+L126: 
+L127:       * cite81†Alumni [Button: Toggle Alumni ]
+L128: 
+L129:         * cite82†Alumni Reunion Homecoming L130: 
+L131:     * cite83†PhD Defenses L132:     * cite84†Special Events [Button: Toggle Special Events ]
+L133: 
+L134:       * cite85†CarlFest L135:       * cite86†The Stanley Wojcicki Memorial Service and Scientific Symposium L136:       * cite87†Commencement L137:     * cite88†Past Events L138:     * cite89†Applied Physics/Physics Colloquium [Button: Toggle Applied Physics/Physics Colloquium ]
+L139: 
+L140:       * cite90†Colloquia Archives L141: 
+L142:   * [Button: About]
+L143: 
+L144:     * cite91†Overview [Button: Toggle Overview ]
+L145: 
+L146:       * cite92†Make A Gift L147: 
+L148:     * cite93†Contact L149:     * cite94†Inclusion L150:     * cite95†Our History L151:     * cite96†Faculty Awards L152:     * cite97†Student Awards L153:     * cite98†Opportunities L154:     * cite99†Giving†giving.stanford.edu L155: ## People
+L156: 
+L157:   * cite3†Faculty [Button: Toggle Faculty ]
+L158: 
+L159:     * cite4†Emeritus Faculty L160:     * cite5†Courtesy Faculty L161: 
+L162:   * cite6†Visiting Professors and Scholars L163:   * cite7†Physics Students [Button: Toggle Physics Students ]
+L164: 
+L165:     * cite7†Undergraduate Physics Majors L166:     * cite8†Undergraduate Physics Minors L167:     * cite9†Undergraduate Engineering Physics Majors L168:     * cite10†Graduate Students L169: 
+L170:   * cite11†Staff [Button: Toggle Staff ]
+L171: 
+L172:     * cite11†Academic Staff L173:     * cite12†Research Staff L174:     * cite13†Administrative Staff L175: # Faculty
+L176: 
+L177: Search Faculty by Name [Input]
+L178: 
+L179: Filter by research areas [Select]
+L180: 
+L181: [Input] [Input]
+L182: 
+L183: ##
+L184: 
+L185: cite100†Tom Abel L186: 
+L187: Professor of Particle Physics and Astrophysics and of Physics
+L188: 
+L189: Research Area(s)
+L190: 
+L191:   * cite59†Theoretical Astrophysics and Cosmology L192: 
+L193: ##
+L194: 
+L195: cite101†Steven Allen L196: 
+L197: Professor of Physics and of Particle Physics and Astrophysics
+L198: 
+L199: Info Link(s)
+L200: 
+L201:   * cite102†My research group†web.stanford.edu L202: 
+L203: Research Area(s)
+L204: 
+L205:   * cite56†Experimental and Observational Astrophysics and Cosmology L206: ##
+L207: 
+L208: cite103†Roger Blandford L209: 
+L210: Luke Blossom Professor in the School of Humanities and Sciences, and Professor of Physics and of Particle Physics and Astrophysics
+L211: 
+L212: Research Area(s)
+L213: 
+L214:   * cite59†Theoretical Astrophysics and Cosmology L215: ##
+L216: 
+L217: cite104†Philip Bucksbaum L218: 
+L219: Marguerite Blake Wilbur Professor of Natural Science and Professor of Photon Science, of Applied Physics and of Physics
+L220: 
+L221: Admin Contact:
+L222: 
+L223: Zhenhua Wang
+L224: suhua@stanford.edu
+L225: 
+L226: Info Link(s)
+L227: 
+L228:   * cite105†My research pages†web.stanford.edu L229:   * cite106†Attosecond Physics†ultrafast.stanford.edu L230:   * cite107†Strong-Field Physics†ultrafast.stanford.edu L231:   * cite108†Making Molecular Movies†ultrafast.stanford.edu L232: 
+L233: Research Area(s)
+L234: 
+L235:   * cite52†Atomic, Molecular and Optical Physics L236: ##
+L237: 
+L238: cite109†Patricia Burchat L239: 
+L240: Gabilan Professor
+L241: 
+L242: Admin Contact:
+L243: 
+L244: Julie Shih
+L245: juliels@stanford.edu
+L246: 
+L247: Research Area(s)
+L248: 
+L249:   * cite55†Experimental Particle Physics L250:   * cite56†Experimental and Observational Astrophysics and Cosmology L251: 
+L252: ##
+L253: 
+L254: cite110†Blas Cabrera L255: 
+L256: Stanley G. Wojcicki Professor, Emeritus
+L257: 
+L258: Admin Contact:
+L259: 
+L260: Julie Shih
+L261: juliels@stanford.edu
+L262: 
+L263: Research Area(s)
+L264: 
+L265:   * cite56†Experimental and Observational Astrophysics and Cosmology L266: ##
+L267: 
+L268: cite111†Steven Chu L269: 
+L270: William R. Kenan Jr. Professor, Professor of Molecular and Cellular Physiology and of Energy Science and Engineering
+L271: 
+L272: Admin Contact:
+L273: 
+L274: Lisa Lee
+L275: llee888@stanford.edu
+L276: 
+L277: Info Link(s)
+L278: 
+L279:   * cite112†American institute of Physics Oral history of Steven Chu†www.aip.org L280:   * cite113†Short documentary of Steven Chu "Citizen Scientist"†kikim.com L281:   * cite114†Chu Lab Web site†www.stevechulab.com L282: 
+L283: Research Area(s)
+L284: 
+L285:   * cite52†Atomic, Molecular and Optical Physics L286:   * cite53†Biophysics L287: ##
+L288: 
+L289: cite115†Susan E. Clark L290: 
+L291: Assistant Professor of Physics
+L292: 
+L293: Info Link(s)
+L294: 
+L295:   * cite116†Cosmic Magnetism & Interstellar Physics Group†clarkgroup.stanford.edu L296: 
+L297: Research Area(s)
+L298: 
+L299:   * cite56†Experimental and Observational Astrophysics and Cosmology L300:   * cite59†Theoretical Astrophysics and Cosmology L301: 
+L302: ##
+L303: 
+L304: cite117†Trithep Devakul L305: 
+L306: Assistant Professor of Physics
+L307: 
+L308: Admin Contact:
+L309: 
+L310: Denise Jones
+L311: dejones@stanford.edu
+L312: 
+L313: Info Link(s)
+L314: 
+L315:   * cite118†Google Scholar†scholar.google.com L316: ##
+L317: 
+L318: cite119†Savas Dimopoulos L319: 
+L320: Hamamoto Family Professor
+L321: 
+L322: Admin Contact:
+L323: 
+L324: LITP
+L325: litpadmin@stanford.edu
+L326: 
+L327: Info Link(s)
+L328: 
+L329:   * cite120†Publications on arXiv†arxiv.org L330: 
+L331: Research Area(s)
+L332: 
+L333:   * cite58†Stanford Leinweber Institute for Theoretical Physics L334: ##
+L335: 
+L336: cite121†Persis S. Drell L337: 
+L338: Provost, Emerita, James and Anna Marie Spilker Professor, Professor of Materials Science and Engineering and of Physics
+L339: 
+L340: Admin Contact:
+L341: 
+L342: Dana Volponi
+L343: danav@stanford.edu
+L344: 
+L345: Research Area(s)
+L346: 
+L347:   * cite56†Experimental and Observational Astrophysics and Cosmology L348:   * cite55†Experimental Particle Physics L349: ##
+L350: 
+L351: cite122†Ben Feldman L352: 
+L353: Associate Professor of Physics
+L354: 
+L355: Admin Contact:
+L356: 
+L357: Nhung Lai
+L358: nhunglai@stanford.edu
+L359: 
+L360: Info Link(s)
+L361: 
+L362:   * cite123†Feldman Lab†sites.stanford.edu L363: 
+L364: Research Area(s)
+L365: 
+L366:   * cite54†Experimental Condensed Matter Physics L367: 
+L368: ##
+L369: 
+L370: cite124†David Goldhaber-Gordon L371: 
+L372: TG Wijaya Professor of Physics and Professor, by courtesy, of Applied Physics
+L373: 
+L374: Admin Contact:
+L375: 
+L376: Naomi Tudor
+L377: ntudor@stanford.edu
+L378: 
+L379: Research Area(s)
+L380: 
+L381:   * cite54†Experimental Condensed Matter Physics L382: ##
+L383: 
+L384: cite125†Peter Graham L385: 
+L386: Professor of Physics
+L387: 
+L388: Admin Contact:
+L389: 
+L390: LITP
+L391: litpadmin@stanford.edu
+L392: 
+L393: Info Link(s)
+L394: 
+L395:   * cite126†Publications on INSPIRE†inspirehep.net L396: 
+L397: Research Area(s)
+L398: 
+L399:   * cite58†Stanford Leinweber Institute for Theoretical Physics L400: ##
+L401: 
+L402: cite127†Giorgio Gratta L403: 
+L404: Ray Lyman Wilbur Professor
+L405: 
+L406: Admin Contact:
+L407: 
+L408: Natalie Pogue
+L409: nrpogue@stanford.edu
+L410: 
+L411: Info Link(s)
+L412: 
+L413:   * cite128†https://web.stanford.edu/group/grattalab/†web.stanford.edu L414: 
+L415: Research Area(s)
+L416: 
+L417:   * cite52†Atomic, Molecular and Optical Physics L418:   * cite55†Experimental Particle Physics L419: 
+L420: ##
+L421: 
+L422: cite129†Jeongwan Haah L423: 
+L424: Associate Professor of Physics and, by courtesy, of Mathematics
+L425: 
+L426: Admin Contact:
+L427: 
+L428: Denise Jones
+L429: dejones@stanford.edu
+L430: ##
+L431: 
+L432: cite130†Tom Hartman L433: 
+L434: Professor of Physics
+L435: 
+L436: Research Area(s)
+L437: 
+L438:   * cite58†Stanford Leinweber Institute for Theoretical Physics L439: 
+L440: ##
+L441: 
+L442: cite131†Patrick Hayden L443: 
+L444: Stanford Professor of Quantum Physics
+L445: 
+L446: Admin Contact:
+L447: 
+L448: LITP
+L449: litpadmin@stanford.edu
+L450: 
+L451: Info Link(s)
+L452: 
+L453:   * cite132†Publications on arXiv†arxiv.org L454:   * cite133†Publications on Google Scholar†scholar.google.com L455: 
+L456: Research Area(s)
+L457: 
+L458:   * cite58†Stanford Leinweber Institute for Theoretical Physics L459: ##
+L460: 
+L461: cite134†J. Hoeksema L462: 
+L463: Professor (Research) of Physics
+L464: 
+L465: Admin Contact:
+L466: 
+L467: Haruko Makitani
+L468: makitani@stanford.edu
+L469: 
+L470: Research Area(s)
+L471: 
+L472:   * cite56†Experimental and Observational Astrophysics and Cosmology L473: 
+L474: ##
+L475: 
+L476: cite135†Jason Hogan L477: 
+L478: Associate Professor of Physics
+L479: 
+L480: Admin Contact:
+L481: 
+L482: Zhenhua Wang
+L483: suhua@stanford.edu
+L484: 
+L485: Info Link(s)
+L486: 
+L487:   * cite136†Hogan group†hoganlab.stanford.edu L488: 
+L489: Research Area(s)
+L490: 
+L491:   * cite52†Atomic, Molecular and Optical Physics L492: ##
+L493: 
+L494: cite137†Leo Hollberg L495: 
+L496: Professor (Research) of Physics and of Geophysics, Emeritus
+L497: 
+L498: Admin Contact:
+L499: 
+L500: Dana Volponi
+L501: danav@stanford.edu
+L502: 
+L503: Research Area(s)
+L504: 
+L505:   * cite52†Atomic, Molecular and Optical Physics L506: ##
+L507: 
+L508: cite138†Kent Irwin L509: 
+L510: Professor of Physics, of Particle Physics and Astrophysics and of Photon Science
+L511: 
+L512: Admin Contact:
+L513: 
+L514: Dana Volponi
+L515: danav@stanford.edu
+L516: 
+L517: Info Link(s)
+L518: 
+L519:   * cite139†Irwin Group†irwinlab.stanford.edu L520: 
+L521: Research Area(s)
+L522: 
+L523:   * cite56†Experimental and Observational Astrophysics and Cosmology L524:   * cite55†Experimental Particle Physics L525: ##
+L526: 
+L527: cite140†Aharon Kapitulnik L528: 
+L529: Theodore and Sydney Rosenberg Professor of Applied Physics and Professor of Physics
+L530: 
+L531: Admin Contact:
+L532: 
+L533: Clora Yeung
+L534: clora@stanford.edu
+L535: 
+L536: Info Link(s)
+L537: 
+L538:   * cite141†Personal and Group Web Page†kapitulnik.stanford.edu L539:   * cite141†https://kapitulnik.stanford.edu†kapitulnik.stanford.edu L540: 
+L541: Research Area(s)
+L542: 
+L543:   * cite54†Experimental Condensed Matter Physics L544: ##
+L545: 
+L546: cite142†Mark Kasevich L547: 
+L548: William R. Kenan Jr. Professor, Professor of Physics and of Applied Physics
+L549: 
+L550: Admin Contact:
+L551: 
+L552: Zhenhua Wang
+L553: suhua@stanford.edu
+L554: 
+L555: Research Area(s)
+L556: 
+L557:   * cite52†Atomic, Molecular and Optical Physics L558: ##
+L559: 
+L560: cite143†Vedika Khemani L561: 
+L562: Associate Professor of Physics
+L563: 
+L564: Admin Contact:
+L565: 
+L566: Denise Jones
+L567: dejones@stanford.edu
+L568: 
+L569: Info Link(s)
+L570: 
+L571:   * cite144†Publications on arXiv†arxiv.org L572:   * cite145†Publications on Google Scholar†scholar.google.com L573: 
+L574: Research Area(s)
+L575: 
+L576:   * cite58†Stanford Leinweber Institute for Theoretical Physics L577: ##
+L578: 
+L579: cite146†Steven Kivelson L580: 
+L581: Prabhu Goel Family Professor
+L582: 
+L583: Admin Contact:
+L584: 
+L585: Denise Jones
+L586: dejones@stanford.edu
+L587: 
+L588: Info Link(s)
+L589: 
+L590:   * cite147†Defining "Emergence" in Physics†www.nature.com L591:   * cite148†Understanding Complexity†www.nature.com L592:   * cite149†Kivelson Group Web Link†glam.stanford.edu L593: 
+L594: Research Area(s)
+L595: 
+L596:   * cite58†Stanford Leinweber Institute for Theoretical Physics L597: ##
+L598: 
+L599: cite150†Chao-Lin Kuo L600: 
+L601: Professor of Physics and of Particle Physics and Astrophysics
+L602: 
+L603: Admin Contact:
+L604: 
+L605: Dana Volponi
+L606: danav@stanford.edu
+L607: 
+L608: Research Area(s)
+L609: 
+L610:   * cite56†Experimental and Observational Astrophysics and Cosmology L611: 
+L612: ##
+L613: 
+L614: cite151†Robert Laughlin L615: 
+L616: Anne T. and Robert M. Bass Professor in the School of Humanities and Sciences
+L617: 
+L618: Admin Contact:
+L619: 
+L620: Nhung Lai
+L621: nhunglai@stanford.edu
+L622: 
+L623: Research Area(s)
+L624: 
+L625:   * cite58†Stanford Leinweber Institute for Theoretical Physics L626: ##
+L627: 
+L628: cite152†Benjamin Lev L629: 
+L630: Stanford Fortitude Professor
+L631: 
+L632: Admin Contact:
+L633: 
+L634: Nyein Su Mon
+L635: nyeinmon@stanford.edu
+L636: 
+L637: Info Link(s)
+L638: 
+L639:   * cite153†LevLab website†levlab.stanford.edu L640: 
+L641: Research Area(s)
+L642: 
+L643:   * cite52†Atomic, Molecular and Optical Physics L644:   * cite54†Experimental Condensed Matter Physics L645: 
+L646: ##
+L647: 
+L648: cite154†Hari Manoharan L649: 
+L650: Associate Professor of Physics
+L651: 
+L652: Admin Contact:
+L653: 
+L654: Clora Yeung
+L655: clora@stanford.edu
+L656: 
+L657: Research Area(s)
+L658: 
+L659:   * cite54†Experimental Condensed Matter Physics L660: ##
+L661: 
+L662: cite155†Peter Michelson L663: 
+L664: Luke Blossom Professor in the School of Humanities and Sciences
+L665: 
+L666: Admin Contact:
+L667: 
+L668: Zhenhua Wang
+L669: suhua@stanford.edu
+L670: 
+L671: Research Area(s)
+L672: 
+L673:   * cite56†Experimental and Observational Astrophysics and Cosmology L674: 
+L675: ##
+L676: 
+L677: cite156†Kathryn Moler L678: 
+L679: Special Advisor to the President, Marvin Chodorow Professor and Professor of Applied Physics, of Physics and of Energy Science Engineering
+L680: 
+L681: Admin Contact:
+L682: 
+L683: Angel Smith
+L684: smitham@stanford.edu
+L685: 
+L686: Research Area(s)
+L687: 
+L688:   * cite54†Experimental Condensed Matter Physics L689: ##
+L690: 
+L691: cite157†Geoffrey Penington L692: 
+L693: Professor of Physics
+L694: 
+L695: Admin Contact:
+L696: 
+L697: LITP
+L698: litpadmin@stanford.edu
+L699: 
+L700: Research Area(s)
+L701: 
+L702:   * cite58†Stanford Leinweber Institute for Theoretical Physics L703: 
+L704: ##
+L705: 
+L706: cite158†Vahe Petrosian L707: 
+L708: Professor of Physics and of Applied Physics
+L709: 
+L710: Admin Contact:
+L711: 
+L712: Dana Volponi
+L713: danav@stanford.edu
+L714: 
+L715: Info Link(s)
+L716: 
+L717:   * cite159†ADS abstracts†ui.adsabs.harvard.edu L718:   * cite160†arXiv astro-ph†www.arxiv.org L719: 
+L720: Research Area(s)
+L721: 
+L722:   * cite59†Theoretical Astrophysics and Cosmology L723: ##
+L724: 
+L725: cite161†Oliver Philcox L726: 
+L727: Assistant Professor of Physics
+L728: 
+L729: Research Area(s)
+L730: 
+L731:   * cite58†Stanford Leinweber Institute for Theoretical Physics L732:   * cite59†Theoretical Astrophysics and Cosmology L733: 
+L734: ##
+L735: 
+L736: cite162†Sasha Philippov L737: 
+L738: Associate Professor of Physics
+L739: 
+L740: Research Area(s)
+L741: 
+L742:   * cite59†Theoretical Astrophysics and Cosmology L743: 
+L744: ##
+L745: 
+L746: cite163†Xiaoliang Qi L747: 
+L748: Professor of Physics
+L749: 
+L750: Admin Contact:
+L751: 
+L752: LITP
+L753: litpadmin@stanford.edu
+L754: 
+L755: Research Area(s)
+L756: 
+L757:   * cite58†Stanford Leinweber Institute for Theoretical Physics L758: ##
+L759: 
+L760: cite164†Srinivas Raghu L761: 
+L762: Professor of Physics
+L763: 
+L764: Admin Contact:
+L765: 
+L766: Denise Jones
+L767: dejones@stanford.edu
+L768: 
+L769: Info Link(s)
+L770: 
+L771:   * cite165†"SITP Webpage"†sitp.stanford.edu L772: 
+L773: Research Area(s)
+L774: 
+L775:   * cite58†Stanford Leinweber Institute for Theoretical Physics L776: 
+L777: ##
+L778: 
+L779: cite166†Roger Romani L780: 
+L781: Professor of Physics
+L782: 
+L783: Research Area(s)
+L784: 
+L785:   * cite56†Experimental and Observational Astrophysics and Cosmology L786:   * cite59†Theoretical Astrophysics and Cosmology L787: ##
+L788: 
+L789: cite167†Monika Schleier-Smith L790: 
+L791: Associate Professor of Physics
+L792: 
+L793: Admin Contact:
+L794: 
+L795: Zhenhua Wang
+L796: suhua@stanford.edu
+L797: 
+L798: Info Link(s)
+L799: 
+L800:   * cite168†Research Group†sslab.stanford.edu L801: 
+L802: Research Area(s)
+L803: 
+L804:   * cite52†Atomic, Molecular and Optical Physics L805: ##
+L806: 
+L807: cite169†Zhi-Xun Shen L808: 
+L809: Paul Pigott Professor of Physical Sciences, Professor of Applied Physics, of Physics and Senior Fellow at the Precourt Institute for Energy
+L810: 
+L811: Admin Contact:
+L812: 
+L813: Marta Mary Vitale
+L814: msoto2@slac.stanford.edu
+L815: 
+L816: Info Link(s)
+L817: 
+L818:   * cite170†My Lab Site†arpes.stanford.edu L819: 
+L820: Research Area(s)
+L821: 
+L822:   * cite54†Experimental Condensed Matter Physics L823: ##
+L824: 
+L825: cite171†Stephen Shenker L826: 
+L827: Richard Herschel Weiland Professor
+L828: 
+L829: Admin Contact:
+L830: 
+L831: LITP
+L832: litpadmin@stanford.edu
+L833: 
+L834: Info Link(s)
+L835: 
+L836:   * cite172†Publications on INSPIRE†inspirehep.net L837:   * cite173†Publications on arXiv†arxiv.org L838: 
+L839: Research Area(s)
+L840: 
+L841:   * cite58†Stanford Leinweber Institute for Theoretical Physics L842: ##
+L843: 
+L844: cite174†Eva Silverstein L845: 
+L846: Professor of Physics
+L847: 
+L848: Admin Contact:
+L849: 
+L850: LITP
+L851: litpadmin@stanford.edu
+L852: 
+L853: Info Link(s)
+L854: 
+L855:   * cite175†ArXiv papers†arxiv.org L856: 
+L857: Research Area(s)
+L858: 
+L859:   * cite58†Stanford Leinweber Institute for Theoretical Physics L860:   * cite59†Theoretical Astrophysics and Cosmology L861: ##
+L862: 
+L863: cite176†Jon Simon L864: 
+L865: Joan Reinhart Professor and Professor of Applied Physics
+L866: 
+L867: Admin Contact:
+L868: 
+L869: Nyein Su Mon
+L870: nyeinmon@stanford.edu
+L871: 
+L872: Info Link(s)
+L873: 
+L874:   * cite177†Another Breakthrough in photon-photon Interactions†physics.uchicago.edu L875: 
+L876: Other Links:
+L877: 
+L878:   * cite178†Simon Lab Group Website†simonlab.stanford.edu L879: 
+L880: Research Area(s)
+L881: 
+L882:   * cite52†Atomic, Molecular and Optical Physics L883: ##
+L884: 
+L885: cite179†Douglas Stanford L886: 
+L887: Professor of Physics
+L888: 
+L889: Admin Contact:
+L890: 
+L891: LITP
+L892: litpadmin@stanford.edu
+L893: 
+L894: Research Area(s)
+L895: 
+L896:   * cite58†Stanford Leinweber Institute for Theoretical Physics L897: ##
+L898: 
+L899: cite180†Leonard Susskind L900: 
+L901: Felix Bloch Professor of Physics
+L902: 
+L903: Admin Contact:
+L904: 
+L905: LITP
+L906: litpadmin@stanford.edu
+L907: 
+L908: Info Link(s)
+L909: 
+L910:   * cite181†The Theoretical Minimum lecture series†theoreticalminimum.com L911:   * cite182†Publications on arXiv†arxiv.org L912:   * cite183†Publications on INSPIRE†inspirehep.net L913: 
+L914: Research Area(s)
+L915: 
+L916:   * cite58†Stanford Leinweber Institute for Theoretical Physics L917: ##
+L918: 
+L919: cite184†Lauren Tompkins L920: 
+L921: Associate Professor of Physics
+L922: 
+L923: Admin Contact:
+L924: 
+L925: Fang Tian
+L926: fangft@stanford.edu
+L927: 
+L928: Info Link(s)
+L929: 
+L930:   * cite185†Tompkins Group Website†stanford.edu L931: 
+L932: Research Area(s)
+L933: 
+L934:   * cite55†Experimental Particle Physics L935: 
+L936: ##
+L937: 
+L938: cite186†Ken Van Tilburg L939: 
+L940: Assistant Professor of Physics
+L941: 
+L942: Research Area(s)
+L943: 
+L944:   * cite58†Stanford Leinweber Institute for Theoretical Physics L945: ##
+L946: 
+L947: cite187†Risa Wechsler L948: 
+L949: Director, Kavli Institute for Particle Astrophysics and Cosmology (KIPAC), Humanities and Sciences Professor, Professor of Physics and of Particle Physics and Astrophysics, and Senior Fellow at Stanford HAI
+L950: 
+L951: Info Link(s)
+L952: 
+L953:   * cite188†Galaxy Formation & Cosmology Group†www.risawechsler.com L954: 
+L955: Research Area(s)
+L956: 
+L957:   * cite59†Theoretical Astrophysics and Cosmology L958: ##
+L959: 
+L960: cite189†Alfred Zong L961: 
+L962: Assistant Professor of Physics and Applied Physics
+L963: 
+L964: Admin Contact:
+L965: 
+L966: Denise Jones
+L967: dejones@stanford.edu
+L968: 
+L969: Other Links:
+L970: 
+L971:   * cite190†Zong Group Website†zonglab.stanford.edu L972: 
+

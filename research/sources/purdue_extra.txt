@@ -1,0 +1,671 @@
+Laszlo J. Gutay: Department of Physics and Astronomy: Purdue University (https://www.physics.purdue.edu/people/faculty/gutay.php)
+citeturn122search0 [wordlim: 200] Crawled: last week; Research Interests ...   * Principal Investigator of Purdue High Energy Physics Group
+
+# Laszlo J. Gutay
+
+NOTE: E-mail addresses end with @purdue.edu
+
+B.A., Physics, Oxford University, 1959
+M.A., Physics, Oxford University, 1960
+Ph.D., High Energy Physics, Florida State University, 1964
+
+Research Interests
+
+  * High energy experimental physics and phenomenology; relation between strong and electroweak interactions; determination of parameters of electroweak theory in high energy Image interactions; search for Higgs and Supersymetric particles
+  * Hadron thermodynamics, in high energy nucleon antinucleon interactions; equation of state of super dense hadronic matter; observation of quark-gluon plasma
+  * Accelerator physics; beam instabilities, superconducting magnets.
+  * Higgs searches using the CERN LHC CMS detector in p-p collisions
+Research Activities Physics
+
+The energy of the CERN LEP e ^{+} - e ^{- }collider has been increased from 100 GeV to 202 GeV. This has opened a new vista in electro-weak physics. We can now study Image: equation W^{+}-W^{-} and Z^{}^{0} -Z^{0 }pair productions as well as search for Higgs and SUSY particles. We have built the robotic quality control of muon chamber production. They are: computer integrated R and C meters for cathode strips, anode wire quality control via optical and electric methods, computer integrated anode wire capacitance meter, and wire tension and pitch meters.
+
+The Large Hadron Collider (LHC)
+
+Image: Physicists from 30 countries, including the U.S., are building the CMS (Compact Muon Solenoid) experiment to explore the new high-energy frontier that will be opened up when the Large Hadron Collider (LHC) starts up in 2005 at CERN, the European Laboratory for Particle Physics. The Large Hadron Collider (LHC) approved for construction at CERN in Geneva, Switzerland, will be the highest energy particle accelerator in the world on its completion in 2005. The study of the elusive Higgs particle is one of the main goals of the LHC, along with a large increase in the physics reach for a wide variety of processes, including: the search for possible size and substructure in quarks or leptons, the search for new heavy particles such as supersymmetric partners of the known fermions and bosons, and extremely high- statistics studies of systems containing the bottom and top quarks.
+Elementary particle Physics, (Physics 564) and also Modern Physics laboratory (Physics 342L).
+
+Graduate Students Current:
+
+  * N.Batalova (Ph.D. 2002)
+  * M. Kopal (Ph.D. 2001)
+  * R. Lee (Ph.D. 2002)
+  * I. Pal (Ph.D. 2002)
+  * D. Prokofiev (Ph.D. 2001)
+R. Vasquez (Ph.D. 2002)
+Professional Experience
+
+  * Professor of Physics, Purdue University, 1976-present
+  * Associate Professor of Physics, Purdue University, 1970-76
+  * Assistant Professor of Physics, Purdue University, 1967-70
+  * Research Associate, Purdue University, 1965-67
+  * Research Assistant, Florida State University, 1960-65
+  * Technician, British Medical Research Council, 1957-59
+Professional Activities
+
+  * Managing the H.E.P. research group and advising Ph.D. graduate students
+  * Principal Investigator of Purdue High Energy Physics Group
+  * High Energy Task D Spokesman
+  * Purdue Task leader at L3
+  * Purdue Task Leader at CMS Muon Endcap
+  * Qualifying Exam Committee
+  * Grievance Committee
+  * Colloquium Committee
+  * Physics Advisory Committee
+  * Long range planning committee
+  * Organizing Committee of the International Conference of Mathematics and Computers in Physics
+Awards and Honors
+
+  * Fellow, the American Physical Society
+  * Achilles Club, Oxford University
+  * Herbert Newby McCoy Distinguished Research Award, Purdue University, 1984
+  * National Medal for Bravery in 1956 (Awarded by the Hungarian Gov.)
+  * National Medal for Freedom 1944-1989 (Awarded by the Hungarian Gov.)
+
+Ph.D. Theses Supervised: 13
+Current Ph.D. Students: 6
+Refereed Publications: 287
+
+Selected Publications
+
+http://www.slac.stanford.edu/spires/find/hep/www?rawcmd=FIND+A+GUTAY%2C+LASZLO
+
+Last Updated: May 17, 2016 4:14 PM--------------------------------------------------------------------------------
+Dimitrios Giannios: Department of Physics and Astronomy: Purdue University (https://physics.purdue.edu/people/faculty/giannios.php)
+citeturn122search1 [wordlim: 200] Published: 2.6 years ago; Crawled: 3 weeks ago; 2022 -  | Professor, Physics Department, Purdue University ... Research Interests ...   * Acceleration and composition of ultra-high-energy cosmic rays, associated neutrino emission
+
+# Dimitrios Giannios
+
+NOTE: E-mail addresses end with @purdue.edu
+
+Image: Dimitrios Giannios
+
+Professor of Physics and Astronomy
+
+Group:
+
+Faculty
+
+Office:
+
+PHYS 325
+
+Phone:
+
+(765) 494-5194
+
+E-mail:
+
+dgiannio
+
+Website:
+
+[Homepage]
+
+Educational and Professional History
+
+Time  | Position
+--- | ---
+2022 -  | Professor, Physics Department, Purdue University
+2018 - 2022  | Associate Professor, Physics Department, Purdue University
+2012 - 2018  | Assistant Professor, Physics Department, Purdue University
+2011 - 2012  | Associate Research Scholar, Department of Astrophysical Sciences, Princeton University, USA
+2008 - 2011  | Lyman Spitzer, Jr. Fellow, Department of Astrophysical Sciences, Princeton University, USA
+2005 - 2008  | Postdoc, MPI for Astrophysics, Garching, Germany
+2002 - 2005  | Ph.D. Physics, University of Crete, Greece
+2000 - 2002  | M.Sc. Physics, University of Crete, Greece
+1996 - 2000  | B.Sc. Physics, University of Patras, Greece
+
+Research Interests
+
+High-energy astrophysics, gravity:
+
+  * Electromagnetic counterparts to gravitational wave sources
+  * Theoretical study of the physics of relativistic jets (jets from galactic centers, from compact objects in binary systems and gamma-ray bursts)
+  * Acceleration and composition of ultra-high-energy cosmic rays, associated neutrino emission
+  * The nature of the central engine of gamma-ray bursts
+
+Selected Publications (as of 2018)
+
+  1. "Off-axis short GRBs from structured jets as counterparts to GW events", Kathirgamaraju, A., Barniol Duran, R., & Giannios, D., 2018, MNRAS Letters, 473, L121
+  2. "Collapsar Gamma-Ray Bursts: how the luminosity function dictates the duration distribution", Petropoulou, M., Barniol Duran, R. & Giannios, D., 2017, MNRAS, 472, 2722
+  3. "Three-dimensional simulations of AGN jets: magnetic kink instability versus conical shocks", Barniol-Duran, R., Tchekhovskoy, A. & Giannios, D., MNRAS, 469; 4957
+--------------------------------------------------------------------------------
+Matthew Jones: Department of Physics and Astronomy: Purdue University (https://physics.purdue.edu/people/faculty/mjones.php)
+citeturn122search2 [wordlim: 200] Crawled: last week; NOTE: E-mail addresses end with @purdue.edu ... Research Interests Current ... Jones' primary area of research is in High Energy Physics.
+
+# Matthew Jones
+
+NOTE: E-mail addresses end with @purdue.edu
+
+Image: Matthew Jones
+
+Professor of Physics and Astronomy
+
+Group:
+
+Faculty
+
+Office:
+
+PHYS 378
+PHYS 337
+
+Phone:
+
+(765) 496-2464
+(765) 494-5971
+630-309-8187
+
+E-mail:
+
+jones105
+
+Website:
+
+[Homepage]
+
+Research Interests Current
+
+Prof. Jones' primary area of research is in High Energy Physics.   He is a member of the CMS experiment which studies high energy proton-proton collisions at CERN's Large Hadron Collider.  Specific physics interests focus on properties of hadrons containing bottom quarks that are produced in top quark decays.  Jones is also a member of the Mu2e experiment which is under construction at Fermilab and will search for coherent muon to electron conversion using muons stopped on an aluminum target.
+
+Jones is responsible for running Purdue's Silicon Detector Lab and leads the US effort for pixel sensor module production which will provide components needed for the CMS tracker upgrade.  --------------------------------------------------------------------------------
+Andrew S. Hirsch: Department of Physics and Astronomy: Purdue University (https://physics.purdue.edu/people/faculty/hirsch.php)
+citeturn122search3 [wordlim: 200] Crawled: 5 days ago; Research Interests ... The Purdue High Energy Nuclear Physics group has played a major role in the interpretation of the relativistic heavy ion data in terms of the Color String Percolation Model.
+
+# Andrew S. Hirsch
+
+NOTE: E-mail addresses end with @purdue.edu
+
+S.B., Physics 1972 Massachusetts Institute of Technology
+Ph.D., Physics 1977 Massachusetts Institute of Technology
+
+Research Interests
+
+  * Experimental exploration of the equation of state of state of nuclear matter
+  * Physics Education Research projects
+    * Making Sense of Global Warming and Climate Change: Model of Student Learning via Collaborative Research
+    * Teaching and Learning about Climate Change: A Framework for Educators, coeditor, to be published by Routledge
+    * Understanding aspects of the performance in introductory mechanics of first year engineering majors
+  * High energy nuclear physics projects
+    * Current
+      * STAR
+    * Past
+      * EOS Collaboration
+      * E864
+      * E895
+      * E442
+      * E591
+      * E778
+      * E735
+Teaching Interests
+
+  * Nonlinear Dynamics and Chaotic Phenomena
+  * High Energy Nuclear Physics
+  * Science and Society
+  * Introductory Mechanics and Electricity & Magnetism
+Graduate Students Current: Former Graduate Students:
+
+  * Charles Allen
+  * Tyler Browning
+  * Alex Cardenas
+  * Philip Cole
+  * Robert R. Davies
+  * James B. Elliott
+  * James E. Finn
+  * David Garand
+  * Mark L. Gilkes
+  * J. Andrew Hauger
+  * Tim Herston
+  * Mohamed Mahi
+  * Matt Marziale
+  * Roger W. Minich
+  * Cristina Moody
+  * T. Craig Sangster
+  * Penny Warren
+Research Activities STAR
+
+A first generation experiment at the Relativistic Heavy Ion Collider (RHIC). Gold beams of 100 GeV/nucleon each will collide, providing conditions sufficient for the production of the quark-gluon phase of hadronic matter. The Purdue High Energy Nuclear Physics group has played a major role in the interpretation of the relativistic heavy ion data in terms of the Color String Percolation Model.
+
+EOS Collaboration
+
+Image: eosA reverse kinematics experiment in which Gold, Lanthanum, and Krypton 1 A GeV projectiles bombarded a Carbon target. This experiment features a seamless series of detectors capable of providing complete charge reconstruction of each collision. Results to date are consistent with a continuous phase transition occurring over a narrow range of excitation energy deposited in the projectile.
+
+More info on publications can be found at High Energy Nuclear Physics' website.
+
+Last Updated: Jul 25, 2023 9:45 AM--------------------------------------------------------------------------------
+Maxim Lyutikov: Department of Physics and Astronomy: Purdue University (https://physics.purdue.edu/people/faculty/lyutikov.php)
+citeturn122search4 [wordlim: 200] Crawled: last week; Research Interests  * high energy astrophysics ...   * 2011 to present Associate Professor of Physics, Purdue University.
+
+# Maxim Lyutikov
+
+NOTE: E-mail addresses end with @purdue.edu
+
+Image: Maxim Lyutikov
+
+Professor of Physics and Astronomy
+
+Group:
+
+Faculty
+
+Office:
+
+PHYS 313
+
+Phone:
+
+(765) 494-3048
+
+E-mail:
+
+lyutikov
+
+Website:
+
+[Homepage]
+
+Personal Homepage
+
+M.S., Theoretical Physics, Moscow Engineering Physics Institute, 1992
+Ph.D., Theoretical Astrophysics, California Institute of Technology, 1998
+
+Research Interests
+
+  * high energy astrophysics
+  * compact objects
+  * extragalactic astrophysics
+  * cosmic rays
+  * plasma astrophysics
+Awards and Honors
+
+  * CITA National Fellowship, McGill University
+  * Allan T. Moffett Fellowship, Caltech
+  * Van Maanen Fellowship, Caltech
+  * Honored Master's degree, Moscow Engineering Physics Institute
+Professional Experience
+
+  * 2011 to present Associate Professor of Physics, Purdue University.
+  * 2006-2010 Assistant Professor of Physics, Purdue University.
+  * 2004-2006 Research Associate, University of British Columbia.
+--------------------------------------------------------------------------------
+Wei Xie: Department of Physics and Astronomy: Purdue University (https://www.physics.purdue.edu/people/faculty/wxie.php)
+citeturn122search5 [wordlim: 200] Crawled: last week; NOTE: E-mail addresses end with @purdue.edu ... Research Interests ...     * now a scientist at USTC in China on high energy physics
+
+# Wei Xie
+
+NOTE: E-mail addresses end with @purdue.edu
+
+Image: Wei Xie
+
+Professor of Physics and Astronomy
+
+Group:
+
+Faculty
+
+Office:
+
+PHYS 254
+
+Phone:
+
+(765) 494-8743
+
+E-mail:
+
+wxie
+
+Website:
+
+[Homepage]
+
+Research Group Homepage
+
+Ph.D., High Energy Physics 1997, Institute of High Energy Physics, Academia Sinica, Beijing, P.R. China
+
+M.S., High Energy Physics 1994, Shangdong University, Jinan, Shandong, P.R. China
+
+B.S., Physics 1991, Shangdong University, Jinan, Shandong, P.R. China
+
+Research Interests
+
+  * Study Quark-Gluon Plasma (QGP) expected to exist a few micro-seconds after the "Big Bang". The experiments are being done at the Relativistic Heavy-ion Collider (RHIC) at Brookhaven National Lab in Long Island, NY and at the Large Hadron Collider (LHC) at CERN in much higher collision energies. Currently, my group is studying the interactions between charm, beauty quarks and the QGPs created in the STAR experiment at RHIC and in the CMS experiment at LHC. We are also a member of the RHIC sPHENIX experiment.
+  * Pattern recoganization through Spiking neural networks (SNNs). SNNs are inspired by the human brain and use electrical signals, or spikes, to process information. Unlike traditional artificial neural networks, SNNs are more energy-efficient and use a learning method called Spike-Timing-Dependent Plasticity (STDP) to strengthen or weaken connections between neurons based on the timing of spikes. My current focus in this area is on supervised learning with STDP applied to images. 
+
+Graduate Students
+
+  * Xin Li (Ph.D. May 2013)
+    * now a scientist at USTC in China on high energy physics
+  * Mustafa Mustafa (Ph.D. August 2013)
+    * now a Senior Software Engineer - Deep Learning at Waymo Research
+  * Kurt Jung (Ph.D, May 2016)
+    * now Principal Data Scientist - Supply Chain at Lowes's Companies, inc.  
+  * Jian Sun (Ph.D, May 2018)
+    * now a senior software engineer at AWS.
+  * Cheng-Chieh Peng (Ph.D, May 2020)
+    * now a Software Engineer at Google
+  * Rui Xiao (Ph.D, Dec 2021) 
+    * now an Engineer in Boeing in China
+  * Soumik Chandra
+  * Joseph Bertaux
+  * Abigail Wesolek
+
+--------------------------------------------------------------------------------
+Danny Milisavljevic: Department of Physics and Astronomy: Purdue University (https://physics.purdue.edu/people/faculty/dmilisav.php)
+citeturn122search6 [wordlim: 200] Crawled: last week;   * Associate Professor, Department of Physics and Astronomy, Purdue University, 2023-- ...   * Postdoctoral Fellow, High Energy Astrophysics, Smithsonian Astrophysical Observatory, 2014-2017 ... Research Interests
+
+Research Interests
+
+  * Multi-wavelength and multi-messenger investigations of astrophysical transients discovered via time domain surveys
+  * explosion mechanisms, progenitor stars, compact object remnants, and environmental impacts of supernovae
+  * massive star mass loss
+  * stellar feedback and enrichment
+  * minor planets and irregular moons of the solar system
+  * formation and destruction of dust and molecules, and their relation to the origin of organic matter in the universe
+
+Note for prospective students: I'm seeking motivated and enthusiastic students to join my team of supernova sleuths actively investigating the catastrophic deaths of massive stars. Our comprehensive multi-wavelength, multi-phase approach of reverse engineering supernovae is unraveling the complicated final stages of stellar evolution, and providing exciting new ways to understand how stars explode; the exotic objects they create (neutron stars, black holes) that later become sources of grativational waves; and how they evolve into remnants that seed interstellar space with the raw materials needed for stars, planets -- and potentially life. Students will gain hands-on experience and acquire an interdisciplinary, widely applicable skill set exploring data obtained by premier space-borne and ground-based facilities (including the James Webb Space Telescope, Hubble Space Telescope, Chandra X-ray Observatory, the Very Large Array, the Gemini 8.1m telescopes, and the 6.5m Magellan and MMT telescopes). Research directions that are more theoretical and/or computational (including visualization) are also possible. Please feel free to contact me: let's brainstorm and tailor a project that leverages your unique interests and strengths.
+
+--------------------------------------------------------------------------------
+Matthew L. Lister: Department of Physics and Astronomy: Purdue University (https://physics.purdue.edu/people/faculty/mlister.php)
+citeturn122search7 [wordlim: 200] Crawled: 6 days ago; NOTE: E-mail addresses end with @purdue.edu ... Research Interests ...   * Professor of Physics, Purdue University, 2013-2022 ...   * referee for Monthly Notices of the Royal Astronomical Society, Science, the Astrophysical Journal, Astronomical Journal, Astronomy and Astrophysics.
+
+# Matthew L. Lister
+
+NOTE: E-mail addresses end with @purdue.edu
+
+Ph.D., Astronomy 1999, Boston University
+M.S., Physics and Astronomy 1993, University of Victoria
+B.S., Physics and Astronomy 1991, University of Toronto
+
+ 
+
+Research Interests
+
+Active galactic nuclei, astrophysical jets and shocks, quasars and BL Lacertae objects, narrow-line Seyfert I galaxies, very long baseline interferometry.
+
+» Research Page
+
+» The MOJAVE Program
+
+» Useful articles in AGN jet research
+
+Professional Experience
+
+  * Adjunct Professor, 2022-present
+  * Professor of Physics, Purdue University, 2013-2022
+  * Associate Professor of Physics, Purdue University, 2009-2013.
+  * Assistant Professor of Physics, Purdue University, 2003-2009.
+  * Karl Jansky Fellow, National Radio Astronomy Observatory, 2001-2003.
+  * Faculty Lecturer, University of Virginia, 2001-2003.
+  * Caltech Postdoctoral Fellow, Jet Propulsion Laboratory, 1998-2001.
+Professional and Scholarly Activities
+
+  * member, American Astronomical Society, American Physical Society, International Astronomical Union
+  * referee for Monthly Notices of the Royal Astronomical Society, Science, the Astrophysical Journal, Astronomical Journal, Astronomy and Astrophysics.
+
+ 
+
+» Publication List
+
+» Resume--------------------------------------------------------------------------------
+Shengwang Du: Department of Physics and Astronomy: Purdue University (https://www.physics.purdue.edu/people/faculty/du350.php)
+citeturn122search8 [wordlim: 200] Crawled: 6 days ago; NOTE: E-mail addresses end with @purdue.edu ... ## Research InterestsAtomic, Molecular, and Optical (AMO) Physics, Quantum Optics, Quantum Networks, Quantum Computing, Optical Neural Networks and Artificial Intelligence, Optical Microscopy, and Bioimaging.
+
+# Shengwang Du
+
+NOTE: E-mail addresses end with @purdue.edu
+
+Image: Shengwang Du
+
+Professor of Physics and Astronomy
+
+Scifres Family Professor of Electrical and Computer Engineering
+
+Group:
+
+Faculty
+
+Office:
+
+MSEE 262
+
+Phone:
+
+765-494-3483
+
+E-mail:
+
+dusw
+
+Website:
+
+[Homepage]
+
+Google Scholar link
+
+CV link
+
+## Education
+
+University of Colorado Boulder, PhD, Physics, 2005
+
+University of Colorado Boulder, MS, Electrical Engineering, 2002
+
+Peking University, MS, Physics, 1999
+
+Nanjing University, BS, Electrical Engineering, 1996
+
+## Research Interests
+
+Atomic, Molecular, and Optical (AMO) Physics, Quantum Optics, Quantum Networks, Quantum Computing, Optical Neural Networks and Artificial Intelligence, Optical Microscopy, and Bioimaging.
+
+## Awards/Honors
+
+Fellow, The American Physical Society (APS, since 2019).
+
+Fellow, Optica (formerly The Optical Society - OSA, since 2019).
+
+Selection of publications
+
+Last Updated: Jan 10, 2025 3:05 PM--------------------------------------------------------------------------------
+Kyoung-Soo Lee: Department of Physics and Astronomy: Purdue University (https://physics.purdue.edu/people/faculty/soolee.php)
+citeturn122search9 [wordlim: 200] Crawled: 4 days ago; NOTE: E-mail addresses end with @purdue.edu ...   * Research Scientist, Department of Physics and Astronomy, Purdue University, 2012-2013  * Jaylee and Gilbert Mead Postdoctoral Fellow, Yale Center for Astronomy and Astrophysics, Yale University, 2007-2011Research Interests
+
+# Kyoung-Soo Lee
+
+NOTE: E-mail addresses end with @purdue.edu
+
+Image: Kyoung-Soo Lee
+
+Professor of Physics and Astronomy
+
+Group:
+
+Faculty
+
+Office:
+
+PHYS 251
+
+Phone:
+
+(765) 494-3047
+
+E-mail:
+
+soolee
+
+Website:
+
+[Homepage]
+
+B.S., Physics, Pohang University of Science and Technology, South Korea, 1999
+
+M.S. Physics, Johns Hopkins University, 2003
+Ph.D. Physics, Johns Hopkins University, 2007
+
+Professional Experience 
+
+  * Assistant Professor, Department of Physics and Astronomy, Purdue University, 2014-
+  * Research Scientist, Department of Physics and Astronomy, Purdue University, 2012-2013
+  * Jaylee and Gilbert Mead Postdoctoral Fellow, Yale Center for Astronomy and Astrophysics, Yale University, 2007-2011 
+
+Research Interests 
+
+  * Observational Cosmology
+  * Galaxy Formation and Evolution
+  * Star formation and chemical enrichment histories of distant galaxies
+  * Cosmic structure formation of dark matter
+  * Search for progenitors of galaxy clusters in the young universe 
+
+Recent Publications (2009 - )
+
+  * "Serendipitous Discovery of One of the Largest Structures at z=3.78", Lee, K.-S., Dey, A., Hong, S., Reddy, N, et al. 2014, submitted to Astrophysical Journal
+  * "Probing High-Redshift Galaxy Formation at the Highest Luminosities", Lee, K.-S., Dey, A., Cooper, M.C., et al. 2013, Astrophysical Journal, 771, 25
+  * "Herschel Detection of Dust Emission from Star-Forming Galaxies at 3.3
+  * "How Do Star-Forming Galaxies at z>3 Assemble Their Masses?", Lee, K.-S., Ferguson, H.C., Wiklind, T., et al. 2012, Astrophysical Journal, 752, 66
+  * "The Average Physical Properties and Star Formation Histories of the UV-Brightest Star-forming Galaxies at z~3.7", Lee, K.-S., Dey, A., Reddy, N. et al. 2011, Astrophysical Journal, 733, 99
+  * "Mapping the Dark Matter from UV Light at High Redshift", Lee, K.-S., Giavalisco, M., Conroy, C., et al. 2009, Astrophysical Journal, 695, 368
+
+Last Updated: May 17, 2016 4:45 PM--------------------------------------------------------------------------------
+Oana Malis: Department of Physics and Astronomy: Purdue University (https://www.physics.purdue.edu/people/faculty/malis.php)
+citeturn122search10 [wordlim: 200] Crawled: today; NOTE: E-mail addresses end with @purdue.edu ...   * condensed matter physics (experimental) ... Research Interests:
+
+# Oana Malis
+
+NOTE: E-mail addresses end with @purdue.edu
+
+Image: Oana Malis
+
+Associate Department Head
+
+Professor of Physics and Astronomy
+
+Group:
+
+Faculty
+
+Office:
+
+PHYS 170
+PHYS G42 (Lab)
+
+Phone:
+
+(765) 494-3039
+(765) 494-6857
+
+E-mail:
+
+omalis
+
+Website:
+
+[Homepage]
+
+Research Group Website
+
+Ph.D. in Physics, Boston University, 1999
+M.S. in Physics, University of Bucharest, Bucharest, Romania, 1993
+
+Research Areas:
+
+  * condensed matter physics (experimental)
+  * optical physics (experimental)
+  * nanoscience and nanotechnology
+Research Interests:
+
+Our group is studying the structural and optical properties of nanostructured materials. In particular we are creatively exploring the properties of complex semiconductor nanostructures for infrared light emission and detection. Our work involves material design, synthesis and characterization, as well as device processing and testing.
+
+Last Updated: Jul 23, 2021 8:50 AM--------------------------------------------------------------------------------
+Rafael Lang: Department of Physics and Astronomy: Purdue University (https://www.physics.purdue.edu/people/faculty/lang.php)
+citeturn122search11 [wordlim: 200] Crawled: today; NOTE: E-mail addresses end with @purdue.edu ...   * Diplom: Search for Point-Sources of High-Energy Neutrinos with the AMANDA Detector, DESY Zeuthen and Universität Ulm, 2005Research Interests
+
+# Rafael F. Lang
+
+NOTE: E-mail addresses end with @purdue.edu
+
+  * Adjunct Professor at Purdue University since 2025
+  * Full Professor at Purdue University since 2021
+  * Associate Professor at Purdue University since 2017
+  * Assistant Professor at Purdue University, 2011-2017
+  * Postdoctoral research at Columbia University, New York, working on the XENON100 experiment, 2009-2011
+  * Dissertation: Search for Dark Matter with the CRESST Experiment, Max-Planck-Institut für Physik and Technische Universität München, 2008
+  * Diplom: Search for Point-Sources of High-Energy Neutrinos with the AMANDA Detector, DESY Zeuthen and Universität Ulm, 2005
+
+Research Interests
+
+What is the Universe made of? All we know today is that we don't know what most of the matter in the Universe really is. We have a name for it and call it Dark Matter, but we don't know its true Nature. Is Dark Matter made of a new particle species? And if so, what are its properties? How is it distributed? Can Dark Matter interact with us?
+
+--------------------------------------------------------------------------------
+2014 
+Charting a New Path in Atomic, Molecular, 
+a (https://www.physics.purdue.edu/docs/interactions/PhysicsInteractions_2014.pdf)
+citeturn122search12 [wordlim: 200] Published: 10 months ago; include quantum simulations using atomic quantum gases and atom-light ... optical physicist whose research interests include laser cooling of solids ... Purdue will host an APS Conference for Undergraduate Women in Physics
+PJn,sics
+INTERACTIONS 
+New f acult_y 
+Chen-Lung Hung, Assistant Professor, specializes in experimental 
+atomic, molecular, and optical physics. His specific research interests 
+include quantum simulations using atomic quantum gases and atom-light 
+interactions in nanophotonic circuits and sub-wavelength optical trapping. 
+Prof. Hung holds a B.S. from National Taiwan University and an M.S. and 
+Ph.D. from the University of Chicago. He comes to Purdue from the 
+California Institute ofTechnology where he was an Institute for Quantum 
+Information and Material postdoctoral scholar in quantum optics. 
+Tongcang Li, Assistant Professor, is an experiment atomic, molecular, and 
+optical physicist whose research interests include laser cooling of solids 
+and atoms, using ultracold matter to test fundamental laws ofphysics, and 
+creating ultrasensitive detectors and novel microscopes. Prof. Li holds a 
+B.S. from the University of Science and Technology ofChina and a Ph.D. 
+from the University ofTexas. He also has a joint appointment with the 
+School of Electrical and Computer Engineering. 
+Andrew Mugler, Assistant Professor, is a theoretical biological physicist 
+interested in how the cellular environment shapes cellular sensing. In 
+particular, he investigates how the physical properties of cell sensory 
+networks - their structure, their spatiotemporal dynamics, their energies ­
+are connected to the features of the environment they send. Prof. Mugler 
+comes to Purdue from Emory University where he was a postdoctoral 
+fellow. After earning a B.S. at Harvey Mudd College, he received an 
+M.A, M.Phil, and Ph.D from Columbia University. 
+Did You 
+Purdue will host an APS Conference for Undergraduate Women in Physics 
+on January 16-18, 2015. 
+Know? 
+Physics Interactions 
+4--------------------------------------------------------------------------------
+Physics
+INTERACTIONS
+A NEWSLETTER HIGHLIGHTING THE (https://www.physics.purdue.edu/docs/interactions/PhysicsInteractions_2013.pdf)
+citeturn122search13 [wordlim: 200] Published: 6 months ago; She joins Purdue ... Her areas of interest ... Institute of Science and Technology and an MS and PhD from Johns Hopkins University.Francis Robicheaux, Professor of Physics, specializes in theoretical atomic, molecular, ... His specific research interests include time dependent atomic ... holds a BA, MS and PhD in physics from the University of Chicago.Retired FacultyProf.
+Physics
+INTERACTIONS
+
+New FacultyNastasha Johnson, Assistant Professor of Library Science and Physical and
+Mathematical Information Specialist, is the Physics Library Liaison. She joins Purdue
+Libraries from North Carolina A&T State University. She holds a MLS from North
+Carolina Central University with an emphasis in academic libraries. Her areas of interest
+include undergraduate research, research literacy, and information seeking behaviors.Kyoungsoo Lee, Assistant Professor of Physics, is an astrophysicist whose research
+interests include formation and evolution of galaxies in the young universe, the
+astrophysical processes governing star formation within galaxies, and the statistical
+association of galaxies and dark matter structures. Prof. Lee holds a BA from Pohang
+Institute of Science and Technology and an MS and PhD from Johns Hopkins University.Francis Robicheaux, Professor of Physics, specializes in theoretical atomic, molecular,
+and optical physics. His specific research interests include time dependent atomic
+--------------------------------------------------------------------------------
+REVIEW
+www.small-science-journal.com
+Van der Waals (https://www.physics.purdue.edu/quantum/files/Small%20Science%20-%202024%20-%20Xu%20-%20Van%20der%20Waals%20Heterostructures%20for%20Photoelectric%20%20Memory%20%20and%20Neural%20Network%20Applications.pdf)
+citeturn122search14 [wordlim: 200] Published: 1.7 years ago; computer Engineering, Director of Purdue Quantum Science and Engineering Institute at Purdue ... His research interests include nano/solid-state physics (graphene & 2D materials, topological insulators) and atomic/molecular physics
+--------------------------------------------------------------------------------
+s 
+A NEWSLETTER HIGHLIGHTING THE DEPARTMENT OF PHY (https://www.physics.purdue.edu/docs/interactions/PhysicsInteractions_2017.pdf)
+citeturn122search15 [wordlim: 200] Published: 10 months ago; comes to us from the High Energy Astrophysics division of the ... Dan's research interests are in the ... to society, to science, and to the Department of Physics and Astronomy.
+--------------------------------------------------------------------------------
+1/4/17, 9:39 AM (https://www.physics.purdue.edu/giannios/docs/AAS-Job_Register.pdf)
+citeturn122search16 [wordlim: 200] Published: 10 months ago; My Account Profile Change Password Logout Postdoctoral position in High-Energy Astrophysics - JRID58819 Search Job Register Submitted by Dimitrios Giannios on Wed, 2017-01-04 09:08 Search this site: Submission Dates Search Post Date: February 1, 2017 Months To Run: 1 Archive Date: February 28, 2017 Other JR Pages Career Center Job Details How To Submit Job Ad Job Category: Post-doctoral Positions and Fellowships Job Register Editorial Institution/Company Name: Physics and Astronomy Department, Purdue University Publication Policy Institution Classification/Type: Large Academic Tips for Successful Recruitment Submission Address for Resumes/CVs Attention To: Dimitrios Giannios Contact Information For Inquiries About Job Email Address for Inquiries: dgiannio@purdue.edu Announcement Job Announcement Text: The Department of Physics and Astronomy at Purdue University invites applications for a postdoctoral position in the area of theoretical high-energy astrophysics. ... Qualified applicants should send their resume, publication list and a statement of research interests (up to three pages), and arrange for three letters of recommendation to be sent to: Asst.
+--------------------------------------------------------------------------------
+PURDUE 
+UNIVERSITY 
+A NEWSLETTER HIGHLIGHTING THE (https://www.physics.purdue.edu/docs/interactions/PhysicsInteractions_2008.pdf)
+citeturn122search17 [wordlim: 200] Published: 2.0 years ago; condensed matter physics. ... has research interests in the area of ... comes to Purdue from SUNY-Binghamton and holds a M.Sc.
+

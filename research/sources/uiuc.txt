@@ -1,0 +1,551 @@
+Faculty | Physics | Illinois (https://physics.illinois.edu/people/directory/faculty)
+citeturn69view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://physics.illinois.edu/people/directory/faculty","lineno":null}); Total lines: 2808
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†University of Illinois Urbana-Champaign†illinois.edu L3: 
+L4: cite2†The Grainger College of Engineering†grainger.illinois.edu L5: 
+L6: cite3†Physics L7: 
+L8: [Input: Search]
+L9: 
+L10: cite4†Search L11: 
+L12:   * cite5†Admissions L13: 
+L14: ## Ready to apply? Your path to Physics begins here.
+L15: 
+L16: cite6†Undergraduates†admissions.illinois.edu L17: 
+L18: cite7†      Graduates       L19: ## cite5†Admissions L20: 
+L21:     * cite8†Undergraduates L22:       * cite9†Admitted Undergraduates L23:       * cite10†Admitted Students Day 2026 L24:       * cite11†Your Future in Physics L25:       * cite12†Degree Programs L26:       * cite13†Financial Aid L27:       * cite14†Undergraduate Research L28: 
+L29:     * cite15†Graduates L30:       * cite7†Apply L31:       * cite16†Admissions Requirements L32:       * cite17†Admissions Decisions L33:       * cite18†Financial Aid L34:     * cite19†Why Physics Illinois L35:       * cite20†History of Excellence L36:       * cite21†Excellent Teachers L37:       * cite22†Nobel Laureates L38: 
+L39:   * cite23†Academics L40: ## Ready to apply? Your path to Physics begins here.
+L41: 
+L42: cite6†Start Here†admissions.illinois.edu L43: ## cite23†Academics L44:     * cite24†Ph. D. Program L45:       * cite25†Degree Requirements L46:       * cite26†Graduate Student Blog L47:       * cite27†Qualifying Examination L48:       * cite28†Preliminary Examination L49:       * cite29†Thesis Defense and Deposit L50:       * cite30†Thesis Templates L51:       * cite31†Graduate Student Orgs L52:       * cite32†Travel Fund Application L53:     * cite33†M.Eng. Master of Engineering in Instrumentation and Applied Physics L54:       * cite34†Application Process L55:       * cite35†Curriculum L56:       * cite36†Student Handbook†ws.engr.illinois.edu L57:     * cite37†Undergraduate Programs L58:       * cite38†B. S. in Physics L59:       * cite39†B. S. in CS + Physics L60:       * cite40†B. S. in Physics With an Education Minor L61:       * cite41†Minor in Physics L62:       * cite42†Secondary Education, Pre-Med, and Pre-Law Program Tracks L63:       * cite43†Learning Assistant Program L64:       * cite44†Transferring into Physics L65:       * cite45†Undergraduate Student Blog L66:       * cite46†Advising L67:     * cite47†Student Life L68:       * cite48†Student Success Stories L69:       * cite49†Undergraduate Student Orgs L70:       * cite50†Convocation L71:       * cite51†Tutoring L72:       * cite52†Mental Health Resources L73:     * cite53†Courses L74:       * cite54†Advanced Physics Labs L75:       * cite55†Proficiency Exams L76: 
+L77:   * cite56†Research L78: ## cite56†Research L79: 
+L80:     * cite57†Research Facilities L81:       * cite58†Interaction Room L82:       * cite59†Liquid Helium Facility L83:       * cite60†Machine Shop L84:     * cite61†Research Groups & Centers L85:       * cite62†Astrophysics, Relativity, and Cosmology L86:       * cite63†Atomic, Molecular, and Optical (AMO) Physics L87:       * cite64†Biological Physics L88:       * cite65†Condensed Matter Physics L89:       * cite66†High Energy Physics L90:       * cite67†Nuclear Physics L91:       * cite68†Physics Education Research L92:       * cite69†Quantum Information Science L93:       * cite70†Center for the Physics of Living Cells (CPLC)†cplc.illinois.edu L94:       * cite71†Illinois Center for Advanced Studies of the Universe (ICASU)†icasu.illinois.edu L95:       * cite72†Illinois Quantum Information Science and Technology Center (IQUIST)†iquist.illinois.edu L96:       * cite73†Institute for Condensed Matter Theory (ICMT)†icmt.illinois.edu L97:       * cite74†Illinois Materials Research Science and Engineering Center (I-MRSEC)†mrsec.illinois.edu L98:     * cite75†Undergraduate Research Readiness Portal†my.physics.illinois.edu L99:     * cite76†Research Experience for Undergraduates L100:       * cite77†Projects L101:       * cite78†Schedule L102:       * cite79†Cohorts L103:     * cite80†Research Highlights L104:     * cite81†Superconductivity Milestones L105: 
+L106:   * cite82†People L107: ## cite82†People L108: 
+L109:     * cite83†Directory L110:       * cite84†Faculty L111:       * cite85†Staff L112:       * cite86†Postdocs L113:       * cite87†Offices L114:     * cite88†Diversity, Equity, and Inclusion L115:     * cite89†History of Excellence L116:     * cite81†Superconductivity Milestones L117: 
+L118:     * cite90†The Loomis Confessions L119:     * cite91†Excellent Teachers L120:       * cite92†Ranked as Excellent L121:       * cite93†Nordsieck Award L122:       * cite94†Davis Award L123:     * cite95†Physics Advisory Board L124:     * cite96†Nobel Laureates L125:     * cite97†Job Openings L126:     * cite98†Honors and Awards L127:       * cite99†Undergraduate Awards L128:       * cite100†Graduate Awards L129:       * cite101†Bardeen Prize L130:       * cite102†Excellence in Outreach, Service, and Diversity Award L131:       * cite103†McMillan Award L132:       * cite104†Celia Mathews Elliott Prize for Writing in Science and Engineering L133:       * cite105†Research Highlight Science Writing Contest L134:       * cite106†Research Highlight Writers’ Resources L135:       * cite107†Gary Kelly Staff Excellence Award L136: 
+L137:     * cite108†In Memoriam L138: 
+L139:   * cite109†Outreach L140: ## Explore the many ways we engage with our communities.
+L141: 
+L142: cite109†Learn More L143: ## cite109†Outreach L144: 
+L145:     * cite110†Colonial Solar House†colonial-solar-house.physics.illinois.edu L146:     * cite111†Fans of Illinois Physics L147:     * cite112†IPaSS Partnership Program†ipass.physics.illinois.edu L148:     * cite113†LabEscape†labescape.org L149:     * cite114†Physics of Baseball†baseball.physics.illinois.edu L150:     * cite115†Physics Van†van.physics.illinois.edu L151:     * cite116†POINT VR†icasu.illinois.edu L152:     * cite117†Public Quantum Network†iquist.illinois.edu L153:     * cite118†Saturday Physics for Everyone L154:       * cite119†SPE History: A Glance Back Through the Years (1993-2022) L155:       * cite120†SPE 30th Anniversary (2023) L156:     * cite121†Resident Artist in Physics Program L157:     * cite122†Science at the Market L158:     * cite123†Young Scholars Program L159: 
+L160:   * cite124†Alumni L161: ## We invite you to stay connected with us - our faculty, staff and students - and with your fellow alumni.
+L162: 
+L163: cite125†Keep in Touch†forms.illinois.edu L164: 
+L165: ## cite124†Alumni L166: 
+L167:     * cite126†Alumni Association†uiaa.org L168:     * cite125†Keep in Touch†forms.illinois.edu L169:     * cite127†Illinois Physics Condensate Online†condensate.physics.illinois.edu L170:     * cite128†Newsletters L171:     * cite129†Order Transcripts†registrar.illinois.edu L172: 
+L173:   * cite130†Make a gift L174: ## Help ensure that Illinois continues to set a global standard for Physics research and education.
+L175: 
+L176: cite130†Make a Gift L177: 
+L178: ## cite130†Make a gift L179: 
+L180:     * cite131†Endowments L181:     * cite132†Giving Stories L182:     * cite133†Named Funds L183:     * cite134†Ways to Give L184: 
+L185:   * cite135†Calendar L186: 
+L187: ## Check out our upcoming events!
+L188: 
+L189: cite136†Calendar of Events L190: ## cite135†Calendar L191: 
+L192:     * cite136†All Events L193:     * cite137†Colloquium L194:       * cite138†Inaugural Hans Frauenfelder Lecture L195:     * cite139†Careers Seminar L196:     * cite140†Research Seminars L197:     * cite141†Academic Dates L198: 
+L199:   1. cite3†Home L200:   2. cite82†People L201:   3. cite83†Directory L202:   4. Faculty
+L203: 
+L204: # Faculty
+L205: 
+L206: [Input: Search all]
+L207: 
+L208: [Select]
+L209: 
+L210: ## Department Faculty
+L211: ### Faculty
+L212: 
+L213: cite142†Peter Abbamonte L214: 
+L215: Fox Family Professor in Engineering
+L216: 
+L217:   * cite65†Condensed Matter Physics (experimental) L218:   * cite69†Quantum Information Science L219: 
+L220: abbamont@illinois.edu
+L221: 
+L222: cite143†Peter Adshead L223: 
+L224: Associate Professor
+L225: 
+L226: Compton Faculty Fellow
+L227: 
+L228:   * cite62†Astrophysics / Relativity / Cosmology L229:   * cite66†High Energy Physics (theoretical) L230: 
+L231: adshead@illinois.edu
+L232: 
+L233: cite144†Aleksei Aksimentiev L234: 
+L235: Professor
+L236: 
+L237: John Bardeen Faculty Scholar in Electrical Engineering and Physics, sponsored by the Sony Corporation
+L238:   * cite64†Biological Physics (theoretical) L239: 
+L240: aksiment@illinois.edu
+L241: 
+L242: cite145†Katie Ansell L243: 
+L244: she/her/hers
+L245: 
+L246: Teaching Assistant Professor
+L247: 
+L248:   * cite68†Physics Education L249: 
+L250: ansellk@illinois.edu
+L251: 
+L252: cite146†Gordon Baym L253: 
+L254: Research Professor
+L255: 
+L256:   * cite63†Atomic, Molecular, and Optical Physics L257:   * cite65†Condensed Matter Physics (theoretical) L258:   * cite67†Nuclear Physics (theoretical) L259: 
+L260: gbaym@illinois.edu
+L261: 
+L262: cite147†Douglas H Beck L263: 
+L264: Professor and Director of NPL
+L265: 
+L266:   * cite67†Nuclear Physics (experimental) L267:   * cite69†Quantum Information Science L268: dhbeck@illinois.edu
+L269: 
+L270: cite148†Alexey Bezryadin L271: 
+L272: Professor
+L273: 
+L274:   * cite63†Atomic, Molecular, and Optical Physics L275:   * cite65†Condensed Matter Physics (experimental) L276:   * cite69†Quantum Information Science L277: 
+L278: bezryadi@illinois.edu
+L279: 
+L280: cite149†Barry Bradlyn L281: 
+L282: he/him/his
+L283: 
+L284: Associate Professor
+L285: 
+L286:   * cite65†Condensed Matter Physics (theoretical) L287:   * cite69†Quantum Information Science L288:   * Science in Philosophy and Society
+L289: 
+L290: bbradlyn@illinois.edu
+L291: 
+L292: cite150†Irina Burkova L293: 
+L294: Teaching Assistant Professor
+L295:   * cite65†Condensed Matter Physics L296:   * cite68†Physics Education L297: 
+L298: burkova@illinois.edu
+L299: 
+L300: cite151†David Ceperley L301: 
+L302: Research Professor
+L303: 
+L304:   * cite63†Atomic, Molecular, and Optical Physics L305:   * cite65†Condensed Matter Physics (theoretical) L306:   * cite69†Quantum Information Science L307: 
+L308: ceperley@illinois.edu
+L309: 
+L310: cite152†Yann Chemla L311: 
+L312: Professor
+L313: 
+L314:   * cite64†Biological Physics (experimental) L315: 
+L316: ychemla@illinois.edu
+L317: 
+L318: cite153†Lu Chen L319: 
+L320: she/her/hers
+L321: 
+L322: Assistant Professor
+L323: 
+L324:   * cite65†Condensed Matter Physics (experimental) L325: 
+L326: lchen721@illinois.edu
+L327: cite154†Tai-Chang Chiang L328: 
+L329: Research Professor
+L330: 
+L331:   * cite65†Condensed Matter Physics (experimental) L332: 
+L333: tcchiang@illinois.edu
+L334: 
+L335: cite155†Bryan K Clark L336: 
+L337: Professor
+L338: 
+L339:   * cite65†Condensed Matter Physics L340:   * cite69†Quantum Information Science L341: 
+L342: bkclark@illinois.edu
+L343: 
+L344: cite156†Eugene V Colla L345: 
+L346: Teaching Professor
+L347: 
+L348:   * cite65†Condensed Matter Physics (experimental) L349: 
+L350: kolla@illinois.edu
+L351: 
+L352: cite157†S Lance Cooper L353: 
+L354: Professor
+L355: 
+L356:   * cite65†Condensed Matter Physics (experimental) L357: 
+L358: slcooper@illinois.edu
+L359: 
+L360: cite158†Karin A Dahmen L361: 
+L362: Professor
+L363:   * cite65†Condensed Matter Physics (theoretical) L364: 
+L365: dahmen@illinois.edu
+L366: 
+L367: cite159†Brian Leeds DeMarco L368: 
+L369: Professor and IQUIST Director
+L370: 
+L371: John Bardeen Faculty Scholar in Electrical Engineering and Physics, sponsored by the Sony Corporation
+L372: 
+L373:   * cite63†Atomic, Molecular, and Optical Physics L374:   * cite69†Quantum Information Science L375: 
+L376: bdemarco@illinois.edu
+L377: 
+L378: cite160†Sharlene Denos L379: 
+L380: she/her/hers
+L381: 
+L382: Teaching Assistant Professor
+L383: 
+L384:   * cite64†Biological Physics L385:   * cite68†Physics Education L386: 
+L387: denos@illinois.edu
+L388: 
+L389: cite161†Patrick I Draper L390: Associate Professor
+L391: 
+L392:   * cite62†Astrophysics / Relativity / Cosmology L393:   * cite66†High Energy Physics (theoretical) L394:   * cite69†Quantum Information Science L395: 
+L396: pdraper@illinois.edu
+L397: 
+L398: cite162†James Eckstein L399: 
+L400: he/him/his
+L401: 
+L402: Professor
+L403: 
+L404:   * cite65†Condensed Matter Physics (experimental) L405:   * cite69†Quantum Information Science L406: 
+L407: eckstein@illinois.edu
+L408: 
+L409: cite163†Aida X El-Khadra L410: 
+L411: Professor
+L412: 
+L413: John Bardeen Faculty Scholar in Electrical Engineering and Physics, sponsored by the Sony Corporation
+L414:   * cite66†High Energy Physics (theoretical) L415:   * cite69†Quantum Information Science L416: 
+L417: axk@illinois.edu
+L418: 
+L419: cite164†Christian Farina L420: 
+L421: he/him/his
+L422: 
+L423: Teaching Assistant Professor
+L424: 
+L425:   * cite66†High Energy Physics (theoretical) L426:   * cite68†Physics Education L427: 
+L428: cfarina@illinois.edu
+L429: 
+L430: cite165†Thomas Faulkner L431: 
+L432: Associate Professor
+L433: 
+L434:   * cite65†Condensed Matter Physics (theoretical) L435:   * cite66†High Energy Physics (theoretical) L436:   * cite69†Quantum Information Science L437: 
+L438: tomf@illinois.edu
+L439: 
+L440: cite166†Rafael Fernandes L441: 
+L442: he/him/his
+L443: Anthony J. Leggett Professor in Physics
+L444: 
+L445:   * cite65†Condensed Matter Physics L446:   * cite65†Condensed Matter Physics (theoretical) L447: 
+L448: rafaelf@illinois.edu
+L449: 
+L450: cite167†Jeffrey P Filippini L451: 
+L452: he/him/his
+L453: 
+L454: Associate Professor
+L455: 
+L456:   * cite62†Astrophysics / Relativity / Cosmology L457:   * cite66†High Energy Physics (experimental) L458: 
+L459: jpf@illinois.edu
+L460: 
+L461: cite168†Eduardo H Fradkin L462: 
+L463: Donald Biggar Willett Professor in Engineering and Director of ICMT
+L464: 
+L465:   * cite65†Condensed Matter Physics (theoretical) L466:   * cite69†Quantum Information Science L467: efradkin@illinois.edu
+L468: 
+L469: cite169†Charles Gammie L470: 
+L471: he/him/his
+L472: 
+L473: Professor
+L474: 
+L475: Stanley O. Ikenberry Endowed Chair
+L476: 
+L477:   * cite62†Astrophysics / Relativity / Cosmology L478: 
+L479: gammie@illinois.edu
+L480: 
+L481: cite170†Russ Giannetta L482: 
+L483: Professor
+L484: 
+L485:   * cite65†Condensed Matter Physics (experimental) L486: 
+L487: russg@illinois.edu
+L488: 
+L489: cite171†Ido Golding L490: 
+L491: Professor
+L492: 
+L493:   * cite64†Biological Physics (experimental) L494: 
+L495: igolding@illinois.edu
+L496: 
+L497: cite172†Elizabeth Goldschmidt L498: 
+L499: she/her/hers
+L500: 
+L501: Associate Professor
+L502:   * cite63†Atomic, Molecular, and Optical Physics L503:   * cite69†Quantum Information Science L504: 
+L505: goldschm@illinois.edu
+L506: 
+L507: cite173†George Gollin L508: 
+L509: he/him/his
+L510: 
+L511: Research Professor
+L512: 
+L513:   * cite66†High Energy Physics L514:   * cite68†Physics Education L515: 
+L516: g-gollin@illinois.edu
+L517: 
+L518: cite174†Matthias Grosse Perdekamp L519: 
+L520: Professor
+L521: 
+L522:   * cite67†Nuclear Physics (experimental) L523:   * Science in Philosophy and Society
+L524: 
+L525: mgp@illinois.edu
+L526: 
+L527: cite175†Gilbert Holder L528: 
+L529: Brand & Monica Fortner Endowed Chair in Theoretical Astrophysics
+L530:   * cite62†Astrophysics / Relativity / Cosmology L531: 
+L532: gholder@illinois.edu
+L533: 
+L534: cite176†Benjamin Hooberman L535: 
+L536: Associate Professor
+L537: 
+L538:   * cite66†High Energy Physics (experimental) L539: 
+L540: benhoob@illinois.edu
+L541: 
+L542: cite177†Taylor L Hughes L543: 
+L544: Professor
+L545: 
+L546: Donald Biggar Willett Faculty Scholar
+L547: 
+L548:   * cite65†Condensed Matter Physics (theoretical) L549:   * cite69†Quantum Information Science L550: 
+L551: hughest@illinois.edu
+L552: 
+L553: cite178†Sangjin Kim L554: 
+L555: Assistant Professor
+L556: 
+L557:   * cite64†Biological Physics L558: 
+L559: sangjin@illinois.edu
+L560: 
+L561: cite179†Angela Kou L562: 
+L563: Associate Professor
+L564:   * cite65†Condensed Matter Physics (experimental) L565:   * cite69†Quantum Information Science L566: 
+L567: akou@illinois.edu
+L568: 
+L569: cite180†Eric Kuo L570: 
+L571: he/him/his
+L572: 
+L573: Associate Professor
+L574: 
+L575: Gary Gladding & Victoria Christensen Faculty Fellow
+L576: 
+L577:   * cite68†Physics Education L578: 
+L579: ekuo@illinois.edu
+L580: 
+L581: cite181†Paul G Kwiat L582: 
+L583: John Bardeen Chair in Electrical Engineering and Physics, sponsored by the Sony Corporation
+L584: 
+L585:   * cite63†Atomic, Molecular, and Optical Physics L586:   * cite69†Quantum Information Science L587: 
+L588: kwiat@illinois.edu
+L589: 
+L590: cite182†Frederick K Lamb L591: Research Professor
+L592: 
+L593:   * cite62†Astrophysics / Relativity / Cosmology L594:   * Science in Philosophy and Society
+L595: 
+L596: fkl@illinois.edu
+L597: 
+L598: cite183†Jong Yeon Lee L599: 
+L600: he/him/his
+L601: 
+L602: Assistant Professor
+L603: 
+L604:   * cite65†Condensed Matter Physics (theoretical) L605:   * cite69†Quantum Information Science L606: 
+L607: jongyeon@illinois.edu
+L608: 
+L609: cite184†Chen-Yu Liu L610: 
+L611: Professor
+L612: 
+L613:   * cite67†Nuclear Physics (experimental) L614: 
+L615: chenyliu@illinois.edu
+L616: 
+L617: cite185†Josh Long L618: 
+L619: Professor
+L620: 
+L621:   * cite67†Nuclear Physics (experimental) L622: 
+L623: jcl11@illinois.edu
+L624: 
+L625: cite186†Virginia Lorenz L626: 
+L627: Professor
+L628:   * cite63†Atomic, Molecular, and Optical Physics L629:   * cite65†Condensed Matter Physics (experimental) L630:   * cite69†Quantum Information Science L631: 
+L632: vlorenz@illinois.edu
+L633: 
+L634: cite187†Morten Lundsgaard L635: 
+L636: Teaching Associate Professor
+L637: 
+L638:   * cite68†Physics Education L639: 
+L640: mlundsga@illinois.edu
+L641: 
+L642: cite188†Zan Luthey-Schulten L643: 
+L644: she/her/hers
+L645: 
+L646: Murchison-Mallory Endowed Chair in Chemistry
+L647: 
+L648:   * cite64†Biological Physics L649: 
+L650: zan@illinois.edu
+L651: 
+L652: cite189†Vidya Madhavan L653: 
+L654: Professor
+L655: 
+L656: Donald Biggar Willett Professor in Engineering
+L657:   * cite65†Condensed Matter Physics (experimental) L658:   * cite69†Quantum Information Science L659: 
+L660: vm1@illinois.edu
+L661: 
+L662: cite190†Fahad Mahmood L663: 
+L664: Associate Professor
+L665: 
+L666: W. Dale and Jeanne C. Compton Faculty Fellow
+L667: 
+L668:   * cite65†Condensed Matter Physics (experimental) L669:   * cite69†Quantum Information Science L670: 
+L671: fahad@illinois.edu
+L672: 
+L673: cite191†Naomi C R Makins L674: 
+L675: Research Professor
+L676: 
+L677:   * cite67†Nuclear Physics (experimental) L678: 
+L679: makins@illinois.edu
+L680: 
+L681: cite192†Nancy Makri L682: 
+L683: Edward William and Jane Marr Gutgsell Professor in Chemistry
+L684:   * cite63†Atomic, Molecular, and Optical Physics L685:   * cite65†Condensed Matter Physics L686: 
+L687: nancy@makri.scs.uiuc.edu
+L688: 
+L689: cite193†Telemachos Mouschovias L690: 
+L691: Professor
+L692: 
+L693:   * cite62†Astrophysics / Relativity / Cosmology L694: 
+L695: tchm@illinois.edu
+L696: 
+L697: cite194†Munir H Nayfeh L698: 
+L699: Professor
+L700: 
+L701:   * cite63†Atomic, Molecular, and Optical Physics L702:   * cite65†Condensed Matter Physics (experimental) L703: 
+L704: m-nayfeh@illinois.edu
+L705: 
+L706: cite195†Mark Neubauer L707: 
+L708: Professor
+L709: 
+L710:   * cite66†High Energy Physics (experimental) L711: 
+L712: msn@illinois.edu
+L713: 
+L714: cite196†Jorge Noronha L715: 
+L716: he/him/his
+L717: 
+L718: Professor
+L719: John Bardeen Faculty Scholar in Electrical Engineering and Physics, sponsored by the Sony Corporation
+L720: 
+L721:   * cite62†Astrophysics / Relativity / Cosmology L722:   * cite66†High Energy Physics (theoretical) L723:   * cite67†Nuclear Physics (theoretical) L724: 
+L725: jn0508@illinois.edu
+L726: 
+L727: cite197†Jaki Noronha-Hostler L728: 
+L729: she/her/hers
+L730: 
+L731: Associate Professor
+L732: 
+L733:   * cite62†Astrophysics / Relativity / Cosmology L734:   * cite67†Nuclear Physics (theoretical) L735: 
+L736: jnorhos@illinois.edu
+L737: 
+L738: cite198†Aaron Pearlman L739: 
+L740: he/him/his
+L741: 
+L742: Teaching Assistant Professor
+L743: 
+L744: aaronjp@illinois.edu
+L745: cite199†Jen-Chieh Peng L746: 
+L747: Research Professor
+L748: 
+L749:   * cite66†High Energy Physics (experimental) L750:   * cite66†High Energy Physics (theoretical) L751:   * cite67†Nuclear Physics (experimental) L752:   * cite67†Nuclear Physics (theoretical) L753: 
+L754: jcpeng@illinois.edu
+L755: 
+L756: cite200†Wolfgang Pfaff L757: 
+L758: Associate Professor
+L759: 
+L760:   * cite63†Atomic, Molecular, and Optical Physics L761:   * cite65†Condensed Matter Physics (experimental) L762:   * cite69†Quantum Information Science L763: 
+L764: wpfaff@illinois.edu
+L765: 
+L766: cite201†Philip W Phillips L767: 
+L768: Professor
+L769: 
+L770: Bliss Faculty Scholar
+L771:   * cite65†Condensed Matter Physics (theoretical) L772:   * cite69†Quantum Information Science L773:   * Science in Philosophy and Society
+L774: 
+L775: dimer@illinois.edu
+L776: 
+L777: cite202†Kevin Pitts L778: 
+L779: he/him/his
+L780: 
+L781: Research Professor
+L782: 
+L783:   * cite66†High Energy Physics (experimental) L784: 
+L785: kpitts@illinois.edu
+L786: 
+L787: cite203†Caroline Riedl L788: 
+L789: she/her/hers
+L790: 
+L791: Research Professor
+L792: 
+L793:   * cite67†Nuclear Physics (experimental) L794: 
+L795: criedl@illinois.edu
+L796: 
+L797: cite204†Kelly Lin Searsmith L798: 
+L799: Assistant Director of Sponsored Research Administration
+L800: 
+L801: kellydm@illinois.edu
+L802: 
+L803: cite205†Paul Selvin L804: he/him/his
+L805: 
+L806: Professor
+L807: 
+L808:   * cite64†Biological Physics (experimental) L809: 
+L810: selvin@illinois.edu
+L811: 
+L812: cite206†Stuart L. Shapiro L813: 
+L814: Professor
+L815: 
+L816:   * cite62†Astrophysics / Relativity / Cosmology L817: 
+L818: slshapir@illinois.edu
+L819: 
+L820: cite207†Jessie Shelton L821: 
+L822: she/her/hers
+L823: 
+L824: Professor
+L825: 
+L826: Compton Faculty Fellow
+L827: 
+L828:   * cite62†Astrophysics / Relativity / Cosmology L829:   * cite66†High Energy Physics (theoretical) L830: 
+L831: sheltonj@illinois.edu
+L832: 
+L833: cite208†Anne M Sickles L834: 
+L835: Professor
+L836: 
+L837:   * cite67†Nuclear Physics L838: 
+L839: sickles@illinois.edu
+L840: 
+L841: cite209†Hector Silva L842: 
+L843: he/him/his
+L844: Assistant Professor
+L845: 
+L846:   * cite62†Astrophysics / Relativity / Cosmology L847: 
+L848: hosilva@illinois.edu
+L849: 
+L850: cite210†Jun Song L851: 
+L852: Founder Professor in Physics
+L853: 
+L854:   * cite64†Biological Physics (theoretical) L855:   * Science in Philosophy and Society
+L856: 
+L857: songj@illinois.edu
+L858: 
+L859: cite211†Tim Stelzer L860: 
+L861: Professor
+L862: 
+L863:   * cite68†Physics Education L864: 
+L865: tstelzer@illinois.edu
+L866: 
+L867: cite212†Michael Stone L868: 
+L869: he/him/his
+L870: 
+L871: Professor
+L872: 
+L873:   * cite65†Condensed Matter Physics (theoretical) L874:   * cite69†Quantum Information Science L875: 
+L876: m-stone5@illinois.edu
+L877: 
+L878: cite213†Tanner Trickle L879: Assistant Professor
+L880: 
+L881:   * cite66†High Energy Physics L882: 
+L883: ttrickle@illinois.edu
+L884: 
+L885: cite214†Antonios Tsokaros L886: 
+L887: Assistant Research Professor
+L888: 
+L889:   * cite62†Astrophysics / Relativity / Cosmology L890: 
+L891: tsokaros@illinois.edu
+L892: 
+L893: cite215†Joaquin Vieira L894: 
+L895: Professor
+L896: 
+L897:   * cite62†Astrophysics / Relativity / Cosmology L898:   * cite66†High Energy Physics (experimental) L899: 
+L900: jvieira@illinois.edu
+L901: 
+

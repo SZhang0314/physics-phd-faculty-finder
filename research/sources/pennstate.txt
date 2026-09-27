@@ -1,0 +1,1099 @@
+People | Eberly College of Science (https://science.psu.edu/people?department=16&items_per_page=200&person_type=47&unit=All)
+citeturn109view0 [wordlim: 200] Crawled: 2 days ago; Content type: text/html; Source: open({"ref_id":"turn106search5","lineno":null}); Total lines: 1284
+L91: 315 Whitmore Lab
+L92: 
+L93: Email:
+L94: 
+L95: ebianchi@psu.edu
+L96: 
+L97: Phone:
+L98: 
+L99: (814) 865-3147
+L100: 
+L101: Interests:
+L102: 
+L103: Gravity, Theory
+L104: 
+L105: cite27†Carlos Blanco L106: 
+L107: Assistant Professor of Physics
+L108: 
+L109: 303K Osmond Lab
+L110: 
+L111: Email:
+L112: 
+L113: carlosblanco@psu.edu
+L114: 
+L115: Interests:
+L116: 
+L117: Dark matter detection, High-energy astrophysics , Particle phenomenology
+L118: 
+L119: cite28†Martin Bojowald L120: 
+L121: Professor of Physics
+L122: 
+L146: Phone:
+L147: 
+L148: (814) 867-3707
+L149: 
+L150: Interests:
+L151: 
+L152: Particle physics, Theory
+L153: 
+L154: cite30†W. Niel Brandt L155: 
+L156: Evan Pugh University Professor and Eberly Family Chair Professor of Astronomy and Astrophysics, Professor of Physics
+L157: 
+L158: 514A Davey Laboratory
+L159: 
+L160: Email:
+L161: 
+L162: wnbrandt@gmail.com
+L163: 
+L164: Phone:
+L165: 
+L166: 814-865-3509
+L167: 
+L168: Interests:
+L169: 
+L170: Supermassive Black Holes, Active Galactic Nuclei, Cosmic Surveys
+L171: 
+L172: cite31†Carmen Carmona Benitez L173: 
+L174: Norman and Trygve Freed Early Career Professorship in Physics and Associate Professor of Physics
+L175: 
+L176: 320D Osmond Lab
+L177: 
+L178: Email:
+L179: mzc267@psu.edu
+L180: 
+L181: Phone:
+L182: 
+L183: (814) 865-6476
+L184: 
+L185: Interests:
+L186: 
+L187: Particle astrophysics, Experiment, Dark matter
+L188: 
+L189: cite32†Moses H W Chan L190: 
+L191: Professor Emeritus of Physics Evan Pugh University Professor Emeritus Atherton Professor
+L192: 
+L193: 322 Davey Lab
+L194: 
+L195: Email:
+L196: 
+L197: chan@phys.psu.edu
+L198: 
+L199: Phone:
+L200: 
+L201: (814) 863-2622
+L202: 
+L203: Interests:
+L204: 
+L205: Condensed Matter Physics
+L206: 
+L207: cite33†Cui-Zu Chang L208: 
+L209: Professor of Physics
+L210: 
+L211: 314 Davey Lab
+L212: 
+L213: Email:
+L214: 
+L215: cxc955@psu.edu
+L216: 
+L217: Phone:
+L218: 
+L219: (814) 863-9860
+L220: 
+L221: Interests:
+L222: 
+L223: Condensed matter, Experiment
+L224: 
+L225: cite34†Long-Qing Chen L226: Donald W. Hamer Professor of Materials Science, Engineering, and Physics
+L227: 
+L228: Email:
+L229: 
+L230: lqc3@psu.edu
+L231: 
+L232: Interests:
+L233: 
+L234: Mathematical Modeling of Phase
+L235: 
+L236: cite35†Daniel Costantino L237: 
+L238: Teaching Professor of Physics
+L239: 
+L240: 123 Osmond Lab
+L241: 
+L242: Email:
+L243: 
+L244: djc321@psu.edu
+L245: 
+L246: Phone:
+L247: 
+L248: (814) 865-9018
+L249: 
+L250: cite36†Stephane Coutu L251: 
+L252: Professor of Physics and of Astronomy and Astrophysics
+L253: 
+L254: 303H Osmond Lab, University Park PA 16802
+L255: 
+L256: Email:
+L257: 
+L258: sxc56@psu.edu
+L259: 
+L260: Phone:
+L261: 
+L262: (814) 865-2015
+L263: 
+L264: Interests:
+L265: 
+L266: Particle astrophysics, Experiment, Particle physics, Experiment
+L267: cite37†Doug Cowen L268: 
+L269: Professor of Physics
+L270: 
+L271: 303D Osmond Lab
+L272: 
+L273: Email:
+L274: 
+L275: dfc13@psu.edu
+L276: 
+L277: Phone:
+L278: 
+L279: (814) 863-5943
+L280: 
+L281: Interests:
+L282: 
+L283: Particle astrophysics, Experiment, Particle physics, Experiment
+L284: 
+L285: cite38†Vincent H Crespi L286: 
+L287: Distinguished Professor of Physics, Materials Science and Engineering, and Chemistry
+L288: 
+L289: 326 Davey Lab
+L290: 
+L291: Email:
+L292: 
+L293: vhc2@psu.edu
+L294: 
+L295: Phone:
+L296: 
+L297: (814) 863-0163
+L298: 
+L299: Interests:
+L300: 
+L301: Condensed Matter, Theory
+L302: 
+L303: cite39†Luiz de Viveiros L304: 
+L305: Associate Professor of Physics
+L306: 
+L307: 320E Osmond Lab
+L308: 
+L309: Email:
+L310: 
+L311: lad57@psu.edu
+L312: 
+L313: Phone:
+L314: 
+L315: (814) 865-3628
+L316: Interests:
+L317: 
+L318: Particle astrophysics, Experiment, Particle physics, Experiment, Neutrino physics, Experiment
+L319: 
+L320: cite40†Kristen Fichthorn L321: 
+L322: Merrell Fenske Professor of Chemical Engineering and Professor of Physics
+L323: 
+L324: Chemical and Biomedical Engineering Building (403)
+L325: 
+L326: Email:
+L327: 
+L328: kaf2@psu.edu
+L329: 
+L330: Phone:
+L331: 
+L332: 814-863-4807
+L333: 
+L334: Interests:
+L335: 
+L336: Condensed matter, Experiment
+L337: 
+L338: cite41†Zoltan Fodor L339: 
+L340: Distinguished Professor of Physics
+L341: 
+L342: 336 Davey Lab
+L343: 
+L344: Email:
+L345: 
+L346: zxf5098@psu.edu
+L347: 
+L348: Interests:
+L349: 
+L350: Particle physics, Theory/Phenomenology
+L351: 
+L352: cite42†Bryce Gadway L353: Professor of Physics
+L354: 
+L355: 152H Davey Lab
+L356: 
+L357: Email:
+L358: 
+L359: brg5431@psu.edu
+L360: 
+L361: Phone:
+L362: 
+L363: 814-865-7259
+L364: 
+L365: Interests:
+L366: 
+L367: Ultracold atomic physics, Rydberg atom arrays, ultracold molecules
+L368: 
+L369: cite43†Kurt Gibble L370: 
+L371: Professor of Physics
+L372: 
+L373: 152G Davey Lab
+L374: 
+L375: Email:
+L376: 
+L377: keg15@psu.edu
+L378: 
+L379: Phone:
+L380: 
+L381: (814) 863-5343
+L382: 
+L383: Interests:
+L384: 
+L385: Atomic, molecular and optical, Experiment
+L386: 
+L387: cite44†Venkatraman Gopalan L388: 
+L389: Professor of Materials Science Engineering and Physics
+L390: 
+L391: N-212 Millennium Science Complex
+L392: 
+L393: Email:
+L394: 
+L395: vgopalan@psu.edu
+L396: 
+L397: Phone:
+L398: 
+L399: 814-865-2910
+L400: 
+L401: Interests:
+L402: Condensed matter, Experiment
+L403: 
+L404: cite45†Christopher Griffin L405: 
+L406: Research Professor (ARL)
+L407: 
+L408: 5000A ARL Building
+L409: 
+L410: Email:
+L411: 
+L412: cxg286@psu.edu
+L413: 
+L414: Phone:
+L415: 
+L416: +1 814 863 3023
+L417: 
+L418: Interests:
+L419: 
+L420: Statistical and Nonlinear Mechanics, Mathematical Physics
+L421: 
+L422: cite46†Murat Günaydin L423: 
+L424: Professor of Physics
+L425: 
+L426: 303F Osmond Lab
+L427: 
+L428: Email:
+L429: 
+L430: gxt@psu.edu
+L431: 
+L432: Phone:
+L433: 
+L434: (814) 863-0144
+L435: 
+L436: Interests:
+L437: 
+L438: Particle physics, Theory
+L439: 
+L440: cite47†Chad Hanna L441: 
+L442: Distinguished Professor of Physics & Astronomy and Astrophysics
+L443: 
+L444: 303 Whitmore Lab
+L445: 
+L446: Email:
+L447: 
+L448: crh184@psu.edu
+L449: 
+L450: Phone:
+L451: (814) 865-2924
+L452: 
+L453: Interests:
+L454: 
+L455: Gravity
+L456: 
+L457: cite48†Eric Hudson L458: 
+L459: Director of Undergraduate Studies
+L460: 
+L461: 233 Davey Lab
+L462: 
+L463: Email:
+L464: 
+L465: ewh10@psu.edu
+L466: 
+L467: Phone:
+L468: 
+L469: (814) 863-5345
+L470: 
+L471: Interests:
+L472: 
+L473: Physics Education Research
+L474: 
+L475: cite49†Thomas Iadecola L476: 
+L477: Associate Professor
+L478: 
+L479: 124 Davey Laboratory
+L480: 
+L481: Email:
+L482: 
+L483: iadecola@psu.edu
+L484: 
+L485: Phone:
+L486: 
+L487: 814-865-0570
+L488: 
+L489: Interests:
+L490: 
+L491: Condensed Matter Theory, Quantum Information Science, Nonequilibrium Systems
+L492: 
+L493: cite50†Jainendra K Jain L494: 
+L495: Evan Pugh University Professor and Eberly Chair in Physics
+L496: 
+L497: 305B Osmond Lab
+L498: 
+L499: Email:
+L500: jkj2@psu.edu
+L501: 
+L502: Phone:
+L503: 
+L504: (814) 574-7497
+L505: 
+L506: Interests:
+L507: 
+L508: Condensed matter, Theory
+L509: 
+L510: cite51†Dezhe Z Jin L511: 
+L512: Associate Professor of Physics
+L513: 
+L514: 123 Davey Lab
+L515: 
+L516: Email:
+L517: 
+L518: dzj2@psu.edu
+L519: 
+L520: Phone:
+L521: 
+L522: (814) 863-6673
+L523: 
+L524: Interests:
+L525: 
+L526: Biological physics, Theory
+L527: 
+L528: cite52†Ribhu Kaul L529: 
+L530: Professor of Physics
+L531: 
+L532: 315 Davey Lab
+L533: 
+L534: Email:
+L535: 
+L536: ribhu.kaul@psu.edu
+L537: 
+L538: Phone:
+L539: 
+L540: (814)863-3390
+L541: 
+L542: Interests:
+L543: 
+L544: Condensed Matter Theory
+L545: 
+L546: cite53†Nathan Keim L547: 
+L548: Associate Professor of Physics
+L549: 
+L550: 125 Davey Lab
+L551: 
+L552: Email:
+L553: 
+L554: keim@psu.edu
+L555: 
+L556: Phone:
+L557: 
+L558: (814) 867-3434
+L559: 
+L560: Interests:
+L561: Condensed matter, Experiment
+L562: 
+L563: cite54†Hafsa Khurshid L564: 
+L565: Associate Teaching Professor
+L566: 
+L567: 122 Osmond
+L568: 
+L569: Email:
+L570: 
+L571: hxk5601@psu.edu
+L572: 
+L573: cite55†Kenneth Knappenberger Jr. L574: 
+L575: Department Head and Professor of Chemistry and Professor of Physics
+L576: 
+L577: 2 Benkovic Building, University Park, PA 16802
+L578: 
+L579: Email:
+L580: 
+L581: klk260@psu.edu
+L582: 
+L583: Phone:
+L584: 
+L585: (814) 865-1228
+L586: 
+L587: Interests:
+L588: 
+L589: Analytical, Nanoscience, Optics
+L590: 
+L591: cite56†Yevhen Kushnirenko L592: 
+L593: Assistant Research Professor
+L594: 
+L595: 107 Davey Lab
+L596: 
+L597: Email:
+L598: 
+L599: ymk5308@psu.edu
+L600: 
+L601: cite57†Paul Lammert L602: 
+L603: Assistant Research Professor
+L604: 111A Osmond Lab
+L605: 
+L606: Email:
+L607: 
+L608: lammert@psu.edu
+L609: 
+L610: cite58†Stephanie Law L611: 
+L612: Associate Professor of Materials Science & Engineering, and Physics
+L613: 
+L614: 221 Steidle Building
+L615: 
+L616: Email:
+L617: 
+L618: sal6149@psu.edu
+L619: 
+L620: Interests:
+L621: 
+L622: Condensed Matter Experiment
+L623: 
+L624: cite59†Louis Leblond L625: 
+L626: Teaching Professor of Physics
+L627: 
+L628: 234 Davey Lab
+L629: 
+L630: Email:
+L631: 
+L632: lul29@psu.edu
+L633: 
+L634: Phone:
+L635: 
+L636: (814) 865-5233
+L637: 
+L638: Interests:
+L639: 
+L640: Physics education research
+L641: 
+L642: cite60†Qi Li L643: 
+L644: Professor of Physics
+L645: 
+L646: 317 Davey Lab
+L647: 
+L648: Email:
+L649: 
+L650: qil1@psu.edu
+L651: 
+L652: Phone:
+L653: 
+L654: (814) 863-5347
+L655: 
+L656: Interests:
+L657: 
+L658: Condensed matter, Experiment
+L659: cite61†Benjamin Lillard L660: 
+L661: Assistant Research Professor
+L662: 
+L663: 206B Osmond Lab
+L664: 
+L665: Email:
+L666: 
+L667: bkl5579@psu.edu
+L668: 
+L669: cite62†Chaoxing Liu L670: 
+L671: Professor of Physics
+L672: 
+L673: 337 Davey Lab
+L674: 
+L675: Email:
+L676: 
+L677: cxl56@psu.edu
+L678: 
+L679: Phone:
+L680: 
+L681: (814) 863-0016
+L682: 
+L683: Interests:
+L684: 
+L685: Condensed matter, Theory
+L686: 
+L687: cite63†Ying Liu L688: 
+L689: Professor of Physics
+L690: 
+L691: 152F Davey Lab
+L692: 
+L693: Email:
+L694: 
+L695: yxl15@psu.edu
+L696: 
+L697: Phone:
+L698: 
+L699: (814) 863-0090
+L700: 
+L701: Interests:
+L702: 
+L703: Condensed Matter, Experiment
+L704: 
+L705: cite64†Zhiqiang Mao L706: 
+L707: Professor of Physics, Material Science and Engineering, and Chemistry
+L708: 
+L709: 320 Davey Lab
+L710: 
+L711: Email:
+L712: 
+L713: zim1@psu.edu
+L714: Phone:
+L715: 
+L716: (814) 865-7258
+L717: 
+L718: Interests:
+L719: 
+L720: Condensed Matter Physics
+L721: 
+L722: cite65†Julian D Maynard L723: 
+L724: Emeritus Distinguished Professor of Physics
+L725: 
+L726: 341 Davey
+L727: 
+L728: Email:
+L729: 
+L730: maynard@phys.psu.edu
+L731: 
+L732: Phone:
+L733: 
+L734: (814) 883-2232
+L735: 
+L736: Interests:
+L737: 
+L738: Condensed Matter Physics
+L739: 
+L740: cite66†Peter Mészáros L741: 
+L742: Eberly Family Chair Professor, Emeritus
+L743: 
+L744: 303J Osmond Laboratory
+L745: 
+L746: Email:
+L747: 
+L748: nnp@psu.edu
+L749: 
+L750: Phone:
+L751: 
+L752: 814-863-4167
+L753: 
+L754: Interests:
+L755: 
+L756: Particle astrophysics, gamma-ray bursts, neutrinos, cosmic rays, cosmology
+L757: 
+L758: cite67†Vincent Meunier L759: P. B. Breneman Chair, Professor of engineering science and mechanics, and of Materials Science and Engineering and of Physics
+L760: 
+L761: 212 Earth and Engineering Sciences Building
+L762: 
+L763: Email:
+L764: 
+L765: vincent.meunier@psu.edu
+L766: 
+L767: Phone:
+L768: 
+L769: 814-863-0771
+L770: 
+L771: Interests:
+L772: 
+L773: Computational and Theoretical
+L774: 
+L775: cite68†Irina Mocioiu L776: 
+L777: Associate Professor of Physics, Director of Graduate Studies
+L778: 
+L779: 320G Osmond Lab
+L780: 
+L781: Email:
+L782: 
+L783: ium4@psu.edu
+L784: 
+L785: Phone:
+L786: 
+L787: (814) 865-3721
+L788: 
+L789: Interests:
+L790: 
+L791: Particle physics, Theory/Phenomenology, Particle astrophysics, Theory
+L792: cite69†Samuel Adam Isaac Mognet L793: 
+L794: Assistant Research Professor of Physics, Member of Stephane Coutu's group
+L795: 
+L796: 206E Osmond Lab
+L797: 
+L798: Email:
+L799: 
+L800: sam378@psu.edu
+L801: 
+L802: cite70†Lukas Muechler L803: 
+L804: Assistant Professor of Chemistry and of Physics
+L805: 
+L806: Email:
+L807: 
+L808: lfm5572@psu.edu
+L809: 
+L810: Interests:
+L811: 
+L812: Materials, Computational Chemistry, Computational Condensed Matter Physics
+L813: 
+L814: cite71†Kohta Murase L815: 
+L816: Professor of Physics and Astronomy & Astrophysics
+L817: 
+L818: 321B Osmond Lab
+L819: 
+L820: Email:
+L821: 
+L822: murase@psu.edu
+L823: 
+L824: Phone:
+L825: 
+L826: (814) 863-9594
+L827: 
+L828: Interests:
+L829: Particle astrophysics, Theory, Astrophyics, Theory
+L830: 
+L831: cite72†Nestor Perea Lopez L832: 
+L833: Assistant Research Professor of Physics
+L834: 
+L835: 205A Osmond Lab
+L836: 
+L837: Email:
+L838: 
+L839: nup13@psu.edu
+L840: 
+L841: Phone:
+L842: 
+L843: (814) 865-0343
+L844: 
+L845: cite73†Heike Pfau L846: 
+L847: Assistant Professor of Physics
+L848: 
+L849: 316 Davey Lab
+L850: 
+L851: Email:
+L852: 
+L853: heike.pfau@psu.edu
+L854: 
+L855: Phone:
+L856: 
+L857: (814) 865 1272
+L858: 
+L859: Interests:
+L860: 
+L861: Condensed matter, Experiment
+L862: 
+L863: cite74†Kirstin R Purdy Drew L864: 
+L865: Teaching Professor of Physics
+L866: 
+L867: 122 Osmond
+L868: 
+L869: Email:
+L870: 
+L871: krp15@psu.edu
+L872: 
+L873: Phone:
+L874: 
+L875: (814) 863-6778
+L876: 
+L877: Interests:
+L878: Advanced Lab Instruction, REU, Introductory Course Innovation, Integration of Computation into Physics
+L879: 
+L880: cite75†David Radice L881: 
+L882: Associate Professor of Physics and Astronomy and Astrophysics
+L883: 
+L884: 304 Whitmore Lab
+L885: 
+L886: Email:
+L887: 
+L888: david.radice@psu.edu
+L889: 
+L890: Interests:
+L891: 
+L892: Gravity, Theory, Astrophysics, Theory
+L893: 
+L894: cite76†Mikael C. Rechtsman L895: 
+L896: Professor of Physics, Associate Head for Research
+L897: 
+L898: 150A Davey Lab
+L899: 
+L900: Email:
+L901: 
+L902: mcr22@psu.edu
+L903: 
+L904: Interests:
+L905: 
+L906: Photonics, Atomic, molecular and optical, Condensed Matter
+L907: 
+L908: cite77†Anthony Richardella L909: Assistant Research Professor, Member of the research group of Nitin Samarth
+L910: 
+L911: 235 Davey Lab
+L912: 
+L913: Email:
+L914: 
+L915: arr19@psu.edu
+L916: 
+L917: Phone:
+L918: 
+L919: 814-867-0170
+L920: 
+L921: cite78†Marcos Rigol L922: 
+L923: Distinguished Professor of Physics
+L924: 
+L925: 150C Davey Lab
+L926: 
+L927: Email:
+L928: 
+L929: mar56@psu.edu
+L930: 
+L931: Interests:
+L932: 
+L933: Condensed matter, Theory, Atomic, molecular, and optical, Theory
+L934: 
+L935: cite79†Richard W. Robinett L936: 
+L937: Professor Emeritus of Physics
+L938: 
+L939: 303J Osmond Lab
+L940: 
+L941: Email:
+L942: 
+L943: rq9@psu.edu
+L944: 
+L945: Interests:
+L946: 
+L947: Quantum Mechanics
+L948: 
+L949: cite80†Joshua A. Robinson L950: Professor of Materials Science and Engineering, Chemistry, and Physics
+L951: 
+L952: 337N Millenium Science Complex
+L953: 
+L954: Email:
+L955: 
+L956: jar403@psu.edu
+L957: 
+L958: Phone:
+L959: 
+L960: (814) 863-8567
+L961: 
+L962: Interests:
+L963: 
+L964: Synthesis, Materials, Physical
+L965: 
+L966: cite81†Radu Roiban L967: 
+L968: Professor of Physics
+L969: 
+L970: 320F Osmond Lab
+L971: 
+L972: Email:
+L973: 
+L974: rsr10@psu.edu
+L975: 
+L976: Phone:
+L977: 
+L978: (814) 863-5811
+L979: 
+L980: Interests:
+L981: 
+L982: Particle physics, Theory
+L983: 
+L984: cite82†Vyacheslav (Slava) Rotkin L985: 
+L986: Professor of Engineering Science & Mechanics and Physics
+L987: 
+L988: N332 Millennium Science Complex
+L989: 
+L990: Email:
+L991: 
+L992: vvr5@psu.edu
+L993: 
+L994: Phone:
+L995: 
+L996: 814 863-3087
+L997: cite83†Nitin Samarth L998: 
+L999: Verne M. Willaman Professor of Physics & Professor of Materials Science/Engineering
+L1000: 
+L1001: 152D Davey Lab
+L1002: 
+L1003: Email:
+L1004: 
+L1005: nxs16@psu.edu
+L1006: 
+L1007: Phone:
+L1008: 
+L1009: (814) 863-0136
+L1010: 
+L1011: Interests:
+L1012: 
+L1013: Condensed matter, Experiment, Quantum information
+L1014: 
+L1015: cite84†B.S. Sathyaprakash L1016: 
+L1017: Elsbach Professor of Physics and Professor of Astronomy and Astrophysics
+L1018: 
+L1019: 312 Whitmore Lab
+L1020: 
+L1021: Email:
+L1022: 
+L1023: bss25@psu.edu
+L1024: 
+L1025: Phone:
+L1026: 
+L1027: (814) 865-3062
+L1028: 
+L1029: Interests:
+L1030: 
+L1031: Gravity
+L1032: 
+L1033: cite85†Sarah Shandera L1034: 
+L1035: Professor of Physics
+L1036: 
+L1037: 303A Whitmore Lab
+L1038: 
+L1039: Email:
+L1040: 
+L1041: ses47@psu.edu
+L1042: 
+L1043: Phone:
+L1044: (814) 863-9595
+L1045: 
+L1046: Interests:
+L1047: 
+L1048: Gravity, Theory, Particle physics, Theory, Quantum systems, Theory
+L1049: 
+L1050: cite86†Yinming Shao L1051: 
+L1052: Assistant Professor of Physics
+L1053: 
+L1054: 341 Davey Lab
+L1055: 
+L1056: Email:
+L1057: 
+L1058: ymshao@psu.edu
+L1059: 
+L1060: Interests:
+L1061: 
+L1062: Condensed Matter, Experiment
+L1063: 
+L1064: cite87†Michael T Smitka L1065: 
+L1066: Teaching Professor of Physics
+L1067: 
+L1068: 303E Osmond Lab
+L1069: 
+L1070: Email:
+L1071: 
+L1072: mts56@psu.edu
+L1073: 
+L1074: Phone:
+L1075: 
+L1076: (814) 865-2658
+L1077: 
+L1078: Interests:
+L1079: 
+L1080: Physics instruction, supernova
+L1081: 
+L1082: cite88†Jorge Sofo L1083: 
+L1084: Professor of Physics
+L1085: 
+L1086: 210 Osmond Lab
+L1087: 
+L1088: Email:
+L1089: 
+L1090: sofo@psu.edu
+L1091: 
+L1092: Phone:
+L1093: 
+L1094: (814) 777-3450
+L1095: 
+L1096: Interests:
+L1097: Condensed Matter, Theory, Quantum Information - Decoherence and
+L1098: 
+L1099: cite89†Anna Stasto L1100: 
+L1101: Professor of Physics
+L1102: 
+L1103: 320H Osmond Lab
+L1104: 
+L1105: Email:
+L1106: 
+L1107: ams52@psu.edu
+L1108: 
+L1109: Phone:
+L1110: 
+L1111: (814) 865-7976
+L1112: 
+L1113: Interests:
+L1114: 
+L1115: Particle physics, Theory
+L1116: 
+L1117: cite90†Mark Strikman L1118: 
+L1119: Distinguished Professor of Physics
+L1120: 
+L1121: 303C Osmond
+L1122: 
+L1123: Email:
+L1124: 
+L1125: mxs43@psu.edu
+L1126: 
+L1127: Phone:
+L1128: 
+L1129: (814) 883-6611
+L1130: 
+L1131: Interests:
+L1132: 
+L1133: Nuclear and particle physics, Theory
+L1134: 
+L1135: cite91†Mauricio Terrones L1136: George A. and Margaret M. Downsbrough Head of the Department of Physics, Evan Pugh University Professor, Professor of Chemistry and of Materials Science and Engineering
+L1137: 
+L1138: 205A Osmond Lab
+L1139: 
+L1140: Email:
+L1141: 
+L1142: mut11@psu.edu
+L1143: 
+L1144: Phone:
+L1145: 
+L1146: (814) 863-1162
+L1147: 
+L1148: Interests:
+L1149: 
+L1150: Condensed matter, Experiment
+L1151: 
+L1152: cite92†Stephen Van Hook L1153: 
+L1154: Teaching Professor of Physics
+L1155: 
+L1156: 214 Osmond Lab
+L1157: 
+L1158: Email:
+L1159: 
+L1160: sjv11@psu.edu
+L1161: 
+L1162: cite93†David S. Weiss L1163: 
+L1164: Distinguished Professor of Physics
+L1165: 
+L1166: 150B Davey Lab
+L1167: 
+L1168: Email:
+L1169: 
+L1170: dsweiss@phys.psu.edu
+L1171: 
+L1172: Phone:
+L1173: 
+L1174: (814) 863-3076
+L1175: 
+L1176: Interests:
+L1177: Atomic, molecular and optical, Quantum information , Experiment
+L1178: 
+L1179: cite94†Christopher Wheatley L1180: 
+L1181: Assistant Teaching Professor of Physics
+L1182: 
+L1183: 303G Osmond Lab
+L1184: 
+L1185: Email:
+L1186: 
+L1187: cmw7208@psu.edu
+L1188: 
+L1189: cite95†Stephanie Wissel L1190: 
+L1191: Downsbrough Early Career Associate Professor of Physics and Astronomy/Astrophysics
+L1192: 
+L1193: 303B Osmond Lab
+L1194: 
+L1195: Email:
+L1196: 
+L1197: wissel@psu.edu
+L1198: 
+L1199: Phone:
+L1200: 
+L1201: (814) 863-9598‬
+L1202: 
+L1203: Interests:
+L1204: 
+L1205: Particle astrophysics, Experiment
+L1206: 
+L1207: cite96†Binghai Yan L1208: 
+L1209: Professor of Physics
+L1210: 
+L1211: 305C Osmond Lab
+L1212: 
+L1213: Email:
+L1214: 
+L1215: binghai.yan@psu.edu
+L1216: 
+L1217: Interests:
+L1218: Condensed matter theory, Quantum materials
+L1219: 
+L1220: cite97†Bei Zhou L1221: 
+L1222: Assistant Research Professor
+L1223: 
+L1224: cite98†Jun Zhu L1225: 
+L1226: Professor of Physics
+L1227: 
+L1228: 321 Davey Lab
+L1229: 
+L1230: Email:
+L1231: 
+L1232: jxz26@psu.edu
+L1233: 
+L1234: Phone:
+L1235: 
+L1236: (814) 865-4376
+L1237: 
+L1238: Interests:
+L1239: 
+L1240: Condensed matter, Experiment
+L1241: 
+L1242: cite99†John Collins L1243: 
+L1244: Distinguished Professor Emeritus of Physics
+L1245: 
+L1246: Email:
+L1247: 
+L1248: jcc8@psu.edu
+L1249: 
+L1250: Phone:
+L1251: 
+L1252: (814) 863-0783
+L1253: 
+L1254: Interests:
+L1255: 
+L1256: Quantum field theory, Perturbation effects in QCD, Renormalization theory
+L1257: 
+L1258: cite100†Roger Herman L1259: 
+L1260: Professor Emeritus of Physics
+L1261: 
+L1262: Email:
+L1263: 
+L1264: rmh2@psu.edu
+L1265: 
+L1266: Phone:
+L1267: (814) 865-1295
+L1268: 
+L1269: cite101†Daniel Larson L1270: 
+L1271: Verne M. Willaman Dean Emeritus, Professor Emeritus of Physics
+L1272: 
+L1273: Email:
+L1274: 
+L1275: djl18@psu.edu
+L1276: 
+L1277: Phone:
+L1278: 
+L1279: (814) 865-6092
+L1280: 
+L1281: Interests:
+L1282: 
+L1283: Atomic physics, Molecules, Optical physics
+

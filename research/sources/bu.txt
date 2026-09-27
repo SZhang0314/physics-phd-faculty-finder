@@ -1,0 +1,87 @@
+Faculty | Physics (https://www.bu.edu/physics/people/faculty-lecturers/)
+citeturn75view0 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://www.bu.edu/physics/people/faculty-lecturers/","lineno":null}); Total lines: 85
+L0: Emergency BU Alert BU ALERT: This is a test of BU Alert, BU’s notification system. This is only a test. In the event of an actual emergency, you would be given more information.
+L1: 
+L2: cite0†Arts & Sciences Physics L3: 
+L4: [Input][Input] [Input: Search site…] [Input]
+L5: # Faculty
+L6:   * cite1†David Bishop Professor (ECE, Physics, ME, MSE)
+L7:   * cite2†David Campbell Professor (Physics, ECE, and MSE),
+L8: Director of Graduate Studies
+L9:   * cite3†Robert Carey Professor
+L10:   * cite4†Anushya Chandran Associate Professor
+L11:   * cite5†Zeynep Demiragli Associate Professor
+L12:   * cite6†Andrew Duffy Master Lecturer
+L13:   * cite7†Michael El-Batanouny Professor
+L14:   * cite8†Shyamsunder Erramilli Professor
+L15:   * cite9†Andrew Liam Fitzpatrick Associate Professor
+L16:   * cite10†Frank Golf Associate Professor
+L17:   * cite11†Christopher Grant Associate Professor, Associate Chair
+L18:   * cite12†Wanzheng Hu Associate Professor
+L19:   * cite13†Manher Jariwala Master Lecturer,
+L20: Director of Teaching and Learning Support
+L21:   * cite14†Maria Kamenetska Associate Professor
+L22:   * cite15†Kirit Karkare Assistant Professor
+L23:   * cite16†Emanuel Katz Professor
+L24:   * cite17†Ed Kearns Professor and Interim Chair
+L25: Director of Undergraduate Studies
+L26:   * cite18†Kirill Korolev Associate Professor
+L27:   * cite19†Joseph Larkin Assistant Professor
+L28:   * cite20†Christopher Laumann Associate Professor
+L29:   * cite21†Hongwan Liu Assistant Professor
+L30:   * cite22†Karl Ludwig Professor
+L31:   * cite23†Nikola Maksimovic Assistant Professor
+L32:   * cite24†Pankaj Mehta Professor
+L33:   * cite25†James Miller Professor
+L34:   * cite26†Raj Mohanty Professor
+L35:   * cite27†Anatoli Polkovnikov Professor
+L36:   * cite28†Lee Roberts Professor
+L37:   * cite29†James Rohlf Professor
+L38:   * cite30†Andrei Ruckenstein Professor
+L39:   * cite31†Anders Sandvik Professor
+L40:   * cite32†Martin Schmaltz Professor
+L41:   * cite33†Dries Sels Associate Professor
+L42:   * cite34†Kevin Smith Professor
+L43:   * cite35†David Sperka Assistant Professor
+L44:   * cite36†Indara Suarez Associate Professor
+L45:   * cite37†Lawrence R. Sulak Professor (David M. Myers Distinguished Professor)
+L46:   * cite38†Paul Trunfio Lecturer (Physics & Core Curriculum)
+L47:   * cite39†Jacob Willig-Onwuachi Clinical Professor
+L48: ### Affiliate Faculty
+L49:   * cite40†Alexander Becker Affiliate Faculty (Assistant Professor – MET)
+L50:   * cite41†Irving Bigio Affiliate Faculty (Professor – ENG/BME)
+L51:   * cite42†Ken Brecher Affiliated Professor
+L52:   * cite43†Dillon Brout Assistant Professor (Astronomy)
+L53:   * cite44†Richard Brower Affiliate Faculty (Professor – ENG/ECE)
+L54:   * cite45†Keith Brown Associate Professor
+L55:   * cite46†Scott Bunch Affiliate Faculty (Associate Professor – ENG/ME)
+L56:   * cite47†Ji-Xin Cheng Affiliate Faculty (Professor – ENG/ECE)
+L57:   * cite48†David Coker Affiliate Faculty (Professor – Chemistry)
+L58:   * cite49†Qiang Cui Affiliate Faculty (Professor – Chemistry)
+L59:   * cite50†Luca Dal Negro Affiliate Faculty (Professor – ENG/ECE)
+L60:   * cite51†Charles DeLisi Affiliate Faculty (Professor – Bioinformatics)
+L61:   * cite52†Peter Garik Affiliate Faculty (Clinical Associate Professor – SED/Curriculum & Teaching)
+L62:   * cite53†Roscoe Giles Affiliate Faculty (Professor – ENG/ECE)
+L63:   * cite54†Marc Howard Affiliate Faculty (Professor – Psychological & Brian Sciences)
+L64:   * cite55†Vijaya B. Kolachalama Affiliate Faculty (Assistant Professor – Medicine)
+L65:   * cite56†David Lake Affiliate Faculty
+L66:   * cite57†Amit Meller Affiliate Faculty (Associate Professor – ENG/BME)
+L67:   * cite58†Jerome Mertz Affiliate Faculty (Professor – ENG/BME)
+L68:   * cite59†Siddharth Mishra-Sharma Affiliate Faculty
+L69:   * cite60†Theodore Moustakas Affiliate Faculty (Professor – ENG/ECE)
+L70:   * cite61†Alexander Poremba Affiliate Faculty (Assistant Professor – Computer Science)
+L71:   * cite62†Siddharth Ramachandran Affiliate Faculty (Professor – ENG/ECE)
+L72:   * cite63†Björn Reinhard Affiliate Faculty (Professor – Chemistry)
+L73: Professor and Director of the Nano-Bio Interface Laboratory
+L74:   * cite64†Matthias F. Schneider Adjunct Professor (Professor TU Dortmund)
+L75:   * cite65†Daniel Segre Affiliate Faculty (Professor – Bioinformatics, Biology)
+L76:   * cite66†Alexander Sergienko Affiliate Faculty (Professor – ENG/ECE)
+L77:   * cite67†Allyson Sgro Affiliate Faculty (Assistant Professor – ENG/BME)
+L78:   * cite68†Sahar Sharifzadeh Affiliate Faculty (Associate Professor – ENG/ECE)
+L79:   * cite69†Minjung Son Affiliate Faculty (Assistant Professor – Chemistry)
+L80:   * cite70†John Straub Affiliate Faculty (Professor – Chemistry)
+L81:   * cite71†Anna Swan Affiliate Faculty (Associate Professor – ENG/ECE)
+L82:   * cite72†M. Selim Ünlü Affiliate Faculty (Professor – ENG/ECE)
+L83:   * cite73†Irena Vodenska Affiliate Faculty (Professor of Finance and Director, Finance Programs – MET)
+L84:   * cite74†Alice White Affiliate Faculty (Professor – ENG/ME)
+

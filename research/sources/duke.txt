@@ -1,0 +1,270 @@
+People | Department of Physics (https://physics.duke.edu/people/other-faculty/primary-and-joint-faculty)
+citeturn67view0 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://physics.duke.edu/people/other-faculty/primary-and-joint-faculty","lineno":null}); Total lines: 499
+L0: cite0†Menu L1: # Primary and Joint Faculty
+L2: 
+L3:   * cite1†Ayana T. Arce†scholars.duke.edu L4: 
+L5: Associate Professor of Physics
+L6: 
+L7: ath11@duke.edu
+L8: 
+L9:   * cite2†Phillip S. Barbeau†scholars.duke.edu L10: 
+L11: Professor of Physics
+L12: 
+L13: phil.barbeau@duke.edu
+L14: 
+L15:   * cite3†Steffen A. Bass†scholars.duke.edu L16: 
+L17: Arts and Sciences Distinguished Professor of Physics
+L18: 
+L19: bass@duke.edu
+L20: 
+L21: cite4†Curriculum Vitae (pdf)†duke.box.com L22: 
+L23:   * cite5†Kenneth R Brown†scholars.duke.edu L24: 
+L25: Professor of Physics
+L26: 
+L27: Michael J. Fitzpatrick Distinguished Professor of Engineering
+L28: kenneth.r.brown@duke.edu
+L29: 
+L30: cite6†Brown Lab†brownlab.pratt.duke.edu L31: 
+L32:   * cite7†Nicolas Brunel†scholars.duke.edu L33: 
+L34: Professor of Physics
+L35: 
+L36: Adjunct Professor of Neurobiology
+L37: 
+L38: nicolas.brunel@duke.edu
+L39: 
+L40: cite8†Neurobiology page†www.neuro.duke.edu L41: 
+L42:   * cite9†Marko Cetina†scholars.duke.edu L43: 
+L44: Assistant Professor of Physics
+L45: 
+L46: marko.cetina@duke.edu
+L47: 
+L48:   * cite10†Shailesh Chandrasekharan†scholars.duke.edu L49: 
+L50: Professor of Physics
+L51: 
+L52: sch27@duke.edu
+L53: 
+L54:   * cite11†Albert M. Chang†scholars.duke.edu L55: 
+L56: Professor of Physics
+L57: 
+L58: albert.chang@duke.edu
+L59: cite12†http://www.phy.duke.edu/~yingshe†www.phy.duke.edu L60: 
+L61:   * cite13†Patrick Charbonneau†scholars.duke.edu L62: 
+L63: Professor of Physics
+L64: 
+L65: patrick.charbonneau@duke.edu
+L66: 
+L67: cite14†Charbonneau Research Group†charbonneaulab.chem.duke.edu L68: 
+L69:   * cite15†Gleb Finkelstein†scholars.duke.edu L70: 
+L71: Professor of Physics
+L72: 
+L73: cite16†Group page†sites.duke.edu L74: 
+L75:   * cite17†Haiyan Gao†scholars.duke.edu L76: 
+L77: Robert C. Richardson Distinguished Professor of Physics
+L78: 
+L79: haiyan.gao@duke.edu
+L80: 
+L81: cite18†http://www.tunl.duke.edu/~mep†www.tunl.duke.edu L82:   * cite19†Sara Haravifard†scholars.duke.edu L83: 
+L84: Director of Undergraduate Studies
+L85: 
+L86: William M. Fairbank Associate Professor of Physics
+L87: 
+L88: sara.haravifard@duke.edu
+L89: 
+L90: cite20†Research Group Webpage†sites.duke.edu L91: 
+L92:   * cite21†Calvin R. Howell†scholars.duke.edu L93: 
+L94: Professor of Physics
+L95: 
+L96: howellc@duke.edu
+L97: 
+L98: cite22†http://www.tunl.duke.edu/Directory/Faculty/howell/†www.tunl.duke.edu L99: 
+L100:   * cite23†Jungsang Kim†scholars.duke.edu L101: 
+L102: Professor of Physics
+L103: 
+L104: Schiciano Family Distinguished Professor of Electrical and Computer Engineering
+L105: jungsang@ee.duke.edu
+L106: 
+L107: cite24†Multifunctional Integrated Systems Technology Group†mist.pratt.duke.edu L108: 
+L109:   * cite25†Natalie M Klco†scholars.duke.edu L110: 
+L111: Assistant Professor of Physics
+L112: 
+L113: natalie.klco@duke.edu
+L114: 
+L115: cite26†Duke Faculty Introduction Article L116: 
+L117:   * cite27†Ashutosh Kotwal, Ph.D. L118: 
+L119: Fritz London Distinguished Professor of Physics
+L120: 
+L121: ashutosh.kotwal@duke.edu
+L122: 
+L123:   * cite28†Mark C. Kruse†scholars.duke.edu L124: 
+L125: Professor in the Department of Physics
+L126: 
+L127: mkruse@duke.edu
+L128: 
+L129: cite29†http://www.phy.duke.edu/~mkruse/†www.phy.duke.edu L130:   * cite30†Divine P Kumah†scholars.duke.edu L131: 
+L132: Director of Graduate Studies
+L133: 
+L134: Charles H. Townes Associate Professor of Physics
+L135: 
+L136: divine.kumah@duke.edu
+L137: 
+L138: cite31†https://sites.duke.edu/kumahlab/†sites.duke.edu L139: 
+L140:   * cite32†Jian-Guo Liu†scholars.duke.edu L141: 
+L142: Professor of Physics
+L143: 
+L144: jian-guo.liu@duke.edu
+L145: 
+L146: cite33†http://www.math.duke.edu/~jliu/†www.math.duke.edu L147: 
+L148:   * cite34†Huanqian Loh†scholars.duke.edu L149: 
+L150: Assistant Professor of Electrical and Computer Engineering
+L151: 
+L152: Assistant Professor of Physics
+L153: 
+L154: huanqian.loh@duke.edu
+L155: cite35†Loh Lab†lohlab.pratt.duke.edu L156: 
+L157:   * cite36†Iman Marvian†scholars.duke.edu L158: 
+L159: Associate Professor in the Department of Physics
+L160: 
+L161: Associate Professor in the Department of Electrical and Computer Engineering
+L162: 
+L163: iman.marvian@duke.edu
+L164: 
+L165: cite37†Homepage†sites.duke.edu L166: 
+L167:   * cite38†Christopher R Monroe†scholars.duke.edu L168: 
+L169: Professor of Physics
+L170: 
+L171: Gilhuly Family Presidential Distinguished Professor
+L172: 
+L173: c.monroe@duke.edu
+L174: 
+L175: cite39†Group website†iontrap.duke.edu L176: 
+L177:   * cite40†Berndt Mueller†scholars.duke.edu L178: James B. Duke Distinguished Professor of Physics
+L179: 
+L180: muller@phy.duke.edu
+L181: 
+L182: cite41†http://www.phy.duke.edu/~muller/†www.phy.duke.edu L183: 
+L184:   * cite42†Travis L Nicholson†scholars.duke.edu L185: 
+L186: Assistant Professor of Physics
+L187: 
+L188: travis.nicholson@duke.edu
+L189: 
+L190: cite43†Group website†nicholsonlabs.org L191: 
+L192:   * cite44†Crystal Noel†scholars.duke.edu L193: 
+L194: Assistant Professor of Electrical and Computer Engineering
+L195: 
+L196: crystal.noel@duke.edu
+L197: 
+L198: cite45†Noel Lab†noellab.pratt.duke.edu L199: 
+L200:   * cite46†Seog Oh L201: 
+L202: Professor of Physics
+L203: 
+L204: seog@phy.duke.edu
+L205:   * cite47†M. Ronen Plesser†scholars.duke.edu L206: 
+L207: Professor of Physics
+L208: 
+L209: plesser@cgtp.duke.edu
+L210: 
+L211: cite48†http://www.cgtp.duke.edu/~plesser/†www.cgtp.duke.edu L212: 
+L213:   * cite49†Michael Rubinstein†scholars.duke.edu L214: 
+L215: Professor of Physics
+L216: 
+L217: Aleksandar S. Vesic Distinguished Professor
+L218: 
+L219: michael.rubinstein@duke.edu
+L220: 
+L221: cite50†Rubinstein Lab†rubinsteinlab.pratt.duke.edu L222: 
+L223:   * cite51†Christoph F. Schmidt†scholars.duke.edu L224: 
+L225: Hertha Sponer Distinguished Professor of Physics
+L226: 
+L227: christoph.schmidt@duke.edu
+L228: 
+L229: cite52†Google Scholar†scholar.google.com L230:   * cite53†Kate Scholberg†scholars.duke.edu L231: 
+L232: Arts & Sciences Distinguished Professor of Physics
+L233: 
+L234: kate.scholberg@duke.edu
+L235: 
+L236: cite54†http://phy.duke.edu/~schol/†phy.duke.edu L237: 
+L238:   * cite55†Daniel M. Scolnic†scholars.duke.edu L239: 
+L240: Professor of Physics
+L241: 
+L242: daniel.scolnic@duke.edu
+L243: 
+L244: cite56†Duke Cosmology Group L245: 
+L246:   * cite57†Joshua Socolar†scholars.duke.edu L247: 
+L248: Professor of Physics
+L249: 
+L250: socolar@duke.edu
+L251: 
+L252:   * cite58†Roxanne P. Springer†scholars.duke.edu L253: 
+L254: Professor of Physics
+L255: 
+L256: cite59†http://www.phy.duke.edu/~rps/†www.phy.duke.edu L257:   * cite60†Stephen W. Teitsworth†scholars.duke.edu L258: 
+L259: Associate Professor of Physics
+L260: 
+L261: stephen.teitsworth@duke.edu
+L262: 
+L263:   * cite61†Michael A. Troxel†scholars.duke.edu L264: 
+L265: Associate Chair
+L266: 
+L267: Professor of Physics
+L268: 
+L269: michael.troxel@duke.edu
+L270: 
+L271:   * cite62†Eve M Vavagiakis†scholars.duke.edu L272: 
+L273: Assistant Professor of Physics
+L274: 
+L275: eve.vavagiakis@duke.edu
+L276: 
+L277:   * cite63†Anselm G. Vossen†scholars.duke.edu L278: 
+L279: Associate Professor in the Department of Physics
+L280: 
+L281: anselm.vossen@duke.edu
+L282: 
+L283: cite64†Group Website†sites.duke.edu L284:   * cite65†Christopher Walter†scholars.duke.edu L285: 
+L286: Chair
+L287: 
+L288: Professor of Physics
+L289: 
+L290: chris.walter@duke.edu
+L291: 
+L292: cite66†GitHub†github.com L293: 
+L294:   * cite67†Warren S. Warren†scholars.duke.edu L295: 
+L296: Professor of Physics
+L297: 
+L298: James B. Duke Distinguished Professor of Chemistry
+L299: 
+L300: warren.warren@duke.edu
+L301: 
+L302: cite68†Warren Research Group†chem.duke.edu L303: 
+L304:   * cite69†Ying Wu†scholars.duke.edu L305: 
+L306: Professor of Physics
+L307: 
+L308: ying.wu@duke.edu
+L309: ## Department of Physics
+L310: 
+L311: cite70†Physics Building, 120 Science Drive†maps.duke.edu L312: Campus Box 90305
+L313: Durham, NC 27708
+L314: (919) 660-2500
+L315: 
+L316: ## Academic Degrees
+L317: 
+L318: cite71†Ph.D. Program L319: 
+L320: cite72†Majors in Physics L321: 
+L322: cite73†Majors in Biophysics L323: 
+L324: cite74†Minor in Physics L325: 
+L326: ## Undergraduates
+L327: 
+L328: cite75†Tutoring Help L329: 
+L330: cite76†Course Selection L331: 
+L332: cite77†Transfer Credit L333: 
+L334: cite78†Faculty Research Advisors L335: 
+L336: ## Graduate Students
+L337: 
+L338: cite79†Admissions L339: 
+L340: cite80†Steps to Graduation L341: 
+L342: cite81†Graduate Student Organization L343: ## Stay Connected
+L344: 
+L345: cite82†Facebook†www.facebook.com L346: 
+L347: cite83†X / Twitter†x.com L348: 
+L349: cite84†LinkedIn†linkedin.com L350: 
+L351: cite85†Statement of Conduct L352: 
+L353: cite86†NetID Login L354:   * cite87†About Us L355:     * cite88†Administrative Website†sites.duke.edu L356:     * cite89†Our Facilities L357:     * cite90†Advanced Light Imaging and Spectroscopy (ALIS) facility L358:     * cite91†Instrument Shop L359:     * cite92†Instructional Machine Shop L360:     * cite93†Duke Teaching Observatory L361:     * cite94†Directions & Maps L362:     * cite95†Our History L363:       * cite96†1924 to 1945 L364:       * cite97†1946 to 1962 L365:       * cite98†1963 to 1985 L366:       * cite99†1986 to 2005 L367:       * cite100†Faculty Interviews L368:       * cite101†Historical Faculty L369:         * cite102†Lawrence C. Biedenharn L370:         * cite103†Edward G. Bilpuch L371:         * cite104†William M. Fairbank L372:         * cite105†Walter Gordy L373:         * cite106†Harold W. Lewis L374:         * cite107†Fritz London L375:         * cite108†Henry W. Newson L376:         * cite109†Walter M. Nielsen L377:         * cite110†Lothar W. Nordheim L378:         * cite111†Hertha Sponer L379:         * cite112†William D. Walker L380:       * cite113†Department Chairs L381:       * cite114†Former and Current Faculty L382:     * cite85†Statement on Conduct L383:     * cite115†Conduct Accountability Committee L384:     * cite116†Department Resources L385:     * cite117†Job Opportunities L386:     * cite118†Fritz London Memorial Prize L387:     * cite119†Fritz London Memorial Lecture L388:   * cite120†Undergraduate L389:     * cite121†For Prospective Students L390:       * cite122†Learning About Physics L391:       * cite123†Learning About Biophysics L392:       * cite124†Credit for College Board Advanced Placement (AP) L393:     * cite72†Physics Majors & Minor L394:       * cite125†B.S. Degree Requirements L395:       * cite126†B.A. Degree Requirements L396:       * cite74†Physics Minor Requirements L397:       * cite127†Concentration in Astrophysics L398:     * cite73†Biophysics Majors L399:       * cite128†B.S. Degree Requirements L400:       * cite129†B.A. Degree Requirements L401:       * cite130†Biophysics Faculty L402:     * cite76†Course Selection & Recommendations L403:       * cite131†Introductory Physics Course L404:       * cite132†Course Placement for majors/minors L405:       * cite133†Sample Course Schedules L406:     * cite78†For Current Students L407:       * cite134†Independent Study L408:       * cite78†Faculty Research Advisors L409:       * cite135†Undergraduate Research L410:         * cite136†Undergraduate Research Fellowships L411:       * cite137†Fellowships for Majors L412:       * cite138†Study Abroad L413:       * cite139†Graduation With Distinction L414:       * cite140†Daphne Chang Memorial Award L415:     * cite75†Tutoring & Course Help L416:     * cite77†Transfer Credit L417:       * cite141†Transfer Credit FAQ L418:     * cite142†Trinity Ambassadors L419:   * cite143†Graduate L420:     * cite71†Ph.D. Requirements L421:     * cite79†For Prospective Students L422:       * cite79†Admissions L423:         * cite144†Admissions Process L424:       * cite145†Financial Support L425:         * cite146†Fellowships L426:           * cite147†Past Fellowship Recipients L427:       * cite148†Living in Durham†durham.duke.edu L428:       * cite149†Campus Visits & Open House L429:       * cite150†Graduate Placements†gradschool.duke.edu L430:     * cite151†For Current Students L431:       * cite152†New Student Orientation L432:       * cite153†Assessment Exams L433:       * cite154†Annual Reports L434:         * cite155†Academic Integrity Policy L435:         * cite156†Criteria For Good Standing L436:         * cite157†Standards of Conduct L437:       * cite158†Research Talks L438:       * cite159†Preliminary Examination L439:       * cite160†Dissertation L440:       * cite161†Mini Courses L441:       * cite162†Conference Travel L442:       * cite80†Steps to Graduation L443:     * cite81†Graduate Student Organization L444:       * cite163†GSO Leadership L445:         * cite164†GSO Meeting Minutes L446:       * cite165†GSO Updates L447:   * cite166†Courses L448:     * cite166†All Courses L449:     * cite167†Non-Physics Majors L450:     * cite168†Introductory Undergraduate L451:     * cite169†Undergraduate Core L452:     * cite170†Undergraduate Electives L453:     * cite171†Graduate Core L454:     * cite172†Graduate Electives L455:     * cite173†Astrophysics L456:     * cite174†Atomic, Molecular & Optics L457:     * cite175†BioPhysics L458:     * cite176†Condensed Matter L459:     * cite177†Nuclear/Particle L460:   * cite178†People L461:     * cite178†Primary and Joint Faculty L462:     * cite179†Secondary Faculty L463:     * cite180†Research, Teaching or Adjunct Faculty L464:     * cite181†Emeritus Faculty L465:     * cite182†Staff L466:     * cite183†Researchers L467:     * cite184†Graduate Students L468:   * cite185†Research L469:     * cite186†Research Areas L470:       * cite186†Atomic/Molecular/Optical (AMO) Physics L471:       * cite187†Biological Physics L472:       * cite188†Condensed Matter & Materials Physics L473:       * cite56†Cosmology & Astrophysics L474:       * cite189†Experimental Nuclear Physics L475:       * cite190†Mathematical Physics L476:       * cite191†High Energy Physics L477:       * cite192†Imaging & Medical Physics L478:       * cite193†Nonlinear & Complex Systems L479:       * cite194†Quantum Information Science L480:       * cite195†Theoretical Nuclear & Particle Physics L481:     * cite196†Research Labs L482:     * cite197†Big Questions L483:       * cite198†BQ1: What are the ultimate laws of nature? L484:       * cite199†BQ2: What principles govern strongly interacting matter? L485:       * cite200†BQ3: How does quantum physics explain and predict novel materials? L486:       * cite201†BQ4: How can we understand complex soft matter and biological systems? L487:       * cite202†BQ5: How can physics research improve the practice of medicine? L488:       * cite203†BQ6: How does physics drive the information and computing revolutions? L489:       * cite204†BQ7: How can we use physics to benefit society? L490:     * cite205†Publications L491:   * cite206†Alumni L492:     * cite206†Alumni Profiles L493:     * cite207†For Our Alumni L494:       * cite208†Assisting Duke Students L495:     * cite209†For Current Students L496:     * cite210†Contribute L497:   * cite211†News L498:   * cite212†Events 

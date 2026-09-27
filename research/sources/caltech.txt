@@ -1,0 +1,426 @@
+Professorial Faculty - Division of Physics, Mathematics and Astronomy (https://www.pma.caltech.edu/people/faculty)
+citeturn88view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn84view2","lineno":null}); Total lines: 938
+L0: cite0†skip to main content L1:   * cite1†Positions Available L2:   * cite2†Calendar L3:   * cite3†Directory†directory.caltech.edu L4:   * Resources cite4†Image cite5†Image L5:     * cite6†Find Resources L6:     * cite7†Room Reservations L7:     * cite8†Staff Resources (Internal) L8:     * cite9†Postdoctoral Scholar Resources L9:     * cite10†PMA Student Programs Office†pmaspo.caltech.edu L10:     * cite11†Teaching Assistant Resources†pmatas.caltech.edu L11:     * cite12†Libraries L12:     * cite13†GWiPMA†gwipma.caltech.edu L13:     * cite14†PMA Newsletter L14:   * Contact cite4†Image cite5†Image L15:     * cite15†Contact Us L16:     * cite16†PMA Personnel L17:     * cite17†PMA Leadership and Staff L18:   * cite18†GIVE L19: cite19†Division of Physics, Mathematics and Astronomy L20: 
+L21:   * About Open About submenu
+L22:     * cite20†PMA at a Glance L23:     * cite21†History L24:     * cite22†Our Nobel Laureates L25:     * cite23†Faculty & Postdoc Awards L26:     * cite24†Student Awards and Prizes L27:     * cite1†Positions Available L28:     * cite25†Visit Us L29:     * cite15†Contact Us L30:     * cite18†Support PMA L31:   * cite16†People Open People submenu
+L32:     * cite26†Professorial Faculty L33:     * cite27†Emeritus Faculty L34:     * cite28†Research and Teaching Faculty L35:     * cite29†Affiliated Faculty L36:     * cite30†Research and Technical Staff L37:     * cite31†Administrative Staff L38:     * cite32†Postdoctoral Scholars L39:     * cite17†PMA Leadership and Staff L40:     * cite33†In Memoriam L41:     * cite34†Search People†pma.caltech.edu L42:   * Departments Open Departments submenu
+L43:     * cite35†Physics†physics.caltech.edu L44:     * cite36†Mathematics†mathematics.caltech.edu L45:     * cite37†Astronomy†www.astro.caltech.edu L46: 
+L47:   * Research Open Research submenu
+L48:     * cite38†Overview L49:     * cite39†Centers & Institutes L50:     * cite40†Observational Facilities L51:     * cite41†Division Buildings L52:     * cite42†Recent Publications L53:     * cite43†Postdoctoral Opportunities L54:   * cite44†Academics Open Academics submenu
+L55:     * cite45†PMA Course Catalog L56:     * cite46†PMA Course Schedule L57:     * cite47†Undergraduate Studies†www.deans.caltech.edu L58:     * cite48†Undergraduate Research Programs†sfp.caltech.edu L59:     * cite49†Summer Undergraduate Research Fellowships (SURF) L60:     * cite50†Mellon Mays Undergraduate Fellowship (MMUF)†ccid.caltech.edu L61:     * cite51†Graduate Studies†www.gradoffice.caltech.edu L62:     * cite52†Student Theses†thesis.library.caltech.edu L63:     * cite53†Student Financial Aid L64:     * cite54†Caltech Honor Code†www.admissions.caltech.edu L65:     * cite55†Academic Calendar†www.caltech.edu L66:     * cite24†Student Awards and Prizes L67:   * cite56†News L68: 
+L69:   * Events Open Events submenu
+L70:     * cite2†PMA Calendar L71:     * cite57†Physics Colloquium†physics.caltech.edu L72:     * cite58†Mathematics Colloquium†mathematics.caltech.edu L73:     * cite59†Astronomy Colloquium†www.astro.caltech.edu L74:     * cite14†PMA Newsletter L75:   * Outreach Open Outreach submenu
+L76:     * cite60†Watson Lecture Series L77:     * cite61†Cal-Bridge Program†calbridge.org L78:     * cite62†WAVE Fellows Program†sfp.caltech.edu L79:     * cite63†FUTURE Ignited†sfp.caltech.edu L80:     * cite64†FUTURE of Physics†future.pma.caltech.edu L81:     * cite65†LIGO Educational Resources†www.ligo.caltech.edu L82:     * cite66†AIM Public Lecture Series†aimath.org L83:     * cite67†Stargazing Lecture Series†www.astro.caltech.edu L84:     * cite68†Astronomy on Tap†www.astro.caltech.edu L85:     * cite69†Dark Sky Events†www.astro.caltech.edu L86:     * cite70†Guerilla Astronomy†www.astro.caltech.edu L87:     * cite71†IPAC Science Engagement Lab†www.ipac.caltech.edu L88:     * cite72†IQIM Outreach†iqim.caltech.edu L89:     * cite73†Diverse Minds Seminar Series†diverseminds.caltech.edu L90:     * cite74†Film and Media†iqim.caltech.edu L91:   * cite75†Image L92: 
+L93: Search[Input][Button: Search]
+L94: 
+L95: Menu cite76†Image L96: 
+L97: Close
+L98: 
+L99:   * About
+L100: 
+L101: Open About submenu
+L102: 
+L103:   * cite16†People Open People submenu
+L104:   * Departments
+L105: 
+L106: Open Departments submenu
+L107: 
+L108:   * Research
+L109: 
+L110: Open Research submenu
+L111: 
+L112:   * cite44†Academics Open Academics submenu
+L113:   * cite56†News L114:   * Events
+L115: 
+L116: Open Events submenu
+L117: 
+L118:   * Outreach
+L119: 
+L120: Open Outreach submenu
+L121:   * cite1†Positions Available L122:   * cite2†Calendar L123:   * cite3†Directory†directory.caltech.edu L124:   * Resources
+L125:     * cite6†Find Resources L126:     * cite7†Room Reservations L127:     * cite8†Staff Resources (Internal) L128:     * cite9†Postdoctoral Scholar Resources L129:     * cite10†PMA Student Programs Office†pmaspo.caltech.edu L130:     * cite11†Teaching Assistant Resources†pmatas.caltech.edu L131:     * cite12†Libraries L132:     * cite13†GWiPMA†gwipma.caltech.edu L133:     * cite14†PMA Newsletter L134:   * Contact
+L135:     * cite15†Contact Us L136:     * cite16†PMA Personnel L137:     * cite17†PMA Leadership and Staff L138:   *   * cite18†GIVE L139: About
+L140: 
+L141: Back
+L142: 
+L143:   * cite20†PMA at a Glance L144:   * cite21†History L145:   * cite22†Our Nobel Laureates L146:   * cite23†Faculty & Postdoc Awards L147:   * cite24†Student Awards and Prizes L148:   * cite1†Positions Available L149:   * cite25†Visit Us L150:   * cite15†Contact Us L151:   * cite18†Support PMA L152: 
+L153: People
+L154: 
+L155: Back
+L156:   * cite26†Professorial Faculty L157:   * cite27†Emeritus Faculty L158:   * cite28†Research and Teaching Faculty L159:   * cite29†Affiliated Faculty L160:   * cite30†Research and Technical Staff L161:   * cite31†Administrative Staff L162:   * cite32†Postdoctoral Scholars L163:   * cite17†PMA Leadership and Staff L164:   * cite33†In Memoriam L165:   * cite34†Search People†pma.caltech.edu L166: 
+L167: Departments
+L168: 
+L169: Back
+L170: 
+L171:   * cite35†Physics†physics.caltech.edu L172:   * cite36†Mathematics†mathematics.caltech.edu L173:   * cite37†Astronomy†www.astro.caltech.edu L174: 
+L175: Research
+L176: 
+L177: Back
+L178:   * cite38†Overview L179:   * cite39†Centers & Institutes L180:   * cite40†Observational Facilities L181:   * cite41†Division Buildings L182:   * cite42†Recent Publications L183:   * cite43†Postdoctoral Opportunities L184: 
+L185: Academics
+L186: 
+L187: Back
+L188:   * cite45†PMA Course Catalog L189:   * cite46†PMA Course Schedule L190:   * cite47†Undergraduate Studies†www.deans.caltech.edu L191:   * cite48†Undergraduate Research Programs†sfp.caltech.edu L192:   * cite49†Summer Undergraduate Research Fellowships (SURF) L193:   * cite50†Mellon Mays Undergraduate Fellowship (MMUF)†ccid.caltech.edu L194:   * cite51†Graduate Studies†www.gradoffice.caltech.edu L195:   * cite52†Student Theses†thesis.library.caltech.edu L196:   * cite53†Student Financial Aid L197:   * cite54†Caltech Honor Code†www.admissions.caltech.edu L198:   * cite55†Academic Calendar†www.caltech.edu L199:   * cite24†Student Awards and Prizes L200: Events
+L201: 
+L202: Back
+L203: 
+L204:   * cite2†PMA Calendar L205:   * cite57†Physics Colloquium†physics.caltech.edu L206:   * cite58†Mathematics Colloquium†mathematics.caltech.edu L207:   * cite59†Astronomy Colloquium†www.astro.caltech.edu L208:   * cite14†PMA Newsletter L209: 
+L210: Outreach
+L211: 
+L212: Back
+L213:   * cite60†Watson Lecture Series L214:   * cite61†Cal-Bridge Program†calbridge.org L215:   * cite62†WAVE Fellows Program†sfp.caltech.edu L216:   * cite63†FUTURE Ignited†sfp.caltech.edu L217:   * cite64†FUTURE of Physics†future.pma.caltech.edu L218:   * cite65†LIGO Educational Resources†www.ligo.caltech.edu L219:   * cite66†AIM Public Lecture Series†aimath.org L220:   * cite67†Stargazing Lecture Series†www.astro.caltech.edu L221:   * cite68†Astronomy on Tap†www.astro.caltech.edu L222:   * cite69†Dark Sky Events†www.astro.caltech.edu L223:   * cite70†Guerilla Astronomy†www.astro.caltech.edu L224:   * cite71†IPAC Science Engagement Lab†www.ipac.caltech.edu L225:   * cite72†IQIM Outreach†iqim.caltech.edu L226:   * cite73†Diverse Minds Seminar Series†diverseminds.caltech.edu L227:   * cite74†Film and Media†iqim.caltech.edu L228: cite75†Image L229: 
+L230: Search[Input][Button: Search]
+L231: # Professorial Faculty
+L232: 
+L233: Related Pages cite76†Image: open sidebar menu Close
+L234: 
+L235: cite16†People L236: 
+L237:   * cite26†Professorial Faculty L238: 
+L239:   * cite27†Emeritus Faculty L240: 
+L241:   * cite28†Research and Teaching Faculty L242: 
+L243:   * cite29†Affiliated Faculty L244: 
+L245:   * cite30†Research and Technical Staff L246: 
+L247:   * cite31†Administrative Staff L248: 
+L249:   * cite32†Postdoctoral Scholars L250: 
+L251:   * cite17†PMA Leadership and Staff L252: 
+L253:   * cite33†In Memoriam L254: 
+L255:   * cite34†Search People†pma.caltech.edu L256: 
+L257: cite77†Image†divisions-prod-assets.resources.caltech.edu L258: 
+L259: cite78†Rana X. Adhikari L260: Professor of Physics
+L261: 
+L262: Atomic, Molecular, and Optical (AMO) Physics;  Artificial Intelligence and Machine Learning in Physics;  Gravitational-Wave Physics and Astrophysics;
+L263: 
+L264: cite79†Research Website†caltechexperimentalgravity.github.io L265: 
+L266: cite80†Image†divisions-prod-assets.resources.caltech.edu L267: 
+L268: cite81†Jason F. Alicea L269: 
+L270: William K. Davis Professor of Theoretical Physics
+L271: 
+L272: Theoretical Condensed Matter Physics;
+L273: 
+L274: cite82†Image†divisions-prod-assets.resources.caltech.edu L275: 
+L276: cite83†Marco Bernardi L277: Professor of Applied Physics, Physics and Materials Science; Undergraduate and Graduate Option Representative for Materials Science
+L278: 
+L279: Experimental Condensed Matter Physics;
+L280: 
+L281: cite84†Research Website†bernardi.caltech.edu L282: 
+L283: cite85†Image†divisions-prod-assets.resources.caltech.edu L284: 
+L285: cite86†James J. (Jamie) Bock L286: 
+L287: Marvin L. Goldberger Professor of Physics; Jet Propulsion Laboratory Senior Research Scientist
+L288: Experimental Cosmology;  Experimental and Observational Astrophysics;  Gravitational-Wave Physics and Astrophysics;  Large-Scale Structure and Cosmology;
+L289: 
+L290: cite87†Research Website†cosmology.caltech.edu L291: 
+L292: cite88†Image†divisions-prod-assets.resources.caltech.edu L293: 
+L294: cite89†Katherine L. (Katie) Bouman L295: 
+L296: Professor of Computing and Mathematical Sciences, Electrical Engineering and Astronomy; Rosenberg Scholar; Investigator, Heritage Medical Research Institute
+L297: 
+L298: cite90†Image†divisions-prod-assets.resources.caltech.edu L299: cite91†Fernando Brandao L300: 
+L301: Bren Professor of Theoretical Physics
+L302: 
+L303: Theoretical Condensed Matter Physics;  Quantum Information Science;
+L304: 
+L305: cite92†Image†divisions-prod-assets.resources.caltech.edu L306: 
+L307: cite93†Bjoern Bringmann L308: 
+L309: Assistant Professor of Mathematics
+L310: 
+L311: Analysis;  Probability;
+L312: 
+L313: cite94†Image†divisions-prod-assets.resources.caltech.edu L314: 
+L315: cite95†Katerina Chatziioannou L316: 
+L317: Professor of Physics; William H. Hurt Scholar
+L318: 
+L319: Gravitational-Wave Physics and Astrophysics;
+L320: 
+L321: cite96†Research Website†kchatziioannou.github.io L322: cite97†Image†divisions-prod-assets.resources.caltech.edu L323: 
+L324: cite98†Xie Chen L325: 
+L326: Eddleman Professor of Theoretical Physics, Director, Walter Burke Institute for Theoretical Physics
+L327: 
+L328: Theoretical Condensed Matter Physics;  Quantum Information Science;
+L329: 
+L330: cite99†Research Website†www.xiechen.caltech.edu L331: 
+L332: cite100†Image†divisions-prod-assets.resources.caltech.edu L333: 
+L334: cite101†Yanbei Chen L335: 
+L336: Professor of Physics
+L337: 
+L338: Theoretical Astrophysics;  Gravitational-Wave Physics and Astrophysics;  Quantum Information Science;
+L339: cite102†Image†divisions-prod-assets.resources.caltech.edu L340: 
+L341: cite103†Clifford Cheung L342: 
+L343: John A. McCone Professor of High Energy Physics and Professor of Theoretical Physics; Director, Leinweber Forum for Theoretical Physics
+L344: 
+L345: Theoretical High Energy Physics;  String Theory and Quantum Gravity;
+L346: 
+L347: cite104†Image†divisions-prod-assets.resources.caltech.edu L348: 
+L349: cite105†David Conlon L350: 
+L351: Professor of Mathematics
+L352: 
+L353: Combinatorics;  Number Theory;
+L354: 
+L355: cite106†Image†divisions-prod-assets.resources.caltech.edu L356: 
+L357: cite107†Nelson Darkwah Oppong L358: Assistant Professor of Physics
+L359: 
+L360: Atomic, Molecular, and Optical (AMO) Physics;  Experimental Condensed Matter Physics;
+L361: 
+L362: cite108†Research Website†www.darkwah-oppong-lab.com L363: 
+L364: cite109†Image†divisions-prod-assets.resources.caltech.edu L365: 
+L366: cite110†Katherine R. de Kleer L367: 
+L368: Professor of Planetary Science and Astronomy; Hufstedler Family Scholar
+L369: 
+L370: cite111†Research Website†web.gps.caltech.edu L371: 
+L372: cite112†Image†divisions-prod-assets.resources.caltech.edu L373: 
+L374: cite113†Vesselin Dimitrov L375: 
+L376: Professor of Mathematics
+L377: Algebraic Geometry;  Number Theory;
+L378: 
+L379: cite114†Image†divisions-prod-assets.resources.caltech.edu L380: 
+L381: cite115†S. George Djorgovski L382: 
+L383: Professor of Astronomy and Data Science
+L384: 
+L385: Transients and Compact Objects;  Large-Scale Structure and Cosmology;  Astroinformatics and Sky Surveys;  Quasars and Active Galactic Nuclei;
+L386: 
+L387: cite116†Research Website†astro.caltech.edu L388: 
+L389: cite117†Image: Caltech Assistant Professor of Astronomy Kareem El-Badry†divisions-prod-assets.resources.caltech.edu L390: 
+L391: cite118†Kareem J. El-Badry L392: Associate Professor of Astronomy
+L393: 
+L394: Experimental and Observational Astrophysics;  Transients and Compact Objects;  Galaxy Evolution and the Intergalactic Medium;
+L395: 
+L396: cite119†Image†divisions-prod-assets.resources.caltech.edu L397: 
+L398: cite120†Manuel A. Endres L399: 
+L400: Professor of Physics
+L401: 
+L402: Atomic, Molecular, and Optical (AMO) Physics;  Artificial Intelligence and Machine Learning in Physics;  Experimental Condensed Matter Physics;  Quantum Information Science;
+L403: 
+L404: cite121†Research Website†www.endreslab.com L405: cite122†Image†divisions-prod-assets.resources.caltech.edu L406: 
+L407: cite123†Bradley W. Filippone L408: 
+L409: Francis L. Moseley Professor of Physics
+L410: 
+L411: Experimental High Energy Physics;  Nuclear Physics;
+L412: 
+L413: cite124†Research Website†www.krl.caltech.edu L414: 
+L415: cite125†Image†divisions-prod-assets.resources.caltech.edu L416: 
+L417: cite126†Matthias Flach L418: 
+L419: Professor of Mathematics
+L420: 
+L421: Algebra;  Algebraic Geometry;  Number Theory;
+L422: 
+L423: cite127†Research Website†www.math.caltech.edu L424: 
+L425: cite128†Image†divisions-prod-assets.resources.caltech.edu L426: 
+L427: cite129†James (Jim) Fuller L428: Professor of Theoretical Astrophysics
+L429: 
+L430: Experimental and Observational Astrophysics;  Theoretical Astrophysics;  Exoplanets and Low-Mass Stars;  Stellar Astrophysics;  Transients and Compact Objects;
+L431: 
+L432: cite130†Research Website†www.tapir.caltech.edu L433: 
+L434: cite131†Image†divisions-prod-assets.resources.caltech.edu L435: 
+L436: cite132†Sunil Golwala L437: 
+L438: Professor of Physics; Deputy Executive Officer for Astrophysics
+L439: 
+L440: Experimental Cosmology;  Experimental High Energy Physics;  Experimental and Observational Astrophysics;
+L441: cite133†Research Website†www.astro.caltech.edu L442: 
+L443: cite134†Image†divisions-prod-assets.resources.caltech.edu L444: 
+L445: cite135†Thomas B. Graber L446: 
+L447: Professor of Mathematics
+L448: 
+L449: Algebraic Geometry;  String Theory (Mathematical Aspects);
+L450: 
+L451: cite136†Image†divisions-prod-assets.resources.caltech.edu L452: 
+L453: cite137†Sergei Gukov L454: 
+L455: John D. MacArthur Professor of Theoretical Physics and Mathematics
+L456: Artificial Intelligence and Machine Learning in Physics;  Theoretical High Energy Physics;  Geometry and Topology;  Mathematical and Machine Learning;  Mathematical Physics;  Quantum Topology;  String Theory (Mathematical Aspects);
+L457: 
+L458: cite137†Research Website L459: 
+L460: cite138†Image: Portrait of Professor of Astronomy Gregg Hallinan†divisions-prod-assets.resources.caltech.edu L461: 
+L462: cite139†Gregg W. Hallinan L463: 
+L464: Professor of Astronomy; Director, Owens Valley Radio Observatory
+L465: cite140†Image†divisions-prod-assets.resources.caltech.edu L466: 
+L467: cite141†Fiona A. Harrison L468: 
+L469: Harold A. Rosen Professor of Physics
+L470: 
+L471: Experimental and Observational Astrophysics;  Astroinformatics and Sky Surveys;
+L472: 
+L473: cite142†Research Website†www.srl.caltech.edu L474: 
+L475: cite143†Image†divisions-prod-assets.resources.caltech.edu L476: 
+L477: cite144†Lynne Hillenbrand L478: 
+L479: Professor of Astronomy
+L480: 
+L481: cite145†Research Website†www.astro.caltech.edu L482: 
+L483: cite146†Image†divisions-prod-assets.resources.caltech.edu L484: 
+L485: cite147†David G. Hitlin L486: 
+L487: Professor of Physics
+L488: Experimental High Energy Physics;
+L489: 
+L490: cite148†Research Website†davidhitlin.caltech.edu L491: 
+L492: cite149†Image†divisions-prod-assets.resources.caltech.edu L493: 
+L494: cite150†Philip F. Hopkins L495: 
+L496: Ira S. Bowen Professor of Theoretical Astrophysics
+L497: 
+L498: Theoretical Astrophysics;
+L499: 
+L500: cite151†Research Website†www.tapir.caltech.edu L501: 
+L502: cite152†Image†divisions-prod-assets.resources.caltech.edu L503: 
+L504: cite153†Andrew W. Howard L505: 
+L506: Professor of Astronomy; Executive Officer for Astronomy
+L507: 
+L508: Exoplanets and Low-Mass Stars;
+L509: 
+L510: cite154†Research Website†exoplanets.caltech.edu L511: cite155†Image†divisions-prod-assets.resources.caltech.edu L512: 
+L513: cite156†David Hsieh L514: 
+L515: Donald A. Glaser Professor of Physics; Executive Officer for Physics
+L516: 
+L517: Experimental Condensed Matter Physics;
+L518: 
+L519: cite157†Research Website†hsiehlab.caltech.edu L520: 
+L521: cite158†Image†divisions-prod-assets.resources.caltech.edu L522: 
+L523: cite159†Hsin-Yuan (Robert) Huang L524: 
+L525: Assistant Professor of Theoretical Physics; William H. Hurt Scholar
+L526: Artificial Intelligence and Machine Learning in Physics;  Theoretical Condensed Matter Physics;  Quantum Information Science;
+L527: 
+L528: cite160†Research Website†hsinyuan-huang.github.io L529: 
+L530: cite161†Image†divisions-prod-assets.resources.caltech.edu L531: 
+L532: cite162†Thomas M. (Tom) Hutchcroft L533: 
+L534: Gordon and Betty Moore Professor of Mathematics
+L535: 
+L536: Probability;
+L537: 
+L538: cite163†Image†divisions-prod-assets.resources.caltech.edu L539: 
+L540: cite164†Nicholas R. (Nick) Hutzler L541: 
+L542: Professor of Physics
+L543: Atomic, Molecular, and Optical (AMO) Physics;  Experimental Condensed Matter Physics;  Experimental High Energy Physics;  Nuclear Physics;
+L544: 
+L545: cite165†Research Website†www.hutzlerlab.com L546: 
+L547: cite166†Image†divisions-prod-assets.resources.caltech.edu L548: 
+L549: cite167†Philip (Phil) Isett L550: 
+L551: Professor of Mathematics
+L552: 
+L553: Mathematical Physics;
+L554: 
+L555: cite168†Image†divisions-prod-assets.resources.caltech.edu L556: 
+L557: cite169†Ray Jayawardhana L558: 
+L559: President; Sonja and William Davidow Presidential Chair; Professor of Astronomy
+L560: Exoplanets and Low-Mass Stars;  Stellar Astrophysics;
+L561: 
+L562: cite170†Image†divisions-prod-assets.resources.caltech.edu L563: 
+L564: cite171†Anton N. Kapustin L565: 
+L566: Earle C. Anthony Professor of Theoretical Physics and Mathematics
+L567: 
+L568: Theoretical Condensed Matter Physics;  Theoretical High Energy Physics;  String Theory (Mathematical Aspects);
+L569: 
+L570: cite172†Image: Portrait of Caltech Professor of Astronomy Mansi Kasliwal†divisions-prod-assets.resources.caltech.edu L571: 
+L572: cite173†Mansi M. Kasliwal L573: Professor of Astronomy; Director, Palomar Observatory
+L574: 
+L575: cite174†Image†divisions-prod-assets.resources.caltech.edu L576: 
+L577: cite175†Alexei Kitaev L578: 
+L579: Ronald and Maxine Linde Professor of Theoretical Physics and Mathematics
+L580: 
+L581: Theoretical Condensed Matter Physics;  Quantum Information Science;  Mathematical Physics;  Quantum Topology;
+L582: 
+L583: cite176†Image†divisions-prod-assets.resources.caltech.edu L584: 
+L585: cite177†Shrinivas R. (Shri) Kulkarni L586: 
+L587: George Ellery Hale Professor of Astronomy and Planetary Science
+L588: Experimental and Observational Astrophysics;  Stellar Astrophysics;  Transients and Compact Objects;  Galaxy Evolution and the Intergalactic Medium;  Astroinformatics and Sky Surveys;
+L589: 
+L590: cite178†Research Website†sites.astro.caltech.edu L591: 
+L592: cite179†Image†divisions-prod-assets.resources.caltech.edu L593: 
+L594: cite180†Kenneth G. Libbrecht L595: 
+L596: Professor of Physics
+L597: 
+L598: Experimental Condensed Matter Physics;
+L599: 
+L600: cite181†Research Website†www.its.caltech.edu L601: 
+L602: cite182†Image†divisions-prod-assets.resources.caltech.edu L603: 
+L604: cite183†Nikolai Makarov L605: Richard Merkin Distinguished Professor of Mathematics
+L606: 
+L607: Probability;
+L608: 
+L609: cite184†Image†divisions-prod-assets.resources.caltech.edu L610: 
+L611: cite185†Elena Mantovan L612: 
+L613: Taussky-Todd-Lonergan Professor of Mathematics
+L614: 
+L615: Algebraic Geometry;  Number Theory;
+L616: 
+L617: cite186†Research Website†www.its.caltech.edu L618: 
+L619: cite187†Image†divisions-prod-assets.resources.caltech.edu L620: 
+L621: cite188†Matilde Marcolli L622: 
+L623: Robert F. Christy Professor of Mathematics and Computing and Mathematical Sciences
+L624: Mathematical and Computational Linguistics;  Mathematical Structures in Quantum Physics;  Noncommutative Geometry;
+L625: 
+L626: cite189†Research Website†www.its.caltech.edu L627: 
+L628: cite190†Image†divisions-prod-assets.resources.caltech.edu L629: 
+L630: cite191†Christopher Martin L631: 
+L632: Edward C. Stone Professor of Physics; Director, Caltech Optical Observatories
+L633: 
+L634: Experimental and Observational Astrophysics;  Galaxy Evolution and the Intergalactic Medium;
+L635: 
+L636: cite192†Research Website†sites.google.com L637: cite193†Image†divisions-prod-assets.resources.caltech.edu L638: 
+L639: cite194†Dimitri Mawet L640: 
+L641: David Morrisroe Professor of Astronomy; Jet Propulsion Laboratory Senior Research Scientist; Director of Instrumentation for the Caltech Optical Observatories
+L642: 
+L643: Exoplanets and Low-Mass Stars;
+L644: 
+L645: cite195†Research Website†etlab.caltech.edu L646: 
+L647: cite196†Image†divisions-prod-assets.resources.caltech.edu L648: 
+L649: cite197†Lee P. McCuller L650: 
+L651: Assistant Professor of Physics
+L652: Atomic, Molecular, and Optical (AMO) Physics;  Experimental Condensed Matter Physics;  Gravitational-Wave Physics and Astrophysics;
+L653: 
+L654: cite198†Image†divisions-prod-assets.resources.caltech.edu L655: 
+L656: cite199†Elias R. Most L657: 
+L658: Assistant Professor of Theoretical Astrophysics; William H. Hurt Scholar
+L659: 
+L660: Theoretical Astrophysics;  Gravitational-Wave Physics and Astrophysics;  Transients and Compact Objects;  Relativistic Astrophysics;
+L661: 
+L662: cite200†Image†divisions-prod-assets.resources.caltech.edu L663: 
+L664: cite201†Olexei I. Motrunich L665: Professor of Theoretical Physics
+L666: 
+L667: Experimental Condensed Matter Physics;
+L668: 
+L669: cite202†Image†divisions-prod-assets.resources.caltech.edu L670: 
+L671: cite203†Harvey B. Newman L672: 
+L673: Professor of Physics
+L674: 
+L675: Experimental Condensed Matter Physics;  Experimental High Energy Physics;
+L676: 
+L677: cite204†Research Website†hep.caltech.edu L678: 
+L679: cite205†Image†divisions-prod-assets.resources.caltech.edu L680: 
+L681: cite206†Yi Ni L682: 
+L683: Professor of Mathematics
+L684: 
+L685: Geometry and Topology;
+L686: 
+L687: cite207†Image†divisions-prod-assets.resources.caltech.edu L688: 
+L689: cite208†Hiroshi (Hirosi Ooguri) Oguri L690: Fred Kavli Professor of Theoretical Physics and Mathematics; Kent and Joyce Kresa Leadership Chair, Division of Physics, Mathematics and Astronomy
+L691: 
+L692: Experimental Condensed Matter Physics;  Experimental High Energy Physics;  String Theory and Quantum Gravity;  String Theory (Mathematical Aspects);
+L693: 
+L694: cite209†Research Website†burkeinstitute.caltech.edu L695: 
+L696: cite210†Image†divisions-prod-assets.resources.caltech.edu L697: 
+L698: cite211†Oskar J. Painter L699: 
+L700: John G Braun Professor of Applied Physics and Physics
+L701: Atomic, Molecular, and Optical (AMO) Physics;  Experimental Condensed Matter Physics;  Quantum Information Science;
+L702: 
+L703: cite212†Research Website†painterlab.caltech.edu L704: 
+L705: cite213†Image†divisions-prod-assets.resources.caltech.edu L706: 
+L707: cite214†Ryan B. Patterson L708: 
+L709: Professor of Physics
+L710: 
+L711: Experimental High Energy Physics;
+L712: 
+L713: cite215†Research Website†www.its.caltech.edu L714: 
+L715: cite216†Image†divisions-prod-assets.resources.caltech.edu L716: 
+L717: cite217†Rob B. Phillips L718: 
+L719: Fred and Nancy Morris Professor of Biophysics, Biology, and Physics
+L720: Physical Biology;
+L721: 
+L722: cite218†Research Website†www.rpgroup.caltech.edu L723: 
+L724: cite219†Image†divisions-prod-assets.resources.caltech.edu L725: 
+L726: cite220†E. Sterl Phinney L727: 
+L728: Professor of Theoretical Astrophysics
+L729: 
+L730: Theoretical Astrophysics;  Gravitational-Wave Physics and Astrophysics;  Transients and Compact Objects;
+L731: 
+L732: cite221†Research Website†www.its.caltech.edu L733: 
+L734: cite222†Image†divisions-prod-assets.resources.caltech.edu L735: 
+L736: cite223†Hugh D. (David) Politzer L737: 
+L738: Richard Chace Tolman Professor of Theoretical Physics
+L739: Theoretical High Energy Physics;
+L740: 
+L741: cite224†Research Website†www.its.caltech.edu L742: 
+L743: cite225†Image†divisions-prod-assets.resources.caltech.edu L744: 
+L745: cite226†Frank C. Porter 

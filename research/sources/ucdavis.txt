@@ -1,0 +1,421 @@
+Faculty | physics (https://physics.ucdavis.edu/people/faculty)
+citeturn80view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://physics.ucdavis.edu/people/faculty","lineno":null}); Total lines: 846
+L0: Menu
+L1: 
+L2: cite0†physics L3: 
+L4: cite0†physics L5: 
+L6: Quick Links +
+L7: 
+L8:   * cite1†Intranet†internal.physics.ucdavis.edu L9:   * cite2†Contact L10:   * cite3†Directory L11:   * cite4†Make a Gift to Physics†give.ucdavis.edu L12:   * cite5†Employment Opportunities L13:   * cite6†Safety L14: 
+L15:   * cite7†About L16: 
+L17:     * cite2†Administration L18:       * cite8†Department Committees L19:       * cite9†Advisory Board L20:       * cite10†Safety L21:       * cite11†Graduate Program Bylaws L22:       * cite12†IT Help†lsit.ucdavis.edu L23:     * cite2†Contact L24:     * cite13†Donors to Physics and Astronomy L25:     * cite5†Employment Opportunities L26:     * cite14†Physics & Astronomy Departmental Climate L27:     * cite1†Internal†internal.physics.ucdavis.edu L28:   * cite3†People L29:     * cite15†Staff L30:     * cite16†Faculty L31:     * cite17†Adjunct Faculty and Lecturers L32:     * cite18†Graduate Students L33:     * cite19†Postdocs, Researchers, and Visitors L34:     * cite20†Alumni L35: 
+L36:       * cite21†Alumni Testimonials L37:       * cite22†Ph.D. Recipients L38:     * cite23†In Memoriam L39:   * cite24†News & Events L40: 
+L41:     * cite25†Colloquia & Seminars L42:       * cite26†Alumni Seminar & Careers in Physics L43:       * cite27†Astrophysics & Cosmology L44:       * cite28†Colloquium L45:       * cite29†Condensed Matter L46:       * cite30†Experimental Particle Physics Seminar L47:       * cite31†Fields, Strings, Gravity L48:       * cite32†Nuclear L49:       * cite33†QMAP Particles/Cosmology L50:       * cite34†Frederica Darema Lecture Series†daremalectures.physics.ucdavis.edu L51:     * cite35†Department Calendar L52:     * cite36†Physics News L53:     * cite37†Newsletter L54:     * cite38†Public Events L55:     * cite39†Social Media L56:   * cite40†Interact with Physics & Astronomy L57:     * cite41†Alumni Network L58:     * cite42†Career Opportunities L59:     * cite43†Giving L60:     * cite44†General Departmental Support L61:     * cite45†Department Awards, Prizes & Scholarships L62:     * cite46†Creating a New Fund L63:     * cite47†Research Support L64:     * cite48†Donor Photos and Testimonials L65:     * cite49†Fellowship Recipients Photos & Testimonials L66:   * cite50†Undergraduates L67: 
+L68:     * cite51†Academic Advising L69:       * cite52†Major Requirements L70:       * cite53†Careers After a Degree in Physics L71:       * cite54†Course Registration FAQ L72:       * cite55†Physics Courses L73:       * cite56†Honors Physics L74:       * cite57†Honors Thesis L75:     * cite58†Undergraduate Research, Careers, Clubs L76:       * cite59†Undergraduate Research with Faculty L77:       * cite60†Career Services L78:       * cite61†Research & Internship Opportunities L79:       * cite62†Physics Club†phyclub.physics.ucdavis.edu L80:       * cite63†Astronomy Club L81:       * cite64†Women & Gender Minorities in Physics Club†sites.google.com L82:     * cite65†Admissions Information L83:       * cite66†Why Physics at UCD? L84:       * cite67†Transfer Student Requirements L85:       * cite68†Meet some of our students! L86:     * cite69†Undergraduate Teaching Awards L87:     * cite70†Tutoring Resources L88:   * cite71†Graduates L89: 
+L90:     * cite72†PhD Program L91:     * cite73†Masters Program L92:     * cite74†Graduate Courses L93:     * cite75†Application Information L94:     * cite76†Diversity L95:     * cite77†GradOPS†gradops.physics.ucdavis.edu L96:     * cite78†Resources for Current Graduate Students L97:     * cite79†Why apply to UC Davis? L98:   * Research
+L99:     * cite80†Research Areas L100:       * cite81†Astrophysics & Cosmology L101:       * cite82†Complexity Sciences†csc.ucdavis.edu L102:       * cite83†Condensed Matter Experiment†cme.physics.ucdavis.edu L103:       * cite84†Condensed Matter Theory L104:       * cite85†Education L105:       * cite86†Fields, Strings, and Gravity†fsg.physics.ucdavis.edu L106:       * cite87†Particle Experiment†pex.physics.ucdavis.edu L107:       * cite88†High Energy Theory†particle.physics.ucdavis.edu L108:       * cite89†Nuclear†nuclear.ucdavis.edu L109:       * cite90†Quantum Devices and Precision Quantum Measurement L110:       * cite91†High Energy Theory L111:         * cite91†High Energy Theory Home L112:         * cite92†Calendar L113:         * cite93†Members L114:         * cite94†news L115:         * cite95†FAQ L116:     * cite96†Research Facilities L117:     * cite97†Physics Shops L118:     * cite98†PI Ledger Review†financeandbusiness.ucdavis.edu L119:   * cite99†Resources L120: 
+L121:     * cite100†Room Reservations L122:       * cite101†80 Physics L123:       * cite102†152 Roessler L124:       * cite103†154 Roessler L125:       * cite104†156 Roessler L126:       * cite105†158 Roessler L127:       * cite106†162 Roessler L128:       * cite107†164 Roessler L129:       * cite108†166 Roessler L130:       * cite109†168 Roessler L131:       * cite110†181 Physics L132:       * cite111†182 Physics L133:       * cite112†185 Physics L134:       * cite113†186 Physics L135:       * cite114†285 Physics L136:       * cite115†328 Physics L137:       * cite116†396 Physics L138:       * cite117†414 Physics L139:       * cite118†416 Physics L140:       * cite119†432 Physics L141:       * cite120†525 Physics L142:       * cite121†2307 EPS L143:       * cite122†2312 EPS L144:       * cite123†2314 EPS L145:       * cite124†2317 EPS L146:       * cite125†2319 EPS L147:       * cite126†2322 EPS L148:     * cite127†Resources for Current Students L149:     * cite128†Resources for Faculty and Staff L150:     * cite129†Resources for Instructors L151:     * cite130†Resources for Prospective Students L152:     * cite131†Resources for Visitors L153:     * cite6†Safety Resources L154: # Faculty
+L155: 
+L156: ### Faculty
+L157: 
+L158: ### cite132†Nancy Aggarwal L159: 
+L160:   * Assistant Professor
+L161: 
+L162:   * 321-122-3232
+L163:   * fax - 321-121-3232
+L164:   * cite133†[email protected] L165:   * cite134†https://www.test.com†www.test.com L166: 
+L167: 433 Physics Building
+L168: 
+L169: ### cite135†Andreas J. Albrecht L170: 
+L171:   * Distinguished Professor Emeritus
+L172: 
+L173:   * +1 (530) 754-9269
+L174:   * Fax - +1 (530) 752-4717
+L175:   * cite136†[email protected] L176:   * cite137†http://albrecht.ucdavis.edu/†albrecht.ucdavis.edu L177: 
+L178: 3005 Physical and Data Sciences Building
+L179: ### cite138†Robert H Becker L180: 
+L181:   * Distinguished Professor Emeritus
+L182: 
+L183:   * Fax: +1 (530) 752-4717
+L184:   * cite139†[email protected] L185:   * cite140†http://becker.physics.ucdavis.edu/†becker.physics.ucdavis.edu L186: 
+L187: ### cite141†Magali Billen L188: 
+L189:   * Professor of Earth & Planetary Sciences
+L190: 
+L191:   * 530-752-4169
+L192:   * cite142†[email protected] L193:   * cite143†https://eps.ucdavis.edu/people/faculty/billen†eps.ucdavis.edu L194: 
+L195: 2129 Earth and Physical Sciences building
+L196: ### cite144†Patricia Chikotas Boeshaar L197: 
+L198:   * Distinguished Sr. Lecturer Emerita
+L199: 
+L200:   * +1 (530) 754-9246
+L201:   * Fax: +1 (530) 752-4717
+L202:   * cite145†[email protected] L203: 
+L204: 233 Physics Building
+L205: 
+L206: ### cite146†Manuel Calderon de la Barca Sanchez L207: 
+L208:   * Professor
+L209: 
+L210:   * (530) 754-9609
+L211:   * Fax: +1 (530) 752-4717
+L212:   * cite147†[email protected] L213:   * cite148†http://calderon.physics.ucdavis.edu†calderon.physics.ucdavis.edu L214: 
+L215: 397A Physics Building
+L216: ### cite149†Steven Carlip L217: 
+L218:   * Distinguished Professor Emeritus
+L219: 
+L220:   * +1 (530) 752-8786
+L221:   * Fax: +1 (530) 752-4717
+L222:   * cite150†[email protected] L223:   * cite151†http://carlip.physics.ucdavis.edu†carlip.physics.ucdavis.edu L224: 
+L225: 3032 Physical and Data Sciences Building
+L226: 
+L227: ### cite152†Daniel A Cebra L228: 
+L229:   * Professor and Chair
+L230: 
+L231:   * +1 (530) 752-4592
+L232:   * Fax: +1 (530) 752-4717
+L233:   * cite153†[email protected] L234:   * cite154†http://cebra.physics.ucdavis.edu†cebra.physics.ucdavis.edu L235: 
+L236: 387A Physics Building
+L237: ### cite155†Ling-lie Chau L238: 
+L239:   * Professor Emerita
+L240: 
+L241:   * +1 (530) 753-5943
+L242:   * Fax: +1 (530) 752-4717
+L243:   * cite156†[email protected] L244:   * cite157†http://chau.physics.ucdavis.edu/†chau.physics.ucdavis.edu L245: 
+L246: 421 Physics Building
+L247: 
+L248: ### cite158†Hsin-Chia Cheng L249: 
+L250:   * Professor
+L251: 
+L252:   * +1 (530) 754-0529
+L253:   * Fax: +1 (530) 752-4717
+L254:   * cite159†[email protected] L255:   * cite160†http://cheng.physics.ucdavis.edu†cheng.physics.ucdavis.edu L256: 
+L257: 3029 Physical and Data Sciences Building
+L258: ### cite161†Maxwell B Chertok L259: 
+L260:   * Professor
+L261: 
+L262:   * +1 (530) 754-7351
+L263:   * cite162†[email protected] L264:   * cite163†https://chertok.physics.ucdavis.edu†chertok.physics.ucdavis.edu L265: 
+L266: 329 Physics Building
+L267: 
+L268: ### cite164†Shirley Chiang L269: 
+L270:   * Distinguished Professor and Vice Chair for Academic Personnel
+L271: 
+L272:   * +1 (530) 754-0562
+L273:   * cite165†[email protected] L274:   * cite166†http://chiang.physics.ucdavis.edu†chiang.physics.ucdavis.edu L275: 
+L276: 235 Physics Building
+L277: ### cite167†Matthew Citron L278: 
+L279:   * Assistant Professor
+L280: 
+L281:   * 530-752-1283
+L282:   * cite168†[email protected] L283:   * cite169†Citron group website†citron.faculty.ucdavis.edu L284: 
+L285: 315 Physics Building
+L286: 
+L287: ### cite170†Lawrence B Coleman L288: 
+L289:   * Professor Emeritus
+L290: 
+L291:   * Fax: +1 (530) 752-4717
+L292:   * cite171†[email protected] L293:   * cite172†http://coleman.physics.ucdavis.edu†coleman.physics.ucdavis.edu L294: ### cite173†John Stephen Conway L295: 
+L296:   * Distinguished Professor
+L297: 
+L298:   * +1 (530) 754-7639
+L299:   * Fax: +1 (530) 752-4717
+L300:   * cite174†[email protected] L301:   * cite175†http://conway.physics.ucdavis.edu†conway.physics.ucdavis.edu L302: 
+L303: 311 Physics Building
+L304: 
+L305: ### cite176†Tessa Cookmeyer L306: 
+L307:   * Assistant Professor
+L308: 
+L309:   * cite177†[email protected] L310: 
+L311: 407 Physics Building
+L312: ### cite178†Linton R Corruccini L313: 
+L314:   * Professor Emeritus
+L315: 
+L316:   * (530)902-6194
+L317:   * Fax: +1 (530) 752-4717
+L318:   * cite179†[email protected] L319:   * cite180†http://corruccini.physics.ucdavis.edu†corruccini.physics.ucdavis.edu L320: 
+L321: 205 Physics Building
+L322: 
+L323: ### cite181†Daniel L Cox L324: 
+L325:   * Distinguished Professor Emeritus
+L326: 
+L327:   * +1 (415) 867 4992
+L328:   * Fax: +1 (530) 752-4717
+L329:   * cite182†[email protected] L330:   * cite183†http://dlcox.wordpress.com/†dlcox.wordpress.com L331: 
+L332: 407 Physics Building
+L333: ### cite184†James Patrick Crutchfield L334: 
+L335:   * Distinguished Professor Emeritus
+L336: 
+L337:   * +1 (530) 752-0600
+L338:   * Fax: +1 (530) 754-4885
+L339:   * cite185†[email protected] L340:   * cite186†http://csc.ucdavis.edu/~chaos/†csc.ucdavis.edu L341: 
+L342: 197 Physics Building
+L343: 
+L344: ### cite187†Nicholas J Curro L345: 
+L346:   * Professor
+L347: 
+L348:   * +1 (530)7540837
+L349:   * Fax: +1 (530) 752-4717
+L350:   * cite188†[email protected] L351:   * cite189†http://curro.ucdavis.edu/†curro.ucdavis.edu L352: 
+L353: 201 Physics Building
+L354: ### cite190†Raissa D'Souza L355: 
+L356:   * Professor, Computer Science and Mechanical and Aerospace Engr
+L357: 
+L358:   * (530) 754-8405
+L359:   * cite191†[email protected] L360:   * cite192†https://web.cs.ucdavis.edu/~raissa/†web.cs.ucdavis.edu L361: 
+L362: ### cite193†Robin Diane Erbacher L363: 
+L364:   * Professor
+L365: 
+L366:   * +1 (530) 754-6203
+L367:   * Fax: +1 (530)752-4717
+L368:   * cite194†[email protected] L369: 
+L370: 343 Physics Building
+L371: ### cite195†Christopher D Fassnacht L372: 
+L373:   * Professor
+L374: 
+L375:   * +1 (530) 554-2600
+L376:   * Fax: +1 (530) 752-4717
+L377:   * cite196†[email protected] L378:   * cite197†http://fassnacht.physics.ucdavis.edu†fassnacht.physics.ucdavis.edu L379: 
+L380: 515 Physics Building
+L381: 
+L382: ### cite198†Daniel Ferenc L383: 
+L384:   * Professor Emeritus
+L385: 
+L386:   * +1 (530) 220-5594
+L387:   * Fax: +1 (530) 752-4717
+L388:   * cite199†[email protected] L389: ### cite200†Ching-yao Fong L390: 
+L391:   * Distinguished Professor Emeritus
+L392: 
+L393:   * +1 (530) 754-0509
+L394:   * Fax: +1 (530)752-4717
+L395:   * cite201†[email protected] L396: 
+L397: 403 Physics Building
+L398: 
+L399: ### cite202†Claude Garrod L400: 
+L401:   * Professor Emeritus
+L402: 
+L403:   * cite203†[email protected] L404:   * cite204†http://garrod.physics.ucdavis.edu†garrod.physics.ucdavis.edu L405: ### cite205†Mark Steven Goldman L406: 
+L407:   * Professor, Neurobiology, Physiology and Behavior
+L408: 
+L409:   * (530) 757-8749
+L410:   * cite206†[email protected] L411:   * cite207†https://goldmanlab.faculty.ucdavis.edu/†goldmanlab.faculty.ucdavis.edu L412: 
+L413: ### cite208†Michael Gregg L414: 
+L415:   * Research Physicist
+L416: 
+L417:   * (925)423-8946
+L418:   * cite209†[email protected] L419:   * cite210†https://gregg.physics.ucdavis.edu†gregg.physics.ucdavis.edu L420: 
+L421: 517 Physics Building
+L422: ### cite211†John F Gunion L423: 
+L424:   * Distinguished Professor Emeritus
+L425: 
+L426:   * +1 (530) 219-7316
+L427:   * Fax: +1 (530)752-4717
+L428:   * cite212†[email protected] L429:   * cite213†http://higgs.physics.ucdavis.edu/gunion†higgs.physics.ucdavis.edu L430: 
+L431: 441 Physics Building
+L432: 
+L433: ### cite214†Veronika Hubeny L434: 
+L435:   * Professor
+L436: 
+L437:   * (530)238-5434
+L438:   * Fax: (530)752-4717
+L439:   * cite215†[email protected] L440:   * cite216†http://hubeny.physics.ucdavis.edu†hubeny.physics.ucdavis.edu L441: 
+L442: 2029 Physical and Data Sciences Building
+L443: ### cite217†Tucker Jones L444: 
+L445:   * Professor
+L446: 
+L447:   * (530)752-6921
+L448:   * cite218†[email protected] L449:   * cite219†http://jones.physics.ucdavis.edu†jones.physics.ucdavis.edu L450: 
+L451: 513 Physics Building
+L452: 
+L453: ### cite220†Nemanja Kaloper L454: 
+L455:   * Professor
+L456: 
+L457:   * +1 (530) 554-1220
+L458:   * Fax: +1 (530)752-4717
+L459:   * cite221†[email protected] L460:   * cite222†http://kaloper.physics.ucdavis.edu†kaloper.physics.ucdavis.edu L461: 
+L462: 3021 Physical and Data Sciences Building
+L463: ### cite223†Isaac H Kim L464: 
+L465:   * Assistant Professor of Computer Science
+L466: 
+L467:   * 530-752-1500
+L468:   * cite224†[email protected] L469: 
+L470: ### cite225†Barry M Klein L471: 
+L472:   * Professor Emeritus
+L473: 
+L474:   * (530) 219-9302
+L475:   * cite226†[email protected] L476:   * cite227†http://klein.physics.ucdavis.edu†klein.physics.ucdavis.edu L477: 
+L478: 401 Physics Building
+L479: ### cite228†Lloyd E Knox L480: 
+L481:   * Professor
+L482:   * Vaida Endowed Chair
+L483: 
+L484:   * +1 (530) 7540552
+L485:   * Fax: +1 (530) 752-4717
+L486:   * cite229†[email protected] L487:   * cite230†http://www.lloydknox.com/†www.lloydknox.com L488: 
+L489: 505 Physics Building
+L490: 
+L491: ### cite231†Brian Kolner L492: 
+L493:   * Professor of Electrical & Computer Engineering
+L494: 
+L495:   * 530-752-1500
+L496:   * cite232†[email protected] L497:   * cite233†https://faculty.engineering.ucdavis.edu/kolner/†faculty.engineering.ucdavis.edu L498: ### cite234†Lori M Lubin L499: 
+L500:   * Professor
+L501: 
+L502:   * +1 (530) 754-4418
+L503:   * Fax: +1 (530)752-4717
+L504:   * cite235†[email protected] L505:   * cite236†http://lubin.physics.ucdavis.edu†lubin.physics.ucdavis.edu L506: 
+L507: 507 Physics Building
+L508: 
+L509: ### cite237†Markus A Luty L510: 
+L511:   * Professor
+L512: 
+L513:   * +1 (530)554-1280
+L514:   * Fax: +1 (530) 752-4717
+L515:   * cite238†[email protected] L516:   * cite239†http://particle.physics.ucdavis.edu/hefti/members/doku.php?id=luty†particle.physics.ucdavis.edu L517: 
+L518: 3031 Physical and Data Sciences Building
+L519: ### cite240†Brenna Mockler L520: 
+L521:   * Assistant Professor
+L522: 
+L523:   * cite241†[email protected] L524:   * cite242†https://bmockler.github.io/†bmockler.github.io L525: 
+L526: 531 Physics Building
+L527: 
+L528: ### cite243†Michael J Mulhearn L529: 
+L530:   * Professor and Vice Chair-Undergraduate Program
+L531: 
+L532:   * +1 (530) 754-7226
+L533:   * cite244†[email protected] L534: 
+L535: 317 Physics Building
+L536: ### cite245†Emilija Pantic L537: 
+L538:   * Professor
+L539: 
+L540:   * (310)618-4625
+L541:   * Fax: (530)752-4717
+L542:   * cite246†[email protected] L543:   * cite247†http://pantic.physics.ucdavis.edu/†pantic.physics.ucdavis.edu L544: 
+L545: 327 Physics Building
+L546: 
+L547: ### cite248†David E Pellett L548: 
+L549:   * Professor Emeritus
+L550: 
+L551:   * +1 (530) 752-1783
+L552:   * Fax: +1 (530) 752-4717
+L553:   * cite249†[email protected] L554:   * cite250†http://pellett.physics.ucdavis.edu†pellett.physics.ucdavis.edu L555: 
+L556: 378 Physics Building
+L557: ### cite251†Warren E. Pickett L558: 
+L559:   * Distinguished Professor Emeritus
+L560: 
+L561:   * +1 (530) 220-2138
+L562:   * Fax: +1 (530)752-4717
+L563:   * cite252†[email protected] L564:   * cite253†http://yclept.ucdavis.edu/index.html†yclept.ucdavis.edu L565: 
+L566: 427 Physics Building
+L567: 
+L568: ### cite254†Eric Prebys L569: 
+L570:   * Professor and Director of Crocker Nuclear Laboratory
+L571: 
+L572:   * (630) 336-1893
+L573:   * cite255†[email protected] L574:   * cite256†http://eprebys.faculty.ucdavis.edu/†eprebys.faculty.ucdavis.edu L575: 
+L576: 337 Physics Building
+L577: ### cite257†Mukund Rangamani L578: 
+L579:   * Professor
+L580: 
+L581:   * 530-213-3123
+L582:   * cite258†[email protected] L583:   * cite259†http://mukund.physics.ucdavis.edu†mukund.physics.ucdavis.edu L584: 
+L585: 2007 Physical and Data Sciences Building
+L586: 
+L587: ### cite260†Maxwell L Rudolph L588: 
+L589:   * Associate Professor of Earth & Planetary Sciences
+L590: 
+L591:   * 530-752-3669
+L592:   * cite261†[email protected] L593:   * cite262†https://www.maxrudolph.net/†www.maxrudolph.net L594: 
+L595: 1133 Earth and Physical Sciences building
+L596: ### cite263†John B Rundle L597: 
+L598:   * Distinguished Professor
+L599: 
+L600:   * +1 (530) 752-6416
+L601:   * Fax: +1 (530) 752-4717
+L602:   * cite264†[email protected] L603:   * cite265†http://rundle.physics.ucdavis.edu†rundle.physics.ucdavis.edu L604: 
+L605: 534B Physics Building
+L606: 
+L607: ### cite266†Sergey Y Savrasov L608: 
+L609:   * Professor
+L610: 
+L611:   * +1 (530) 902-6391
+L612:   * Fax: +1 (530) 752-4717
+L613:   * cite267†[email protected] L614:   * cite268†http://savrasov.physics.ucdavis.edu†savrasov.physics.ucdavis.edu L615: 
+L616: 417 Physics Building
+L617: ### cite269†Richard T Scalettar L618: 
+L619:   * Distinguished Professor
+L620: 
+L621:   * (530)752-9706
+L622:   * cite270†[email protected] L623:   * cite271†http://scalettar.physics.ucdavis.edu†scalettar.physics.ucdavis.edu L624: 
+L625: 409 Physics Building
+L626: 
+L627: ### cite272†Robert N Shelton L628: 
+L629:   * Professor Emeritus
+L630: 
+L631:   * 530-752-1500
+L632:   * cite273†[email protected] L633:   * cite274†https://physics.ucdavis.edu/directory/faculty/robert-shelton L634: ### cite275†Rajiv R Singh L635: 
+L636:   * Distinguished Professor
+L637: 
+L638:   * +1 (530) 752-4710
+L639:   * Fax: +1 (530) 752-4717
+L640:   * cite276†[email protected] L641:   * cite277†http://singh.ucdavis.edu†singh.ucdavis.edu L642: 
+L643: 425 Physics Building
+L644: 
+L645: ### cite278†Adam Stanford L646: 
+L647:   * Research Physicist Emeritus
+L648: 
+L649:   * cite279†[email protected] L650: 
+L651: Off Campus
+L652: ### cite280†Robert C Svoboda L653: 
+L654:   * Distinguished Research Professor Emeritus
+L655: 
+L656:   * +1 (530) 754-9610
+L657:   * Fax: +1 (530) 752-4717
+L658:   * cite281†[email protected] L659:   * cite282†http://svoboda.ucdavis.edu/†svoboda.ucdavis.edu L660: 
+L661: 349 Physics Building
+L662: 
+L663: ### cite283†Valentin Taufour L664: 
+L665:   * Professor
+L666: 
+L667:   * (530)752-1884
+L668:   * cite284†[email protected] L669:   * cite285†http://taufourlab.faculty.ucdavis.edu/†taufourlab.faculty.ucdavis.edu L670: 
+L671: 217 Physics Building
+L672: ### cite286†John Terning L673: 
+L674:   * Professor
+L675: 
+L676:   * +1 (530) 231-2540
+L677:   * Fax: +1 (530) 752-4717
+L678:   * cite287†[email protected] L679:   * cite288†http://terning.physics.ucdavis.edu†terning.physics.ucdavis.edu L680: 
+L681: 3023 Physical and Data Sciences Building
+L682: 
+L683: ### cite289†Alex R Thomson L684: 
+L685:   * Assistant Professor
+L686: 
+L687:   * 530-752-1500
+L688:   * cite290†[email protected] L689:   * cite291†https://physics.ucdavis.edu/directory/faculty/alex-thomson L690: 
+L691: 415 Physics Building
+L692: ### cite292†Sudhindra Mani Tripathi L693: 
+L694:   * Distinguished Research Professor Emeritus
+L695: 
+L696:   * +1 (530) 574-4246
+L697:   * Fax: +1 (530) 752-4717
+L698:   * cite293†[email protected] L699:   * cite294†http://tripathi.physics.ucdavis.edu†tripathi.physics.ucdavis.edu L700: 
+L701: 313 Physics Building
+L702: 
+L703: ### cite295†Jaroslav Trnka L704: 
+L705:   * Professor
+L706: 
+L707:   * 609-865-6198
+L708:   * cite296†[email protected] L709:   * cite297†http://trnka.physics.ucdavis.edu†trnka.physics.ucdavis.edu L710: 
+L711: 2032 Physical and Data Sciences Building
+L712: ### cite298†J Anthony Tyson L713: 
+L714:   * Distinguished Research Professor Emeritus
+L715: 
+L716:   * +1 (530) 752-3830
+L717:   * Fax: +1 (530) 752-4717
+L718:   * cite299†[email protected] L719:   * cite300†http://tyson.ucdavis.edu/†tyson.ucdavis.edu L720: 
+L721: 514B Physics Building
+L722: 
+L723: ### cite301†Stefano Valenti L724: 
+L725:   * Professor
+L726: 
+L727:   * (530) 754-0910
+

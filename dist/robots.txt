@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://szhang0314.github.io/physics-phd-faculty-finder/sitemap.xml

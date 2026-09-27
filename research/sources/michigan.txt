@@ -1,0 +1,319 @@
+Faculty | U-M LSA Physics (https://lsa.umich.edu/physics/people/faculty.directory.html)
+citeturn60view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://lsa.umich.edu/physics/people/faculty.directory.html","lineno":null}); Total lines: 557
+L0: cite0†Skip to Content L1: 
+L2:   * cite1†U-M†umich.edu L3:   * //
+L4:   * cite2†LSA L5:   * //
+L6:   * cite3†Departments and Units L7:   * //
+L8:   * cite4†Majors and Minors L9:   * //
+L10:   * cite5†Look To Michigan L11:   * //
+L12:   * cite6†LSA Course Guide†www.lsa.umich.edu L13:   * //
+L14:   * cite7†LSA Gateway†gateway.lsa.umich.edu L15: 
+L16: [Input: Search] Submit Site Search
+L17: 
+L18: Search
+L19: 
+L20: ### Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+L21: 
+L22: cite8†previous | cite8†next L23: ###
+L24: 
+L25:   * cite9†About Us L26:   * cite10†Community L27:   * cite11†News and Events L28:   * cite12†Resources L29:   * cite13†Saturday Morning Physics L30:   * cite14†People L31: ### for
+L32: 
+L33:   * cite15†Undergraduate Students L34:   * cite16†Physics Ph.D. Program L35:   * cite17†Research L36:   * cite18†Alumni and Friends L37:   * cite19†Giving L38: 
+L39:   * cite1†U-M†umich.edu L40:   * cite2†LSA L41:   * cite3†Departments and Units L42:   * cite4†Majors and Minors L43:   * cite5†Look To Michigan L44:   * cite6†LSA Course Guide†www.lsa.umich.edu L45:   * cite7†LSA Gateway†gateway.lsa.umich.edu L46: 
+L47:   * cite9†About Us L48:   * cite10†Community L49:   * cite11†News and Events L50:   * cite12†Resources L51:   * cite13†Saturday Morning Physics L52:   * cite14†People L53: ### Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
+L54: 
+L55: cite8†previous | cite8†next L56: 
+L57: for
+L58: 
+L59:   * cite15†Undergraduate Students L60:   * cite16†Graduate Students L61:   * cite17†Research L62:   * cite18†Alumni and Friends L63:   * cite19†Giving L64: 
+L65:   * cite20†A.I.saac: Physics' Undergraduate Virtual Assistant L66:   * cite21†Campus Resources L67:   * cite22†Graduation L68:   * cite23†Registration and Grading Policies L69:   * cite24†Scholarships and Awards L70:   * cite25†Undergraduate Internship Program L71:   * cite26†Advising L72:   * cite27†Career & Grad School Resources L73:   * cite28†Introductory Physics Courses L74:   * cite29†Prospective Students L75:   * cite30†Student Groups L76:   * cite31†Undergraduate Events L77: 
+L78:   * cite32†AP, IB, and Transfer Credit L79:   * cite33†First Year in Physics L80:   * cite34†Major & Minor Programs L81:   * cite35†Research Opportunities L82:   * cite36†Student Services L83: 
+L84:   * cite37†Student Services L85:   * cite38†Student Organizations & Resources L86: 
+L87:   * cite39†Applying to the Program L88:   * cite40†GSI Application for Non-Physics Students L89:   * cite41†The Program L90: 
+L91:   * cite42†Research Centers & Programs L92:   * cite43†Cosmology and Astrophysics L93:   * cite44†Nuclear and Subatomic Physics L94: 
+L95:   * cite45†Physics Shops L96:   * cite46†Atomic, Molecular & Optical L97:   * cite47†Elementary Particle Physics L98: 
+L99:   * cite48†Graduate Opportunities L100:   * cite49†Biological Physics L101:   * cite50†Condensed Matter Physics and Complex Systems L102:   1.   2. cite51†Faculty L103:   3. cite52†Affiliated Faculty L104:   4. cite53†Emeritus L105:   5. cite54†Research Scientists L106:   6. cite55†Lecturers L107:   7. cite56†Graduate Students L108:   8. cite57†Research Fellows L109:   9. cite58†Staff L110:   10. cite59†Affiliates L111:   11. cite60†In Memoriam L112:   12. cite61†Fields of Study L113:   13. cite62†Department Operations L114:   14. cite63†Demonstration Lab L115:   15. cite64†Student Groups L116:   16. cite65†Departmental Administration L117: # Faculty
+L118: 
+L119:   1.   2. cite51†Faculty L120:   3. cite52†Affiliated Faculty L121:   4. cite53†Emeritus L122:   5. cite54†Research Scientists L123:   6. cite55†Lecturers L124:   7. cite56†Graduate Students L125:   8. cite57†Research Fellows L126:   9. cite58†Staff L127:   10. cite59†Affiliates L128:   11. cite60†In Memoriam L129:   12. cite61†Fields of Study L130:   13. cite62†Department Operations L131:   14. cite63†Demonstration Lab L132:   15. cite64†Student Groups L133:   16. cite65†Departmental Administration L134: 
+L135: Faculty
+L136: ### Physics: Faculty
+L137: 
+L138: cite8†Toggle to Browse: Fields of Study L139:   * cite66†Experimental Condensed Matter Physics L140:   * cite67†Theoretical Cosmology and Astrophysics L141:   * cite68†Theoretical Elementary Particle Physics L142:   * cite69†Experimental Elementary Particle Physics L143:   * cite70†Theoretical Complex Systems L144:   * cite71†Theoretical Condensed Matter Physics L145:   * cite72†Atomic, Molecular & Optical L146:   * cite73†Experimental Cosmology and Astrophysics L147:   * cite74†Theoretical Biological Physics L148:   * cite75†Experimental Biological Physics L149: cite61†More L150: cite76†Fred Adams L151: Ta-You Wu Collegiate Professor of Physics and Director of the Leinweber Center for Theoretical Physics
+L152: 
+L153: cite77†[email protected] 3251 Homer A. Neal Lab 734.647.4320
+L154: 
+L155: cite78†Theoretical Cosmology and Astrophysics L156: 
+L157: cite79†Christine Aidala L158: Professor
+L159: 
+L160: cite80†[email protected] 373 West Hall
+L161: Lab: 3209 Homer A. Neal Lab 734.764.7611
+L162: 
+L163: cite81†Experimental Nuclear and Subatomic Physics ; cite82†Experimental Elementary Particle Physics ; cite83†Foundations of Physics ; cite84†Physics L164: cite85†Ratindranath Akhoury L165: Professor
+L166: 
+L167: cite86†[email protected] 3468 Randall Lab 734.763.9470
+L168: 
+L169: cite87†Theoretical Elementary Particle Physics L170: 
+L171: cite88†Dante Amidei L172: Professor
+L173: 
+L174: cite89†[email protected] 358 West Hall 734.764.3266
+L175: 
+L176: cite82†Experimental Elementary Particle Physics L177: 
+L178: cite90†Camille Avestruz L179: Assistant Professor
+L180: 
+L181: cite91†[email protected] 3241 Homer A. Neal Lab 734.763.1646
+L182: 
+L183: cite84†Physics ; cite78†Theoretical Cosmology and Astrophysics L184: cite92†Myron Campbell L185: Professor of Physics, Interim Associate Dean for the Natural Sciences
+L186: 
+L187: cite93†[email protected] 355 West Hall 734.764.2192
+L188: 
+L189: cite82†Experimental Elementary Particle Physics L190: 
+L191: cite94†Timothy Chupp L192: Professor of Physics and Biomedical Engineering
+L193: 
+L194: cite95†[email protected] 4241 Homer A. Neal Lab
+L195: Labs: SB131, SB137, SB147 Homer A. Neal Lab 734.647.2514
+L196: 
+L197: cite81†Experimental Nuclear and Subatomic Physics ; cite84†Physics ; cite96†Atomic, Molecular & Optical L198: cite97†Roy Clarke L199: Marcellus L. Wiedenbeck Collegiate Professor and University Diversity and Social Transformation Professor
+L200: 
+L201: cite98†[email protected] 4251 Homer A. Neal Lab
+L202: Labs: 1208, 1212, SB173 Homer A. Neal Lab
+L203: (936.0293) 734.764.4466
+L204: 
+L205: cite99†Experimental Condensed Matter Physics L206: 
+L207: cite100†Steven Cundiff L208: Harrison M. Randall Collegiate Professor of Physics, Professor of Electrical Engineering and Computer Science (EECS)
+L209: cite101†[email protected] 4231 Homer A. Neal Lab
+L210: Labs: SB106, SB115, SB271 Homer A. Neal Lab 734.647.3343
+L211: 
+L212: cite99†Experimental Condensed Matter Physics ; cite96†Atomic, Molecular & Optical L213: 
+L214: cite102†Robert Deegan L215: Associate Professor of Physics and Complex Systems
+L216: 
+L217: cite103†[email protected] 324 West Hall
+L218: Lab: B408 Randall
+L219: (763.9758) 734.615.5730
+L220: 
+L221: cite104†Experimental Complex Systems ; cite99†Experimental Condensed Matter Physics L222: 
+L223: cite105†Hui Deng L224: Professor and Associate Chair for Research and Facilities
+L225: cite106†[email protected] 4416 Randall Lab
+L226: Lab: SB187 Homer A. Neal Lab (764.1975)
+L227: SB286 Homer A. Neal Lab (763.2472) 734.763.7835
+L228: 
+L229: cite99†Experimental Condensed Matter Physics ; cite84†Physics ; cite96†Atomic, Molecular & Optical L230: 
+L231: cite107†Henriette Elvang L232: Arthur F. Thurnau Professor and Oskar Klein Collegiate Professor of Physics, Chair of Physics Department
+L233: 
+L234: cite108†[email protected] 3428 Randall Lab 734.615.6408
+L235: 
+L236: cite87†Theoretical Elementary Particle Physics L237: cite109†Gus Evrard L238: Arthur W. and Alice R. Burks Collegiate Professor of Physics and Arthur F Thurnau Professor
+L239: 
+L240: cite110†[email protected] 3245 Homer A. Neal Lab 734.764.4366
+L241: 
+L242: cite78†Theoretical Cosmology and Astrophysics L243: 
+L244: cite111†Emanuel Gull L245: Professor
+L246: 
+L247: cite112†[email protected] 2253 Homer A. Neal Lab 734.615.0726
+L248: 
+L249: cite113†Theoretical Condensed Matter Physics L250: 
+L251: cite114†Scott Haselschwardt L252: Assistant Professor
+L253: 
+L254: cite115†[email protected] 359 West Hall
+L255: cite84†Physics ; cite116†Experimental Cosmology and Astrophysics ; cite82†Experimental Elementary Particle Physics L256: 
+L257: cite117†Christian Herwig L258: Assistant Professor
+L259: 
+L260: cite118†[email protected] L261: 
+L262: cite84†Physics ; cite82†Experimental Elementary Particle Physics L263: 
+L264: cite119†Jordan Horowitz L265: Assistant Professor
+L266: 
+L267: cite120†[email protected] L268: 
+L269: cite121†Theoretical Biological Physics ; cite122†Theoretical Complex Systems ; cite113†Theoretical Condensed Matter Physics L270: 
+L271: cite123†Dragan Huterer L272: Professor and Associate Chair for Graduate Program
+L273: cite124†[email protected] 3247 Homer A. Neal Lab 734.615.3289
+L274: 
+L275: cite78†Theoretical Cosmology and Astrophysics L276: 
+L277: cite125†Na Hyun Jo L278: Norman M. Leff Assistant Professor of Physics and Assistant Professor of Physics
+L279: 
+L280: cite126†[email protected] 253 West Hall
+L281: 
+L282: cite84†Physics ; cite99†Experimental Condensed Matter Physics L283: 
+L284: cite127†Cagliyan Kurdak L285: Professor
+L286: 
+L287: cite128†[email protected] 267D West Hall
+L288: Lab: SB206 Homer A. Neal Lab
+L289: (615.0195) 734.647.4650
+L290: 
+L291: cite99†Experimental Condensed Matter Physics L292: cite129†Alex Kuzmich L293: Martin L. Perl Collegiate Professor of Physics
+L294: 
+L295: cite130†[email protected] 4219 Homer A. Neal Lab
+L296: Lab SB181, SB237 Homer A. Neal Lab 734.764.3065
+L297: 
+L298: cite84†Physics ; cite96†Atomic, Molecular & Optical L299: 
+L300: cite131†Finn Larsen L301: Professor
+L302: 
+L303: cite132†[email protected] 3436 Randall Lab
+L304: 
+L305: cite87†Theoretical Elementary Particle Physics L306: 
+L307: cite133†Lu Li L308: Professor of Physics
+L309: 
+L310: cite134†[email protected] 257 West Hall
+L311: Lab: SB109 Homer A. Neal Lab (763.3053)
+L312: SB476, SB484 Randall Lab (763.8530)
+L313: 734.647.9434
+L314: cite99†Experimental Condensed Matter Physics L315: 
+L316: cite135†James Liu L317: Professor
+L318: 
+L319: cite136†[email protected] 3409 Randall Lab 734.763.4314
+L320: 
+L321: cite87†Theoretical Elementary Particle Physics L322: 
+L323: cite137†Wolfgang Lorenzon L324: Professor
+L325: 
+L326: cite138†[email protected] 357 West Hall
+L327: Lab: 3265 Homer A. Neal Lab
+L328: (734.615.0580) 734.647.6825
+L329: 
+L330: cite116†Experimental Cosmology and Astrophysics ; cite81†Experimental Nuclear and Subatomic Physics ; cite82†Experimental Elementary Particle Physics L331: 
+L332: cite139†David Lubensky L333: Professor
+L334: cite140†[email protected] 326 West Hall 734.936.1540
+L335: 
+L336: cite113†Theoretical Condensed Matter Physics ; cite122†Theoretical Complex Systems ; cite121†Theoretical Biological Physics L337: 
+L338: cite141†Xiaoming Mao L339: Professor
+L340: 
+L341: cite142†[email protected] 2251 Homer A. Neal Lab 734.763.5349
+L342: 
+L343: cite113†Theoretical Condensed Matter Physics ; cite122†Theoretical Complex Systems ; cite121†Theoretical Biological Physics ; cite84†Physics L344: cite143†Timothy A. McKay L345: Arthur F. Thurnau Professor of Physics, Astronomy, Education, and Associate Dean for Undergraduate Education
+L346: 
+L347: cite144†[email protected] 351 West Hall
+L348: Lab: 3412 Randall Lab 734.763.1462
+L349: 
+L350: cite84†Physics L351: 
+L352: cite145†Jens-Christian Meiners L353: Professor, Physics and Biophysics
+L354: 
+L355: cite146†[email protected] 4214 Homer A. Neal Lab
+L356: Labs: SB268 (764.2251) SB280, SB288, SB290 Homer A. Neal Lab 734.764.7383
+L357: cite147†Experimental Biological Physics ; cite99†Experimental Condensed Matter Physics ; cite104†Experimental Complex Systems ; cite96†Atomic, Molecular & Optical L358: 
+L359: cite148†Roberto Merlin L360: Peter A. Franken Collegiate Professor of Physics, Professor of Electrical Engineering and Computer Science (EECS)
+L361: 
+L362: cite149†[email protected] 4239 Homer A. Neal Lab
+L363: Labs: SB460, SB468, SB472 Randall Lab(764.6559) 734.763.9759
+L364: 
+L365: cite99†Experimental Condensed Matter Physics L366: cite150†Mark Newman L367: Anatol Rapoport Distinguished University Professor of Physics
+L368: 
+L369: cite151†[email protected] 322 West Hall
+L370: 
+L371: cite122†Theoretical Complex Systems L372: 
+L373: cite152†Bradford Orr L374: Arthur F. Thurnau Professor of Physics; U-M Associate Vice President for Research, Science and Engineering
+L375: 
+L376: cite153†[email protected] 267E West Hall 734.764.7013 (Fleming office) 734.936.3609 (Physics office)
+L377: 
+L378: cite99†Experimental Condensed Matter Physics ; cite147†Experimental Biological Physics ; cite84†Physics L379: cite154†Leopoldo Pando Zayas L380: Professor
+L381: 
+L382: cite155†[email protected] 3421 Randall Lab 734.764.5236
+L383: 
+L384: cite87†Theoretical Elementary Particle Physics L385: 
+L386: cite156†Erik Peterson L387: Assistant Professor
+L388: 
+L389: cite157†[email protected] 3493 Randall
+L390: 
+L391: cite84†Physics ; cite116†Experimental Cosmology and Astrophysics ; cite78†Theoretical Cosmology and Astrophysics L392: 
+L393: cite158†Aaron Pierce L394: Professor
+L395: 
+L396: cite159†[email protected] 3460 Randall Lab
+L397: 
+L398: cite78†Theoretical Cosmology and Astrophysics ; cite87†Theoretical Elementary Particle Physics L399: cite160†Sara Pozzi L400: Professor of Nuclear Engineering and Radiological Sciences and Professor of Physics; Consortium Director, Consortium for Verification Technology
+L401: 
+L402: cite161†[email protected] 2937 Cooley 734.615.4970
+L403: 
+L404: cite162†Jianming Qian L405: David M. Dennison Collegiate Professor of Physics
+L406: 
+L407: cite163†[email protected] 349 West Hall
+L408: Lab: 2209 Homer A. Neal Laboratory (763.7209) 734.936.1033
+L409: 
+L410: cite82†Experimental Elementary Particle Physics L411: 
+L412: cite164†Georg Raithel L413: Professor
+L414: cite165†[email protected] 4255 Homer A. Neal Lab
+L415: Labs: SB149, SB283, SB290 Homer A. Neal Lab (763.2544) 734.647.9031
+L416: 
+L417: cite84†Physics ; cite96†Atomic, Molecular & Optical L418: 
+L419: cite166†Shankari Rajagopal L420: Harold C. Early Physics Early Career Professor and Assistant Professor of Physics
+L421: 
+L422: cite167†[email protected] 4223 Homer A. Neal Lab
+L423: 
+L424: cite168†Experimental Atomic, Molecular & Optical ; cite84†Physics ; cite96†Atomic, Molecular & Optical L425: 
+L426: cite169†Keith Riles L427: H. Richard Crane Collegiate Professor of Physics
+L428: cite170†[email protected] 372 West Hall
+L429: Lab: 3412 Randall Lab 734.764.4652
+L430: 
+L431: cite116†Experimental Cosmology and Astrophysics ; cite82†Experimental Elementary Particle Physics L432: 
+L433: cite171†Tom Schwarz L434: Arthur F. Thurnau Professor of Physics
+L435: 
+L436: cite172†[email protected] 350 West Hall
+L437: Lab: 3215 Homer A. Neal Lab 734.764.8941
+L438: 
+L439: cite82†Experimental Elementary Particle Physics L440: 
+L441: cite173†Suraj Shankar L442: Assistant Professor
+L443: 
+L444: cite174†[email protected] 2241 Homer A. Neal Lab
+L445: cite84†Physics ; cite147†Experimental Biological Physics ; cite99†Experimental Condensed Matter Physics ; cite121†Theoretical Biological Physics ; cite122†Theoretical Complex Systems ; cite113†Theoretical Condensed Matter Physics L446: 
+L447: cite175†Vanessa Sih L448: Professor of Physics, Director of Applied Physics
+L449: 
+L450: cite176†[email protected] 4420 Randall Lab
+L451: Labs: 1277 Homer A. Neal Lab (763.5749)
+L452: SB286 Homer A. Neal Lab (763.2472) 734.763.7906
+L453: 
+L454: cite99†Experimental Condensed Matter Physics ; cite96†Atomic, Molecular & Optical L455: cite177†Joshua Spitz L456: Professor
+L457: 
+L458: cite178†[email protected] 376 West Hall
+L459: Lab: 2208 Homer A. Neal Lab 734.763.2329
+L460: 
+L461: cite116†Experimental Cosmology and Astrophysics ; cite82†Experimental Elementary Particle Physics L462: 
+L463: cite179†Kai Sun L464: Professor
+L465: 
+L466: cite180†[email protected] 2245 Homer A. Neal Lab 734.764.0730
+L467: 
+L468: cite113†Theoretical Condensed Matter Physics ; cite83†Foundations of Physics ; cite84†Physics L469: 
+L470: cite181†Ctirad Uher L471: C. Wilbur Peters Collegiate Professor of Physics
+L472: cite182†[email protected] 261 West Hall
+L473: Labs: SB214, SB224 Homer A. Neal Lab (763.3512) 734.764.3933
+L474: 
+L475: cite99†Experimental Condensed Matter Physics ; cite84†Physics L476: 
+L477: cite183†James Wells L478: Professor
+L479: 
+L480: cite184†[email protected] 3425 Randall 734.763.4478
+L481: 
+L482: cite87†Theoretical Elementary Particle Physics ; cite83†Foundations of Physics L483: 
+L484: cite185†Dominika Zgid L485: Professor of Physics and Chemistry
+L486: 
+L487: cite186†[email protected] Chemistry Department
+L488: 2000F Chemistry
+L489: 930 N University 734.647.4495
+L490: cite113†Theoretical Condensed Matter Physics ; cite187†Theoretical Atomic, Molecular & Optical L491: 
+L492: cite188†Liuyan Zhao L493: Professor of Physics
+L494: 
+L495: cite189†[email protected] 255 West Hall
+L496: Lab: SB255 Homer A. Neal Laboratory
+L497: (734) 763-8705
+L498: 
+L499: cite99†Experimental Condensed Matter Physics L500: 
+L501: cite190†Junjie Zhu L502: Professor
+L503: 
+L504: cite191†[email protected] Office: 356 West Hall
+L505: Lab: 2209 Homer A. Neal Lab 734.647.7201
+L506: 
+L507: cite82†Experimental Elementary Particle Physics L508: 
+L509: cite192†Michal Zochowski L510: Professor of Physics and Biophysics
+L511: cite193†[email protected] 259 West Hall 734.647.5552
+L512: 
+L513: cite147†Experimental Biological Physics L514: 
+L515: cite194†Physics L516: 
+L517: cite195†Randall Lab and Homer A. Neal Lab 450 Church Street Ann Arbor, MI 48109-1040†campusinfo.umich.edu L518: 
+L519: cite196†[email protected] L520: 
+L521: Click to call 734.764.4437
+L522: 
+L523: 734.764.4437
+L524: 
+L525: 734.763.9694
+L526: 
+L527: cite197†Sitemap L528: 
+L529:   * Information For
+L530:   * cite198†Prospective Students L531:   * cite199†Current Students L532:   * cite200†Faculty and Staff L533:   * cite201†Alumni and Friends L534:   * More about LSA
+L535:   * cite202†About LSA L536:   * cite203†How Do I Apply? L537:   * cite204†News L538:   * cite205†LSA Magazine L539:   * cite206†Give L540:   * cite207†Maps L541: 
+L542:   * Student Resources
+L543:   * cite208†Courses L544:   * cite209†Academic Advising L545:   * cite4†Majors and Minors L546:   * cite3†Departments and Units L547:   * cite210†Global Studies L548:   * cite211†LSA Opportunity Hub L549: 
+L550:   * Connect
+L551:   * cite212†Social Media L552:   * cite213†Update Contact Info L553:   * cite214†Contact Us L554:   * cite215†Privacy Statement†umich.edu L555:   * cite216†Report Feedback L556: © cite217†2026 Regents of the University of Michigan†regents.umich.edu 

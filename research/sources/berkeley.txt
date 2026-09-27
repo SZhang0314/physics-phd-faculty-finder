@@ -1,0 +1,279 @@
+Directory of Faculty, Staff, Graduate Students, Postdocs | Physics (https://physics.berkeley.edu/directory?dept=&keywords=&role%5B%5D=11&topics=All)
+citeturn90view0 [wordlim: 200] Crawled: last month; Content type: text/html; Source: open({"ref_id":"turn84view0","lineno":null}); Total lines: 161
+L0:   * cite0†WELCOME L1:     * cite1†Our Community L2:     * cite2†Our Nobel Laureates L3:     * cite3†Our History L4:     * cite4†Employment L5:     * cite5†Plan Your Visit L6:     * cite6†Contact Us L7:   * cite7†ACADEMICS L8:     * cite8†Courses L9:     * cite9†Enrollment L10:     * cite10†Undergraduate Degree L11:     * cite11†Graduate Degree L12:   * cite12†STUDENT RESOURCES L13:     * cite13†Student Support & Advising L14:     * cite14†Hands-on Learning L15:     * cite15†Student Organizations & Mentoring L16:     * cite16†Resources for Graduate Students L17:   * cite17†VISITING STUDENTS L18:     * cite18†BPIE: The Berkeley Physics International Education Program L19:     * cite19†BETA Physics: Berkeley Experience and Training in Advanced Physics L20:     * cite20†Concurrent Enrollment & Summer Sessions L21:     * cite21†REYES: Remote Experience for Young Engineers and Scientists L22:     * cite22†Python4Physics L23:   * cite23†RESEARCH & FACULTY L24:     * cite24†Astrophysics L25:     * cite25†Atomic, Molecular and Optical Physics L26:     * cite26†Biophysics L27:     * cite27†Condensed Matter Physics and Materials Science L28:     * cite28†Nuclear Physics L29:     * cite29†Particle Physics L30:     * cite30†Plasma and Nonlinear Dynamics L31:     * cite31†Quantum Information Science L32:     * cite32†Lecturers L33:     * cite33†Emeritus Faculty L34:   * cite34†NEWS L35:     * cite35†Berkeley Physics Magazine L36:     * cite36†News Archive L37:   * cite37†EVENTS L38:     * cite38†Department Events†events.berkeley.edu L39:     * cite39†Colloquia†events.berkeley.edu L40:     * cite40†Physics 290 Seminars L41:     * cite41†Presentations Archive L42: ## Secondary navigation
+L43: 
+L44:   * cite42†HOME L45:   * cite43†GIVING L46:   * cite44†EQUITY & INCLUSION L47:   * cite45†DIRECTORY L48:   * cite46†Quick Links L49:     * ## QUICK LINKS
+L50: 
+L51:       * cite6†Contact Us L52:       * cite47†Administration L53:       * cite48†Safety L54: # Directory of Faculty, Staff, Graduate Students, Postdocs
+L55: 
+L56: cite49†Image: Directory L57: 
+L58: Keywords
+L59: 
+L60: [Input]
+L61: 
+L62: Topics
+L63: 
+L64: [Select]
+L65: 
+L66: Department
+L67: 
+L68: [Input][Input]
+L69: 
+L70: Role
+L71: 
+L72: [Select]
+L73: 
+L74: [Input]
+L75: 
+L76: [Input]
+L77: Name  | Job title  | Department  | Role  | Research interests
+L78: --- | --- | --- | --- | ---
+L79: cite50†Mina Aganagic | Professor of Mathematics and Physics, Chern-Simons Distinguished Chair in Mathematical Physics  |  | Faculty  | cite29†Particle Physics L80: cite51†Ehud Altman | Professor  |  | Faculty  | cite25†Atomic, Molecular and Optical Physics , cite27†Condensed Matter Physics And Materials Science L81: cite52†James Analytis | Professor  |  | Faculty  | cite27†Condensed Matter Physics And Materials Science L82: cite53†Jonathan Arons | Professor Emeritus  |  | Faculty  | cite24†Astrophysics L83: cite54†Stuart Bale | Professor  |  | Faculty  | cite24†Astrophysics , cite30†Plasma and Nonlinear Dynamics L84: cite55†Eric Betzig | Professor  |  | Faculty  | cite26†Biophysics L85: cite56†Robert Birgeneau | Arnold and Barbara Silverman Distinguished Professor of Physics, Materials Science and Engineering, and Public Policy, Chancellor Emeritus  |  | Faculty  | cite27†Condensed Matter Physics And Materials Science L86: cite57†Raphael Bousso | Professor and The Chancellor's Chair in Physics  |  | Faculty  | cite29†Particle Physics , cite24†Astrophysics L87: cite58†Raúl Briceño | Assistant Professor  |  | Faculty  | cite28†Nuclear Physics , cite29†Particle Physics L88: cite59†Dmitry Budker | Professor Emeritus of the Graduate School  |  | Faculty  | cite25†Atomic, Molecular and Optical Physics , cite29†Particle Physics , ...
+L89: cite60†Carlos Bustamante | Professor  |  | Faculty  | cite26†Biophysics L90: cite61†Yuan Cao | Assistant Professor  |  | Faculty  |
+L91: cite62†William Chinowsky | Professor Emeritus  |  | Faculty  | cite24†Astrophysics L92: cite63†John Clarke | Professor Emeritus of the Graduate School  |  | Faculty  | cite27†Condensed Matter Physics And Materials Science L93: cite64†Marvin Cohen | University Professor of Physics, Professor Emeritus, Professor of the Graduate School  |  | Faculty  | cite27†Condensed Matter Physics And Materials Science L94: cite65†Michael Crommie | Professor  |  | Faculty  | cite27†Condensed Matter Physics And Materials Science L95: cite66†Liang Dai | Visiting Assistant Professor  |  | Faculty  | cite24†Astrophysics , cite29†Particle Physics L96: cite67†Marc Davis | Professor Emeritus  |  | Faculty  | cite24†Astrophysics L97: cite68†Michael DeWeese | Professor  |  | Faculty  | cite26†Biophysics L98: cite69†Roger Falcone | Professor Emeritus of the Graduate School  |  | Faculty  | cite25†Atomic, Molecular and Optical Physics , cite30†Plasma And NonLinear Dynamics L99:   * 1 of 5 Full listing: People (Current page)
+L100:   * cite70†2 of 5 Full listing: People L101:   * cite71†3 of 5 Full listing: People L102:   * cite72†4 of 5 Full listing: People L103:   * cite73†5 of 5 Full listing: People L104:   * cite70†next › Full listing: People L105:   * cite73†last » Full listing: People L106: 
+L107: Click the "Fill Out Form" button to access the form for requesting the creation of a new bio page, or edits to an existing bio page. Thank you.
+L108: 
+L109: cite74†Google Form†docs.google.com L110: ## Department of Physics
+L111: 
+L112: University of California
+L113: 366 Physics North MC 7300
+L114: Berkeley, CA, 94720-7300
+L115: 
+L116: ## ADMINISTRATIVE OFFICE
+L117: 
+L118: physics_admin@berkeley.edu
+L119: 
+L120: ## Student Services
+L121: 
+L122: cite75†Student Services Contacts L123: 
+L124: cite76†Emergency Contact List (PDF) L125: 
+L126: cite77†Privacy Statement L127: ## Administration
+L128: 
+L129: cite78†Room Reservation Resources L130: cite47†Finance & Business Services cite79†ERSO Guide L131: cite80†Human Resources L132: cite81†Development & Communications L133: cite82†Building & Support Services L134: cite83†Instructional Support L135: cite75†Student Services cite84†R&D Machine Shop L136: 
+L137: cite85†Website Change Form†forms.gle L138: 
+L139: cite86†Website Policies†docs.google.com L140: ## University of California, Berkeley
+L141: 
+L142:   * cite87†Berkeley Main Page†www.berkeley.edu L143:   * cite88†Campus Administration†www.berkeley.edu L144:   * cite89†Berkeley News†news.berkeley.edu L145:   * cite90†The Campaign for Berkeley†campaign.berkeley.edu L146:   * cite91†Visiting Berkeley†visit.berkeley.edu L147:   * cite92†Campus Events†events.berkeley.edu L148: ### Follow us:
+L149: 
+L150:   * cite93†Facebook†www.facebook.com L151:   * cite94†X (formerly Twitter)†twitter.com L152:   * cite95†YouTube†www.youtube.com L153: 
+L154:   * cite96†Powered by Open Berkeley†open.berkeley.edu L155:   * cite97†Accessibility Statement†dap.berkeley.edu L156:   * cite98†Nondiscrimination Policy Statement†ophd.berkeley.edu L157:   * cite99†Privacy Statement†open.berkeley.edu L158:   * Copyright © 2026 UC Regents; all rights reserved
+L159: 
+L160: cite100†Back to Top 
+
+Directory of Faculty, Staff, Graduate Students, Postdocs | Physics (https://physics.berkeley.edu/directory?dept=&keywords=&page=1&role%5B0%5D=11&topics=All)
+citeturn89view0 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: click({"ref_id":"turn84view0","id":70}); Total lines: 163
+L0:   * cite0†WELCOME L1:     * cite1†Our Community L2:     * cite2†Our Nobel Laureates L3:     * cite3†Our History L4:     * cite4†Employment L5:     * cite5†Plan Your Visit L6:     * cite6†Contact Us L7:   * cite7†ACADEMICS L8:     * cite8†Courses L9:     * cite9†Enrollment L10:     * cite10†Undergraduate Degree L11:     * cite11†Graduate Degree L12:   * cite12†STUDENT RESOURCES L13:     * cite13†Student Support & Advising L14:     * cite14†Hands-on Learning L15:     * cite15†Student Organizations & Mentoring L16:     * cite16†Resources for Graduate Students L17:   * cite17†VISITING STUDENTS L18:     * cite18†BPIE: The Berkeley Physics International Education Program L19:     * cite19†BETA Physics: Berkeley Experience and Training in Advanced Physics L20:     * cite20†Concurrent Enrollment & Summer Sessions L21:     * cite21†REYES: Remote Experience for Young Engineers and Scientists L22:     * cite22†Python4Physics L23:   * cite23†RESEARCH & FACULTY L24:     * cite24†Astrophysics L25:     * cite25†Atomic, Molecular and Optical Physics L26:     * cite26†Biophysics L27:     * cite27†Condensed Matter Physics and Materials Science L28:     * cite28†Nuclear Physics L29:     * cite29†Particle Physics L30:     * cite30†Plasma and Nonlinear Dynamics L31:     * cite31†Quantum Information Science L32:     * cite32†Lecturers L33:     * cite33†Emeritus Faculty L34:   * cite34†NEWS L35:     * cite35†Berkeley Physics Magazine L36:     * cite36†Student News L37:     * cite37†News Archive L38:   * cite38†EVENTS L39:     * cite39†Department Events†events.berkeley.edu L40:     * cite40†Colloquia†events.berkeley.edu L41:     * cite41†Physics 290 Seminars L42:     * cite42†Presentations Archive L43: ## Secondary navigation
+L44: 
+L45:   * cite43†HOME L46:   * cite44†GIVING L47:   * cite45†EQUITY & INCLUSION L48:   * cite46†DIRECTORY L49:   * cite47†Quick Links L50:     * ## QUICK LINKS
+L51: 
+L52:       * cite6†Contact Us L53:       * cite48†Administration L54:       * cite49†Safety L55: # Directory of Faculty, Staff, Graduate Students, Postdocs
+L56: 
+L57: cite50†Image: Directory L58: 
+L59: Keywords
+L60: 
+L61: [Input]
+L62: 
+L63: Topics
+L64: 
+L65: [Select]
+L66: 
+L67: Department
+L68: 
+L69: [Input][Input]
+L70: 
+L71: Role
+L72: 
+L73: [Select]
+L74: 
+L75: [Input]
+L76: 
+L77: [Input]
+L78: Name  | Job title  | Department  | Role  | Research interests
+L79: --- | --- | --- | --- | ---
+L80: cite51†Gabriel Orebi Gann | Associate Professor  |  | Faculty  | cite28†Nuclear Physics , cite29†Particle Physics L81: cite52†Ori Ganor | Associate Professor  |  | Faculty  | cite29†Particle Physics L82: cite53†Hernan Garcia | Associate Professor of Biophysics, Genetics, Genomics and Developmental Biology  |  | Faculty  | cite26†Biophysics L83: cite54†Reinhard Genzel | Professor Emeritus, Co-Director, Max Planck Institute for Extraterrestrial Physics  |  | Faculty  | cite24†Astrophysics L84: cite55†Naomi Ginsberg | Professor  |  | Faculty  | cite25†Atomic, Molecular and Optical Physics , cite26†Biophysics , ...
+L85: cite56†Heather Gray | Associate Professor  |  | Faculty  | cite29†Particle Physics L86: cite57†Hartmut Haeffner | Professor  |  | Faculty  | cite25†Atomic, Molecular and Optical Physics L87: cite58†Lawrence Hall | Professor Emeritus and Professor of the Graduate School  |  | Faculty  | cite29†Particle Physics L88: cite59†Oskar Hallatschek | Professor  |  | Faculty  | cite26†Biophysics L89: cite60†Wick Haxton | Professor Emeritus and Professor of the Graduate School  |  | Faculty  | cite24†Astrophysics , cite28†Nuclear Physics , cite29†Particle Physics L90: cite61†Frances Hellman | Professor of the Graduate School  |  | Faculty  | cite27†Condensed Matter Physics And Materials Science , cite26†Biophysics , cite24†Astrophysics L91: cite62†William Holzapfel | Professor  |  | Faculty  | cite24†Astrophysics L92: cite63†Petr Horava | Professor Emeritus  |  | Faculty  | cite29†Particle Physics L93: cite64†Luca Victor Iliesiu | Assistant Professor  |  | Faculty  | Iliesiu is a high-energy theorist with a broad set of interests in quantum field theory, quantum gravity, and their relation to particle and condensed matter physics.  On the gravity side, he seeks to understand how gravitational objects, such as black holes, obey the rules of quantum mechanics...
+L94: cite65†Barbara Jacak | Professor of Physics  |  | Faculty  | cite28†Nuclear Physics , cite29†Particle Physics L95: cite66†Bob Jacobsen | Professor Emeritus  |  | Faculty  | cite29†Particle Physics L96: cite67†Na Ji | Professor  |  | Faculty  | cite26†Biophysics L97: cite68†Steven Kahn | Dean of Mathematical & Physical Sciences, Professor of Physics, Professor of Astronomy  |  | Faculty  | cite24†Astrophysics L98: cite69†Dan Kasen | Professor  |  | Faculty  | cite24†Astrophysics , cite28†Nuclear Physics L99: cite70†Edgar Knobloch | Professor Emeritus and Professor of the Graduate School  |  | Faculty  | cite30†Plasma And Nonlinear Dynamics L100:   * cite71†« first Full listing: People L101:   * cite71†‹ previous Full listing: People L102:   * cite71†1 of 5 Full listing: People L103:   * 2 of 5 Full listing: People (Current page)
+L104:   * cite72†3 of 5 Full listing: People L105:   * cite73†4 of 5 Full listing: People L106:   * cite74†5 of 5 Full listing: People L107:   * cite72†next › Full listing: People L108:   * cite74†last » Full listing: People L109: 
+L110: Click the "Fill Out Form" button to access the form for requesting the creation of a new bio page, or edits to an existing bio page. Thank you.
+L111: cite75†Google Form†docs.google.com L112: ## Department of Physics
+L113: 
+L114: University of California
+L115: 366 Physics North MC 7300
+L116: Berkeley, CA, 94720-7300
+L117: 
+L118: ## ADMINISTRATIVE OFFICE
+L119: 
+L120: physics_admin@berkeley.edu
+L121: 
+L122: ## Student Services
+L123: 
+L124: cite76†Student Services Contacts L125: 
+L126: cite77†Emergency Contact List (PDF) L127: 
+L128: cite78†Privacy Statement L129: ## Administration
+L130: 
+L131: cite79†Room Reservation Resources L132: cite48†Finance & Business Services cite80†ERSO Guide L133: cite81†Human Resources L134: cite82†Development & Communications L135: cite83†Building & Support Services L136: cite84†Instructional Support L137: cite76†Student Services cite85†R&D Machine Shop L138: 
+L139: cite86†Website Change Form†forms.gle L140: 
+L141: cite87†Website Policies†docs.google.com L142: ## University of California, Berkeley
+L143: 
+L144:   * cite88†Berkeley Main Page†www.berkeley.edu L145:   * cite89†Campus Administration†www.berkeley.edu L146:   * cite90†Berkeley News†news.berkeley.edu L147:   * cite91†The Campaign for Berkeley†campaign.berkeley.edu L148:   * cite92†Visiting Berkeley†visit.berkeley.edu L149:   * cite93†Campus Events†events.berkeley.edu L150: ### Follow us:
+L151: 
+L152:   * cite94†Facebook†www.facebook.com L153:   * cite95†X (formerly Twitter)†twitter.com L154:   * cite96†YouTube†www.youtube.com L155: 
+L156:   * cite97†Powered by Open Berkeley†open.berkeley.edu L157:   * cite98†Accessibility Statement†dap.berkeley.edu L158:   * cite99†Nondiscrimination Policy Statement†ophd.berkeley.edu L159:   * cite100†Privacy Statement†open.berkeley.edu L160:   * Copyright © 2026 UC Regents; all rights reserved
+L161: 
+L162: cite101†Back to Top --------------------------------------------------------------------------------
+Directory of Faculty, Staff, Graduate Students, Postdocs | Physics (https://physics.berkeley.edu/directory?dept=&keywords=&page=2&role%5B0%5D=11&topics=All)
+citeturn89view1 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: click({"ref_id":"turn84view0","id":71}); Total lines: 163
+L0:   * cite0†WELCOME L1:     * cite1†Our Community L2:     * cite2†Our Nobel Laureates L3:     * cite3†Our History L4:     * cite4†Employment L5:     * cite5†Plan Your Visit L6:     * cite6†Contact Us L7:   * cite7†ACADEMICS L8:     * cite8†Courses L9:     * cite9†Enrollment L10:     * cite10†Undergraduate Degree L11:     * cite11†Graduate Degree L12:   * cite12†STUDENT RESOURCES L13:     * cite13†Student Support & Advising L14:     * cite14†Hands-on Learning L15:     * cite15†Student Organizations & Mentoring L16:     * cite16†Resources for Graduate Students L17:   * cite17†VISITING STUDENTS L18:     * cite18†BPIE: The Berkeley Physics International Education Program L19:     * cite19†BETA Physics: Berkeley Experience and Training in Advanced Physics L20:     * cite20†Concurrent Enrollment & Summer Sessions L21:     * cite21†REYES: Remote Experience for Young Engineers and Scientists L22:     * cite22†Python4Physics L23:   * cite23†RESEARCH & FACULTY L24:     * cite24†Astrophysics L25:     * cite25†Atomic, Molecular and Optical Physics L26:     * cite26†Biophysics L27:     * cite27†Condensed Matter Physics and Materials Science L28:     * cite28†Nuclear Physics L29:     * cite29†Particle Physics L30:     * cite30†Plasma and Nonlinear Dynamics L31:     * cite31†Quantum Information Science L32:     * cite32†Lecturers L33:     * cite33†Emeritus Faculty L34:   * cite34†NEWS L35:     * cite35†Berkeley Physics Magazine L36:     * cite36†Student News L37:     * cite37†News Archive L38:   * cite38†EVENTS L39:     * cite39†Department Events†events.berkeley.edu L40:     * cite40†Colloquia†events.berkeley.edu L41:     * cite41†Physics 290 Seminars L42:     * cite42†Presentations Archive L43: ## Secondary navigation
+L44: 
+L45:   * cite43†HOME L46:   * cite44†GIVING L47:   * cite45†EQUITY & INCLUSION L48:   * cite46†DIRECTORY L49:   * cite47†Quick Links L50:     * ## QUICK LINKS
+L51: 
+L52:       * cite6†Contact Us L53:       * cite48†Administration L54:       * cite49†Safety L55: # Directory of Faculty, Staff, Graduate Students, Postdocs
+L56: 
+L57: cite50†Image: Directory L58: 
+L59: Keywords
+L60: 
+L61: [Input]
+L62: 
+L63: Topics
+L64: 
+L65: [Select]
+L66: 
+L67: Department
+L68: 
+L69: [Input][Input]
+L70: 
+L71: Role
+L72: 
+L73: [Select]
+L74: 
+L75: [Input]
+L76: 
+L77: [Input]
+L78: Name  | Job title  | Department  | Role  | Research interests
+L79: --- | --- | --- | --- | ---
+L80: cite51†Shimon Kolkowitz | Associate Professor and Herst Chair in Physics  |  | Faculty  | cite25†Atomic, Molecular and Optical Physics , Quantum Physics
+L81: cite52†Yury Kolomensky | Professor  |  | Faculty  | cite28†Nuclear Physics , cite29†Particle Physics L82: cite53†Alessandra Lanzara | Professor, Charles Kittel Chair in Physics  |  | Faculty  | cite27†Condensed Matter Physics And Materials Science , cite26†Biophysics L83: cite54†Adrian Lee | Professor  |  | Faculty  | cite24†Astrophysics L84: cite55†Dung-Hai Lee | Professor  |  | Faculty  | cite27†Condensed Matter Physics And Materials Science L85: cite56†Stephen Leone | The John R. Thomas Professor in Physics  |  | Faculty  | cite25†Atomic, Molecular and Optical Physics , cite27†Condensed Matter Physics and Materials Science L86: cite57†Harry Levine | Assistant Professor  |  | Faculty  |
+L87: cite58†Robert Littlejohn | Professor Emeritus  |  | Faculty  | cite30†Plasma And Nonlinear Dynamics , cite25†Atomic, Molecular and Optical Physics L88: cite59†Steven Louie | Professor Emeritus of the Graduate School  |  | Faculty  | cite27†Condensed Matter Physics And Materials Science L89: cite60†Kam-Biu Luk | Professor Emeritus and Professor of the Graduate School  |  | Faculty  | cite29†Particle Physics L90: cite61†Chung-Pei Ma | Judy Chandler Webb Professor of Astronomy, Physics  |  | Faculty  | cite24†Astrophysics L91: cite62†Eric Y. Ma | Assistant Professor  |  | Faculty  | cite25†Atomic, Molecular and Optical Physics , cite27†Condensed Matter Physics And Materials Science L92: cite63†Raffaella Margutti | Associate Professor, Marc and Cristina Bensadoun Professor of Physics  |  | Faculty  | cite24†Astrophysics L93: cite64†Richard Marrus | Professor Emeritus  |  | Faculty  | cite25†Atomic, Molecular and Optical Physics L94: cite65†Christopher McKee | Professor Emeritus  |  | Faculty  | cite24†Astrophysics L95: cite66†Daniel McKinsey | Professor, The Georgia Lee Distinguished Professor of Physics  |  | Faculty  | cite29†Particle Physics L96: cite67†Joel Moore | Professor  |  | Faculty  | cite27†Condensed Matter Physics And Materials Science L97: cite68†Forrest Mozer | Professor Emeritus  |  | Faculty  | cite24†Astrophysics L98: cite69†Holger Mueller | Professor  |  | Faculty  | cite25†Atomic, Molecular and Optical Physics , cite26†Biophysics L99: cite70†Richard Muller | Professor Emeritus  |  | Faculty  | cite24†Astrophysics L100:   * cite71†« first Full listing: People L101:   * cite72†‹ previous Full listing: People L102:   * cite71†1 of 5 Full listing: People L103:   * cite72†2 of 5 Full listing: People L104:   * 3 of 5 Full listing: People (Current page)
+L105:   * cite73†4 of 5 Full listing: People L106:   * cite74†5 of 5 Full listing: People L107:   * cite73†next › Full listing: People L108:   * cite74†last » Full listing: People L109: 
+L110: Click the "Fill Out Form" button to access the form for requesting the creation of a new bio page, or edits to an existing bio page. Thank you.
+L111: cite75†Google Form†docs.google.com L112: ## Department of Physics
+L113: 
+L114: University of California
+L115: 366 Physics North MC 7300
+L116: Berkeley, CA, 94720-7300
+L117: 
+L118: ## ADMINISTRATIVE OFFICE
+L119: 
+L120: physics_admin@berkeley.edu
+L121: 
+L122: ## Student Services
+L123: 
+L124: cite76†Student Services Contacts L125: 
+L126: cite77†Emergency Contact List (PDF) L127: 
+L128: cite78†Privacy Statement L129: ## Administration
+L130: 
+L131: cite79†Room Reservation Resources L132: cite48†Finance & Business Services cite80†ERSO Guide L133: cite81†Human Resources L134: cite82†Development & Communications L135: cite83†Building & Support Services L136: cite84†Instructional Support L137: cite76†Student Services cite85†R&D Machine Shop L138: 
+L139: cite86†Website Change Form†forms.gle L140: 
+L141: cite87†Website Policies†docs.google.com L142: ## University of California, Berkeley
+L143: 
+L144:   * cite88†Berkeley Main Page†www.berkeley.edu L145:   * cite89†Campus Administration†www.berkeley.edu L146:   * cite90†Berkeley News†news.berkeley.edu L147:   * cite91†The Campaign for Berkeley†campaign.berkeley.edu L148:   * cite92†Visiting Berkeley†visit.berkeley.edu L149:   * cite93†Campus Events†events.berkeley.edu L150: ### Follow us:
+L151: 
+L152:   * cite94†Facebook†www.facebook.com L153:   * cite95†X (formerly Twitter)†twitter.com L154:   * cite96†YouTube†www.youtube.com L155: 
+L156:   * cite97†Powered by Open Berkeley†open.berkeley.edu L157:   * cite98†Accessibility Statement†dap.berkeley.edu L158:   * cite99†Nondiscrimination Policy Statement†ophd.berkeley.edu L159:   * cite100†Privacy Statement†open.berkeley.edu L160:   * Copyright © 2026 UC Regents; all rights reserved
+L161: 
+L162: cite101†Back to Top --------------------------------------------------------------------------------
+Directory of Faculty, Staff, Graduate Students, Postdocs | Physics (https://physics.berkeley.edu/directory?dept=&keywords=&page=3&role%5B0%5D=11&topics=All)
+citeturn89view2 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: click({"ref_id":"turn84view0","id":72}); Total lines: 166
+L0:   * cite0†WELCOME L1:     * cite1†Our Community L2:     * cite2†Our Nobel Laureates L3:     * cite3†Our History L4:     * cite4†Employment L5:     * cite5†Plan Your Visit L6:     * cite6†Contact Us L7:   * cite7†ACADEMICS L8:     * cite8†Courses L9:     * cite9†Enrollment L10:     * cite10†Undergraduate Degree L11:     * cite11†Graduate Degree L12:   * cite12†STUDENT RESOURCES L13:     * cite13†Student Support & Advising L14:     * cite14†Hands-on Learning L15:     * cite15†Student Organizations & Mentoring L16:     * cite16†Resources for Graduate Students L17:   * cite17†VISITING STUDENTS L18:     * cite18†BPIE: The Berkeley Physics International Education Program L19:     * cite19†BETA Physics: Berkeley Experience and Training in Advanced Physics L20:     * cite20†Concurrent Enrollment & Summer Sessions L21:     * cite21†REYES: Remote Experience for Young Engineers and Scientists L22:     * cite22†Python4Physics L23:   * cite23†RESEARCH & FACULTY L24:     * cite24†Astrophysics L25:     * cite25†Atomic, Molecular and Optical Physics L26:     * cite26†Biophysics L27:     * cite27†Condensed Matter Physics and Materials Science L28:     * cite28†Nuclear Physics L29:     * cite29†Particle Physics L30:     * cite30†Plasma and Nonlinear Dynamics L31:     * cite31†Quantum Information Science L32:     * cite32†Lecturers L33:     * cite33†Emeritus Faculty L34:   * cite34†NEWS L35:     * cite35†Berkeley Physics Magazine L36:     * cite36†Student News L37:     * cite37†News Archive L38:   * cite38†EVENTS L39:     * cite39†Department Events†events.berkeley.edu L40:     * cite40†Colloquia†events.berkeley.edu L41:     * cite41†Physics 290 Seminars L42:     * cite42†Presentations Archive L43: ## Secondary navigation
+L44: 
+L45:   * cite43†HOME L46:   * cite44†GIVING L47:   * cite45†EQUITY & INCLUSION L48:   * cite46†DIRECTORY L49:   * cite47†Quick Links L50:     * ## QUICK LINKS
+L51: 
+L52:       * cite6†Contact Us L53:       * cite48†Administration L54:       * cite49†Safety L55: # Directory of Faculty, Staff, Graduate Students, Postdocs
+L56: 
+L57: cite50†Image: Directory L58: 
+L59: Keywords
+L60: 
+L61: [Input]
+L62: 
+L63: Topics
+L64: 
+L65: [Select]
+L66: 
+L67: Department
+L68: 
+L69: [Input][Input]
+L70: 
+L71: Role
+L72: 
+L73: [Select]
+L74: 
+L75: [Input]
+L76: 
+L77: [Input]
+L78: Name  | Job title  | Department  | Role  | Research interests
+L79: --- | --- | --- | --- | ---
+L80: cite51†Hitoshi Murayama | Professor, Former Director, Kavli Institute for the Physics and Mathematics of the Universe (IPMU), University of Tokyo  |  | Faculty  | cite29†Particle Physics L81: cite52†Kater Murch | Professor  |  | Faculty  | Open Quantum Systems and Non-Hermitian Physics, Quantum Sensing and Metrology, Superconducting Quantum Circuits, Dark Matter Detection, Quantum Thermodynamics
+L82: 
+L83: * * *
+L84: PUBLICATIONS Zheng K, Song X, Murch KW., Surface Morphology Assisted Trapping of Strongly Coupled...
+L85: cite53†Jeffrey Neaton | Professor  |  | Faculty  | cite27†Condensed Matter Physics And Materials Science L86: cite54†Yasunori Nomura | Professor, Director, Leinweber Institute for Theoretical Physics  |  | Faculty  | cite29†Particle Physics L87: cite55†Joseph Orenstein | Professor  |  | Faculty  | cite27†Condensed Matter Physics And Materials Science L88: cite56†Geoff Penington | Assistant Professor  |  | Faculty  | cite29†Particle Physics L89: cite57†Saul Perlmutter | Franklin W. and Karen Weber Dabby Professor  |  | Faculty  | cite24†Astrophysics L90: cite58†Matt C. Pyle | Assistant Professor, Michael M. Garland Chair  |  | Faculty  | cite24†Astrophysics , cite28†Nuclear Physics L91: cite59†Zi Qiang Qiu | Professor  |  | Faculty  | cite27†Condensed Matter Physics And Materials Science L92: cite60†R. Ramesh | Professor  |  | Faculty  | cite27†Condensed Matter Physics And Materials Science L93: cite61†Daniel Rokhsar | Professor  |  | Faculty  | cite26†Biophysics L94: cite62†Bernard Sadoulet | Professor Emeritus  |  | Faculty  | cite24†Astrophysics L95: cite63†Benjamin Safdi | Associate Professor  |  | Faculty  | cite24†Astrophysics , cite29†Particle Physics L96: cite64†Chiara Salemi | Assistant Professor  |  | Faculty  |
+L97: cite65†Charles Schwartz | Professor Emeritus  |  | Faculty  | cite25†Atomic, Molecular and Optical Physics , cite29†Particle Physics L98: cite66†Uros Seljak | Professor  |  | Faculty  | cite24†Astrophysics L99: cite67†Charles Shank | Professor Emeritus  |  | Faculty  | cite27†Condensed Matter Physics And Materials Science L100: cite68†Marjorie Shapiro | Professor of the Graduate School  |  | Faculty  | cite29†Particle Physics L101: cite69†Yuen-Ron Shen | Professor Emeritus  |  | Faculty  | cite27†Condensed Matter Physics And Materials Science L102: cite70†Irfan Siddiqi | Professor  |  | Faculty  | cite27†Condensed Matter Physics And Materials Science L103:   * cite71†« first Full listing: People L104:   * cite72†‹ previous Full listing: People L105:   * cite71†1 of 5 Full listing: People L106:   * cite73†2 of 5 Full listing: People L107:   * cite72†3 of 5 Full listing: People L108:   * 4 of 5 Full listing: People (Current page)
+L109:   * cite74†5 of 5 Full listing: People L110:   * cite74†next › Full listing: People L111:   * cite74†last » Full listing: People L112: 
+L113: Click the "Fill Out Form" button to access the form for requesting the creation of a new bio page, or edits to an existing bio page. Thank you.
+L114: cite75†Google Form†docs.google.com L115: ## Department of Physics
+L116: 
+L117: University of California
+L118: 366 Physics North MC 7300
+L119: Berkeley, CA, 94720-7300
+L120: 
+L121: ## ADMINISTRATIVE OFFICE
+L122: 
+L123: physics_admin@berkeley.edu
+L124: 
+L125: ## Student Services
+L126: 
+L127: cite76†Student Services Contacts L128: 
+L129: cite77†Emergency Contact List (PDF) L130: 
+L131: cite78†Privacy Statement L132: ## Administration
+L133: 
+L134: cite79†Room Reservation Resources L135: cite48†Finance & Business Services cite80†ERSO Guide L136: cite81†Human Resources L137: cite82†Development & Communications L138: cite83†Building & Support Services L139: cite84†Instructional Support L140: cite76†Student Services cite85†R&D Machine Shop L141: 
+L142: cite86†Website Change Form†forms.gle L143: 
+L144: cite87†Website Policies†docs.google.com L145: ## University of California, Berkeley
+L146: 
+L147:   * cite88†Berkeley Main Page†www.berkeley.edu L148:   * cite89†Campus Administration†www.berkeley.edu L149:   * cite90†Berkeley News†news.berkeley.edu L150:   * cite91†The Campaign for Berkeley†campaign.berkeley.edu L151:   * cite92†Visiting Berkeley†visit.berkeley.edu L152:   * cite93†Campus Events†events.berkeley.edu L153: ### Follow us:
+L154: 
+L155:   * cite94†Facebook†www.facebook.com L156:   * cite95†X (formerly Twitter)†twitter.com L157:   * cite96†YouTube†www.youtube.com L158: 
+L159:   * cite97†Powered by Open Berkeley†open.berkeley.edu L160:   * cite98†Accessibility Statement†dap.berkeley.edu L161:   * cite99†Nondiscrimination Policy Statement†ophd.berkeley.edu L162:   * cite100†Privacy Statement†open.berkeley.edu L163:   * Copyright © 2026 UC Regents; all rights reserved
+L164: 
+L165: cite101†Back to Top --------------------------------------------------------------------------------
+Directory of Faculty, Staff, Graduate Students, Postdocs | Physics (https://physics.berkeley.edu/directory?dept=&keywords=&page=4&role%5B0%5D=11&topics=All)
+citeturn89view3 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: click({"ref_id":"turn84view0","id":73}); Total lines: 158
+L0:   * cite0†WELCOME L1:     * cite1†Our Community L2:     * cite2†Our Nobel Laureates L3:     * cite3†Our History L4:     * cite4†Employment L5:     * cite5†Plan Your Visit L6:     * cite6†Contact Us L7:   * cite7†ACADEMICS L8:     * cite8†Courses L9:     * cite9†Enrollment L10:     * cite10†Undergraduate Degree L11:     * cite11†Graduate Degree L12:   * cite12†STUDENT RESOURCES L13:     * cite13†Student Support & Advising L14:     * cite14†Hands-on Learning L15:     * cite15†Student Organizations & Mentoring L16:     * cite16†Resources for Graduate Students L17:   * cite17†VISITING STUDENTS L18:     * cite18†BPIE: The Berkeley Physics International Education Program L19:     * cite19†BETA Physics: Berkeley Experience and Training in Advanced Physics L20:     * cite20†Concurrent Enrollment & Summer Sessions L21:     * cite21†REYES: Remote Experience for Young Engineers and Scientists L22:     * cite22†Python4Physics L23:   * cite23†RESEARCH & FACULTY L24:     * cite24†Astrophysics L25:     * cite25†Atomic, Molecular and Optical Physics L26:     * cite26†Biophysics L27:     * cite27†Condensed Matter Physics and Materials Science L28:     * cite28†Nuclear Physics L29:     * cite29†Particle Physics L30:     * cite30†Plasma and Nonlinear Dynamics L31:     * cite31†Quantum Information Science L32:     * cite32†Lecturers L33:     * cite33†Emeritus Faculty L34:   * cite34†NEWS L35:     * cite35†Berkeley Physics Magazine L36:     * cite36†Student News L37:     * cite37†News Archive L38:   * cite38†EVENTS L39:     * cite39†Department Events†events.berkeley.edu L40:     * cite40†Colloquia†events.berkeley.edu L41:     * cite41†Physics 290 Seminars L42:     * cite42†Presentations Archive L43: ## Secondary navigation
+L44: 
+L45:   * cite43†HOME L46:   * cite44†GIVING L47:   * cite45†EQUITY & INCLUSION L48:   * cite46†DIRECTORY L49:   * cite47†Quick Links L50:     * ## QUICK LINKS
+L51: 
+L52:       * cite6†Contact Us L53:       * cite48†Administration L54:       * cite49†Safety L55: # Directory of Faculty, Staff, Graduate Students, Postdocs
+L56: 
+L57: cite50†Image: Directory L58: 
+L59: Keywords
+L60: 
+L61: [Input]
+L62: 
+L63: Topics
+L64: 
+L65: [Select]
+L66: 
+L67: Department
+L68: 
+L69: [Input][Input]
+L70: 
+L71: Role
+L72: 
+L73: [Select]
+L74: 
+L75: [Input]
+L76: 
+L77: [Input]
+L78: Name  | Job title  | Department  | Role  | Research interests
+

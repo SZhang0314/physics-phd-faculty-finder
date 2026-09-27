@@ -1,0 +1,370 @@
+Standing Faculty | Department of Physics and Astronomy (https://www.physics.upenn.edu/people/standing-faculty)
+citeturn47view0 [wordlim: 200] Crawled: 2.0 years ago; Content type: text/html; Source: open({"ref_id":"https://www.physics.upenn.edu/people/standing-faculty","lineno":null}); Total lines: 542
+L0: Skip to main content
+L1: 
+L2:  University of Pennsylvania School of Arts & Sciences
+L3: 
+L4:   * cite0†College of Arts & Sciences†www.college.upenn.edu L5:   * cite1†Graduate Division†www.sas.upenn.edu L6:   * cite2†College of Liberal and Professional Studies†www.lps.upenn.edu L7: 
+L8: cite3†  University of Pennsylvania School of Arts and Sciences Department of Physics and Astronomy .st0{fill:#FFFFFF;}  L9: 
+L10: cite3†  cite3†Department of Physics and Astronomy L11: 
+L12: Toggle navigation
+L13: ## Main navigation
+L14: 
+L15:   * cite4†About L16:   * cite5†People L17:     * cite6†Standing Faculty L18:     * cite7†Lecturers L19:     * cite8†Postdoctoral Researchers L20:     * cite9†Research Associates L21:     * cite10†Graduate Students L22:     * cite11†Visiting Scholars L23:     * cite12†Emeritus L24:     * cite13†Staff L25:   * cite14†Undergraduate L26:   * cite15†Graduate L27:   * cite16†Courses L28:   * cite17†Diversity L29:   * cite18†Research L30:   * cite19†News L31:   * cite20†Events L32:   * cite21†Resources L33: 
+L34: Search
+L35: 
+L36: #  Standing Faculty
+L37: 
+L38: [Image 0: James Aguirre]
+L39: ### cite22†James Aguirre L40: 
+L41: Associate Professor
+L42: 
+L43: jaguirre@sas.upenn.educite23†215-898-9596†tel:215-898-9596 L44: 
+L45: 4N4B (office) 1N14/1N12 (lab), David Rittenhouse Laboratorycite22†Read Bio L46: 
+L47: [Image 1: Vijay Balasubramanian]
+L48: 
+L49: ### cite24†Vijay Balasubramanian L50: 
+L51: Cathy and Marc Lasry Professor
+L52: 
+L53: vijay@physics.upenn.educite25†(215) 573-0982†tel:%28215%29573-0982 L54: 
+L55: 2N3A, David Rittenhouse Laboratorycite24†Read Bio L56: 
+L57: [Image 2: Dani S. Bassett]
+L58: ### cite26†Dani S. Bassett L59: 
+L60: Primary Appointment: Professor of Bioengineering Secondary Appointments: Professor of Physics and Astronomy, Electrical & Systems Engineering, Neurology, and Psychology
+L61: 
+L62: dsb@seas.upenn.educite27†(215) 746-1754†tel:%28215%29746-1754 L63: 
+L64: cite26†Read Bio L65: 
+L66: [Image 3: Mariangela Bernardi]
+L67: 
+L68: ### cite28†Mariangela Bernardi L69: 
+L70: Professor
+L71: 
+L72: bernardm@sas.upenn.educite29†(215) 573-6251†tel:%28215%29573-6251 L73: 
+L74: DRL 4N2Bcite28†Read Bio L75: 
+L76: [Image 4: Gary Bernstein head shot]
+L77: ### cite30†Gary Bernstein L78: 
+L79: Reese W. Flower Professor of Astronomy and Astrophysics
+L80: 
+L81: garyb@physics.upenn.educite31†(215) 573-6252†tel:%28215%29573-6252 L82: 
+L83: 4N1, David Rittenhouse Laboratorycite30†Read Bio L84: 
+L85: [Image 5: Cullen Blake]
+L86: 
+L87: ### cite32†Cullen Blake L88: 
+L89: Associate Professor
+L90: 
+L91: chblake@sas.upenn.educite33†215-898-9495†tel:215-898-9495 L92: 
+L93: DRL 4N6cite32†Read Bio L94: 
+L95: [Image 6: Martin Claassen]
+L96: 
+L97: ### cite34†Martin Claassen L98: 
+L99: Assistant Professor
+L100: 
+L101: claassen@sas.upenn.edu
+L102: 
+L103: 2N30cite34†Read Bio L104: 
+L105: [Image 7: Peter Collings]
+L106: ### cite35†Peter Collings L107: 
+L108: Adjunct Professor Morris L. Clothier Professor of Physics, Swarthmore College
+L109: 
+L110: PCOLLIN1@swarthmore.educite36†(610) 328-7791†tel:%28610%29328-7791 L111: 
+L112: Department of Physics & Astronomy, Swarthmore College, Swarthmore, PA 19081cite35†Read Bio L113: 
+L114: [Image 8: Mirjam Cvetic]
+L115: 
+L116: ### cite37†Mirjam Cvetic L117: 
+L118: Fay R. and Eugene L. Langberg Professor
+L119: 
+L120: cvetic@physics.upenn.educite38†215-898-8153†tel:215-898-8153 L121: 
+L122: DRL 4N14cite37†Read Bio L123: 
+L124: [Image 9: Mark Devlin]
+L125: ### cite39†Mark Devlin L126: 
+L127: Reese W. Flower Professor of Astronomy and Astrophysics
+L128: 
+L129: devlin@physics.upenn.educite40†(215) 573-7521†tel:%28215%29573-7521 L130: 
+L131: DRL 4N8cite39†Read Bio L132: 
+L133: [Image 10: Ron Donagi]
+L134: 
+L135: ### cite41†Ron Donagi L136: 
+L137: Primary Appointment: Professor of Mathematics Secondary Appointment: Professor of Physics and Astronomy
+L138: 
+L139: donagi@math.upenn.educite42†(215) 898-8465†tel:%28215%29898-8465 L140: 
+L141: DRL 4E5cite41†Read Bio L142: 
+L143: [Image 11: Marija Drndic]
+L144: ### cite43†Marija Drndic L145: 
+L146: Fay R. and Eugene L. Langberg Professor of Physics
+L147: 
+L148: drndic@physics.upenn.educite44†(215) 898-5810†tel:%28215%29898-5810 L149: 
+L150: DRL 2N28cite43†Read Bio L151: 
+L152: [Image 12: An image of Douglas Durian]
+L153: 
+L154: ### cite45†Douglas Durian L155: 
+L156: Mary Amanda Wood Professor of Physics and Astronomy
+L157: 
+L158: djdurian@physics.upenn.educite46†(215) 898-8147†tel:%28215%29898-8147 L159: 
+L160: DRL 2N4cite45†Read Bio L161: 
+L162: [Image 13: Nader Engheta]
+L163: ### cite47†Nader Engheta L164: 
+L165: H. Nedwill Ramsey Professor, School of Engineering and Applied Science Primary Appointment: Professor of Electrical & Systems Engineering, Secondary Appointment: Professor of Physics and Astronomy
+L166: 
+L167: engheta@ee.upenn.educite48†+1-215-898-9777†tel:%2B1-215-898-9777 L168: 
+L169: 200 South 33rd Street, Room 215, Moore Buildingcite47†Read Bio L170: 
+L171: [Image 14: Mark Goulian]
+L172: ### cite49†Mark Goulian L173: 
+L174: Charles and William L. Day Distinguished Professor in the Natural Sciences
+L175: 
+L176: goulian@physics.upenn.educite50†(215) 573-6991†tel:%28215%29573-6991 L177: 
+L178: DRL 2N20 & Office: 204F, Carolyn Lynch Laboratory Lab: 230, Carolyn Lynch Laboratorycite49†Read Bio L179: 
+L180: [Image 15: Jonathan Heckman]
+L181: 
+L182: ### cite51†Jonathan Heckman L183: 
+L184: Associate Professor
+L185: 
+L186: jheckman@sas.upenn.educite52†(215) 573-9070†tel:%28215%29573-9070 L187: 
+L188: DRL 4N45cite51†Read Bio L189: 
+L190: [Image 16: Bhuvnesh Jain]
+L191: ### cite53†Bhuvnesh Jain L192: 
+L193: Walter H. and Leonore C. Annenberg Professor in the Natural Sciences Co-Director of the Penn Center for Particle Cosmology, Co-Director of the Penn Data Driven Discovery Initiative
+L194: 
+L195: bjain@physics.upenn.educite54†(215) 573-5330†tel:%28215%29573-5330 L196: 
+L197: DRL 4N12Acite53†Read Bio L198: 
+L199: [Image 17: Paul Janmey]
+L200: ### cite55†Paul Janmey L201: 
+L202: Primary Appointment: Adjunct Professor of Physiology Secondary Appointment: Professor of Physics and Astronomy
+L203: 
+L204: janmey@mail.med.upenn.educite56†(215) 573-7380†tel:%28215%29573-7380 L205: 
+L206: 1010 Vagelos Laboratories, 3340 Smith Walk, Philadelphia PA 19104cite55†Read Bio L207: 
+L208: [Image 18: A.T. Charlie Johnson]
+L209: ### cite57†A.T. Charlie Johnson L210: 
+L211: Rebecca W. Bushnell Professor of Physics and Astronomy
+L212: 
+L213: cjohnson@physics.upenn.educite58†(215) 898-9325, (215) 850-1496†tel:%28215%29898-9325%2C%28215%29850-1496 L214: 
+L215: DRL 2N13Dcite57†Read Bio L216: 
+L217: [Image 19: Randy Kamien]
+L218: 
+L219: ### cite59†Randall Kamien L220: 
+L221: Vicki and William Abrams Professor in the Natural Sciences
+L222: 
+L223: kamien@physics.upenn.educite60†(215) 898-5940†tel:%28215%29898-5940 L224: 
+L225: DRL 2N26cite59†Read Bio L226: 
+L227: [Image 20: Charles Kane]
+L228: ### cite61†Charles Kane L229: 
+L230: Christopher H. Browne Distinguished Professor of Physics
+L231: 
+L232: kane@physics.upenn.educite62†(215) 898-8149†tel:%28215%29898-8149 L233: 
+L234: DRL 2N17dcite61†Read Bio L235: 
+L236: [Image 21: Joel Karp]
+L237: ### cite63†Joel Karp L238: 
+L239: Primary Appointment: Professor of Radiologic Physics in Radiology Secondary Appointment: Professor of Physics and Astronomy
+L240: 
+L241: joelkarp@pennmedicine.upenn.educite64†215-573-4998†tel:215-573-4998 L242: 
+L243: John Morgan Building, Room 154
+L244: 3620 Hamilton Walk
+L245: Philadelphia, Pa 19104cite63†Read Bio L246: 
+L247: [Image 22: Eleni Katifori]
+L248: ### cite65†Eleni Katifori L249: 
+L250: Associate Professor and Undergraduate Affairs Chair
+L251: 
+L252: katifori@sas.upenn.educite66†(215) 746-1205†tel:%28215%29746-1205 L253: 
+L254: DRL 2N2cite65†Read Bio L255: 
+L256: [Image 23: Justin Khoury]
+L257: 
+L258: ### cite67†Justin Khoury L259: 
+L260: Professor
+L261: 
+L262: jkhoury@sas.upenn.educite68†215-573-7152†tel:215-573-7152 L263: 
+L264: DRL 4N4cite67†Read Bio L265: 
+L266: [Image 24: Jay Kikkawa]
+L267: 
+L268: ### cite69†Jay Kikkawa L269: 
+L270: Professor
+L271: 
+L272: kikkawa@physics.upenn.educite70†215-898-7522†tel:215-898-7522 L273: 
+L274: DRL 2N13Acite69†Read Bio L275: 
+L276: [Image 25: Joshua R. Klein]
+L277: ### cite71†Joshua R. Klein L278: 
+L279: Edmund J. and Louise W. Kahn Term Professor
+L280: 
+L281: jrk@hep.upenn.educite72†215-573-3599†tel:215-573-3599 L282: 
+L283: DRL 4N18cite71†Read Bio L284: 
+L285: [Image 26: I. Joseph Kroll]
+L286: 
+L287: ### cite73†I. Joseph Kroll L288: 
+L289: Robert I. Williams Endowed Term Professor of Physics and Astronomy
+L290: 
+L291: kroll@hep.upenn.educite74†215-898-8141 †tel:215-898-8141 L292: 
+L293: DRL 1W1cite73†Read Bio L294: 
+L295: [Image 27: An image of Hayden Lee]
+L296: 
+L297: ### cite75†Hayden Lee L298: 
+L299: Assistant Professor
+L300: 
+L301: haydenhl@sas.upenn.edu
+L302: 
+L303: DRL 4N43cite75†Read Bio L304: 
+L305: [Image 28: Adam Lidz]
+L306: ### cite76†Adam Lidz L307: 
+L308: Associate Professor
+L309: 
+L310: alidz@sas.upenn.educite77†(215) 898-9597†tel:%28215%29898-9597 L311: 
+L312: DRL 4N2acite76†Read Bio L313: 
+L314: [Image 29: Elliot Lipeles]
+L315: 
+L316: ### cite78†Elliot Lipeles L317: 
+L318: Professor
+L319: 
+L320: lipeles@hep.upenn.educite79†(215) 573-3652†tel:%28215%29573-3652 L321: 
+L322: DRL 1W23cite78†Read Bio L323: 
+L324: [Image 30: Andrea Liu]
+L325: 
+L326: ### cite80†Andrea Liu L327: 
+L328: Hepburn Professor of Physics
+L329: 
+L330: ajliu@physics.upenn.educite81†(215) 573-7374†tel:%28215%29573-7374 L331: 
+L332: DRL 2N1cite80†Read Bio L333: 
+L334: [Image 31: Mathew Madhavacheril]
+L335: ### cite82†Mathew Madhavacheril L336: 
+L337: Assistant Professor
+L338: 
+L339: mathm@sas.upenn.educite83†215-898-9248†tel:215-898-9248 L340: 
+L341: DRL 4N39 cite82†Read Bio L342: 
+L343: [Image 32: Arnold Mathijssen]
+L344: 
+L345: ### cite84†Arnold Mathijssen L346: 
+L347: Assistant Professor
+L348: 
+L349: amaths@upenn.edu
+L350: 
+L351: DRL office 2N10, LRSM lab 411cite84†Read Bio L352: 
+L353: [Image 33: Christopher M. Mauger]
+L354: 
+L355: ### cite85†Christopher M. Mauger L356: 
+L357: Associate Professor
+L358: 
+L359: cmauger@sas.upenn.educite86†(215) 746-1204†tel:%28215%29746-1204 L360: 
+L361: DRL 4N16cite85†Read Bio L362: 
+L363: [Image 34: Eugene Mele]
+L364: ### cite87†Eugene Mele L365: 
+L366: Christopher H. Browne Distinguished Professor of Physics
+L367: 
+L368: mele@physics.upenn.educite88†(215) 898-3135†tel:%28215%29898-3135 L369: 
+L370: DRL 2N17Acite87†Read Bio L371: 
+L372: [Image 35: Philip Nelson]
+L373: 
+L374: ### cite89†Philip Nelson L375: 
+L376: Professor
+L377: 
+L378: pcn@physics.upenn.educite90†(215) 898-7001†tel:%28215%29898-7001 L379: 
+L380: DRL 2N8cite89†Read Bio L381: 
+L382: [Image 36: Yung Woo Park]
+L383: ### cite91†Yung Woo Park L384: 
+L385: Adjunct Professor Principal Investigator of the Institute of Applied Physics, Seoul National University
+L386: 
+L387: ywpark@phya.snu.ac.kr
+L388: 
+L389: cite91†Read Bio L390: 
+L391: [Image 37: Dylan Rankin]
+L392: 
+L393: ### cite92†Dylan Rankin L394: 
+L395: Assistant Professor
+L396: 
+L397: dsrankin@sas.upenn.edu
+L398: 
+L399: DRL 4N16Acite92†Read Bio L400: 
+L401: [Image 38: Masao Sako]
+L402: ### cite93†Masao Sako L403: 
+L404: Arifa Hasan Ahmad and Nada Al Shoaibi Presidential Professor of Physics and Astronomy
+L405: 
+L406: masao@sas.upenn.educite94†215/898-8151†tel:215%2F898-8151 L407: 
+L408: DRL 4N2cite93†Read Bio L409: 
+L410: [Image 39: Robyn Sanderson]
+L411: 
+L412: ### cite95†Robyn Sanderson L413: 
+L414: Assistant Professor
+L415: 
+L416: robynes@sas.upenn.educite96†215-898-7848†tel:215-898-7848 L417: 
+L418: 4N10cite95†Read Bio L419: 
+L420: [Image 40: Ravi K. Sheth]
+L421: ### cite97†Ravi K. Sheth L422: 
+L423: Professor and Graduate Chair
+L424: 
+L425: shethrk@physics.upenn.educite98†215-898-5942†tel:215-898-5942 L426: 
+L427: 4N3 DRLcite97†Read Bio L428: 
+L429: [Image 41: Richard B. Stephens]
+L430: 
+L431: ### cite99†Richard B. Stephens L432: 
+L433: Adjunct Professor
+L434: 
+L435: rbstephns@gmail.com
+L436: 
+L437: cite99†Read Bio L438: 
+L439: [Image 42: Evelyn Thomson]
+L440: 
+L441: ### cite100†Evelyn Thomson L442: 
+L443: Professor
+L444: 
+L445: thomsone@physics.upenn.educite101†215-898-6170†tel:215-898-6170 L446: 
+L447: DRL 4N16Bcite100†Read Bio L448: 
+L449: [Image 43: Mark Trodden]
+L450: ### cite102†Mark Trodden L451: 
+L452: Fay R. and Eugene L. Langberg Professor of Physics Associate Dean for the Natural Sciences, School of Arts and Sciences, Co-Director of the Penn Center for Particle Cosmology
+L453: 
+L454: trodden@physics.upenn.educite103†215-898-7938†tel:215-898-7938 L455: 
+L456: DRL 4N4Acite102†Read Bio L457: 
+L458: [Image 44: Liang Wu]
+L459: 
+L460: ### cite104†Liang Wu L461: 
+L462: Assistant Professor
+L463: 
+L464: liangwu@sas.upenn.educite105†+1(215)898-3566†tel:%2B1%28215%29898-3566 L465: 
+L466: DRL 2N24cite104†Read Bio L467: 
+L468: [Image 45: Arjun Yodh]
+L469: ### cite106†Arjun Yodh L470: 
+L471: James M. Skinner Professor of Science and Department Chair
+L472: 
+L473: yodh@physics.upenn.educite107†DRL: 215-898-6354†tel:DRL%3A215-898-6354 L474: 
+L475: 2N6 DRL; 2E15 DRL (Chair's Office)cite106†Read Bio L476: 
+L477: [Image 46: Bo Zhen]
+L478: 
+L479: ### cite108†Bo Zhen L480: 
+L481: Associate Professor
+L482: 
+L483: bozhen@sas.upenn.educite109†(215) 746-4567†tel:%28215%29746-4567 L484: 
+L485: DRL 2N34cite108†Read Bio L486: 
+L487: ## Main navigation
+L488: ## cite5†People L489: 
+L490: cite6†Standing Faculty L491: 
+L492: cite7†Lecturers L493: 
+L494: cite8†Postdoctoral Researchers L495: 
+L496: cite9†Research Associates L497: 
+L498: cite10†Graduate Students L499: 
+L500: cite11†Visiting Scholars L501: 
+L502: cite12†Emeritus L503: 
+L504: cite13†Staff L505: 
+L506:   *   *
+L507: 
+L508: cite110†Subscribe to our mailing list†groups.sas.upenn.edu L509: 
+L510: cite111†Donate†giving.apps.upenn.edu L511: ## Contact Us
+L512: 
+L513: Department of Physics & Astronomy
+L514: University of Pennsylvania
+L515: 209 South 33rd Street
+L516: University of Pennsylvania
+L517: Philadelphia, PA 19104-6396
+L518: 
+L519: physics-info@physics.upenn.edu
+L520: Phone:(215) 898-8141
+L521: Fax: (215) 898-2010
+L522: 
+L523: Arjun Yodh
+L524: Department Chair
+L525: 
+L526: Ravi Sheth
+L527: Graduate Affairs Chair
+L528: 
+L529: Eleni Katifori
+L530: Undergraduate Affairs Chair
+L531: 
+L532: cite112†  University of Pennsylvania School of Arts and Sciences .st0{fill:#FFFFFF;} †www.sas.upenn.edu L533:   * cite113†College of Arts & Sciences†www.college.upenn.edu L534:   * cite114†Graduate Division†www.sas.upenn.edu L535:   * cite115†College of Liberal & Professional Studies†www.sas.upenn.edu L536: 
+L537: cite116†  University of Pennsylvania .st0{fill:#FFFFFF;} †www.upenn.edu L538: 
+L539: © 2024 The Trustees of the University of Pennsylvania
+L540: 
+L541:  cite117†Penn Weblogin 

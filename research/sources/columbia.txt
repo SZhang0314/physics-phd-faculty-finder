@@ -1,0 +1,280 @@
+Faculty | Department of Physics (https://www.physics.columbia.edu/content/faculty)
+citeturn57view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.physics.columbia.edu/content/faculty","lineno":null}); Total lines: 375
+L0: Search the site [Input: Search the site]
+L1: 
+L2: Columbia University
+L3: 
+L4: Toggle search
+L5: 
+L6:   *     *     *       *       *   *   * Department of Physics
+L7: 
+L8: ## You are here:
+L9: 
+L10: #
+L11: 
+L12: Faculty
+L13: 
+L14: cite0†Professor Emeritus Boris Altshuler L15: 
+L16: Professor Emeritus of Physics
+L17: 
+L18: cite1†Photo of Elena Aprile Centennial Professor Elena Aprile L19: 
+L20: Director, Italian Academy & Centennial Professor of Physics, Department of Physics
+L21: ## Research Interest
+L22: 
+L23: cite2†High-Energy Nuclear/Particle Physics L24: 
+L25: cite3†Astrophysics, Gravitational Waves, and Cosmology L26: 
+L27: cite4†Associate Professor Ana Asenjo Garcia L28: 
+L29: Associate Professor of Physics, Department of Physics
+L30: 
+L31: ## Research Interest
+L32: 
+L33: cite5†Atomic, Molecular, Optical Physics L34: 
+L35: cite6†Asenjo-Garcia Lab L36: 
+L37: cite7†Professor Dmitri N. Basov L38: 
+L39: Higgins Professor of Physics, Department of Physics
+L40: ## Research Interest
+L41: 
+L42: cite8†Experimental condensed matter physics L43: 
+L44: cite9†Professor Andrei M. Beloborodov L45: 
+L46: Professor of Physics, Department of Physics
+L47: 
+L48: ## Research Interest
+L49: 
+L50: cite3†Astrophysics, Gravitational Waves, and Cosmology L51: 
+L52: cite10†Professor Gustaaf H. Brooijmans L53: 
+L54: Professor of Physics and Director of Graduate Studies, Department of Physics
+L55: ## Research Interest
+L56: 
+L57: cite2†High-Energy Nuclear/Particle Physics L58: 
+L59: cite11†Professor Norman H. Christ L60: 
+L61: Ephraim Gildor Professor of Computational Theoretical Physics, Department of Physics
+L62: 
+L63: ## Research Interest
+L64: 
+L65: cite2†High-Energy Nuclear/Particle Physics L66: 
+L67: cite12†Professor Brian A. Cole L68: 
+L69: Professor of Physics, Department of Physics
+L70: ## Research Interest
+L71: 
+L72: cite2†High-Energy Nuclear/Particle Physics L73: 
+L74: cite13†Professor Cory Raymond Dean L75: 
+L76: Professor of Physics, Department of Physics
+L77: 
+L78: cite14†Professor Frederik M. Denef L79: 
+L80: Professor of Physics, Department of Physics
+L81: ## Research Interest
+L82: 
+L83: cite2†High-Energy Nuclear/Particle Physics L84: 
+L85: cite15†Lecturer in Discipline Director of Undergraduate Studies Jeremy R. Dodd L86: 
+L87: Senior Lecturer and Director of Undergraduate Studies
+L88: 
+L89: cite16†Professor Brian Greene L90: 
+L91: Professor of Mathematics and Physics, Department of Mathematics
+L92: 
+L93: ## Research Interest
+L94: 
+L95: cite2†High-Energy Nuclear/Particle Physics L96: 
+L97: cite17†Lecturer in Discipline Rebecca I. Grossman L98: 
+L99: Lecturer in the Discipline of Physics, Department of Physics
+L100: ## Research Interest
+L101: 
+L102: cite18†Physics Education L103: 
+L104: cite19†Professor Charles J. Hailey L105: 
+L106: Pupin Professor of Physics; Co-Director, Columbia Astrophysics Laboratory, Department of Physics
+L107: ## Research Interest
+L108: 
+L109: cite3†Astrophysics, Gravitational Waves, and Cosmology L110: 
+L111: cite20†Professor Emeritus Tony F. Heinz L112: 
+L113: David M. Rickey Professor Emeritus of Optical Communications in the Faculty of Engineering and Applied Science and Professor Emeritus of Physics; Special Research Scientist in the Department of Electrical Engineering, Dept of Electrical Engineering
+L114: 
+L115: cite21†Associate Professor J. Colin Hill L116: 
+L117: Associate Professor of Physics, Department of Physics
+L118: ## Research Interest
+L119: 
+L120: cite3†Astrophysics, Gravitational Waves, and Cosmology L121: 
+L122: cite22†Professor Emlyn Willard Hughes L123: 
+L124: Professor of Physics, Department of Physics
+L125: 
+L126: ## Research Interest
+L127: 
+L128: cite23†Biology and Physics L129: 
+L130: cite24†Environmental Science L131: 
+L132: cite25†Professor Lam Hui L133: 
+L134: Professor of Physics, Department of Physics
+L135: ## Research Interest
+L136: 
+L137: cite3†Astrophysics, Gravitational Waves, and Cosmology L138: 
+L139: cite2†High-Energy Nuclear/Particle Physics L140: 
+L141: cite26†Photo of Georgia Karagiorgi Associate Professor Georgia Karagiorgi L142: 
+L143: Associate Professor of Physics, Department of Physics
+L144: 
+L145: ## Research Interest
+L146: 
+L147: cite2†High-Energy Nuclear/Particle Physics L148: 
+L149: cite27†Professor Yuri Levin L150: 
+L151: Professor of Physics, Department of Physics
+L152: ## Research Interest
+L153: 
+L154: cite3†Astrophysics, Gravitational Waves, and Cosmology L155: 
+L156: cite28†Professor Szabolcs Marka L157: 
+L158: Walter O. LeCroy, Jr. Professor of Physics, Department of Physics
+L159: 
+L160: ## Research Interest
+L161: 
+L162: cite23†Biology and Physics L163: 
+L164: cite3†Astrophysics, Gravitational Waves, and Cosmology L165: 
+L166: cite29†Professor Robert D. Mawhinney L167: 
+L168: Professor of Physics, Department of Physics
+L169: 
+L170: ## Research Interest
+L171: 
+L172: cite2†High-Energy Nuclear/Particle Physics L173: 
+L174: cite30†Adjunct Professor Morgan May L175: 
+L176: Adjunct Professor of Physics, Department of Physics
+L177: ## Research Interest
+L178: 
+L179: cite3†Astrophysics, Gravitational Waves, and Cosmology L180: 
+L181: cite31†Professor James W. McIver L182: 
+L183: Assistant Professor of Physics, Department of Physics
+L184: 
+L185: cite32†Professor Brian David Metzger L186: 
+L187: Professor of Physics, Department of Physics
+L188: 
+L189: ## Research Interest
+L190: 
+L191: cite3†Astrophysics, Gravitational Waves, and Cosmology L192: 
+L193: cite33†Professor Andrew J. Millis L194: 
+L195: Professor of Physics, Department of Physics
+L196: 
+L197: cite34†Assistant Professor Sebastian Mizera L198: 
+L199: Assistant Professor of Physics, Department of Physics
+L200: ## Research Interest
+L201: 
+L202: cite35†High Energy Theory Group L203: 
+L204: cite2†High-Energy Nuclear/Particle Physics L205: 
+L206: cite36†Professor Alfred H. Mueller L207: 
+L208: Enrico Fermi Professor of Physics, Department of Physics
+L209: 
+L210: ## Research Interest
+L211: 
+L212: cite2†High-Energy Nuclear/Particle Physics L213: 
+L214: cite37†Professor Abhay Narayan Pasupathy L215: 
+L216: Chair and Professor of Physics, Department of Physics
+L217: 
+L218: ## Research Interest
+L219: 
+L220: cite38†Condensed matter physics L221: 
+L222: cite39†Professor Alberto Nicolis L223: 
+L224: Professor of Physics, Department of Physics
+L225: ## Research Interest
+L226: 
+L227: cite2†High-Energy Nuclear/Particle Physics L228: 
+L229: cite40†theoretical high energy physics L230: 
+L231: cite41†Lecturer in Discipline Hector Ochoa De Eguileor Romillo L232: 
+L233: Lecturer in Discipline
+L234: 
+L235: ## Research Interest
+L236: 
+L237: cite38†Condensed matter physics L238: 
+L239: cite42†Professor Angela Olinto L240: 
+L241: Provost of the University; Professor of Astronomy and of Physics
+L242: 
+L243: ## Research Interest
+L244: 
+L245: cite3†Astrophysics, Gravitational Waves, and Cosmology L246: 
+L247: cite43†Professor John A. Parsons L248: 
+L249: Professor of Physics, Department of Physics
+L250: ## Research Interest
+L251: 
+L252: cite2†High-Energy Nuclear/Particle Physics L253: 
+L254: cite44†Associate Professor Kerstin M. Perez L255: 
+L256: Lavine Family Associate Professor of the Natural Sciences in the Department of Physics, Department of Physics
+L257: 
+L258: ## Research Interest
+L259: 
+L260: cite3†Astrophysics, Gravitational Waves, and Cosmology L261: 
+L262: cite45†Assistant Professor Raquel Queiroz L263: 
+L264: Assistant Professor of Physics, Department of Physics
+L265: ## Research Interest
+L266: 
+L267: cite38†Condensed matter physics L268: 
+L269: cite46†Lecturer in Discipline Eric J. Raymer L270: 
+L271: Lecturer in the Discipline of Physics, Department of Physics
+L272: 
+L273: ## Research Interest
+L274: 
+L275: cite18†Physics Education L276: 
+L277: cite47†Assistant Professor Mark Ross-Lonergan L278: 
+L279: Assistant Professor of Physics
+L280: 
+L281: ## Research Interest
+L282: 
+L283: cite2†High-Energy Nuclear/Particle Physics L284: 
+L285: cite48†Photo of Ozgur Sahin Professor Ozgur Sahin L286: 
+L287: Professor of Biological Sciences and Physics, Dept of Biological Sciences
+L288: ## Research Interest
+L289: 
+L290: cite23†Biology and Physics L291: 
+L292: cite49†Professor Emeritus Frank J. Sciulli L293: 
+L294: Pupin Professor Emeritus of Physics
+L295: 
+L296: ## Research Interest
+L297: 
+L298: cite2†High-Energy Nuclear/Particle Physics L299: 
+L300: cite50†Professor Emeritus Michael Herman Shaevitz L301: 
+L302: Professor of Physics, Department of Physics
+L303: 
+L304: ## Research Interest
+L305: 
+L306: cite2†High-Energy Nuclear/Particle Physics L307: 
+L308: cite51†Photo of Horst Störmer Professor Emeritus Horst Störmer L309: 
+L310: Professor Emeritus
+L311: ## Research Interest
+L312: 
+L313: cite8†Experimental condensed matter physics L314: 
+L315: cite52†Professor Philip Michael Tuts L316: 
+L317: Professor of Physics, Department of Physics
+L318: 
+L319: ## Research Interest
+L320: 
+L321: cite2†High-Energy Nuclear/Particle Physics L322: 
+L323: cite53†Professor Yasutomo J. Uemura L324: 
+L325: Professor of Physics, Department of Physics
+L326: 
+L327: cite54†Professor Emeritus Erick J. Weinberg L328: 
+L329: Professor Emeritus of Physics
+L330: ## Research Interest
+L331: 
+L332: cite2†High-Energy Nuclear/Particle Physics L333: 
+L334: cite55†Associate Professor Sebastian Will L335: 
+L336: Associate Professor of Physics, Department of Physics
+L337: 
+L338: ## Research Interest
+L339: 
+L340: cite5†Atomic, Molecular, Optical Physics L341: 
+L342: cite56†Assistant Professor Zhenjie Yan L343: 
+L344: Assistant Professor of Physics
+L345: 
+L346: ## Research Interest
+L347: 
+L348: cite5†Atomic, Molecular, Optical Physics L349: 
+L350: cite57†Professor William Allen Zajc L351: 
+L352: I.I. Rabi Professor of Physics, Department of Physics
+L353: ## Research Interest
+L354: 
+L355: cite2†High-Energy Nuclear/Particle Physics L356: 
+L357: cite58†Professor Tanya Zelevinsky L358: 
+L359: Professor of Physics, Department of Physics
+L360: 
+L361: ## Research Interest
+L362: 
+L363: cite5†Atomic, Molecular, Optical Physics L364: 
+L365: Department of Physics 538 West 120th Street, 704 Pupin Hall MC 5255 · New York, NY 10027
+L366: ## Phone
+L367: 
+L368: 212-854-3366
+L369: 
+L370: cite59†Columbia University†www.columbia.edu L371: 
+L372: cite60†©2026 Columbia University†www.columbia.edu cite61†Accessibility†accessibility.columbia.edu cite62†Nondiscrimination†universitypolicies.columbia.edu cite63†Careers†careers.columbia.edu cite64†Built using Columbia Sites†sites.columbia.edu L373: 
+L374: [Button: Close]
+

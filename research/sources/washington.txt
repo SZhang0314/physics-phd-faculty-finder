@@ -1,0 +1,514 @@
+People - Department Faculty | Department of Physics | University of Washington (https://phys.washington.edu/people/faculty)
+citeturn74view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://phys.washington.edu/people/faculty","lineno":null}); Total lines: 642
+L0: # People - Department Faculty
+L1: 
+L2: Name [Input]
+L3: 
+L4: Field of Interest [Select]
+L5: 
+L6: Faculty Rank [Select]
+L7: 
+L8: [Input]
+L9: 
+L10: cite0†A - cite1†B - cite2†C - cite3†D - cite4†E - cite5†F - cite6†G - cite7†H - cite8†K - cite9†L - cite10†M - cite11†N - cite12†O - cite13†P - cite14†R - cite15†S - cite16†T - cite17†W - cite18†X - cite19†Y L11: 
+L12: ### cite20†Usama al-Binni L13: 
+L14: Associate Teaching Professor
+L15: 
+L16: ualbinni@uw.edu / 206-543-9194
+L17: 
+L18: PAB B451
+L19: 
+L20: cite21†Astrophysics, Cosmology & Gravitation , cite22†Particle Theory L21: ### cite23†Anton Andreev L22: 
+L23: Boeing Professor of Physics
+L24: 
+L25: aandreev@uw.edu / 206-543-3901
+L26: 
+L27: B425
+L28: 
+L29: cite24†Condensed Matter L30: 
+L31: ### cite25†Arthur Barnard L32: 
+L33: Assistant Professor
+L34: 
+L35: awb1@uw.edu
+L36: 
+L37: B458, B027
+L38: 
+L39: cite24†Condensed Matter , cite26†Quantum Information L40: 
+L41: ### cite27†Masha Baryakhtar L42: 
+L43: Associate Professor
+L44: 
+L45: mbaryakh@uw.edu
+L46: 
+L47: cite21†Astrophysics, Cosmology & Gravitation , cite22†Particle Theory L48: 
+L49: ### cite28†Silas Beane L50: 
+L51: Professor
+L52: 
+L53: silas@uw.edu / 206-543-3256
+L54: 
+L55: B457
+L56: 
+L57: cite29†Nuclear Theory , cite26†Quantum Information L58: ### cite30†Boris Blinov L59: 
+L60: Professor
+L61: 
+L62: blinov@uw.edu / 206-221-3780
+L63: 
+L64: B436, B039, B055
+L65: 
+L66: cite31†Atomic Physics , cite26†Quantum Information L67: 
+L68: ### cite32†Suzanne White Brahmia L69: 
+L70: Professor
+L71: 
+L72: brahmia@uw.edu / 206-616-7768
+L73: 
+L74: C224
+L75: 
+L76: cite33†Physics Education L77: 
+L78: ### cite34†Quentin Buat L79: 
+L80: Assistant Professor
+L81: 
+L82: qbuat@uw.edu
+L83: 
+L84: B209
+L85: 
+L86: cite35†Nuclear & Particle Experiment L87: 
+L88: ### cite36†Aurel Bulgac L89: 
+L90: Professor
+L91: 
+L92: bulgac@uw.edu / 206-685-2988
+L93: 
+L94: B478
+L95: 
+L96: cite29†Nuclear Theory L97: 
+L98: cite37†Image L99: 
+L100: ### cite38†Michael Cervia L101: 
+L102: Acting Assistant Professor
+L103: 
+L104: cervia@uw.edu
+L105: ### cite39†Alvaro Chavarria L106: 
+L107: Associate Professor
+L108: 
+L109: chavarri@uw.edu / 206-543-2665
+L110: 
+L111: B476, B059
+L112: 
+L113: cite21†Astrophysics, Cosmology & Gravitation , cite35†Nuclear & Particle Experiment L114: 
+L115: ### cite40†Margaret S. Cheung L116: 
+L117: Affiliate Professor
+L118: 
+L119: mscheung@uw.edu (mscheung@uw.edu )
+L120: 
+L121: PAB B472
+L122: 
+L123: cite41†Biological Physics L124: 
+L125: ### cite42†Jiun-Haw Chu L126: 
+L127: Professor
+L128: 
+L129: jhchu@uw.edu / 650-862-2808
+L130: 
+L131: B452, B023, B021
+L132: 
+L133: cite24†Condensed Matter L134: 
+L135: ### cite43†Vincenzo Cirigliano L136: 
+L137: Professor
+L138: 
+L139: cirigv@uw.edu / 206-543-7481
+L140: 
+L141: C408
+L142: 
+L143: cite29†Nuclear Theory L144: ### cite44†David Cobden L145: 
+L146: Professor
+L147: 
+L148: cobden@uw.edu / 206-543-2686
+L149: 
+L150: Physics-Astronomy Building B432
+L151: 
+L152: cite24†Condensed Matter L153: 
+L154: cite37†Image L155: 
+L156: ### cite45†Wouter Dekens L157: 
+L158: Research Assistant Professor
+L159: 
+L160: wdekens@uw.edu
+L161: 
+L162: B418
+L163: 
+L164: ### cite46†Marcel den Nijs L165: 
+L166: Professor
+L167: 
+L168: london@uw.edu / 206-543-7305
+L169: 
+L170: B429
+L171: 
+L172: cite41†Biological Physics , cite24†Condensed Matter L173: 
+L174: ### cite47†Jason Detwiler L175: 
+L176: Professor
+L177: 
+L178: jasondet@uw.edu / 206-616-2875
+L179: 
+L180: B444
+L181: 
+L182: cite35†Nuclear & Particle Experiment L183: ### cite48†Sanshiro Enomoto L184: 
+L185: Research Professor
+L186: 
+L187: sanshiro@uw.edu / 206-543-4296
+L188: 
+L189: NPL 116
+L190: 
+L191: cite35†Nuclear & Particle Experiment L192: 
+L193: ### cite49†Lukasz Fidkowski L194: 
+L195: Associate Professor
+L196: 
+L197: lukaszf@uw.edu / 206-616-3604
+L198: 
+L199: B411
+L200: 
+L201: cite24†Condensed Matter , cite26†Quantum Information L202: 
+L203: ### cite50†Kai-Mei Fu L204: 
+L205: Virginia and Prentice Bloedel Professor of Physics and ECE
+L206: 
+L207: kaimeifu@uw.edu / 206-543-2787
+L208: 
+L209: B445, B065. B069
+L210: 
+L211: cite31†Atomic Physics , cite24†Condensed Matter , cite26†Quantum Information L212: ### cite51†Alejandro Garcia L213: 
+L214: Professor
+L215: 
+L216: agarcia3@uw.edu / 206-616-3598
+L217: 
+L218: C509
+L219: 
+L220: cite35†Nuclear & Particle Experiment L221: 
+L222: ### cite52†Isabel Garcia Garcia L223: 
+L224: Assistant Professor
+L225: 
+L226: isabelgg@uw.edu
+L227: 
+L228: B413
+L229: 
+L230: cite21†Astrophysics, Cosmology & Gravitation , cite22†Particle Theory L231: 
+L232: ### cite53†Anna Goussiou L233: 
+L234: Professor
+L235: 
+L236: goussiou@uw.edu
+L237: 
+L238: B207
+L239: 
+L240: cite35†Nuclear & Particle Experiment L241: 
+L242: cite37†Image L243: 
+L244: ### cite54†Dorota Grabowska L245: 
+L246: Research Assistant Professor
+L247: 
+L248: grabow@uw.edu
+L249: 
+L250: PAB B533
+L251: 
+L252: cite29†Nuclear Theory , cite22†Particle Theory , cite26†Quantum Information L253: ### cite55†Jens Gundlach L254: 
+L255: Professor
+L256: 
+L257: gundlach@npl.washington.edu
+L258: 
+L259: C509, Johnson Hall 024 (Office) and JHN 217 (Lab)
+L260: 
+L261: cite21†Astrophysics, Cosmology & Gravitation , cite41†Biological Physics L262: 
+L263: ### cite56†Subhadeep Gupta L264: 
+L265: Department Chair, Job & Gertrud Tamaki Endowed Chair, Professor
+L266: 
+L267: deepg@uw.edu / 206-543-2006
+L268: 
+L269: C121
+L270: 
+L271: Office hours by appointment
+L272: 
+L273: cite31†Atomic Physics , cite26†Quantum Information L274: 
+L275: cite37†Image L276: 
+L277: ### cite57†Daniel Hackett L278: 
+L279: Acting Assistant Professor
+L280: ### cite58†Paula R. L. Heron L281: 
+L282: Professor
+L283: 
+L284: pheron@uw.edu / 206-543-3894
+L285: 
+L286: C208B
+L287: 
+L288: cite33†Physics Education L289: 
+L290: ### cite59†David Hertzog L291: 
+L292: Arthur B. McDonald Professor of Physics, Director of CENPA
+L293: 
+L294: hertzog@uw.edu
+L295: 
+L296: C503
+L297: 
+L298: cite35†Nuclear & Particle Experiment L299: 
+L300: ### cite60†Shih-Chieh Hsu L301: 
+L302: Professor
+L303: 
+L304: schsu@uw.edu / 206-543-2760
+L305: 
+L306: B213, B052
+L307: 
+L308: cite35†Nuclear & Particle Experiment L309: 
+L310: ### cite61†David Kaplan L311: 
+L312: Professor
+L313: 
+L314: dbkaplan@uw.edu / 206-685-3546
+L315: 
+L316: B455
+L317: 
+L318: cite29†Nuclear Theory , cite22†Particle Theory L319: 
+L320: cite37†Image L321: ### cite62†Joshua Kas L322: 
+L323: Research Assistant Professor
+L324: 
+L325: jjkas@uw.edu
+L326: 
+L327: B464
+L328: 
+L329: ### cite63†Andrew H Laszlo L330: 
+L331: Research Associate Professor
+L332: 
+L333: laszloa@uw.edu / 206-616-2960
+L334: 
+L335: Johnson Hall 024 (Office) and JHN 217 (Lab)
+L336: 
+L337: cite41†Biological Physics L338: 
+L339: cite37†Image L340: 
+L341: ### cite64†Weonjong Lee L342: 
+L343: Visiting Scholar
+L344: 
+L345: wlee777@uw.edu / 206-294-8773
+L346: 
+L347: B414
+L348: 
+L349: ### cite65†Mo Li L350: 
+L351: Professor
+L352: 
+L353: moli96@uw.edu / (206) 616-6966
+L354: 
+L355: ECE M246
+L356: 
+L357: cite24†Condensed Matter , cite26†Quantum Information L358: ### cite66†Marilena Loverde L359: 
+L360: Dr. Ann Nelson Endowed Professor, Graduate Coordinator
+L361: 
+L362: mloverde@uw.edu
+L363: 
+L364: B401
+L365: 
+L366: cite21†Astrophysics, Cosmology & Gravitation , cite22†Particle Theory L367: 
+L368: ### cite67†Arka Majumdar L369: 
+L370: Professor
+L371: 
+L372: arka@uw.edu / 206-616-5558
+L373: 
+L374: ECE, M230
+L375: 
+L376: cite24†Condensed Matter , cite26†Quantum Information L377: 
+L378: ### cite68†Charles M. Marcus L379: 
+L380: Boeing Johnson Endowed Chair, Professor
+L381: 
+L382: cmarcus@uw.edu / 206-883-5360
+L383: 
+L384: PAB 430 (Physics) and Roberts 315 (MSE)
+L385: 
+L386: by appointment
+L387: 
+L388: cite24†Condensed Matter , cite26†Quantum Information L389: ### cite69†Gerald Miller L390: 
+L391: Professor
+L392: 
+L393: miller@phys.washington.edu / 206-543-2995
+L394: 
+L395: B484
+L396: 
+L397: cite29†Nuclear Theory L398: 
+L399: ### cite70†Miguel Morales L400: 
+L401: Professor
+L402: 
+L403: miguelfm@uw.edu / 206-221-0301
+L404: 
+L405: B464, B210
+L406: 
+L407: cite21†Astrophysics, Cosmology & Gravitation L408: 
+L409: ### cite71†Elise Novitski L410: 
+L411: Assistant Professor
+L412: 
+L413: en37@uw.edu
+L414: 
+L415: B447
+L416: 
+L417: cite35†Nuclear & Particle Experiment L418: ### cite72†Marjorie Olmstead L419: 
+L420: Professor, Associate Vice Provost for Academic Personnel
+L421: 
+L422: olmstd@uw.edu / 206-685-3031
+L423: 
+L424: PAB B433 and GERB 434
+L425: 
+L426: By appointment
+L427: 
+L428: cite24†Condensed Matter L429: 
+L430: cite37†Image L431: 
+L432: ### cite73†Alexis Olsho L433: 
+L434: Lecturer Part-time
+L435: 
+L436: arwo@uw.edu
+L437: 
+L438: C241
+L439: 
+L440: cite33†Physics Education L441: 
+L442: ### cite74†Natalie Paquette L443: 
+L444: Assistant Professor
+L445: 
+L446: npaquett@uw.edu
+L447: 
+L448: B408
+L449: 
+L450: By appointment
+L451: 
+L452: cite22†Particle Theory L453: 
+L454: ### cite75†David Pengra L455: 
+L456: Teaching Professor
+L457: 
+L458: dbpengra@uw.edu / 206-543-4783
+L459: 
+L460: B256A
+L461: 
+L462: cite37†Image L463: ### cite76†Subramanian Ramachandran L464: 
+L465: Lecturer Part-time
+L466: 
+L467: ramacs@uw.edu (ramacs@uw.edu )
+L468: 
+L469: B157
+L470: 
+L471: ### cite77†Sanjay Reddy L472: 
+L473: Professor, Director of Institute for Nuclear Theory
+L474: 
+L475: sareddy@uw.edu / 206-685-2397
+L476: 
+L477: C411B
+L478: 
+L479: cite21†Astrophysics, Cosmology & Gravitation , cite29†Nuclear Theory L480: 
+L481: ### cite78†Mark Rudner L482: 
+L483: Kenneth K. Young Endowed Chair, Professor, Graduate Coordinator
+L484: 
+L485: rudner@uw.edu
+L486: 
+L487: B415
+L488: 
+L489: cite24†Condensed Matter , cite26†Quantum Information L490: ### cite79†Gray Rybka L491: 
+L492: Professor
+L493: 
+L494: grybka@uw.edu / 206-543-2797
+L495: 
+L496: C501, B210
+L497: 
+L498: cite21†Astrophysics, Cosmology & Gravitation L499: 
+L500: ### cite80†Martin Savage L501: 
+L502: Professor
+L503: 
+L504: mjs5@uw.edu
+L505: 
+L506: C529
+L507: 
+L508: cite29†Nuclear Theory , cite26†Quantum Information L509: 
+L510: cite37†Image L511: 
+L512: ### cite81†Claudio Savarese L513: 
+L514: Research Assistant Professor
+L515: 
+L516: csavares@uw.edu
+L517: 
+L518: ### cite82†Gerald Seidler L519: 
+L520: Professor
+L521: 
+L522: seidler@uw.edu / 206-616-8746
+L523: 
+L524: B448
+L525: 
+L526: cite24†Condensed Matter L527: 
+L528: ### cite83†David P. Smith L529: 
+L530: Associate Teaching Professor
+L531: 
+L532: dsmith4@uw.edu / 206-543-6705
+L533: 
+L534: C218
+L535: ### cite84†Boris Spivak L536: 
+L537: Professor
+L538: 
+L539: spivak@phys.washington.edu / 206-685-7156
+L540: 
+L541: B440
+L542: 
+L543: cite24†Condensed Matter L544: 
+L545: cite37†Image L546: 
+L547: ### cite85†Brian Stephanik L548: 
+L549: Part-time Lecturer
+L550: 
+L551: bsteph@uw.edu
+L552: 
+L553: ### cite86†Samu Taulu L554: 
+L555: Associate Professor
+L556: 
+L557: staulu@uw.edu / 206-685-8525
+L558: 
+L559: iLABS 212
+L560: 
+L561: cite41†Biological Physics L562: 
+L563: ### cite87†Kazumi Tolich L564: 
+L565: Teaching Professor
+L566: 
+L567: ktolich@uw.edu
+L568: 
+L569: B215
+L570: 
+L571: ### cite88†Nikolai Tolich L572: 
+L573: Associate Teaching Professor
+L574: 
+L575: ntolich@uw.edu
+L576: 
+L577: PAB B211
+L578: ### cite89†Gustavo Joaquin Turiaci L579: 
+L580: Assistant Professor
+L581: 
+L582: turiaci@uw.edu
+L583: 
+L584: B410
+L585: 
+L586: cite21†Astrophysics, Cosmology & Gravitation , cite22†Particle Theory , cite26†Quantum Information L587: 
+L588: ### cite90†Gordon Watts L589: 
+L590: Professor
+L591: 
+L592: gwatts@uw.edu / 206-543-4186
+L593: 
+L594: B203
+L595: 
+L596: cite35†Nuclear & Particle Experiment L597: 
+L598: ### cite91†Paul Wiggins L599: 
+L600: Professor
+L601: 
+L602: pwiggins@uw.edu / 206-616-9640
+L603: 
+L604: B409, B031
+L605: 
+L606: cite41†Biological Physics L607: 
+L608: ### cite92†Di Xiao L609: 
+L610: Professor
+L611: 
+L612: dixiao@uw.edu
+L613: 
+L614: ROB 302F
+L615: 
+L616: cite24†Condensed Matter L617: ### cite93†Laurence Yaffe L618: 
+L619: Professor
+L620: 
+L621: lgy@uw.edu
+L622: 
+L623: cite22†Particle Theory L624: 
+L625: ### cite94†Matthew Yankowitz L626: 
+L627: Associate Professor
+L628: 
+L629: myank@uw.edu / 206-543-1685
+L630: 
+L631: B435
+L632: 
+L633: cite24†Condensed Matter L634: 
+L635: cite37†Image L636: 
+L637: ### cite95†Xiaojun Yao L638: 
+L639: Research Assistant Professor
+L640: 
+L641: xjyao@uw.edu
+

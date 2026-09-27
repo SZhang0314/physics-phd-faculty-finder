@@ -1,0 +1,195 @@
+Physics (https://catalog.ucsd.edu/faculty/PHYS.html)
+citeturn70view0 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://catalog.ucsd.edu/faculty/PHYS.html","lineno":null}); Total lines: 246
+L0: cite0†Skip to main content L1: 
+L2: cite1†General Catalog cite1†General Catalog cite2†UC San Diego†www.ucsd.edu L3:   * cite3†Courses/Curricula/Faculty L4:   * cite4†About L5:     * cite5†About UC San Diego L6:     * cite6†Academic Integrity L7:     * cite7†Regulations & Policies L8:     * cite8†Calendars L9:     * cite9†Additional Resources L10:   * cite10†Undergraduate L11:     * cite11†Undergraduate Education Overview L12:     * cite12†Colleges L13:     * cite13†Admission L14:     * cite14†Degrees Offered L15:     * cite15†Degree Requirements L16:     * cite16†Registration L17:     * cite17†Graduation Requirements L18:   * cite18†Graduate L19:     * cite19†Graduate Financial L20:     * cite20†General Requirements for Higher Degrees L21:     * cite21†Graduate Education Overview L22:     * cite22†Graduate Admission L23:     * cite23†Graduate & Professional Schools L24:     * cite24†Degrees Offered L25:     * cite16†Registration L26:   * cite25†Archive L27:   * cite3†Courses/Curricula/Faculty L28:   * cite4†About L29:     * cite5†About UC San Diego L30:     * cite6†Academic Integrity L31:     * cite7†Regulations & Policies L32:     * cite8†Calendars L33:     * cite9†Additional Resources L34:   * cite10†Undergraduate L35:     * cite11†Undergraduate Education Overview L36:     * cite12†Colleges L37:     * cite13†Admission L38:     * cite14†Degrees Offered L39:     * cite15†Degree Requirements L40:     * cite16†Registration L41:     * cite17†Graduation Requirements L42:   * cite18†Graduate L43:     * cite19†Graduate Financial L44:     * cite20†General Requirements for Higher Degrees L45:     * cite21†Graduate Education Overview L46:     * cite22†Graduate Admission L47:     * cite23†Graduate & Professional Schools L48:     * cite24†Degrees Offered L49:     * cite16†Registration L50:   * cite25†Archive L51:   * Search Scope [Select]
+L52: 
+L53: Search Term [Input: Search...]
+L54: 
+L55: [Input]
+L56: # Physics
+L57: 
+L58: [ cite26†undergraduate program | cite27†graduate program | cite28†courses ]
+L59: 
+L60: All courses, faculty listings, and curricular and degree requirements described herein are subject to change or deletion without notice.
+L61: #### Professors
+L62: 
+L63: Daniel P. Arovas, PhD
+L64: 
+L65: Richard D. Averitt, PhD
+L66: 
+L67: James G. Branson, PhD
+L68: 
+L69: Leonid V. Butov, PhD
+L70: 
+L71: Joseph C. Y. Chen, PhD, Emeritus
+L72: 
+L73: R. Sekhar Chivukula, PhD
+L74: 
+L75: Massimiliano Di Ventra, PhD
+L76: 
+L77: Patrick H. Diamond, PhD
+L78: 
+L79: C. Fred Driscoll, PhD, Emeritus
+L80: 
+L81: Daniel H. E. Dubin, PhD, Emeritus
+L82: 
+L83: Olga Dudko, PhD
+L84: 
+L85: Zachary Fisk, PhD, Emeritus
+L86: 
+L87: Raphael Flauger, PhD
+L88: 
+L89: Michael M. Fogler, PhD
+L90: 
+L91: Donald R. Fredkin, PhD, Emeritus
+L92: 
+L93: George M. Fuller, PhD
+L94: 
+L95: Nigel Goldenfeld, PhD, Chancellor’s Distinguished Professorship
+L96: John M. Goodkind, PhD, Emeritus
+L97: 
+L98: Kim Griest, PhD, Emeritus
+L99: 
+L100: Benjamin Grinstein, PhD
+L101: 
+L102: Alexander Groisman, PhD
+L103: 
+L104: Jorge E. Hirsch, PhD
+L105: 
+L106: Michael Holst, PhD, Chancellor’s Associate Chair
+L107: 
+L108: Terence T-L. Hwa, PhD, Presidential Chair
+L109: 
+L110: Kenneth A. Intriligator, PhD, Dan Broida Chair in Elementary Particle Physics
+L111: 
+L112: Elizabeth E. Jenkins, PhD, Emerita
+L113: 
+L114: Barbara Jones, PhD, Emerita, Academic Senate Distinguished Teaching Award
+L115: 
+L116: Suckjoon Jun, PhD
+L117: 
+L118: Brian Keating, PhD, Chancellor’s Distinguished Professorship
+L119: Dusan Keres, PhD
+L120: 
+L121: David Kleinfeld, PhD, Experimental Biophysics Endowed Chair
+L122: 
+L123: Julius G. Kuti, PhD, Emeritus
+L124: 
+L125: Ralph H. Loveberg, PhD, Emeritus
+L126: 
+L127: Aneesh V. Manohar, PhD, Emeritus
+L128: 
+L129: M. Brian Maple, PhD, Emeritus
+L130: 
+L131: John A. McGreevy, PhD
+L132: 
+L133: Carl E. Mcllwain, PhD, Emeritus
+L134: 
+L135: Thomas W. Murphy, Jr., PhD, Emeritus
+L136: 
+L137: Xuong Nguyen-Huu, PhD, Emeritus
+L138: 
+L139: Kaixuan Ni, PhD
+L140: 
+L141: Melvin Y. Okamura, PhD, Emeritus
+L142: 
+L143: Thomas M. O’Neil, PhD, Emeritus
+L144: 
+L145: José Onuchic, PhD, Emeritus, Academic Senate Distinguished Teaching Award
+L146: Laurence E. Peterson, PhD, Emeritus
+L147: 
+L148: Ivan K. Schuller, PhD, Director, Q-MEEN-C, CMRR Endowed Chair
+L149: 
+L150: Lu J. Sham, PhD, Emeritus
+L151: 
+L152: Vivek A. Sharma, PhD, Academic Senate Distinguished Teaching Award
+L153: 
+L154: Oleg Shpyrko, PhD, Academic Senate Distinguished Teaching Award, Chair
+L155: 
+L156: Elizabeth H. Simmons, PhD, Executive Vice Chancellor
+L157: 
+L158: Sunil K. Sinha, PhD, Emeritus
+L159: 
+L160: Douglas E. Smith, PhD
+L161: 
+L162: Robert A. Swanson, PhD, Emeritus
+L163: 
+L164: Massimo Vergassola, PhD, Theodore Foster Endowed Chair in Physics
+L165: 
+L166: David Y. Wong, PhD, Emeritus
+L167: Shelley Wright, PhD, Chair of Astronomy and Astrophysics
+L168: 
+L169: Congjun Wu, PhD, Emeritus
+L170: 
+L171: Frank Würthwein, PhD, Director, San Diego Supercomputer Center
+L172: 
+L173: Avraham Yagil, PhD
+L174: 
+L175: Liang Yang, PhD
+L176: #### Associate Professors
+L177: 
+L178: Kam Arnold, PhD
+L179: 
+L180: Julio Barreiro Guerrero, PhD
+L181: 
+L182: Javier Duarte, PhD, William A. Lee Chancellor’s Endowed Junior Faculty Fellowship
+L183: 
+L184: Alex Frañó Pereira, PhD, Schultz Chancellor's Endowed Faculty Fellow
+L185: 
+L186: Daniel Green, PhD
+L187: 
+L188: Tarun Grover, PhD
+L189: 
+L190: Elena Koslover, PhD, Vice Chair of Graduate Education
+L191: 
+L192: Tongyan Lin, PhD, Ticho Endowed Faculty Fellow
+L193: 
+L194: Yi-Zhuang You, PhD
+L195: #### Associate Teaching Professors (LSOE)
+L196: 
+L197: Andrew Meyertholen, PhD, Vice Chair of Undergraduate Education
+L198: 
+L199: Brian Shotwell, PhD
+L200: 
+L201: Philbert Tsai, PhD, Academic Senate Distinguished Teaching Award, Interim Vice Chair of Undergraduate Education
+L202: 
+L203: #### Assistant Professors
+L204: 
+L205: Monica Allen, PhD
+L206: 
+L207: Aobo Li, PhD
+L208: 
+L209: Seungeun Oh, PhD
+L210: 
+L211: Daniel Parker, PhD
+L212: 
+L213: Tenio Popmintchev, PhD
+L214: 
+L215: Mattia Serra, PhD
+L216: 
+L217: Tzer Han Tan, PhD
+L218: 
+L219: Hongbo Zhao, PhD, Professor of Physics and Chemistry and Biochemistry
+L220: #### Assistant Teaching Professors (LPSOE)
+L221: 
+L222: Jessica Arlett, PhD
+L223: 
+L224: Gurleen Bal, PhD
+L225: #### Adjunct Professors
+L226: 
+L227: Dimitri N. Basov, PhD
+L228: 
+L229: Chunhui Du, PhD
+L230: 
+L231: Jérémie Palacci, PhD
+L232: 
+L233: Raj K. Pathria, PhD, Emeritus
+L234: 
+L235: Marcelo Javier Rosenberg, PhD
+L236: 
+L237: Tatyana Sharpee, PhD
+L238: 
+L239: UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230
+L240: Copyright © 2026 Regents of the University of California. All rights reserved.
+L241: 
+L242:   * cite29†Accessibility†accessibility.ucsd.edu L243:   * cite30†Privacy†ucsd.edu L244:   * cite31†Terms of Use†ucsd.edu L245:   * cite32†Feedback†act.ucsd.edu 

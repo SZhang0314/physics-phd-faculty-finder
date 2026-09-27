@@ -1,0 +1,338 @@
+Faculty: Department of Physics and Astronomy - Northwestern University (https://physics.northwestern.edu/people/faculty/core-faculty/)
+citeturn58view0 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://physics.northwestern.edu/people/faculty/core-faculty/","lineno":null}); Total lines: 726
+L0: cite0†Skip to main content L1: 
+L2: cite1†Weinberg College of Arts & Sciences†weinberg.northwestern.edu L3: 
+L4:   * cite2†Contact L5: # cite3†DEPARTMENT OF PHYSICS AND ASTRONOMY L6: 
+L7: Search this site [Input: Search this site] [Input] [Input] Search
+L8: 
+L9: cite4†Menu L10:   * cite5†About cite6†ExpandAbout Submenu L11:     * cite2†Contact L12:     * cite7†Dearborn Observatory cite6†ExpandDearborn Observatory Submenu L13:       * cite8†Directions and Parking L14:       * cite9†History L15:       * cite10†Timeline L16:     * cite11†Department Newsletter cite6†ExpandDepartment Newsletter Submenu L17:       * cite12†Previous Issues L18:     * cite13†Directions L19:     * cite14†Facilities L20:     * cite15†News cite6†ExpandNews Submenu L21:       * cite16†2026 L22:       * cite17†2025 L23:       * cite18†2024 L24:       * cite19†2023 L25:       * cite20†2022 L26:       * cite21†2021 L27:       * cite22†2020 L28:       * cite23†2019 L29:       * cite24†2018 L30:       * cite25†2017 L31:       * cite26†2016 L32:       * cite27†2015 L33:       * cite28†2014 L34:       * cite29†2013 L35:       * cite30†2012 L36:       * cite31†2011 L37:     * cite32†Open Positions cite6†ExpandOpen Positions Submenu L38:       * cite33†Open Faculty Positions L39:       * cite34†Open Staff Positions L40:     * cite35†Public Outreach L41:     * cite36†Resources cite6†ExpandResources Submenu L42:       * cite37†Business Office Resources L43:       * cite38†Community Engagement Committee L44:   * cite39†Undergraduate cite6†ExpandUndergraduate Submenu L45:     * cite40†Courses cite6†ExpandCourses Submenu L46:       * cite41†Catalog L47:       * cite42†Archive cite6†ExpandArchive Submenu L48:         * cite43†Spring 2025 L49:         * cite44†Fall 2024 L50:         * cite45†Spring 2022 L51:         * cite46†Winter 2022 L52:         * cite47†Winter 2020 L53:         * cite48†Fall 2019 L54:         * cite49†Spring 2019 L55:         * cite50†Spring 2018 L56:         * cite51†Winter 2018 L57:         * cite52†Winter 2019 L58:         * cite53†Fall 2017 L59:         * cite54†Fall 2018 L60:         * cite55†Spring 2017 L61:         * cite56†Winter 2017 L62:         * cite57†Fall 2016 L63:         * cite58†Summer 2016 L64:         * cite59†Spring 2016 L65:         * cite60†Winter 2016 L66:         * cite61†Fall 2015 L67:         * cite62†Summer 2015 L68:         * cite63†Spring 2015 L69:         * cite64†Winter 2015 L70:         * cite65†Fall 2014 L71:         * cite66†Summer 2014 L72:         * cite67†Spring 2014 L73:         * cite68†Winter 2014 L74:         * cite69†Spring 2011 L75:         * cite70†Fall 2013 L76:         * cite71†Summer 2013 L77:         * cite72†Spring 2013 L78:         * cite73†Winter 2013 L79:         * cite74†Fall 2012 L80:         * cite75†Summer 2012 L81:         * cite76†Spring 2012 L82:         * cite77†Winter 2012 L83:         * cite78†Fall 2011 L84:         * cite79†Winter 2024 L85:         * cite80†Summer 2011 L86:         * cite81†Winter 2011 L87:         * cite82†Fall 2025 L88:         * cite83†Spring 2024 L89:         * cite84†Fall 2010 L90:         * cite85†Spring 2010 L91:         * cite86†Winter 2010 L92:         * cite87†Fall 2023 L93:         * cite88†Fall 2009 L94:         * cite89†Winter 2025 L95:         * cite90†Summer 2009 L96:         * cite91†Winter 2026 L97:         * cite92†Spring 2026 L98:         * cite93†Spring 2009 L99:         * cite94†Winter 2009 L100:         * cite95†Winter 2021 L101:         * cite96†Spring 2021 L102:         * cite97†Fall 2020 L103:         * cite98†Summer 2021 L104:         * cite99†Fall 2021 L105:         * cite100†Spring 2020 L106:         * cite101†Fall 2022 L107:         * cite102†Spring 2023 L108:       * cite103†Fall 2026 L109:       * cite104†Winter 2027 L110:       * cite105†Spring 2027 L111:     * cite106†Program Learning Objectives L112:     * cite107†First-Year Focus L113:     * cite108†Major in Physics cite6†ExpandMajor in Physics Submenu L114:       * cite109†Requirements to Major in Physics L115:       * cite110†Honors L116:       * cite111†Undergraduate Awards L117:       * cite112†Double Major in ISP and Physics L118:       * cite113†Declaring a Major/Minor L119:       * cite114†Guidelines for Independent Study Courses L120:       * cite115†Sample Schedules for Physics Majors L121:     * cite116†Minor in Physics L122:     * cite117†Research L123:     * cite118†Resources cite6†ExpandResources Submenu L124:       * cite119†Internships and Study Abroad L125:       * cite120†Office Hours & Tutoring L126:       * cite121†Grad School/GRE Prep L127:       * cite122†Advising L128:       * cite123†Society of Physics Students L129:       * cite124†The Society of Women in Physics and Astronomy L130:       * cite125†WIP (We're In Physics) L131:       * cite126†Illinois Space Grant Research Opportunity L132:   * cite127†Graduate cite6†ExpandGraduate Submenu L133:     * cite128†Courses cite6†ExpandCourses Submenu L134:       * cite129†Course Catalog L135:       * cite130†Archived Schedules cite6†ExpandArchived Schedules Submenu L136:         * cite131†Spring 2019 L137:         * cite132†Winter 2019 L138:         * cite133†Fall 2018 L139:         * cite134†Spring 2018 L140:         * cite135†Winter 2018 L141:         * cite136†Fall 2017 L142:         * cite137†Spring 2017 L143:         * cite138†Winter 2016 L144:         * cite139†Fall 2015 L145:         * cite140†Spring 2015 L146:         * cite141†Winter 2015 L147:         * cite142†Fall 2014 L148:         * cite143†Spring 2014 L149:         * cite144†Winter 2014 L150:         * cite145†Fall 2013 L151:         * cite146†Summer 2013 L152:         * cite147†Spring 2013 L153:         * cite148†Winter 2013 L154:         * cite149†Fall 2012 L155:         * cite150†Spring 2012 L156:         * cite151†Summer 2012 L157:         * cite152†Winter 2012 L158:         * cite153†Fall 2011 L159:         * cite154†Summer 2011 L160:         * cite155†Spring 2011 L161:         * cite156†Winter 2011 L162:         * cite157†Fall 2010 L163:         * cite158†Spring 2010 L164:         * cite159†Winter 2010 L165:         * cite160†Fall 2009 L166:         * cite161†Summer 2009 L167:         * cite162†Spring 2009 L168:         * cite163†Winter 2009 L169:         * cite164†Fall 2019 L170:         * cite165†Fall 2020 L171:         * cite166†Winter 2021 L172:         * cite167†Spring 2020 L173:         * cite168†Winter 2020 L174:         * cite169†Fall 2023 L175:         * cite170†Spring 2021 L176:         * cite171†Fall 2021 L177:         * cite172†Winter 2024 L178:         * cite173†Winter 2022 L179:         * cite174†Spring 2024 L180:         * cite175†Spring 2022 L181:         * cite176†Fall 2024 L182:         * cite177†Fall 2025 L183:         * cite178†Winter 2025 L184:         * cite179†Winter 2026 L185:         * cite180†Spring 2025 L186:         * cite181†Spring 2026 L187:       * cite182†Fall 2026 L188:       * cite183†Spring 2027 L189:       * cite184†Winter 2027 L190:     * cite185†Doctoral Programs cite6†ExpandDoctoral Programs Submenu L191:       * cite186†Physics PhD Degree L192:       * cite187†Astronomy PhD Degree L193:       * cite188†How to Apply L194:       * cite189†Funding L195:       * cite190†PhD Alumni L196:     * cite191†Graduate Student Council L197:     * cite192†Master of Science cite6†ExpandMaster of Science Submenu L198:       * cite193†How to Apply L199:     * cite194†Resources L200:   * cite195†People cite6†CollapsePeople Submenu L201:     * cite196†Faculty cite6†CollapseFaculty Submenu L202:       * cite197†Core Faculty L203:       * cite198†Affiliated Faculty L204:       * cite199†Instructional Faculty L205:       * cite200†Research Faculty L206:       * cite201†Emeritus Faculty L207:     * cite202†Graduate Students cite6†ExpandGraduate Students Submenu L208:       * cite203†PhD Students cite6†ExpandPhD Students Submenu L209:         * cite204†Physics PhD Students L210:         * cite205†Astronomy PhD Students L211:         * cite206†Physics and Astronomy PhD Students L212:       * cite207†Master's Students L213:     * cite208†Master's Alumni L214:     * cite190†PhD Alumni L215:     * cite209†Postdoctoral Scholars L216:     * cite210†Research Staff L217:     * cite211†Staff L218:     * cite212†Visiting Scholars L219:   * cite213†Research cite6†ExpandResearch Submenu L220:     * cite214†Atomic, Molecular, and Optical L221:     * cite215†Observational Astronomy L222:     * cite216†Theoretical Astrophysics L223:     * cite217†Complex Systems and Biophysics L224:     * cite218†Experimental Condensed Matter L225:     * cite219†Theoretical Condensed Matter L226:     * cite220†Experimental Particle Physics L227:     * cite221†Theoretical Particle Physics L228:     * cite222†INQUIRE†quantum.northwestern.edu L229:     * cite223†Center for Fundamental Physics (CFP)†cfp.physics.northwestern.edu L230:     * cite224†Center for Interdisciplinary Research and Exploration in Astrophysics (CIERA)†ciera.northwestern.edu L231:     * cite225†Center for Network Dynamics (CND)†cnd.northwestern.edu L232:   * cite226†Events cite6†ExpandEvents Submenu L233:     * cite227†Conference Room Calendars L234:     * cite228†Heilborn Lectures cite6†ExpandHeilborn Lectures Submenu L235:       * cite229†About Heilborn Lectures L236:     * cite230†Past Events L237:     * cite231†Physics and Astronomy Colloquia L238:     * cite232†Radio Astronomy Seminar L239:     * cite233†Rapid Fire Research L240:     * cite234†Regularly Scheduled Seminars cite6†ExpandRegularly Scheduled Seminars Submenu L241:       * cite235†Astrophysics L242:       * cite236†Atomic, Molecular, Optical Physics L243:       * cite237†Physics and Astronomy Early Career Research Seminar (PAECRS) L244:       * cite238†Center for Fundamental Physics L245:       * cite239†Complex Systems L246:       * cite240†Condensed Matter Physics L247:       * cite241†High Energy Physics L248:       * cite242†Radio Astronomy L249:       * cite243†Special Events and Invited Talks L250:       * cite244†Physics Learning and Teaching Seminar (PLaTS) L251:     * cite245†Sievert Prize Lecture Series cite6†ExpandSievert Prize Lecture Series Submenu L252:       * cite246†Sievert Prize Lecture Archive L253:   * cite247†Make a Gift L254:   * cite2†Contact L255: 
+L256: cite248†Search L257: 
+L258: Search this site [Input: Search this site] [Input] [Input] Search
+L259: 
+L260:   * cite3†Home L261:   * cite195†People L262:   * cite196†Faculty L263:   * Core Faculty
+L264: ## cite195†People L265: 
+L266:   * cite196†Faculty L267:     * cite197†Core Faculty L268:     * cite198†Affiliated Faculty L269:     * cite199†Instructional Faculty L270:     * cite200†Research Faculty L271:     * cite201†Emeritus Faculty L272:   * cite202†Graduate Students L273:   * cite208†Master's Alumni L274:   * cite190†PhD Alumni L275:   * cite209†Postdoctoral Scholars L276:   * cite210†Research Staff L277:   * cite211†Staff L278:   * cite212†Visiting Scholars L279: ## Faculty
+L280: 
+L281: Jump to Last Name:
+L282: 
+L283:   * cite249†A L284:   * cite250†B L285:   * cite251†C L286:   * cite252†D L287:   * cite253†E L288:   * cite254†F L289:   * cite255†G L290:   * cite256†H L291:   * cite257†I L292:   * cite258†J L293:   * cite259†K L294:   * cite260†L L295:   * cite261†M L296:   * cite262†N L297:   * cite263†O L298:   * cite264†P L299:   * cite265†Q L300:   * cite266†R L301:   * cite267†S L302:   * cite268†T L303:   * cite269†U L304:   * cite270†V L305:   * cite271†W L306:   * cite272†X L307:   * cite273†Y L308:   * cite274†Z L309: 
+L310: cite275†Image: John Joseph Carrasco L311: ### cite276†John Joseph Carrasco L312: 
+L313: Associate Professor
+L314: 
+L315: Phone number: 847-467-5080
+L316: Office location: Tech F423
+L317: carrasco@northwestern.edu
+L318: 
+L319: cite277†Image: Venkat Chandrasekhar L320: 
+L321: ### cite278†Venkat Chandrasekhar L322: 
+L323: Professor
+L324: 
+L325: Phone number: 847-491-3444
+L326: Office location: Tech F221
+L327: v-chandrasekhar@northwestern.edu
+L328: 
+L329: cite279†Image: Eric Dahl L330: 
+L331: ### cite280†Eric Dahl L332: 
+L333: Professor
+L334: 
+L335: Phone number: 847-467-1989
+L336: Office location: Tech F117
+L337: cdahl@northwestern.edu
+L338: 
+L339: cite281†Image: Michelle Driscoll L340: ### cite282†Michelle Driscoll L341: 
+L342: Associate Professor
+L343: 
+L344: Phone number: 847-467-6708
+L345: Office location: Tech F247
+L346: michelle.driscoll@northwestern.edu
+L347: 
+L348: cite283†Image: Pulak Dutta L349: 
+L350: ### cite284†Pulak Dutta L351: 
+L352: Professor
+L353: 
+L354: Phone number: 847-491-5465
+L355: Office location: Tech F255
+L356: pdutta@northwestern.edu
+L357: 
+L358: cite285†Image: André de Gouvêa L359: 
+L360: ### cite286†André de Gouvêa L361: 
+L362: Department Chair, Professor
+L363: 
+L364: Phone number: 847-467-6462
+L365: Office location: Tech F426
+L366: degouvea@northwestern.edu
+L367: 
+L368: cite287†Image: Claude-André Faucher-Giguère L369: ### cite288†Claude-André Faucher-Giguère L370: 
+L371: Professor
+L372: 
+L373: Phone number: 847-467-4647
+L374: Office location: 1800 Sherman #8067
+L375: cgiguere@northwestern.edu
+L376: 
+L377: cite289†Image: Enectali Figueroa-Feliciano L378: 
+L379: ### cite290†Enectali Figueroa-Feliciano L380: 
+L381: Professor
+L382: 
+L383: Phone number: 847-467-3511
+L384: Office location: Tech F143
+L385: enectali@northwestern.edu
+L386: 
+L387: cite291†Image: Wen-fai Fong L388: 
+L389: ### cite292†Wen-fai Fong L390: 
+L391: Associate Professor
+L392: 
+L393: Office location: 1800 Sherman #8063
+L394: wfong@northwestern.edu
+L395: 
+L396: cite293†Image: Gerald Gabrielse L397: ### cite294†Gerald Gabrielse L398: 
+L399: Board of Trustees Professor in Physics/ Director of CFP
+L400: 
+L401: Phone number: 847-467-7370
+L402: Office location: Tech F131
+L403: gerald.gabrielse@northwestern.edu
+L404: 
+L405: cite295†Image: Anupam Garg L406: 
+L407: ### cite296†Anupam Garg L408: 
+L409: Professor
+L410: 
+L411: Phone number: 847-491-3229
+L412: Office location: Tech F217
+L413: agarg@northwestern.edu
+L414: 
+L415: cite297†Image: Andrew Geraci L416: 
+L417: ### cite298†Andrew Geraci L418: 
+L419: Professor
+L420: 
+L421: Phone number: 847-467-6673
+L422: Office location: Tech F135
+L423: andrew.geraci@northwestern.edu
+L424: 
+L425: cite299†Image: Bennett Goldberg L426: ### cite300†Bennett Goldberg L427: 
+L428: Professor; Faculty Director of the Program Evaluation Core
+L429: 
+L430: Phone number: 847-467-4412
+L431: Office location: Tech F317
+L432: bennett.goldberg@northwestern.edu
+L433: 
+L434: cite301†Image: Pallab Goswami L435: 
+L436: ### cite302†Pallab Goswami L437: 
+L438: Assistant Professor
+L439: 
+L440: Phone number: (847) 491-5621
+L441: Office location: Tech F239
+L442: pallab.goswami@northwestern.edu
+L443: 
+L444: cite303†Image: Kristian Hahn L445: ### cite304†Kristian Hahn L446: 
+L447: Associate Professor
+L448: 
+L449: Phone number: 847-467-8847
+L450: Office location: Tech F115
+L451: kristian.hahn@northwestern.edu
+L452: 
+L453: cite305†Image: William Halperin L454: 
+L455: ### cite306†William Halperin L456: 
+L457: Orrington Lunt Professor
+L458: 
+L459: Phone number: 847-491-3686
+L460: Office location: Tech F219
+L461: w-halperin@northwestern.edu
+L462: 
+L463: cite307†Image: Vicky Kalogera L464: ### cite308†Vicky Kalogera L465: 
+L466: Daniel I. Linzer Distinguished University Professor/ Director of CIERA/Director of NSF-Simons AI Institute for the Sky
+L467: 
+L468: Phone number: 847-491-5669
+L469: Office location: 1800 Sherman #8071
+L470: vicky@northwestern.edu
+L471: 
+L472: cite309†Image: Archana Kamal L473: 
+L474: ### cite310†Archana Kamal L475: 
+L476: Associate Professor
+L477: 
+L478: Phone number: 847-467-1355
+L479: Office location: Tech F243
+L480: archana.kamal@northwestern.edu
+L481: 
+L482: cite311†Image: John Ketterson L483: ### cite312†John Ketterson L484: 
+L485: Fayerweather Professor / Joint with Electrical Engineering
+L486: 
+L487: Phone number: 847-491-5468
+L488: Office location: Tech FG19
+L489: j-ketterson@northwestern.edu
+L490: 
+L491: cite313†Image: Jens Koch L492: 
+L493: ### cite314†Jens Koch L494: 
+L495: Professor
+L496: 
+L497: Phone number: 847-467-2583
+L498: Office location: Tech F234
+L499: jens-koch@northwestern.edu
+L500: 
+L501: cite315†Image: Tim Kovachy L502: 
+L503: ### cite316†Tim Kovachy L504: 
+L505: Associate Professor
+L506: 
+L507: Phone number: 847-467-6689
+L508: Office location: Tech F133
+L509: timothy.kovachy@northwestern.edu
+L510: 
+L511: cite317†Image: István Kovács L512: ### cite318†István Kovács L513: 
+L514: Associate Professor
+L515: 
+L516: Phone number: 847-491-8640
+L517: Office location: Tech F331
+L518: istvan.kovacs@northwestern.edu
+L519: 
+L520: cite319†Image: Yoram Lithwick L521: 
+L522: ### cite320†Yoram Lithwick L523: 
+L524: Associate Professor
+L525: 
+L526: Office location: 1800 Sherman #8065
+L527: y-lithwick@northwestern.edu
+L528: 
+L529: cite321†Image: Ian Low L530: 
+L531: ### cite322†Ian Low L532: 
+L533: Professor / Joint with Argonne National Laboratory
+L534: 
+L535: Phone number: 847-467-2618
+L536: Office location: Tech F417
+L537: ilow@northwestern.edu
+L538: 
+L539: cite323†Image: John Marko L540: ### cite324†John Marko L541: 
+L542: Professor / Joint with Molecular Biosciences
+L543: 
+L544: Phone number: 847-467-7291
+L545: Office location: Tech F319
+L546: john-marko@northwestern.edu
+L547: 
+L548: cite325†Image: Adam Miller L549: 
+L550: ### cite326†Adam Miller L551: 
+L552: Assistant Professor
+L553: 
+L554: Phone number: 847-491-3735
+L555: Office location: 1800 Sherman #8069
+L556: amiller@northwestern.edu
+L557: 
+L558: cite327†Image: Adilson Motter L559: ### cite328†Adilson Motter L560: 
+L561: Charles E. and Emma H. Morrison Professor/Director of CND
+L562: 
+L563: Phone number: 847-491-4611
+L564: Office location: Tech F323
+L565: motter@northwestern.edu
+L566: 
+L567: cite329†Image: Lena Murchikova L568: 
+L569: ### cite330†Lena Murchikova L570: 
+L571: Assistant Professor
+L572: 
+L573: Phone number: (847) 467-1538
+L574: Office location: 1800 Sherman, #7409
+L575: lena@northwestern.edu
+L576: 
+L577: cite331†Image: Giles Novak L578: ### cite332†Giles Novak L579: 
+L580: Professor, Faculty Director of Northwestern University Research Shop
+L581: 
+L582: Phone number: 847-491-8645
+L583: Office location: 1800 Sherman #8057
+L584: g-novak@northwestern.edu
+L585: 
+L586: cite333†Image: Brian Odom L587: 
+L588: ### cite334†Brian Odom L589: 
+L590: Professor
+L591: 
+L592: Office location: Tech F136
+L593: b-odom@northwestern.edu
+L594: 
+L595: cite335†Image: Frank Petriello L596: 
+L597: ### cite336†Frank Petriello L598: 
+L599: Professor
+L600: 
+L601: Phone number: 847-467-3196
+L602: Office location: Tech F421
+L603: f-petriello@northwestern.edu
+L604: 
+L605: cite337†Image: Frederic Rasio L606: ### cite338†Frederic Rasio L607: 
+L608: Joseph Cummings Professor
+L609: 
+L610: Phone number: 847-491-7904
+L611: Office location: 1800 Sherman #8005
+L612: rasio@northwestern.edu
+L613: 
+L614: cite339†Image: Michael Schmitt L615: 
+L616: ### cite340†Michael Schmitt L617: 
+L618: Professor
+L619: 
+L620: Phone number: 847-467-6593
+L621: Office location: Tech F113
+L622: m-schmitt@northwestern.edu
+L623: 
+L624: cite341†Image: Nathaniel Stern L625: 
+L626: ### cite342†Nathaniel Stern L627: 
+L628: Professor
+L629: 
+L630: Phone number: 847-467-0625
+L631: Office location: Tech F245
+L632: n-stern@northwestern.edu
+L633: 
+L634: cite343†Image: Allison Strom L635: ### cite344†Allison Strom L636: 
+L637: Assistant Professor
+L638: 
+L639: Phone number: 847-467-1537
+L640: Office location: 1800 Sherman #7-413
+L641: allison.strom@northwestern.edu
+L642: 
+L643: cite345†Image: Alexander Tchekhovskoy L644: 
+L645: ### cite346†Alexander Tchekhovskoy L646: 
+L647: Associate Professor
+L648: 
+L649: Office location: 1800 Sherman #8055
+L650: atchekho@northwestern.edu
+L651: 
+L652: cite347†Image: Melville Ulmer L653: 
+L654: ### cite348†Melville Ulmer L655: 
+L656: Professor
+L657: 
+L658: Phone number: 847-491-5633
+L659: Office location: Dearborn 3B
+L660: m-ulmer2@northwestern.edu
+L661: 
+L662: cite349†Image: Mayda Velasco L663: ### cite350†Mayda Velasco L664: 
+L665: Professor / Director, COFI Institute
+L666: 
+L667: Phone number: (847) 467-7099 Fax: (847) 467-6857
+L668: Office location: Tech F119
+L669: m-velasco@northwestern.edu
+L670: 
+L671: cite351†Image: Pieter van Dokkum (arriving 1/1/27) L672: 
+L673: ### cite352†Pieter van Dokkum (arriving 1/1/27) L674: 
+L675: Kimberly Querrey Professor of Astrophysics
+L676: 
+L677: cite353†Image: Jason Wang L678: 
+L679: ### cite354†Jason Wang L680: 
+L681: Assistant Professor
+L682: 
+L683: Office location: Office: 1800 Sherman, #8059
+L684: jason.wang@northwestern.edu
+L685: 
+L686: cite355†Image: Farhad Zadeh L687: ### cite356†Farhad Zadeh L688: 
+L689: Professor
+L690: 
+L691: Phone number: 847-491-8147
+L692: Office location: Tech F215
+L693: zadeh@northwestern.edu
+L694:   * © Northwestern University
+L695:   * cite357†Accessibility†www.northwestern.edu L696:   * cite358†Building Access†www.northwestern.edu L697:   * cite359†Campus Emergency Information†www.northwestern.edu L698:   * cite360†Careers†hr.northwestern.edu L699:   * cite361†Contact Northwestern University†www.northwestern.edu L700:   * cite362†Disclaimer†www.northwestern.edu L701:   * cite363†Privacy Statement†www.northwestern.edu L702:   * cite364†Report a Concern†www.northwestern.edu L703:   * cite365†University Policies†policies.northwestern.edu L704:   * Address
+L705:   * Department of Physics and Astronomy
+L706:   * 2145 Sheridan Road
+L707:   * Evanston, IL 60208-3112
+L708: 
+L709:   * Phone number
+L710:   * Phone
+L711:   * 847.491.3685
+L712: 
+L713:   * Fax
+L714:   * 847.467.6857
+L715: 
+L716:   * Email Address
+L717:   * physics-astronomy@northwestern.edu (physics-astronomy@northwestern.edu )
+L718: 
+L719: Social Media
+L720:   * cite366†Bookstore†www.northwestern.edu L721:   * cite367†Directory†offices.northwestern.edu L722:   * cite368†Library†www.library.northwestern.edu L723:   * cite369†Maps†maps.northwestern.edu L724:   * cite370†Parking†www.northwestern.edu L725:   * cite371†Shuttles†www.northwestern.edu 

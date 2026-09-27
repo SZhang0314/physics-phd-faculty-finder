@@ -1,0 +1,646 @@
+Physics and Astronomy < Rice University (https://ga.rice.edu/programs-study/departments-programs/natural-sciences/physics-astronomy/)
+citeturn78view0 [wordlim: 200] Crawled: 4 days ago; Content type: text/html; Source: open({"ref_id":"https://ga.rice.edu/programs-study/departments-programs/natural-sciences/physics-astronomy/","lineno":null}); Total lines: 2246
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2:   * cite1†Skip to Content L3:   * cite2†AZ Index L4:   * cite3†Catalog Home L5:   * cite4†Rice University†www.rice.edu L6: 
+L7: Resources for:
+L8: 
+L9:   * cite5†Undergraduates†www.rice.edu L10:   * cite6†Graduates†www.rice.edu L11:   * cite7†Parents†www.rice.edu L12:   * cite8†Faculty & Staff†www.rice.edu L13: 
+L14: cite3†General Announcements | 2026-2027 L15: 
+L16: Search Catalog [Input] [Button: Search]
+L17: 
+L18: Toggle Menu Access
+L19: 
+L20:   * cite3†Home L21:   * cite9†About L22:   * cite10†Policies L23:   * cite11†Programs L24:   * cite12†Courses L25:   * cite13†Archive L26: 
+L27: cite14†Catalog Navigation L28: # Physics and Astronomy
+L29: 
+L30:   * cite15†Overview L31:   * cite16†Undergraduate L32:   * cite17†Graduate L33:   * cite18†Faculty L34:   * cite19†Courses L35:   * cite20†Codes L36: 
+L37: Physics and Astronomy
+L38: cite21†https://physics.rice.edu/†physics.rice.edu L39: 201 Brockman Hall
+L40: 713-348-4938
+L41: 
+L42: Christopher M. Johns-Krull
+L43: Department Chair
+L44: cmj@rice.edu
+L45: The Department of Physics and Astronomy offers undergraduate and graduate programs for a wide range of interests. The Bachelor of Arts degree with majors in Physics or cite22†Astronomy is suitable for students who wish to obtain a broad liberal arts education with a concentration in a physical science.
+L46: The Bachelor of Science degree with majors in Physics, cite23†Astrophysics , or cite24†Chemical Physics provides preparation for employment or further study in physics, astrophysics, and related technical and quantitative fields. The department also offers minors in Physics or cite22†Astronomy that provide students with a solid foundation in these fields and include additional advanced topics of their choosing while the students pursue a major in another field.
+L47: Research facilities and thesis supervision are available for MS and PhD students in atomic, molecular, and optical physics; biophysics; condensed matter physics; galactic astronomy; high energy astrophysics, nuclear and particle physics; and space plasma physics. The Department of Physics and Astronomy also administers the cite25†Master of Science in Space Studies (MSSpS) degree program and the cite26†Master of Science Teaching (MST) degree program.
+L48: ## Bachelor's Programs
+L49:   * cite27†Bachelor of Arts (BA) Degree with a Major in Astronomy L50:   * cite28†Bachelor of Arts (BA) Degree with a Major in Physics L51:   * cite29†Bachelor of Science (BS) Degree with a Major in Astrophysics L52:   * Bachelor of Science (BS) Degree with a Major in Physics
+L53:     * cite30†and a Major Concentration in Applied Physics L54:     * cite31†and a Major Concentration in Biological Physics L55:     * cite32†and a Major Concentration in Computational Physics L56:     * cite33†and a Major Concentration in General Physics L57: ## Minors
+L58: 
+L59:   * cite34†Minor in Astronomy L60:   * cite35†Minor in Physics  L61: 
+L62: ## Coordinated Program
+L63: 
+L64:   * ​cite36†Bachelor of Science (BS) Degree with a Major in Chemical Physics ^{*}
+L65: *  | This degree is jointly managed by the Department of Chemistry and the Department of Physics and Astronomy. For more information, see cite24†Chemical Physics .
+L66: ## Master's Programs
+L67: 
+L68:   * Master of Science (MS) Degree in the field of Physics*
+L69:   * cite37†Master of Science in Space Studies (MSSpS) Degree L70:   * cite38†Master of Science Teaching (MST) Degree L71: 
+L72: ## Doctoral Program
+L73: 
+L74:   * cite39†Doctor of Philosophy (PhD) Degree in the field of Physics  L75: *  | Although students are not normally admitted to a Master of Science (MS) degree program, graduate students may earn the MS as they work towards the PhD.
+L76: 
+L77: ## Department Chair, Physics and Astronomy
+L78: 
+L79: Christopher M. Johns-Krull
+L80: ## Professors
+L81: Darin Acosta
+L82: David Alexander
+L83: Matthew G. Baring
+L84: Stephen J. Bradshaw
+L85: Anthony A. Chan
+L86: Pengcheng Dai
+L87: F. Barry Dunning
+L88: Karl M. Ecklund
+L89: Matthew S. Foster
+L90: Franciscus Johannes Maria Geurts
+L91: Jason H. Hafner
+L92: Naomi J. Halas
+L93: Patrick M. Hartigan
+L94: Geoffroy Hautier
+L95: Randall G. Hulet
+L96: Andrea Isella
+L97: Gyu-Boong Jo
+L98: Christopher M. Johns-Krull
+L99: Thomas C. Killian
+L100: Anatoly B. Kolomeisky
+L101: Junichiro Kono
+L102: Wei Li
+L103: Edison P. Liang
+L104: Frederick C. MacKintosh
+L105: Lane Martin
+L106: Emilia Morosan
+L107: Douglas Natelson
+L108: Andriy Nevidomskyy
+L109: Peter Nordlander
+L110: Jose Nelson Onuchic
+L111: B. Paul Padley
+L112: Han Pu
+L113: Patricia H. Reiff
+L114: Gustavo E. Scuseria
+L115: Qimiao Si
+L116: Frank R. Toffoletto
+L117: Peter C. Wolynes
+L118: ## Associate Professors
+L119: 
+L120: Mustafa Amin
+L121: Stanley A. Dodds
+L122: Kaden Hazzard
+L123: Ching-Hwa Kiang
+L124: Andrew Long
+L125: Lea Nienhaus
+L126: Guido Pagano
+L127: Christopher Tunnell
+L128: Ming Yi
+L129: Hanyu Zhu
+L130: 
+L131: ## Assistant Professors
+L132: 
+L133: Vir B. Bulchandani
+L134: Songtao Chen
+L135: Andre Izidoro Ferreira da Costa
+L136: Harris Pirie
+L137: Megan Reiter
+L138: James Shee
+L139: Evelyn Tang
+L140: Yonglong Xie
+L141: 
+L142: 
+L143: ## Professors Emeriti
+L144: 
+L145: Neal F. Lane
+L146: Eugene H. Levy
+L147: Richard Wolf
+L148: 
+L149: ## Associate Teaching Professors
+L150: 
+L151: Robert Beaird
+L152: Michael Cone
+L153: Lam Yu
+L154: ## Assistant Teaching Professors
+L155: 
+L156: Melia Bonomo
+L157: Julie Hoeink
+L158: Jared Stenson
+L159: 
+L160: ## Research Professor
+L161: 
+L162: Pablo P. Yepes
+L163: 
+L164: ## Assistant Research Professors
+L165: 
+L166: Vinícius Contessoto
+L167: Aaron Higuera Pichardo
+L168: Roman Zhuravel
+L169: ## Adjunct Faculty
+L170: 
+L171: Richard Anantua
+L172: James L. Burch
+L173: Henry Everitt
+L174: Stefan Kirchner
+L175: Hui Li
+L176: Lisa Prato
+L177: Laura Redjimi
+L178: Carolyn Sumners
+L179: Jian Yang
+L180: Jian-Xin Zhu
+L181: 
+L182: For Rice University degree-granting programs:
+L183: To view the list of official course offerings, please see cite40†Rice’s Course Catalog†courses.rice.edu .
+L184: To view the most recent semester’s course schedule, please see cite41†Rice's Course Schedule†courses.rice.edu .
+L185: 
+L186: On This Page
+L187: 
+L188:   * cite42†Astronomy (ASTR) L189:   * cite42†Physics (PHYS) L190: ## Astronomy (ASTR)
+L191: 
+L192: ASTR 100 - EXPLORING THE COSMOS
+L193: 
+L194: Short Title: EXPLORING THE COSMOS
+L195: 
+L196: Department: Physics and Astronomy
+L197: 
+L198: Grade Mode: Standard Letter
+L199: 
+L200: Course Type: Seminar
+L201: 
+L202: Credit Hour: 1
+L203: 
+L204: Restrictions: Enrollment is limited to Undergraduate, Undergraduate Professional or Visiting Undergraduate level students.
+L205: 
+L206: Course Level: Undergraduate Lower-Level
+L207: Description: Introduction to concepts, methods and discoveries of astronomy and astrophysics, with a theme to be chosen from the frontier topics of modern astrophysics. Will emphasize student presentations. Designed for first year students interested in science or engineering, but other majors are welcome.
+L208: 
+L209: ASTR 101 - STARS, GALAXIES, AND THE UNIVERSE
+L210: 
+L211: Short Title: STARS, GALAXIES & THE UNIVERSE
+L212: 
+L213: Department: Physics and Astronomy
+L214: 
+L215: Grade Mode: Standard Letter
+L216: 
+L217: Course Type: Lecture
+L218: Distribution Group: Distribution Group III
+L219: 
+L220: Credit Hours: 3
+L221: 
+L222: Restrictions: Enrollment is limited to Undergraduate, Undergraduate Professional or Visiting Undergraduate level students.
+L223: 
+L224: Course Level: Undergraduate Lower-Level
+L225: Description: An introductory course for students in academic programs. The formation, evolution, and death of stars; the composition and evolution of galaxies; the structure and evolution of the universe. Mutually Exclusive: Cannot register for cite43†ASTR 101 if student has credit for ASTR 201.
+L226: 
+L227: ASTR 102 - EXPLORATION OF THE SOLAR SYSTEM
+L228: 
+L229: Short Title: EXPLORATN OF THE SOLAR SYSTEM
+L230: 
+L231: Department: Physics and Astronomy
+L232: 
+L233: Grade Mode: Standard Letter
+L234: 
+L235: Course Type: Lecture
+L236: Distribution Group: Distribution Group III
+L237: 
+L238: Credit Hours: 3
+L239: 
+L240: Restrictions: Enrollment is limited to Undergraduate, Undergraduate Professional or Visiting Undergraduate level students.
+L241: 
+L242: Course Level: Undergraduate Lower-Level
+L243: Description: The physical processes governing the nature and behavior of the various Solar System bodies are discussed with a focus on the origins, evolution and fate of the Solar System and its parts. This broader context leads to a deeper understanding of the Earth as a life-supporting planet. Mutually Exclusive: Cannot register for cite44†ASTR 102 if student has credit for ASTR 202.
+L244: 
+L245: ASTR 229 - ASTRONOMY LAB PART 1: INTRODUCTION TO IMAGING AND DATA ANALYSIS
+L246: 
+L247: Short Title: ASTRONOMY LAB PART 1
+L248: Department: Physics and Astronomy
+L249: 
+L250: Grade Mode: Standard Letter
+L251: 
+L252: Course Type: Lecture/Laboratory
+L253: 
+L254: Credit Hours: 3
+L255: 
+L256: Restrictions: Enrollment is limited to Undergraduate, Undergraduate Professional or Visiting Undergraduate level students.
+L257: 
+L258: Course Level: Undergraduate Lower-Level
+L259: Description: A hands-on introduction to astronomical imaging and computing for astronomical data analysis. Students use telescopes, CCDs, and computers to obtain, process, and analyze their own images. The course uses both local and remote observations and introduces state of the art data analysis software. Instructor Permission Required.
+L260: 
+L261: ASTR 230 - ASTRONOMY LAB PART 2: SPECTROSCOPY AND PROJECTS
+L262: 
+L263: Short Title: ASTRONOMY LAB PART 2
+L264: 
+L265: Department: Physics and Astronomy
+L266: 
+L267: Grade Mode: Standard Letter
+L268: Course Type: Laboratory
+L269: 
+L270: Credit Hours: 3
+L271: 
+L272: Restrictions: Enrollment is limited to Undergraduate, Undergraduate Professional or Visiting Undergraduate level students.
+L273: 
+L274: Course Level: Undergraduate Lower-Level
+L275: 
+L276: Prerequisite(s): cite45†ASTR 229 L277: Description: A hands-on introduction to astronomical spectroscopy that employs the campus observatory, dark sky observing sites, and state of the art data analysis software. This course builds on the knowledge and techniques introduced in ASTR229. The course includes a capstone research project that the student designs and implements in consultation with the instructor. Instructor Permission Required.
+L278: 
+L279: ASTR 238 - SPECIAL TOPICS
+L280: 
+L281: Short Title: SPECIAL TOPICS
+L282: 
+L283: Department: Physics and Astronomy
+L284: Grade Mode: Standard Letter
+L285: 
+L286: Course Type: Internship/Practicum, Laboratory, Lecture, Seminar, Independent Study
+L287: 
+L288: Credit Hours: 1-4
+L289: 
+L290: Restrictions: Enrollment is limited to Undergraduate, Undergraduate Professional or Visiting Undergraduate level students.
+L291: 
+L292: Course Level: Undergraduate Lower-Level
+L293: 
+L294: Description: Topics and credit hours vary each semester. Contact department for current semester's topic(s). Repeatable for Credit.
+L295: 
+L296: ASTR 243 - LIVING WITH A STAR: THE PHYSICS OF THE SUN-EARTH CONNECTION
+L297: Short Title: LIVING WITH A STAR
+L298: 
+L299: Department: Physics and Astronomy
+L300: 
+L301: Grade Mode: Standard Letter
+L302: 
+L303: Course Type: Lecture
+L304: 
+L305: Credit Hours: 3
+L306: 
+L307: Restrictions: Enrollment is limited to Undergraduate, Undergraduate Professional or Visiting Undergraduate level students.
+L308: 
+L309: Course Level: Undergraduate Lower-Level
+L310: 
+L311: Prerequisite(s): (cite46†MATH 102 or cite47†MATH 106 ) and (cite48†PHYS 102 or cite49†PHYS 126 )
+L312: Description: Introduction to astrophysical processes, particularly the effect of the Sun on the Earth. Possible effects of solar variability will be considered, especially global warming. The observational and theoretical basis of our current understanding will be presented.
+L313: 
+L314: ASTR 350 - INTRODUCTION TO ASTROPHYSICS-STARS
+L315: 
+L316: Short Title: INTRO ASTROPHYSICS-STARS
+L317: 
+L318: Department: Physics and Astronomy
+L319: 
+L320: Grade Mode: Standard Letter
+L321: 
+L322: Course Type: Lecture
+L323: 
+L324: Credit Hours: 3
+L325: Restrictions: Enrollment is limited to Undergraduate, Undergraduate Professional or Visiting Undergraduate level students.
+L326: 
+L327: Course Level: Undergraduate Upper-Level
+L328: 
+L329: Prerequisite(s): cite50†MATH 211 and cite51†PHYS 202 L330: Description: Introduction to celestial mechanics, radiative transfer, stellar structure, and stellar remnants (including black holes and neutron stars). Aspects of stellar atmospheres may also be explored. Together, cite52†ASTR 350 and cite53†ASTR 360 provide a comprehensive survey of modern astrophysics needed for senior research and graduate study in astronomy. Either cite52†ASTR 350 or cite53†360 may be taken first. Recommended Prerequisite(s): cite54†MATH 212 L331: ASTR 360 - INTRODUCTION TO ASTROPHYSICS-GALAXY AND COSMO
+L332: 
+L333: Short Title: INTRO ASTROPHYSIC-GALAXY&COSMO
+L334: 
+L335: Department: Physics and Astronomy
+L336: 
+L337: Grade Mode: Standard Letter
+L338: 
+L339: Course Type: Lecture
+L340: 
+L341: Credit Hours: 3
+L342: 
+L343: Restrictions: Enrollment is limited to Undergraduate, Undergraduate Professional or Visiting Undergraduate level students.
+L344: 
+L345: Course Level: Undergraduate Upper-Level
+L346: 
+L347: Prerequisite(s): cite50†MATH 211 and cite51†PHYS 202 (may be taken concurrently)
+L348: Description: Morphology, kinematics, and dynamics of the Milky Way and external galaxies, including interstellar matter and evidence for dark matter. Peculiar and active galaxies, including interacting systems and evidence for super massive black holes in active galactic nuclei such as quasars. Large-scale structure and expansion of the universe, including various cosmologies ranging from the inflationary big bang theory to steady state and anthropic concepts.
+L349: Either cite52†ASTR 350 or cite53†360 may be taken first. cite51†PHYS 202 may be taken as a prereq or concurrently with cite53†ASTR 360 .
+L350: ASTR 400 - UNDERGRADUATE RESEARCH SEMINAR
+L351: 
+L352: Short Title: UNDERGRADUATE RESEARCH SEMINAR
+L353: 
+L354: Department: Physics and Astronomy
+L355: 
+L356: Grade Mode: Satisfactory/Unsatisfactory
+L357: 
+L358: Course Type: Seminar
+L359: 
+L360: Credit Hour: 1
+L361: 
+L362: Restrictions: Enrollment is limited to Undergraduate, Undergraduate Professional or Visiting Undergraduate level students.
+L363: 
+L364: Course Level: Undergraduate Upper-Level
+L365: Description: Seminar on current research topics in astronomy, astrophysics, and space physics for juniors and seniors. Students will be expected to give one oral presentation each semester. Graduate/Undergraduate Equivalency: cite55†ASTR 500 . Repeatable for Credit.
+L366: 
+L367: ASTR 408 - STATISTICAL METHODS IN PHYSICS AND ASTRONOMY
+L368: 
+L369: Short Title: STATISTICS IN PHYS AND ASTR
+L370: 
+L371: Department: Physics and Astronomy
+L372: 
+L373: Grade Mode: Standard Letter
+L374: 
+L375: Course Type: Lecture
+L376: 
+L377: Credit Hours: 3
+L378: Restrictions: Enrollment is limited to Undergraduate, Undergraduate Professional or Visiting Undergraduate level students.
+L379: 
+L380: Course Level: Undergraduate Upper-Level
+L381: 
+L382: Prerequisite(s): (cite56†PHYS 101 or cite57†PHYS 111 or cite58†PHYS 125 ) and (cite48†PHYS 102 or cite59†PHYS 112 or cite49†PHYS 126 )
+L383: Description: Statistical methods commonly used in the analysis of astronomical, laboratory, and survey data. Topics include curve fitting, parametric and non-parametric hypothesis testing, cluster analysis, principal component analysis, time-series data, and truncated data. Fundamentals of statistics, including probability distributions, means, variances, the Central Limit Theorem, hypothesis testing, error propagation, Bayesian analysis, jacknife, and bootstrap are covered.
+L384: The class introduces students to the R programming language. Graduate/Undergraduate Equivalency: cite60†ASTR 508 . Mutually Exclusive: Cannot register for cite61†ASTR 408 if student has credit for cite60†ASTR 508 .
+L385: ASTR 451 - ASTROPHYSICS I: SUN AND STARS
+L386: 
+L387: Short Title: ASTROPHYSICS I: SUN AND STARS
+L388: 
+L389: Department: Physics and Astronomy
+L390: 
+L391: Grade Mode: Standard Letter
+L392: 
+L393: Course Type: Lecture
+L394: 
+L395: Credit Hours: 3
+L396: 
+L397: Restrictions: Enrollment is limited to Undergraduate, Undergraduate Professional or Visiting Undergraduate level students.
+L398: 
+L399: Course Level: Undergraduate Upper-Level
+L400: 
+L401: Prerequisite(s): (cite52†ASTR 350 or cite53†ASTR 360 ) and (cite62†PHYS 301 and cite63†PHYS 302 )
+L402: Description: Physics of stellar atmospheres, interiors and evolution. Polytropes, nucleosynthesis, radiative transfer, convection, oscillations, opacities, curves of growth, spectral line theory and observation.
+L403: 
+L404: ASTR 452 - ASTROPHYSICS II: GALAXIES AND COSMOLOGY
+L405: 
+L406: Short Title: ASTROPHYS II:GALAXY&COSMOLOGY
+L407: 
+L408: Department: Physics and Astronomy
+L409: 
+L410: Grade Mode: Standard Letter
+L411: 
+L412: Course Type: Lecture
+L413: 
+L414: Credit Hours: 3
+L415: Restrictions: Enrollment is limited to Undergraduate, Undergraduate Professional or Visiting Undergraduate level students.
+L416: 
+L417: Course Level: Undergraduate Upper-Level
+L418: 
+L419: Prerequisite(s): (cite52†ASTR 350 or cite53†ASTR 360 ) and (cite62†PHYS 301 and cite63†PHYS 302 )
+L420: 
+L421: Description: Study of physical cosmology models. Description of the evolution of the universe, including nucleosynthesis, cosmic background radiation, large-scale structure, galaxy formation and evolution, and high redshift phenomena.
+L422: ASTR 461 - INDEPENDENT RESEARCH IN ASTRONOMY
+L423: 
+L424: Short Title: INDEPENDENT RESEARCH
+L425: 
+L426: Department: Physics and Astronomy
+L427: 
+L428: Grade Mode: Standard Letter
+L429: 
+L430: Course Type: Independent Study
+L431: 
+L432: Credit Hours: 1-6
+L433: 
+L434: Restrictions: Enrollment is limited to Undergraduate, Undergraduate Professional or Visiting Undergraduate level students.
+L435: 
+L436: Course Level: Undergraduate Upper-Level
+L437: Description: Mentored research under the supervision of a Physics and Astronomy faculty member. The topic of the research must relate to astrophysics or space science. The analogous course for physics topics is cite64†PHYS 461 . To register, students must provide a research plan approved by the faculty mentor. Repeatable for Credit. Instructor Permission Required. Repeatable for Credit.
+L438: 
+L439: ASTR 470 - SOLAR SYSTEM PHYSICS
+L440: 
+L441: Short Title: SOLAR SYSTEM PHYSICS
+L442: 
+L443: Department: Physics and Astronomy
+L444: Grade Mode: Standard Letter
+L445: 
+L446: Course Type: Lecture
+L447: 
+L448: Credit Hours: 3
+L449: 
+L450: Restrictions: Enrollment is limited to Undergraduate, Undergraduate Professional or Visiting Undergraduate level students.
+L451: 
+L452: Course Level: Undergraduate Upper-Level
+L453: 
+L454: Prerequisite(s): cite62†PHYS 301 and cite63†PHYS 302 L455: Description: The Sun, solar-terrestrial relationships, solar wind; planetary atmospheres, ionospheres and magnetospheres. Graduate/Undergraduate Equivalency: cite65†ASTR 570 . Mutually Exclusive: Cannot register for cite66†ASTR 470 if student has credit for cite65†ASTR 570 .
+L456: 
+L457: ASTR 477 - SPECIAL TOPICS
+L458: 
+L459: Short Title: SPECIAL TOPICS
+L460: 
+L461: Department: Physics and Astronomy
+L462: 
+L463: Grade Mode: Standard Letter
+L464: 
+L465: Course Type: Internship/Practicum, Lecture, Seminar, Laboratory
+L466: 
+L467: Credit Hours: 1-4
+L468: Restrictions: Enrollment is limited to Undergraduate, Undergraduate Professional or Visiting Undergraduate level students.
+L469: 
+L470: Course Level: Undergraduate Upper-Level
+L471: 
+L472: Description: Topics and credit hours may vary each semester. Contact department for current semester's topic(s). Repeatable for Credit.
+L473: 
+L474: ASTR 500 - GRADUATE RESEARCH SEMINAR
+L475: 
+L476: Short Title: GRADUATE RESEARCH SEMINAR
+L477: 
+L478: Department: Physics and Astronomy
+L479: 
+L480: Grade Mode: Satisfactory/Unsatisfactory
+L481: 
+L482: Course Type: Seminar
+L483: 
+L484: Credit Hour: 1
+L485: Restrictions: Enrollment is limited to Graduate level students.
+L486: 
+L487: Course Level: Graduate
+L488: 
+L489: Description: A presentation of current research programs in the department. Graduate/Undergraduate Equivalency: cite67†ASTR 400 . Repeatable for Credit.
+L490: 
+L491: ASTR 502 - TEACHING EARTH AND SPACE SCIENCE
+L492: 
+L493: Short Title: TEACHING EARTH & SPACE SCIENCE
+L494: 
+L495: Department: Physics and Astronomy
+L496: 
+L497: Grade Mode: Standard Letter
+L498: 
+L499: Course Type: Lecture
+L500: 
+L501: Credit Hours: 3
+L502: 
+L503: Restrictions: Enrollment is limited to Graduate level students.
+L504: Course Level: Graduate
+L505: 
+L506: Description: Overview of the Earth and the solar system: structure, evolution, and dynamics. Includes non-calculus mathematics: algebra, logarithms and simple trigonometry, including Kepler's laws. Observing sessions at campus observatory and George Observatory TBD. Designed for inservice and preservice science teachers (grades 4-12), but open to undergraduates considering a teaching career. Mutually Exclusive: Cannot register for cite68†ASTR 502 if student has credit for ASTR 402.
+L507: ASTR 503 - ASTRONOMY FOR TEACHERS
+L508: 
+L509: Short Title: ASTRONOMY FOR TEACHERS
+L510: 
+L511: Department: Physics and Astronomy
+L512: 
+L513: Grade Mode: Standard Letter
+L514: 
+L515: Course Type: Lecture
+L516: 
+L517: Credit Hours: 3
+L518: 
+L519: Restrictions: Enrollment is limited to Graduate level students.
+L520: 
+L521: Course Level: Graduate
+L522: Description: Overview of the Sun, stars, galaxies, and the Universe at a non-calculus level. Methods to help students master content, including lab activities suitable for K-12. Observing sessions at Rice campus observatory and George Observatory TBD. Designed for inservice and preservice teachers (grades 5-12), but open to undergraduates considering a teaching career.
+L523: 
+L524: ASTR 508 - STATISTICAL METHODS IN PHYSICS AND ASTRONOMY
+L525: 
+L526: Short Title: STATISTICS IN PHYS AND ASTR
+L527: 
+L528: Department: Physics and Astronomy
+L529: Grade Mode: Standard Letter
+L530: 
+L531: Course Type: Lecture
+L532: 
+L533: Credit Hours: 3
+L534: 
+L535: Restrictions: Enrollment is limited to Graduate level students.
+L536: 
+L537: Course Level: Graduate
+L538: Description: Statistical methods commonly used in the analysis of astronomical, laboratory, and survey data. Topics include curve fitting, parametric and non-parametric hypothesis testing, cluster analysis, principal component analysis, time-series data, and truncated data. Fundamentals of statistics, including probability distributions, means, variances, the Central Limit Theorem, hypothesis testing, error propagation, Bayesian analysis, jacknife, and bootstrap are covered.
+L539: The class introduces students to the R programming language. Graduate/Undergraduate Equivalency: cite61†ASTR 408 . Mutually Exclusive: Cannot register for cite60†ASTR 508 if student has credit for cite61†ASTR 408 .
+L540: ASTR 530 - TEACHING ASTRONOMY LABORATORY
+L541: 
+L542: Short Title: TEACHING ASTRONOMY LABORATORY
+L543: 
+L544: Department: Physics and Astronomy
+L545: 
+L546: Grade Mode: Standard Letter
+L547: 
+L548: Course Type: Laboratory
+L549: 
+L550: Credit Hours: 3
+L551: 
+L552: Restrictions: Enrollment is limited to Graduate level students.
+L553: 
+L554: Course Level: Graduate
+L555: 
+L556: Prerequisite(s): cite69†ASTR 230 or cite52†ASTR 350 or cite53†ASTR 360 or ASTR 402 or ASTR 403 or cite68†ASTR 502 or cite70†ASTR 503 L557: Description: Methods of observational astronomy for public education: telescopes, astronomical binoculars, portable planetariums, digital cameras, and photography (still, 3D, and time lapse). Students will train beginners in the use of telescopes and carry out a modest observational program. The course requires one public presentation. Topics vary with each offering. Mutually Exclusive: Cannot register for cite71†ASTR 530 if student has credit for ASTR 430.
+L558: 
+L559: ASTR 542 - NEBULAR ASTROPHYSICS
+L560: Short Title: NEBULAR ASTROPHYSICS
+L561: 
+L562: Department: Physics and Astronomy
+L563: 
+L564: Grade Mode: Standard Letter
+L565: 
+L566: Course Type: Lecture
+L567: 
+L568: Credit Hours: 3
+L569: 
+L570: Restrictions: Enrollment is limited to Graduate level students.
+L571: 
+L572: Course Level: Graduate
+L573: 
+L574: Prerequisite(s): cite72†ASTR 451 L575: 
+L576: Description: The physics of emission nebulae, including radiative transfer, photo ionization and thermal equilibria, and internal gaseous dynamics. Physical processes in the interstellar medium. Recommended Prerequisite(s): cite73†PHYS 541 .
+L577: ASTR 554 - ASTROPHYSICS OF THE SUN
+L578: 
+L579: Short Title: ASTROPHYSICS OF THE SUN
+L580: 
+L581: Department: Physics and Astronomy
+L582: 
+L583: Grade Mode: Standard Letter
+L584: 
+L585: Course Type: Lecture
+L586: 
+L587: Credit Hours: 3
+L588: 
+L589: Restrictions: Enrollment is limited to Graduate level students.
+L590: 
+L591: Course Level: Graduate
+L592: 
+L593: Description: Analysis of physical processes at work in the sun, such as helioseismology, solar variability, solar activity, magnetic reconnection, heliosphere interactions and modern observational techniques.
+L594: 
+L595: ASTR 555 - PROTOSTARS AND PLANETS
+L596: Short Title: PROTOSTARS AND PLANETS
+L597: 
+L598: Department: Physics and Astronomy
+L599: 
+L600: Grade Mode: Standard Letter
+L601: 
+L602: Course Type: Lecture
+L603: 
+L604: Credit Hours: 3
+L605: 
+L606: Restrictions: Enrollment is limited to Graduate level students.
+L607: 
+L608: Course Level: Graduate
+L609: 
+L610: Prerequisite(s): cite72†ASTR 451 L611: Description: Physics of star and planet information, including molecular cloud dynamics and chemistry, circumstellar accretion disks, jets, dust, debris disks, atmospheres rotation, and magnetic fields of young stars, binaries, brown dwarfs, comets, Kuiper belt objects, giant planet formation and discoveries of extra solar planets.
+L612: 
+L613: ASTR 565 - COMPACT OBJECTS
+L614: 
+L615: Short Title: COMPACT OBJECTS
+L616: 
+L617: Department: Physics and Astronomy
+L618: 
+L619: Grade Mode: Standard Letter
+L620: 
+L621: Course Type: Lecture
+L622: 
+L623: Credit Hours: 3
+L624: Restrictions: Enrollment is limited to Graduate level students.
+L625: 
+L626: Course Level: Graduate
+L627: 
+L628: Description: The physics and astrophysics of the structure and environments of white dwarfs, neutron stars, black holes. Addressing pulsars, X-ray binaries, accretion, jets and gravitational radiation.
+L629: 
+L630: ASTR 570 - SOLAR SYSTEM PHYSICS
+L631: 
+L632: Short Title: SOLAR SYSTEM PHYSICS
+L633: 
+L634: Department: Physics and Astronomy
+L635: 
+L636: Grade Mode: Standard Letter
+L637: 
+L638: Course Type: Lecture
+L639: 
+L640: Credit Hours: 3
+L641: Restrictions: Enrollment is limited to Graduate level students.
+L642: 
+L643: Course Level: Graduate
+L644: 
+L645: Description: The Sun, solar-terrestrial relationships, solar wind; planetary atmospheres, ionospheres and magnetospheres. Includes a research paper and presentation on a physical process in the solar system. Graduate/Undergraduate Equivalency: cite66†ASTR 470 . Mutually Exclusive: Cannot register for cite65†ASTR 570 if student has credit for cite66†ASTR 470 .
+L646: 
+L647: ASTR 600 - ADVANCED TOPICS IN ASTROPHYSICS
+L648: Short Title: ADV TOPICS IN ASTROPHYSICS
+L649: 
+L650: Department: Physics and Astronomy
+L651: 
+L652: Grade Mode: Standard Letter
+L653: 
+L654: Course Type: Seminar
+L655: 
+L656: Credit Hours: 3
+L657: 
+L658: Restrictions: Enrollment is limited to Graduate level students.
+L659: 
+L660: Course Level: Graduate
+L661: 
+L662: Description: Lecture/seminars which treat topics of departmental interest. Not offered every year. Repeatable for Credit.
+L663: 
+L664: ASTR 677 - SPECIAL TOPICS
+L665: 
+L666: Short Title: SPECIAL TOPICS
+L667: 
+L668: Department: Physics and Astronomy
+L669: 
+L670: Grade Mode: Standard Letter
+L671: Course Type: Internship/Practicum, Laboratory, Lecture, Seminar, Independent Study
+L672: 
+L673: Credit Hours: 1-4
+L674: 
+L675: Restrictions: Enrollment is limited to Graduate or Visiting Graduate level students.
+L676: 
+L677: Course Level: Graduate
+L678: 
+L679: Description: Topics and credit hours vary each semester. Contact department for current semester's topic(s). Repeatable for Credit.
+L680: ## Physics (PHYS)
+L681: 
+L682: PHYS 100 - EXPLORING PHYSICS
+L683: 
+L684: Short Title: EXPLORING PHYSICS
+L685: 
+L686: Department: Physics and Astronomy
+L687: 
+

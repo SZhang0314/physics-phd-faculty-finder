@@ -1,0 +1,549 @@
+Faculty » MIT Physics (https://physics.mit.edu/faculty/)
+citeturn43view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://physics.mit.edu/faculty/","lineno":null}); Total lines: 773
+L0: cite0†MIT Center for Theoretical Physics – a Leinweber Institute cite1†Events Calendar cite2†Physics Colloquia cite3†Directory cite4†Login cite5†Contact L1: 
+L2: [Input] [Input]
+L3: 
+L4: [Button: Search]
+L5:   * cite6†About show submenu for “About”
+L6:     * cite7†Community Values L7:     * cite8†Visiting MIT Physics L8:     * cite9†Employment L9:     * cite3†People Directory L10:     * cite10†Faculty Directory L11:     * cite11†History of MIT Physics L12:     * cite12†Administration show submenu for “Administration”
+L13:       * cite12†Policies and Procedures L14:       * cite13†Departmental Committees L15:       * cite14†Academic Programs Team L16:       * cite15†Finance Team L17:   * cite16†Academic Programs show submenu for “Academic Programs”
+L18:     * cite17†For Undergraduates show submenu for “For Undergraduates”
+L19:       * cite18†Prospective Students L20:       * cite19†Advanced Standing Exams and Transfer Credit L21:       * cite20†Physics Major L22:       * cite21†Physics Minor L23:       * cite22†Research Programs L24:       * cite23†Tutoring Resources L25:       * cite24†Student Activities L26:       * cite25†Employment Opportunities L27:     * cite26†For Graduate Students show submenu for “For Graduate Students”
+L28:       * cite27†Graduate Admissions L29:       * cite28†Doctoral Guidelines L30:       * cite29†Thesis Information L31:       * cite30†Financial Support L32:       * cite31†Graduate Student Resources L33:       * cite32†PhD in Physics, Statistics, and Data Science L34:       * cite33†MIT LEAPS Program L35:     * cite34†Student Resources L36:     * cite35†Physics Student Groups L37:     * cite36†Mentoring Programs Information show submenu for “Mentoring Programs Information”
+L38:       * cite37†for Undergraduate Students L39:       * cite38†for Graduate Students L40:       * cite39†Mentoring Programs Info for Faculty L41:     * cite14†Meet the Academic Programs Team L42:     * cite40†Courses L43:     * cite41†Non-degree Programs L44:     * cite42†Student Awards & Honors L45:   * cite43†Research show submenu for “Research”
+L46:     * cite43†Research Areas show submenu for “Research Areas”
+L47:       * cite44†Astrophysics Observation, Instrumentation, and Experiment L48:       * cite45†Astrophysics Theory L49:       * cite46†Atomic Physics L50:       * cite47†Biophysics L51:       * cite48†Condensed Matter Experiment L52:       * cite49†Condensed Matter Theory L53:       * cite50†High Energy and Particle Theory L54:       * cite51†Nuclear Physics Experiment L55:       * cite52†Particle Physics Experiment L56:       * cite53†Plasma Physics L57:       * cite54†Quantum Gravity and Field Theory L58:       * cite55†Quantum Information Science L59:       * cite56†Strong Interactions and Nuclear Theory L60:     * cite0†MIT Center for Theoretical Physics – a Leinweber Institute L61:     * cite57†Affiliated Labs & Centers L62:     * cite58†Pappalardo Fellowships show submenu for “Pappalardo Fellowships”
+L63:       * cite59†Program Founder L64:       * cite60†Symposia L65:       * cite61†Competition L66:   * cite10†Faculty L67:   * cite62†Giving show submenu for “Giving”
+L68:     * cite63†Donor Profiles L69:     * cite64†Patrons of Physics Fellows Society L70:     * cite65†Giving Opportunties L71:   * cite66†News show submenu for “News”
+L72:     * cite66†Latest Physics News L73:     * cite67†Physics Journal L74:   * cite0†MIT Center for Theoretical Physics – a Leinweber Institute L75:   * cite1†Events Calendar L76:   * cite2†Physics Colloquia L77:   * cite3†Directory L78:   * cite68†Login L79:   * cite5†Contact L80:   * [Input] [Input]
+L81: 
+L82: [Button: Search]
+L83: # Faculty
+L84: 
+L85: The MIT Physics Department is one of the best places in the world for research and education in physics. We have been ranked the number one physics department since 2002 by US News & World Report.
+L86: We honor the memory of esteemed members of the physics department community who have passed away, and remember their insight, creativity, collegiality, and dedication to excellence, under cite69†In Memoriam . Their contributions to scholarship, mentorship, and the department’s vibrant culture are deeply appreciated.
+L87: ## Filter by
+L88: 
+L89: Name [Input: Name]
+L90: 
+L91: [Button: Research Area]
+L92: 
+L93: [Button: Labs & Centers]
+L94: 
+L95: Labs & Centers
+L96: [Input] Bates Research and Engineering Center [Input] CIQM (Center for Integrated Quantum Materials) [Input] Condensed Matter Theory Group (CMT) [Input] Condensed Matter Experiment Group (CMX) [Input] MIT Center for Quantum Engineering (MIT-CQE) [Input] MIT Center for Theoretical Physics -- a Leinweber Institute (CTP-LI) [Input] MIT Kavli Institute for Astrophysics & Space Research [Input] MIT Laboratory for Nuclear Science (LNS) [Input] MIT Materials Research Laboratory (MRL) [Input] MIT Plasma Science & Fusion Center (PSFC) [Input] MIT Statistics + Data Science Center [Input] MIT-Harvard Center for Ultracold Atoms (CUA) [Input] NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI) [Input] Physics of Living and Non-Equilibrium Systems [Input] Research Laboratory of Electronics (RLE) at MIT
+L97: [Button: Division]
+L98: 
+L99: Division
+L100: 
+L101: [Input] Astrophysics [Input] Atomic, Biophysics, Condensed Matter, & Plasma Physics [Input] Experimental Nuclear & Particle Physics [Input] Theoretical Nuclear & Particle Physics
+L102: 
+L103: [Button: Title]
+L104: 
+L105: Title
+L106: 
+L107: [Input] Professor [Input] Emeritus/a [Input] Associate Professor [Input] Assistant Professor [Input] Adjunct Professor [Input] Visiting Professor [Input] In Memoriam
+L108: 
+L109: [Input]
+L110: ### cite70†Raymond Ashoori L111: 
+L112: Alexander and Ethel Klemin Professor of Physics
+L113: Division Head, Atomic, Biophysical, and Condensed Matter Physics
+L114: 
+L115: Focus of research lies in the study of interacting electronic systems in low dimensional electronic structures.
+L116: 
+L117: ### cite71†John Belcher L118: 
+L119: Class of 1922 Professor of Physics, Emeritus (1971-2021)
+L120: 
+L121: Research interests are within the areas of space plasma physics, in particular the interaction of the heliosphere with the local interstellar medium.
+L122: ### cite72†A. Nihat Berker L123: 
+L124: Professor of Physics, Emeritus (1979-2004)
+L125: 
+L126: Best known for his research in statistical mechanics; especially on phase transitions and critical phenomena.
+L127: 
+L128: ### cite73†William Bertozzi L129: 
+L130: Professor of Physics, Emeritus (1960-2008)
+L131: 
+L132: Recognized as a world leader and innovator in the field of experimental electromagnetic nuclear physics.
+L133: ### cite74†Edmund Bertschinger L134: 
+L135: Professor of Physics, Emeritus (1986-2026)
+L136: 
+L137: Research in theoretical astrophysics, physics education, and in equity, diversity, and inclusion in the physical sciences and engineering.
+L138: 
+L139: ### cite75†Robert Birgeneau L140: 
+L141: Professor of Physics, Emeritus (1975-2003)
+L142: 
+L143: Primarily concerned with the phases and phase transition behavior of novel states of matter.
+L144: ### cite76†Kevin Burdge L145: 
+L146: Assistant Professor of Physics
+L147: 
+L148: Observational astrophysicist studying compact binaries using time-domain and multi-messenger astrophysics and by developing high-speed instrumentation
+L149: 
+L150: ### cite77†Wit Busza L151: 
+L152: Francis L. Friedman Professor of Physics, Emeritus (1969-2012)
+L153: 
+L154: Known for his pioneering studies of hadron-nucleus collisions and PHOBOS experiment, which studied matter at extreme energy density and temperature.
+L155: ### cite78†Claude Canizares L156: 
+L157: Bruno B. Rossi Distinguished Professor of Experimental Physics, Emeritus (1974-2025)
+L158: 
+L159: Research in galactic and extra-galactic high energy astrophysics.
+L160: 
+L161: ### cite79†Paola Cappellaro L162: 
+L163: Ford Professor of Engineering
+L164: Professor of Physics
+L165: 
+L166: Specialist in spin-based quantum information processing and precision measurements in the solid state.
+L167: ### cite80†Deepto Chakrabarty L168: 
+L169: William A. M. Burden Professor in Astrophysics
+L170: Department Head
+L171: 
+L172: Research specialty is in high-energy astrophysics and the physics and astrophysics of neutron stars.
+L173: 
+L174: ### cite81†Arup Chakraborty L175: 
+L176: John M. Deutch Institute Professor
+L177: Professor of Chemical Engineering, Physics, and Chemistry
+L178: 
+L179: Understanding the mechanisms underlying the immune response to pathogens for the design of better vaccines; phase separation in gene regulation.
+L180: ### cite82†Joseph Checkelsky L181: 
+L182: Professor of Physics
+L183: 
+L184: Research in our lab focuses on the study of exotic electronic states of matter through the synthesis, measurement, and control of quantum materials.
+L185: 
+L186: ### cite83†Min Chen L187: 
+L188: Professor of Physics, Emeritus (1970-2020)
+L189: 
+L190: Has pioneered the field of reverse Cherenkov Radiation (RCR) in left-handed material since 2003.
+L191: ### cite84†Soonwon Choi L192: 
+L193: Associate Professor of Physics
+L194: 
+L195: Research interests are focused on the intersection of quantum information science and out-of-equilibrium dynamics of quantum many-body systems.
+L196: 
+L197: ### cite85†Isaac Chuang L198: 
+L199: Julius A. Stratton Professor in Electrical Engineering and Physics
+L200: 
+L201: A pioneer in the field of quantum information science.
+L202: ### cite86†Riccardo Comin L203: 
+L204: Associate Professor of Physics
+L205: 
+L206: Explores the novel phases of matter that can be found in electronic solids with strong interactions, also known as quantum materials.
+L207: 
+L208: ### cite87†Janet Conrad L209: 
+L210: Professor of Physics
+L211: 
+L212: Searches for signatures of new particles, new forces and new symmetries using neutrinos from MeV to PeV energy scales.
+L213: ### cite88†Bruno Coppi L214: 
+L215: Professor of Physics, Emeritus (1969-2012)
+L216: 
+L217: Contributed to the fields of plasma physics, nuclear fusion research, space physics and plasma astrophysics.
+L218: 
+L219: ### cite89†William Detmold L220: 
+L221: Professor of Physics
+L222: Graduate Program Faculty Coordinator
+L223: 
+L224: Interests are in strong interaction dynamics in theoretical particle and nuclear physics.
+L225: ### cite90†Anna-Christina Eilers L226: 
+L227: Assistant Professor of Physics
+L228: Victor F. Weisskopf Career Development Professor
+L229: 
+L230: Observational astrophysicist studying supermassive black holes
+L231: 
+L232: ### cite91†Netta Engelhardt L233: 
+L234: Associate Professor of Physics
+L235: 
+L236: Research focuses on understanding the predictions and fundamental structure of quantum gravity via holography and the black hole information paradox.
+L237: ### cite92†Matthew Evans L238: 
+L239: Mathworks Professor of Physics
+L240: 
+L241: Works on providing the designs and foundations for the next generation of gravitational wave detectors.
+L242: 
+L243: ### cite93†Nikta Fakhri L244: 
+L245: Professor of Physics
+L246: 
+L247: Investigates the physical principles governing collective behavior and self-organization in living systems far from equilibrium.
+L248: 
+L249: ### cite94†Edward Farhi L250: 
+L251: Cecil & Ida Green Professor of Physics, Emeritus (1982-2018)
+L252: 
+L253: Present interest is the theory of quantum computation.
+L254: ### cite95†Peter Fisher L255: 
+L256: Thomas A. Frank (1977) Professor of Physics
+L257: Head of the Office of Computing and Data
+L258: Associate Vice President of Research
+L259: 
+L260: My research interests are the detection of dark matter and primordial black holes, as well as the classical/quantum interface of electrodynamics.
+L261: 
+L262: ### cite96†Richard Fletcher L263: 
+L264: Associate Professor of Physics
+L265: 
+L266: Utilizes exquisitely controlled ultracold atomic gases to synthesize exotic quantum matter hard or even impossible to realize in nature.
+L267: ### cite97†Joseph Formaggio L268: 
+L269: Professor of Physics
+L270: 
+L271: Explores the nature of neutrinos and their deep connection between particle physics, quantum mechanics and cosmology.
+L272: 
+L273: ### cite98†Anna Frebel L274: 
+L275: Professor of Physics
+L276: Division Head for Astrophysics
+L277: 
+L278: Best known for her discoveries and spectroscopic analyses of the oldest, most metal-poor stars in the Milky Way and small dwarf galaxies.
+L279: ### cite99†Daniel Freedman L280: 
+L281: Professor of Applied Mathematics and Physics, Emeritus (1980-2011)
+L282: 
+L283: Discovered supergravity at StonyBrook University with Sergio Ferrrara and Peter van Nieuwenhuizen in 1976.
+L284: 
+L285: ### cite100†Jerome Friedman L286: 
+L287: Professor of Physics, Emeritus (1960-2005)
+L288: Institute Professor, Emeritus
+L289: 1990 Nobel Laureate
+L290: 
+L291: Experiments in which high-energy electron scattering uncovered the constituents of the proton and neutrons led to the 1990 Nobel Prize in Physics.
+L292: ### cite101†Liang Fu L293: 
+L294: Professor of Physics
+L295: 
+L296: Concerned with the application of topology in solid state physics to predict new phases of matter and topological materials.
+L297: 
+L298: ### cite102†Ronald Fernando Garcia Ruiz L299: 
+L300: Associate Professor of Physics
+L301: Thomas A. Frank (1977) Career Development Professor
+L302: 
+L303: Focused on the study of atoms and molecules containing short-lived radioactive nuclei for fundamental physics research.
+L304: ### cite103†Nuh Gedik L305: 
+L306: Donner Professor of Physics
+L307: 
+L308: His research centers on using advanced optical techniques for probing and controlling properties of quantum materials.
+L309: 
+L310: ### cite104†Jeffrey Goldstone L311: 
+L312: Professor of Physics, Emeritus (1977-2004)
+L313: 
+L314: Famous for the discovery of the Nambu–Goldstone boson. He is currently working on quantum computation.
+L315: ### cite105†Jeff Gore L316: 
+L317: Professor of Physics
+L318: 
+L319: Uses experimentally tractable laboratory microcosms to explore how interactions between individuals drives the evolution and ecology of communities.
+L320: 
+L321: ### cite106†Ore Gottlieb L322: 
+L323: Assistant Professor of Physics
+L324: 
+L325: I use GRMHD simulations to study black holes, compact mergers, and cosmic explosions, connecting them to gravitational and electromagnetic signals.
+L326: ### cite107†Thomas Greytak L327: 
+L328: Lester Wolfe Professor of Physics, Emeritus (1967-2011)
+L329: 
+L330: With his colleague Daniel Kleppner, he helped to pioneer the field of Bose-Einstein condensation and quantum gasses.
+L331: 
+L332: ### cite108†Alan Guth L333: 
+L334: Victor F. Weisskopf Professor of Physics, Post-Tenure
+L335: 
+L336: In 1981, he proposed that many features of our universe can be explained by a new cosmological model which he called inflation.
+L337: ### cite109†Daniel Harlow L338: 
+L339: Associate Professor of Physics
+L340: 
+L341: Works on combining quantum mechanics and gravity, focusing on the quantum-mechanical aspects of black holes and cosmology.
+L342: 
+L343: ### cite110†Philip Harris L344: 
+L345: Associate Professor of Physics
+L346: 
+L347: Building real-time deep learning systems to search for dark matter and understand the Higgs boson
+L348: 
+L349: ### cite111†Aram Harrow L350: 
+L351: Professor of Physics
+L352: 
+L353: His research focuses on quantum information and computing, and best known for co-developing the HHL algorithm in 2008.
+L354: ### cite112†Or Hen L355: 
+L356: Associate Professor of Physics
+L357: 
+L358: Focuses on studies of QCD in the nuclear medium, and the development on the new Electron-Ion Collider.
+L359: 
+L360: ### cite113†Jacqueline Hewitt L361: 
+L362: Julius A. Stratton Professor of Physics, Post-Tenure
+L363: 
+L364: Current research interests are in radio astronomy investigations of the Cosmic Dawn.
+L365: ### cite114†Scott Hughes L366: 
+L367: Professor of Physics
+L368: Margaret MacVicar Faculty Fellow
+L369: Associate Department Head
+L370: 
+L371: Professor Hughes' research is in astrophysical general relativity, focusing in particular upon black holes and gravitational-wave sources.
+L372: 
+L373: ### cite115†Gian Michele Innocenti L374: 
+L375: Assistant Professor of Physics
+L376: 
+L377: Research focuses on characterizing high-density and temperature QCD matter with ultra-peripheral and head-on heavy-ion collisions.
+L378: ### cite116†Erich Ippen L379: 
+L380: Professor of Physics, Emeritus (1980-2012)
+L381: Elihu Thomson Professor of Electrical Engineering, Emeritus
+L382: 
+L383: Ippen is a principal investigator in the Research Laboratory of Electronics (RLE).
+L384: 
+L385: ### cite117†Mikhail Ivanov L386: 
+L387: Assistant Professor of Physics
+L388: 
+L389: Research focuses on large-scale structure, effective field theories, black holes, and astrophysical and cosmological data analysis.
+L390: ### cite118†Robert Jaffe L391: 
+L392: Otto (1939) and Jane Morningstar Professor of Science, Emeritus (1974-2020)
+L393: 
+L394: Best known for his research on the quark substructure of matter.
+L395: 
+L396: ### cite119†Pablo Jarillo-Herrero L397: 
+L398: Cecil and Ida Green Professor of Physics
+L399: 
+L400: Best known for his groundbreaking research on twistronics.
+L401: ### cite120†Zhurun (Judy) Ji L402: 
+L403: Assistant Professor of Physics
+L404: Jerrold R. Zacharias Career Development Professor
+L405: 
+L406: Using novel scanning probe and sensing approaches to study materials down to the quantum limit, then apply them to build quantum devices.
+L407: 
+L408: ### cite121†Paul Joss L409: 
+L410: Professor of Physics, Emeritus (1973-2014)
+L411: 
+L412: Also the principal investigator of an ISS National Lab project focused on tropical cyclones, which are also called hurricanes and typhoons.
+L413: ### cite122†Long Ju L414: 
+L415: Associate Professor of Physics
+L416: 
+L417: Research focuses on exploring and understanding exotic quantum phenomena driven by electron correlations and topology in novel quantum materials.
+L418: 
+L419: ### cite123†David Kaiser L420: 
+L421: Professor of Physics
+L422: Germeshausen Professor of the History of Science (STS)
+L423: 
+L424: Research focuses on early-universe cosmology, foundations of quantum theory, and history of modern physics.
+L425: ### cite124†Erin Kara L426: 
+L427: Associate Professor of Physics
+L428: 
+L429: An observational astrophysicist, working to understand the physics behind how black holes grow and affect their environments.
+L430: 
+L431: ### cite125†Mehran Kardar L432: 
+L433: Francis L. Friedman Professor of Physics
+L434: 
+L435: Interests include non-equilibrium collective behavior, disordered systems, soft matter, fluctuation-induced phenomena, and biophysics.
+L436: ### cite126†Marc Kastner L437: 
+L438: Donner Professor of Science, Emeritus (1973-2016)
+L439: 
+L440: His research group at MIT discovered the single electron transistor in 1990.
+L441: 
+L442: ### cite127†Wolfgang Ketterle L443: 
+L444: John D. MacArthur Professor of Physics
+L445: 2001 Nobel Laureate
+L446: 
+L447: Creation of first gaseous Bose-Einstein condensate led to being co-recipient of 2001 Nobel Prize in Physics.
+L448: 
+L449: ### cite128†Stanley Kowalski L450: 
+L451: Professor of Physics, Emeritus (1965-2015)
+L452: 
+L453: His career at MIT was centered on accelerator physics and nuclear physics research.
+L454: ### cite129†Yen-Jie Lee L455: 
+L456: Professor of Physics
+L457: Undergraduate Program Coordinator
+L458: 
+L459: Has pioneered studies of high-density QCD with proton-proton, heavy-ion and electron-positron annihilation data.
+L460: 
+L461: ### cite130†Patrick Lee L462: 
+L463: William and Emma Rogers Professor of Physics, Post-Tenure
+L464: 
+L465: A pioneer in "mesoscopic physics," the study of small devices at low temperatures.
+L466: ### cite131†Leonid Levitov L467: 
+L468: Professor of Physics
+L469: 
+L470: A pioneer in the theory of quasicrystals — orderly materials with non-crystallographic symmetries, discovered in 1985.
+L471: 
+L472: ### cite132†J. David Litster L473: 
+L474: Professor of Physics, Emeritus (1966-2013)
+L475: 
+L476: Research interests have been the experimental study of phase transitions in unusual states of matter.
+L477: ### cite133†Hong Liu L478: 
+L479: Professor of Physics
+L480: 
+L481: Interested in issues in quantum gravity, such as the quantum nature of black holes and the Big Bang singularity, using the framework of string theory.
+L482: 
+L483: ### cite134†Kiyoshi Masui L484: 
+L485: Associate Professor of Physics
+L486: 
+L487: Radio astronomer and cosmologist, whose work spans theory, data analysis, observations, and instrumentation.
+L488: ### cite135†June Matthews L489: 
+L490: Professor of Physics, Emerita (1973-2012)
+L491: 
+L492: Her research interests are in within the area of intermediate-energy nuclear physics with electromagnetic and hadronic probes.
+L493: 
+L494: ### cite136†Nergis Mavalvala L495: 
+L496: Curtis (1963) and Kathleen Marble Professor of Astrophysics
+L497: Dean, MIT School of Science
+L498: 
+L499: Focuses on the detection of gravitational waves and quantum measurement science.
+L500: ### cite137†Michael McDonald L501: 
+L502: Professor of Physics
+L503: 
+L504: Focuses on the evolution of galaxies and clusters of galaxies, and the role that environment plays in dictating this evolution.
+L505: 
+L506: ### cite138†Max Metlitski L507: 
+L508: Associate Professor of Physics
+L509: 
+L510: Interested in understanding so-called topological phases, such as quantum Hall states and topological insulators.
+L511: ### cite139†Sarah Millholland L512: 
+L513: Assistant Professor of Physics
+L514: 
+L515: Focuses on understanding the demographics, formation, and evolution of extrasolar planetary systems using data-driven dynamics.
+L516: 
+L517: ### cite140†Richard Milner L518: 
+L519: Cecil and Ida Green Professor of Physics
+L520: 
+L521: Focused on studying the spin structure of strongly interacting systems.
+L522: ### cite141†Leonid Mirny L523: 
+L524: Richard J. Cohen (1976) Professor in Medicine and Biomedical Physics, and Physics, MIT
+L525: Associate Member, Broad Institute at Harvard and MIT
+L526: 
+L527: Genome folding in 3D: understanding physical mechanisms that cells use to fold, to pack, to repair and to control their genetic material.
+L528: ### cite142†Ernest Moniz L529: 
+L530: Cecil and Ida Green Professor of Physics and Engineering Systems, Post-Tenure
+L531: 
+L532: Current research interests are centered on energy, science and technology, and national security policy.
+L533: 
+L534: ### cite143†Lina Necib L535: 
+L536: Associate Professor of Physics
+L537: 
+L538: As a theoretical astroparticle physicist, I work on using Galactic dynamics to understand properties of Dark Matter.
+L539: ### cite144†John Negele L540: 
+L541: Professor of Physics, Emeritus (1971–2014)
+L542: 
+L543: Interested in lattice field theory to solve QCD and thereby understand the structure of nucleons in terms of their quark and gluon constituents.
+L544: 
+L545: ### cite145†William Oliver L546: 
+L547: Professor of Physics
+L548: Henry Ellis Warren (1894) Professor of Electrical Engineering and Computer Science
+L549: 
+L550: Is a recognized leader in the quantum engineering of extensible superconducting quantum circuits.
+L551: ### cite146†Christoph Paus L552: 
+L553: Professor of Physics
+L554: 
+L555: Co-lead (as one of two lead investigators) the CMS Experiment team in its search for the Higgs boson, discovered in 2012.
+L556: 
+L557: ### cite147†Irwin A. Pless L558: 
+L559: Professor of Physics, Emeritus (1958-1998)
+L560: 
+L561: Has made significant contributions to the fields of Experimental Particle Physics, Heavy ion collisions research, and Neutrino Astrophysics.
+L562: ### cite148†Miklos Porkolab L563: 
+L564: Professor of Physics, Post-Tenure
+L565: 
+L566: Pioneering studies of nonlinear wave-particle interactions and turbulence in laboratory, tokamak and stellarator plasmas, including RF current drive.
+L567: 
+L568: ### cite149†David Pritchard L569: 
+L570: Cecil and Ida Green Professor of Physics, Post-Tenure
+L571: 
+L572: Carried out pioneering experiments on the interaction of atoms with light that led to the creation of the field of atom optics.
+L573: ### cite150†Krishna Rajagopal L574: 
+L575: William A. M. Burden Professor of Physics
+L576: Margaret MacVicar Faculty Fellow
+L577: 
+L578: Probing the properties, microstructure and phase diagram of hot QCD matter, the primordial liquid.
+L579: 
+L580: ### cite151†Saul Rappaport L581: 
+L582: Professor of Physics, Emeritus (1969-2010)
+L583: 
+L584: Interests centered on theoretical studies of the formation, evolution, and population synthesis of binary systems containing collapsed stars.
+L585: ### cite152†Robert Redwine L586: 
+L587: Professor of Physics, Emeritus (1979-2021)
+L588: 
+L589: Study of Fundamental Symmetries, especially as how they relate to the Standard Model of Nuclear and Particle Physics
+L590: 
+L591: ### cite153†Gunther Roland L592: 
+L593: Professor of Physics
+L594: Division Head, Experimental Nuclear and Particle Physics
+L595: 
+L596: Studies emergent properties of strongly interacting matter under extreme conditions, such as those achieved in high energy nuclear collisions.
+L597: ### cite154†Lawrence Rosenson L598: 
+L599: Professor of Physics, Emeritus (1961-2001)
+L600: 
+L601: Famously co-led neutrino scattering experiments at Fermilab that helped validate the Standard Model.
+L602: 
+L603: ### cite155†Brooke Russell L604: 
+L605: Assistant Professor of Physics
+L606: 
+L607: Research focuses on massive neutrinos, their properties, interactions, and implications for beyond the Standard Model physics.
+L608: ### cite156†Paul Schechter L609: 
+L610: William A. M. Burden Professor of Astrophysics, Emeritus (1988-2017)
+L611: 
+L612: Worked on "strong" gravitational lenses that produce four distinct images of a single background quasar or supernova.
+L613: 
+L614: ### cite157†Sara Seager L615: 
+L616: Professor of Physics, Emerita (2006-2026)
+L617: Class of 1941 Professor of Planetary Science, Emerita
+L618: 
+L619: Current research interests are focused upon exoplanet atmospheres, interiors, and signs of life by way of exoplanet atmospheric biosignature gases.
+L620: ### cite158†Phiala Shanahan L621: 
+L622: Professor of Physics
+L623: 
+L624: Research focuses on particle and nuclear theory and applying machine learning to understand the fundamental interactions of nature.
+L625: 
+L626: ### cite159†Shu-Heng Shao L627: 
+L628: Assistant Professor of Physics
+L629: 
+L630: Focuses on generalizing the symmetry principle in quantum field theories and lattice models, with applications in HEP, CMT, and quantum gravity.
+L631: ### cite160†Robert Simcoe L632: 
+L633: Bruno B. Rossi Professor of Experimental Physics
+L634: Director, MIT Kavli Institute for Astrophysics and Space Research
+L635: 
+L636: Studies formation of the earliest stars and galaxies by constructing custom built spectrometers for major astronomical observatories.
+L637: ### cite161†Tracy Slatyer L638: 
+L639: Professor of Physics
+L640: Director, MIT Center for Theoretical Physics -- a Leinweber Institute (CTP-LI)
+L641: 
+L642: Research focuses on dark matter - novel theoretical models, predicting observable signals, and analysis of astrophysical and cosmological datasets.
+L643: 
+L644: ### cite162†Eluned Smith L645: 
+L646: Assistant Professor of Physics
+L647: 
+L648: Studies rare beauty decays at LHCb, fast machine learning on radiation-hard FPGAs, and flavour physics with the proposed FCC-ee collider.
+L649: ### cite163†Marin Soljačić L650: 
+L651: Cecil and Ida Green Professor of Physics
+L652: 
+L653: Focuses on nanophotonics, and on intersections between AI and Physics.
+L654: 
+L655: ### cite164†Iain Stewart L656: 
+L657: Otto (1939) and Jane Morningstar Professor of Science
+L658: 
+L659: Designs and applies Effective Field Theories to describe physics at collider experiments and to explore the structure of quantum field theory.
+L660: 
+L661: ### cite165†Julien Tailleur L662: 
+L663: Professor of Physics
+L664: 
+L665: Works on non-equilibrium systems, active matter and their biophysical applications.
+L666: ### cite166†Washington Taylor L667: 
+L668: Herman Feshbach (1942) Professor of Physics
+L669: 
+L670: Research is centered on basic theoretical questions related to quantum physics and gravity.
+L671: 
+L672: ### cite167†Max Tegmark L673: 
+L674: Professor of Physics
+L675: 
+L676: Research focuses on linking physics and machine learning: using AI for physics and physics for AI.
+L677: ### cite168†Jesse Thaler L678: 
+L679: William and Emma Rogers Professor of Physics
+L680: Director, Laboratory for Nuclear Science
+L681: 
+L682: Theoretical particle physicist who fuses techniques from QFT and machine learning to address outstanding questions in fundamental physics.
+L683: 
+L684: ### cite169†Samuel C.C. Ting L685: 
+L686: Thomas Dudley Cabot Professor of Physics
+L687: 1976 Nobel Laureate
+L688: 
+L689: Awarded Nobel Prize in Physics in 1976, which he shared with Burton Richter, for the discovery of the J/ψ meson nuclear particle.
+L690: ### cite170†Senthil Todadri L691: 
+L692: William and Emma Rogers Professor of Physics
+L693: 
+L694: Interested in novel phases and phase transitions of quantum matter that are beyond the paradigms of Fermi liquid theory and/or broken symmetry.
+L695: 
+L696: ### cite171†Salvatore Vitale L697: 
+L698: Associate Professor of Physics
+L699: 
+L700: Focuses on data analysis for gravitational waves signals detected with the LIGO instruments.
+L701: ### cite172†Mark Vogelsberger L702: 
+L703: Professor of Physics
+L704: 
+L705: Uses of high-performance supercomputers to study structure and galaxy formation, dark matter physics, and large-scale hydrodynamical simulations.
+L706: 
+L707: ### cite173†Vladan Vuletić L708: 
+L709: Lester Wolfe Professor of Physics
+L710: 
+L711: Professor Vuletic's research includes precision measurements, large-scale quantum entanglement, quantum optics, quantum simulation and computing.
+L712: ### cite174†Xiao-Gang Wen L713: 
+L714: Cecil and Ida Green Professor of Physics
+L715: 
+

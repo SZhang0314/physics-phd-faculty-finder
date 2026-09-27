@@ -1,0 +1,655 @@
+www.pa.ucla.edu (https://www.pa.ucla.edu/faculty.html)
+citeturn94view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn93search6","lineno":null}); Total lines: 845
+L0: # UCLA Physics & Astronomy
+L1: 
+L2:   * cite0†About L3: 
+L4: cite1†Admit Video cite2†APS video tour of Physics & Astronomy†youtu.be cite3†Annual Reports cite4†Diversity cite5†Employment cite6†Julian Schwinger Fellowship†www.schwingerfellowship.pa.ucla.edu cite7†Visiting the Department L5: 
+L6:   * cite0†Education L7: 
+L8: cite8†Undergraduate cite9†Graduate students cite10†BruinLearn, UCLA's new LMS†bruinlearn.ucla.edu cite11†Physics PhD Bridge Program cite12†REU program cite13†Quantum master program†qst.ucla.edu cite14†Commencement Program L9: 
+L10:   * cite0†People L11: cite15†Faculty cite16†Affiliated Faculty cite17†Researchers, Project Scientists, Adjuncts cite18†Lecturers cite19†Postdoctoral Scholars cite20†Graduate Students cite21†Staff cite22†Memorials L12: ## Resources
+L13: 
+L14:   * cite15†Faculty L15:   * cite16†Affiliated Faculty L16:   * cite18†Lecturers L17:   * cite19†Postdoctoral Scholars L18:   * cite17†Researchers, Project Scientists, & Adjuncts L19:   * cite20†Graduate Students L20:   * cite21†Staff L21: 
+L22: ## Faculty
+L23: 
+L24: cite23†Image: Paulo-Alves L25: 
+L26: ##### Paulo Alves
+L27: 
+L28: Associate Professor
+L29: Plasma
+L30: Office: PAB 4-909
+L31: Phone: 310-825-5574
+L32: Email:
+L33: cite24†Website†picksc.physics.ucla.edu L34: cite25†Image: Katsushi-Arisaka L35: ##### Katsushi Arisaka
+L36: 
+L37: Distinguished Professor
+L38: High Energy, Astroparticle, and Neurophysics
+L39: Office: Knudsen 4-146
+L40: Phone: 310-825-4925
+L41: Email:
+L42: cite26†Website†home.physics.ucla.edu L43: cite27†Image: Michalis-Bachtis L44: 
+L45: ##### Michalis Bachtis
+L46: 
+L47: Professor
+L48: Experimental Particle Physics
+L49: Office: Knudsen 4-107F
+L50: Phone: 310-825-3471
+L51: Email:
+L52: cite28†Website L53: cite29†Image: Eric-Becklin L54: 
+L55: ##### Eric Becklin
+L56: 
+L57: Professor Emeritus
+L58: Experimental Astrophysics
+L59: Office: PAB 3-429
+L60: Phone: 310-206-0208
+L61: Email:
+L62: cite30†Website L63: cite31†Image: Zvi-Bern L64: ##### Zvi Bern
+L65: 
+L66: Distinguished Professor
+L67: Director, Mani L. Bhaumik Institute for Theoretical Physics
+L68: Office: PAB 4-925
+L69: Phone: 310-825-8528
+L70: Email:
+L71: cite32†Website†bhaumik-institute.physics.ucla.edu L72: cite33†Image: Dolores-Bozovic L73: 
+L74: ##### Dolores Bozovic
+L75: 
+L76: Professor
+L77: Biophysics
+L78: Office: Knudsen 3-112
+L79: Phone: 310-825-6176
+L80: Email:
+L81: cite34†Website†bozoviclab.physics.ucla.edu L82: cite35†Image: Stuart-Brown L83: ##### Stuart Brown
+L84: 
+L85: Distinguished Professor, Chair
+L86: Condensed Matter
+L87: Office: PAB 2-707B, Knudsen 6-130G
+L88: Phone: 310-825-3440, 310-825-4234
+L89: Email:
+L90: cite36†Website L91: cite37†Image: Robijn-Bruinsma L92: 
+L93: ##### Robijn Bruinsma
+L94: 
+L95: Professor Emeritus
+L96: Condensed Matter
+L97: Office: Knudsen 3-112
+L98: Phone: 310-825-8539
+L99: Email:
+L100: cite38†Website L101: cite39†Image: Charles-Buchanan L102: 
+L103: ##### Charles Buchanan
+L104: 
+L105: Professor Emeritus
+L106: Experimental Particle Physics
+L107: Office: Knudsen 4-145N
+L108: Phone: 310-825-7466
+L109: Email:
+L110: cite40†Website L111: cite41†Image: Wes-Campbell L112: ##### Wes Campbell
+L113: 
+L114: Professor
+L115: AMO
+L116: Office: PAB 4-337
+L117: Phone: 310-825-1088
+L118: Email:
+L119: cite42†Website†campbellgroup.physics.ucla.edu L120: cite43†Image: Troy-Carter L121: 
+L122: ##### Troy Carter
+L123: 
+L124: Professor Emeritus
+L125: Plasma
+L126: Office: PAB 4-909
+L127: Phone: 310-825-4770
+L128: Email:
+L129: cite44†Website†www.physics.ucla.edu L130: cite45†Image: Sudip-Chakravarty L131: 
+L132: ##### Sudip Chakravarty
+L133: 
+L134: Professor Emeritus
+L135: Condensed Matter Theory
+L136: Office: Knudsen 6-137A
+L137: Phone: 310-825-4974
+L138: Email:
+L139: cite46†Website L140: cite47†Image: John-Cornwall L141: ##### John Cornwall
+L142: 
+L143: Professor Emeritus
+L144: TEP
+L145: Email:
+L146: cite48†Website L147: cite49†Image: Ferdinand-Coroniti L148: 
+L149: ##### Ferdinand Coroniti
+L150: 
+L151: Professor Emeritus
+L152: Theoretical Space Plasma
+L153: Office: PAB 3-919
+L154: Phone: 310-825-3923
+L155: Email:
+L156: cite50†Website L157: cite51†Image: Robert-Cousins L158: 
+L159: ##### Robert Cousins
+L160: 
+L161: Professor Emeritus
+L162: Experimental Particle Physics
+L163: Office: Knudsen 4-145B
+L164: Phone: 310-825-3471
+L165: Email:
+L166: cite52†Website L167: cite53†Image: Eric-D'Hoker L168: ##### Eric D'Hoker
+L169: 
+L170: Distinguished Research Professor
+L171: Theoretical and Mathematical Physics
+L172: Office: PAB 4-929
+L173: Phone: 310-825-3514
+L174: Email:
+L175: cite54†Website L176: cite55†Image: Tuan-Do L177: 
+L178: ##### Tuan Do
+L179: 
+L180: Associate Professor, Andrea M. Ghez Centennial Term Chair in Astronomy & Astrophysics
+L181: Astronomy
+L182: Office: PAB 3-945
+L183: Phone: 310-794-9466
+L184: Email:
+L185: cite56†Website†astro.ucla.edu L186: cite57†Image: Thomas-Dumitrescu L187: ##### Thomas Dumitrescu
+L188: 
+L189: Associate Professor
+L190: TEP
+L191: Office: PAB 4-939
+L192: Phone: 310-825-3162
+L193: Email:
+L194: cite58†Website L195: cite59†Image: Sergio-Ferrara L196: 
+L197: ##### Sergio Ferrara
+L198: 
+L199: Professor Emeritus
+L200: TEP
+L201: Email:
+L202: cite60†Website L203: cite61†Image: Michael-Fitzgerald L204: 
+L205: ##### Michael Fitzgerald
+L206: 
+L207: Professor
+L208: Astronomy
+L209: Office: PAB 3-949
+L210: Phone: 310-206-7853
+L211: Email:
+L212: cite62†Website†www.astro.ucla.edu L213: cite63†Image: Steven-Furlanetto L214: ##### Steven Furlanetto
+L215: 
+L216: Professor, Vice Chair for Astronomy and Astrophysics
+L217: Astronomy
+L218: Office: PAB 3-720
+L219: Phone: 310-206-4127
+L220: Email:
+L221: cite64†Website†cosmicdawn.astro.ucla.edu L222: cite65†Image: Pradip-Gatkine L223: 
+L224: ##### Pradip Gatkine
+L225: 
+L226: Assistant Professor
+L227: Astronomy
+L228: Office: PAB 3-915
+L229: Phone: 424-259-5573
+L230: Email:
+L231: cite66†Website†gatkine.astro.ucla.edu L232: cite67†Image: Walter-Gekelman L233: ##### Walter Gekelman
+L234: 
+L235: Professor Emeritus
+L236: Experimental Plasma
+L237: Office: 1000 Veteran Ave., 15-70
+L238: Phone: 310-206-1772
+L239: Email:
+L240: cite68†Website L241: cite69†Image: Graciela-Gelmini L242: 
+L243: ##### Graciela Gelmini
+L244: 
+L245: Distinguished Professor
+L246: TEPAPP
+L247: Office: PAB 4-937
+L248: Phone: 310-825-4293
+L249: Email:
+L250: cite70†Website L251: cite71†Image: Andrea-Ghez L252: ##### Andrea Ghez
+L253: 
+L254: Distinguished Professor, Lauren B. Leichtman and Arthur E. Levine Astrophysics Endowed Chair, Astronomy
+L255: Office: PAB 3-911
+L256: Phone: 310-206-0420
+L257: Email:
+L258: cite72†Website†www.astro.ucla.edu L259: cite73†Image: George-Grüner L260: 
+L261: ##### George Grüner
+L262: 
+L263: Professor Emeritus
+L264: Experimental Condensed Matter
+L265: Office: Knudsen 6-130F
+L266: Phone: 310-825-8782
+L267: Email:
+L268: cite74†Website L269: cite75†Image: Christopher-Gutiérrez L270: ##### Christopher Gutiérrez
+L271: 
+L272: Assistant Professor
+L273: Hard Condensed Matter
+L274: Office: 6-130H Knudsen
+L275: Phone: 310-825-0032
+L276: Email:
+L277: cite76†Website†sites.google.com L278: cite77†Image: Michael-Gutperle L279: 
+L280: ##### Michael Gutperle
+L281: 
+L282: Professor
+L283: TEP
+L284: Office: PAB 4-917
+L285: Phone: 310-206-3471
+L286: Email:
+L287: cite78†Website†sites.google.com L288: cite79†Image: Paul-Hamilton L289: 
+L290: ##### Paul Hamilton
+L291: 
+L292: Associate Professor
+L293: Physics & Astronomy - AMO
+L294: Office: PAB 4-431
+L295: Phone: 310-825-7617
+L296: Email:
+L297: cite80†Website†hamiltonlab.physics.ucla.edu L298: cite81†Image: Brad-Hansen L299: ##### Brad Hansen
+L300: 
+L301: Professor
+L302: Astronomy
+L303: Office: PAB 3-913
+L304: Phone: 310-825-5924
+L305: Email:
+L306: cite82†Website†www.astro.ucla.edu L307: cite83†Image: Jay-Hauser L308: 
+L309: ##### Jay Hauser
+L310: 
+L311: Professor Emeritus
+L312: Experimental Particle Physics
+L313: Office: Knudsen 4-154B
+L314: Phone: 310-206-4547
+L315: Email:
+L316: cite84†Website L317: cite85†Image: Karoly-Holczer L318: 
+L319: ##### Karoly Holczer
+L320: 
+L321: Professor
+L322: Condensed Matter
+L323: Office: Knudsen 6-130K
+L324: Phone: 310-825-8542
+L325: Email:
+L326: cite86†Website L327: cite87†Image: Huan-Huang L328: ##### Huan Huang
+L329: 
+L330: Professor
+L331: Experimental QCD and Neutrino Physics
+L332: Office: Knudsen 5-136
+L333: Phone: 310-825-9297
+L334: Email:
+L335: cite88†Website L336: cite89†Image: Eric-Hudson L337: 
+L338: ##### Eric Hudson
+L339: 
+L340: Professor, David Saxon Presidential Term Chair in Physics
+L341: AMO
+L342: Office: PAB 4-429
+L343: Phone: 310-825-5224
+L344: Email:
+L345: cite90†Website†hudsongroup.physics.ucla.edu L346: cite91†Image: Hongwen-Jiang L347: ##### Hongwen Jiang
+L348: 
+L349: Distinguished Professor
+L350: Condensed Matter
+L351: Office: Knudsen 6-130E
+L352: Phone: 310-825-1796
+L353: Email:
+L354: cite92†Website†www.physics.ucla.edu L355: cite93†Image: Alvine Kamaha L356: 
+L357: ##### Alvine Kamaha
+L358: 
+L359: Associate Professor, Keith and Cecilia Terasaki Endowed Chair in Physical Sciences
+L360: Experimental Particle Physics
+L361: Office: Knudsen 4-107b
+L362: Phone: 310-206-4548
+L363: Email:
+L364: cite94†Website L365: cite95†Image: Zhongbo-Kang L366: ##### Zhongbo Kang
+L367: 
+L368: Professor
+L369: QCD and Nuclear Theory
+L370: Office: Knudsen 5-114
+L371: Phone: 424-259-5848
+L372: Email:
+L373: cite96†Website†kang-research-group.physics.ucla.edu L374: cite97†Image: Anshul-Kogar L375: 
+L376: ##### Anshul Kogar
+L377: 
+L378: Associate Professor
+L379: Condensed Matter
+L380: Office: Knudsen 6-130N
+L381: Phone: 310-825-4079
+L382: Email:
+L383: cite98†Website†kogargroup.physics.ucla.edu L384: cite99†Image: Per-Kraus L385: 
+L386: ##### Per Kraus
+L387: 
+L388: Professor, Vice Chair of Academic Affairs
+L389: TEP
+L390: Office: PAB 4-931
+L391: Phone: 310-794-5386
+L392: Email:
+L393: cite100†Website L394: cite101†Image: Alexander-Kusenko L395: ##### Alexander Kusenko
+L396: 
+L397: Distinguished Professor
+L398: TEPAPP
+L399: Office: PAB 4-915
+L400: Phone: 970-587-3656
+L401: Email:
+L402: cite102†Website†kusenko.physics.ucla.edu L403: cite103†Image: James-Larkin L404: 
+L405: ##### James Larkin
+L406: 
+L407: Professor
+L408: Astronomy
+L409: Office: PAB 3-937
+L410: Phone: 310-825-9790
+L411: Email:
+L412: cite104†Website†www.astro.ucla.edu L413: cite105†Image: David-Leibrandt L414: 
+L415: ##### David Leibrandt
+L416: 
+L417: Professor
+L418: AMO
+L419: Office: PAB 4-339
+L420: Phone: 310-825-7043
+L421: Email:
+L422: cite106†Website†leibrandtgroup.physics.ucla.edu L423: cite107†Image: Matthew-Malkan L424: ##### Matthew Malkan
+L425: 
+L426: Distinguished Professor
+L427: Astronomy
+L428: Office: PAB 3-714
+L429: Phone: 310-825-3404
+L430: Email:
+L431: cite108†Website†www.astro.ucla.edu L432: cite109†Image: Ian-McLean L433: 
+L434: ##### Ian McLean
+L435: 
+L436: Professor Emeritus
+L437: Astronomy
+L438: Office: PAB 3-939
+L439: Phone: 310-825-1140
+L440: Email:
+L441: cite110†Website†irlab.astro.ucla.edu L442: cite111†Image: Mayank-Mehta L443: 
+L444: ##### Mayank Mehta
+L445: 
+L446: Professor
+L447: Neurophysics, Neurology
+L448: Office: Knudsen 5-146
+L449: Phone: 310-267-4653br
+L450: Email:
+L451: cite112†Website†mayank.pa.ucla.edu L452: cite113†Image: Jianwei-(John)-Miao L453: ##### Jianwei (John) Miao
+L454: 
+L455: Professor
+L456: Coherent Imaging Group at UCLA
+L457: Office: Knudsen 3-108
+L458: Phone: 310-206-2645
+L459: Email:
+L460: cite114†Website L461: cite115†Image: George-Morales L462: 
+L463: ##### George Morales
+L464: 
+L465: Professor Emeritus
+L466: Theoretical Plasma
+L467: Office: PAB 4-911
+L468: Phone: 310-825-4318
+L469: Email:
+L470: cite116†Website L471: cite117†Image: Warren-Mori L472: 
+L473: ##### Warren Mori
+L474: 
+L475: Professor Emeritus
+L476: Plasma, Electrical Engineering
+L477: Office: PAB 4-913
+L478: Phone: 310-206-0372
+L479: Email:
+L480: cite118†Website L481: cite119†Image: Mark-Morris L482: ##### Mark Morris
+L483: 
+L484: Professor Emeritus
+L485: Astronomy
+L486: Office: PAB 3-917
+L487: Phone: 310-825-3320
+L488: Email:
+L489: cite120†Website†astro.ucla.edu L490: cite121†Image: Pietro-Musumeci L491: 
+L492: ##### Pietro Musumeci
+L493: 
+L494: Professor, Vice Chair of Resources
+L495: Accelerator Physics
+L496: Office: Knudsen 3-164
+L497: Phone: 310-206-9164
+L498: Email:
+L499: cite122†Website L500: cite123†Image: Smadar-Naoz L501: 
+L502: ##### Smadar Naoz | She/Her
+L503: 
+L504: Professor, Howard and Astrid Preston Chair in Astrophysics
+L505: Office: PAB 3-907
+L506: Phone: 310-825-3648
+L507: Email:
+L508: cite124†Website†snaoz.astro.ucla.edu L509: cite125†Image: Ni-Ni L510: ##### Ni Ni
+L511: 
+L512: Professor
+L513: Condensed Matter
+L514: Office: Knudsen 6-130L
+L515: Phone: 310-825-3373
+L516: Email:
+L517: cite126†Website†nilab.physics.ucla.edu L518: cite127†Image: Christoph-Niemann L519: 
+L520: ##### Christoph Niemann
+L521: 
+L522: Professor
+L523: Plasma Physics
+L524: Office: PAB 4-724
+L525: Phone: 310-825-1301
+L526: Email:
+L527: cite128†Website†hedp.physics.ucla.edu L528: cite129†Image: Rene-Ong L529: ##### Rene Ong
+L530: 
+L531: Distinguished Professor
+L532: Astronomy and Experimental Particle Physics
+L533: Office: Knudsen 4-154A
+L534: Phone: 310-825-3622
+L535: Email:
+L536: cite130†Website†rene-ong-homepage.astro.ucla.edu L537: cite131†Image: C. Kumar-Patel L538: 
+L539: ##### C. Kumar Patel
+L540: 
+L541: Professor Emeritus
+L542: Condensed Matter
+L543: Email:
+L544: cite132†Website L545: cite133†Image: Claudio-Pellegrini L546: 
+L547: ##### Claudio Pellegrini
+L548: 
+L549: Professor Emeritus
+L550: Accelerator Physics
+L551: Office: Knudsen 3-174
+L552: Phone: 310-206-1677
+L553: Email:
+L554: cite134†Website L555: cite135†Image: Erik-Petigura L556: ##### Erik Petigura
+L557: 
+L558: Associate Professor
+L559: Astronomy
+L560: Office: PAB 3-919
+L561: Phone: 310-825-6446
+L562: Email:
+L563: cite136†Website L564: cite137†Image: Jason-Petta L565: 
+L566: ##### Jason Petta
+L567: 
+L568: Distinguished Professor
+L569: Condensed Matter Experiment
+L570: Office: PAB 4-443
+L571: Phone: 310-825-0481
+L572: Email:
+L573: cite138†Image: Seth-Putterman L574: 
+L575: ##### Seth Putterman
+L576: 
+L577: Distinguished Professor
+L578: Condensed Matter/A
+L579: Office: Knudsen 2-234
+L580: Phone: 310-825-2269
+L581: Email:
+L582: cite139†Website†acoustics-research.physics.ucla.edu L583: cite140†Image: B.C.-Regan L584: ##### B.C. Regan
+L585: 
+L586: Professor
+L587: Condensed Matter
+L588: Office: PAB 4-425
+L589: Phone: 310-206-3684
+L590: Email:
+L591: cite141†Website†regangroup.physics.ucla.edu L592: cite142†Image: James-Rosenzweig L593: 
+L594: ##### James Rosenzweig
+L595: 
+L596: Distinguished Professor
+L597: Accelerator Physics
+L598: Office: Knudsen 3-174A
+L599: Phone: 310-206-4541
+L600: Email:
+L601: cite143†Website†pbpl.physics.ucla.edu L602: cite144†Image: Rahul-Roy L603: 
+L604: ##### Rahul Roy
+L605: 
+L606: Professor
+L607: Condensed Matter
+L608: Office: Knudsen 6-130M
+L609: Phone: 310-825-4444
+L610: Email:
+L611: cite145†Website†cmt-roy.physics.ucla.edu L612: cite146†Image: Joseph-Rudnick L613: ##### Joseph Rudnick
+L614: 
+L615: Professor Emeritus
+L616: Condensed Matter
+L617: Office: Knudsen 2-240C
+L618: Phone: 310-825-8535
+L619: Email:
+L620: cite147†Website L621: cite148†Image: David-Saltzberg L622: 
+L623: ##### David Saltzberg
+L624: 
+L625: Distinguished Professor
+L626: Experimental Particle Physics
+L627: Office: Knudsen 4-107C
+L628: Email:
+L629: cite149†Website†www.physics.ucla.edu L630: cite150†Image: Joshua-Samani L631: 
+L632: ##### Joshua Samani
+L633: 
+L634: Associate Teaching Professor
+L635: Office: PAB 1-707K
+L636: Phone: 310-825-8522
+L637: Email:
+L638: cite151†Website†www.joshphysics.com L639: cite152†Image: Derek-Schaeffer L640: ##### Derek Schaeffer
+L641: 
+L642: Associate Professor
+L643: Plasma
+L644: Office: PAB 4-712
+L645: Phone: 310-825-3471
+L646: Email:
+L647: cite153†Website†www.physics.ucla.edu L648: cite154†Image: Alice-Shapley L649: 
+L650: ##### Alice Shapley
+L651: 
+L652: Professor
+L653: Astronomy
+L654: Office: PAB 3-931
+L655: Phone: 310-206-3768
+L656: Email:
+L657: cite155†Website†www.astro.ucla.edu L658: cite156†Image: Qianhui-Shi L659: 
+L660: ##### Qianhui Shi
+L661: 
+L662: Assistant Professor
+L663: Condensed Matter
+L664: Office Knudsen - 6-137B
+L665: Phone: 310-825-6260
+L666: Email:
+L667: cite157†Image: Mikhail-Solon L668: ##### Mikhail Solon
+L669: 
+L670: Associate Professor
+L671: Theoretical Elementary Particle Physics
+L672: Office: 4-923 PAB
+L673: Phone: 310-825-5574
+L674: Email:
+L675: cite158†Website L676: cite159†Image: Ryan-Thorngren L677: 
+L678: ##### Ryan Thorngren
+L679: 
+L680: Assistant Professor
+L681: Mani L. Bhaumi, Presidential Endowed Chair in Theoretical Physics
+L682: Condensed Matter
+L683: Office: Knudsen 6-137C
+L684: Phone: 310-825-3471
+L685: Email:
+L686: cite160†Image: Terry-Tomboulis L687: ##### Terry Tomboulis
+L688: 
+L689: Professor Emeritus
+L690: TEP, TEPAPP
+L691: Office: PAB 4-919
+L692: Phone: 310-825-4674
+L693: Email:
+L694: cite161†Website L695: cite162†Image: Tommaso-Treu L696: 
+L697: ##### Tommaso Treu
+L698: 
+L699: Distinguished Professor
+L700: Astronomy
+L701: Office: PAB 3-718
+L702: Phone: 310-206-5617
+L703: Email:
+L704: cite163†Website†www.astro.ucla.edu L705: cite164†Image: Yaroslav-Tserkovnyak L706: 
+L707: ##### Yaroslav Tserkovnyak
+L708: 
+L709: Professor
+L710: Condensed Matter
+L711: Office: Knudsen 6-130J
+L712: Phone: 310-794-9520
+L713: Email:
+L714: cite165†Website†sites.google.com L715: cite166†Image: Jean-Turner L716: ##### Jean Turner
+L717: 
+L718: Professor Emeritus
+L719: Astronomy
+L720: Office: PAB 3-941
+L721: Phone: 310-825-4305
+L722: Email:
+L723: cite167†Website†astro.ucla.edu L724: cite168†Image: Roger-Ulrich L725: 
+L726: ##### Roger Ulrich
+L727: 
+L728: Professor Emeritus
+L729: Astronomy
+L730: Office: PAB 3-431
+L731: Phone: 310-825-4270
+L732: Email:
+L733: cite169†Website†www.astro.ucla.edu L734: cite170†Image: Vladimir-Vassiliev L735: 
+L736: ##### Vladimir Vassiliev
+L737: 
+L738: Professor
+L739: Astronomy
+L740: Office: PAB 3-923
+L741: Phone: 310-825-3216
+L742: Email:
+L743: cite171†Website†www.astro.ucla.edu L744: cite172†Image: Shenshen-Wang L745: ##### Shenshen Wang
+L746: 
+L747: Associate Professor
+L748: Theoretical Biophysics/Soft Condensed Matter
+L749: Office: Knudsen 3-128
+L750: Phone: 310-825-8562
+L751: Email:
+L752: cite173†Website†shenshen-wang-group.physics.ucla.edu L753: cite174†Image: Gary-Williams L754: 
+L755: ##### Gary Williams
+L756: 
+L757: Professor Emeritus
+L758: Condensed Matter
+L759: Office: Knudsen 2-164
+L760: Phone: 310-825-8536
+L761: Email:
+L762: cite175†Website†gaw.bol.ucla.edu L763: cite176†Image: Chun-Wa-Wong L764: ##### Chun Wa Wong
+L765: 
+L766: Professor Emeritus
+L767: Nuclear Physics
+L768: Office: Knudsen 3-140
+L769: Phone: 310-825-3716
+L770: Email:
+L771: cite177†Website L772: cite178†Image: Alfred-Wong L773: 
+L774: ##### Alfred Wong
+L775: 
+L776: Professor Emeritus
+L777: Plasma Physics
+L778: Office: Knudsen 4-145N
+L779: Email:
+L780: cite179†Image: Edward-Wright L781: 
+L782: ##### Edward Wright
+L783: 
+L784: Professor Emeritus
+L785: Astronomy
+L786: Office: PAB 3-909
+L787: Phone: 310-825-5755
+L788: Email:
+L789: cite180†Website†www.astro.ucla.edu L790: cite181†Image: Young-Dae-Yoon L791: ##### Young Dae Yoon
+L792: 
+L793: Assistant Professor
+L794: Plasma
+L795: Office: PAB: 4-714
+L796: Phone: 424-259-5073
+L797: Email:
+L798: cite182†Website†yoonplasmagroup.com L799: cite183†Image: Giovanni-Zocchi L800: 
+L801: ##### Giovanni Zocchi
+L802: 
+L803: Professor
+L804: Biophysics
+L805: Office: Knudsen 3-124, Lab: PAB A-425/429
+L806: Email:
+L807: cite184†Website†zocchi.physics.ucla.edu L808: cite185†Image: Benjamin-Zuckerman L809: ##### Benjamin Zuckerman
+L810: 
+L811: Professor Emeritus
+L812: Astronomy
+L813: Office: PAB 3-929
+L814: Phone: 310-825-9338
+L815: Email:
+L816: cite186†Website†astro.ucla.edu L817: 
+L818: * * *
+L819: 
+L820: UCLA Physics & Astronomy Department
+L821: Copyright © UCLA Physics & Astronomy
+L822: 475 Portola Plaza, Los Angeles, CA 90095-1547
+L823: 310-825-3440
+L824: 
+L825:   * cite187†Contact Physics & Astronomy L826: 
+L827: ABOUT UCLA
+L828:   * cite188†UCLA Home†www.ucla.edu L829:   * cite189†Division of Physical Sciences†www.physicalsciences.ucla.edu L830:   * cite190†UCLA COVID-19 Resources†covid-19.ucla.edu L831:   * cite191†Maps, directions, and parking†admission.ucla.edu L832: 
+L833: RESOURCES
+L834:   * cite10†BruinLearn†bruinlearn.ucla.edu L835:   * cite192†Instructional Support L836:   * cite193†Diversity L837:   * cite194†Wellness L838:   * cite195†COVID L839:   * cite196†Computing and IT Support†computing.pa.ucla.edu L840:   * cite197†Machine Shop and Instrument Fabrication Facility†machine-shop.pa.ucla.edu L841:   * cite198†Research Store L842:   * cite199†Physics & Astronomy Administration L843:   * cite200†Demoweb: Lecture demonstration†demoweb.physics.ucla.edu L844:   * cite201†Demoweb: Lab manuals†demoweb.physics.ucla.edu 

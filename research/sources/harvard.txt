@@ -1,0 +1,234 @@
+Faculty | Department of Physics (https://www.physics.harvard.edu/people/faculty)
+citeturn45view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.physics.harvard.edu/people/faculty","lineno":null}); Total lines: 386
+L0: cite0†iframe†www.googletagmanager.com cite1†iframe†www.googletagmanager.com L1: 
+L2: menu close Menu
+L3: 
+L4: [Input]
+L5: 
+L6: Search search [Input] [Input]
+L7: 
+L8:   * cite2†Anonymous Feedback to the Chair†harvard.az1.qualtrics.com L9: 
+L10:   * cite3†About About expand_more
+L11: 
+L12:     * cite4†Quick Links L13:     * cite5†Contact & Directions L14:     * cite6†Current Job Offerings L15:     * cite7†History of the Department L16:     * cite8†Nobel Laureates L17:     * cite9†Physics Newsletter L18:   * cite10†Academics Academics expand_more
+L19:     * cite11†Academic Calendar†registrar.fas.harvard.edu L20:     * cite12†Course Catalog (my.harvard)†my.harvard.edu L21:     * cite13†Graduate Studies L22:     * cite14†Undergraduate Studies L23:     * cite15†Tax Information†www.hio.harvard.edu L24:     * cite16†Job Opportunities for Physicists L25:     * cite17†Student Awards L26:   * cite18†Research Research expand_more
+L27:     * cite19†Faculty by Research Area L28:     * cite20†Research Centers L29:     * cite21†Resources for Research Scholars L30:     * cite22†Scientific Ethics and Professional Integrity L31:   * cite23†People People expand_more
+L32: 
+L33:     * cite24†Faculty L34:     * cite25†Research Scholars L35:     * cite26†Staff L36:     * cite27†Staff Schedule L37:     * cite28†Harvard Directory Search†www.directory.harvard.edu L38:   * cite29†Resources Resources expand_more
+L39:     * cite30†Building Services FAQs L40:     * cite31†Computer Support (HUIT)†huit.harvard.edu L41:     * cite32†Connectivity and Collaboration Resources L42:     * cite33†Electronic Instrument Design Lab L43:     * cite34†Equity & Inclusion†equityinclusion.physics.harvard.edu L44:     * cite35†Fabrication Machine Shop L45:     * cite36†Instructional Machine Shop L46:     * cite37†Instructional Physics Labs†projects.iq.harvard.edu L47:     * cite38†FAS RoomBook†roombook.fas.harvard.edu L48:     * cite39†Science Center Fabrication Lab†projects.iq.harvard.edu L49:     * cite40†Lactation/Parenting Room L50:     * cite41†Library Resources†library.harvard.edu L51:     * cite42†Physics Online Information Resources L52:     * cite43†Physics Reading Room L53:     * cite44†Women in Physics†women.physics.harvard.edu L54:   * cite45†News/Events News/Events expand_more
+L55:     * cite46†Physics Event Calendar L56:     * cite47†Loeb and Lee Lectures L57:     * cite48†Physics Monday Colloquium L58:     * cite49†Harvard-MIT SPS Chilloquium L59:     * cite50†Faculty Awards L60:     * cite51†Harvard Science Book Talks†science.fas.harvard.edu L61:   * cite52†Support our Department†community.alumni.harvard.edu L62: cite52†Support our Department†community.alumni.harvard.edu L63: # Faculty
+L64: ## cite23†People L65: 
+L66: People expand_more
+L67: 
+L68:   * cite24†Faculty L69: 
+L70:   * cite25†Research Scholars L71: 
+L72:   * cite26†Staff Staff expand_more
+L73: 
+L74:     * cite53†Administration & Finance Directory L75: 
+L76:     * cite54†Faculty Assistants/Lab Administrators L77: 
+L78:     * cite55†Staff Directory (internal)†hu.sharepoint.com L79: 
+L80:   * cite27†Staff Schedule L81: 
+L82:   * cite28†Harvard Directory Search†www.directory.harvard.edu L83: 
+L84: cite56†Aravinthan Samuel L85: 
+L86: Chair, Department of Physics; Professor of Physics
+L87: 
+L88: cite57†Image: Aravi Samuel L89: 
+L90: cite58†Stephen J. Adams L91: 
+L92: Preceptor in Physics
+L93: cite59†Image: Dr. Stephen Adams headshot L94: 
+L95: cite60†Carlos Argüelles-Delgado L96: 
+L97: Associate Professor of Physics
+L98: 
+L99: cite61†Image: portrait of Prof. Arguelles-Delgado L100: 
+L101: cite62†Jacob A. Barandes L102: 
+L103: Senior Preceptor in Physics; Associated Faculty in Philosophy
+L104: 
+L105: cite63†Image: Jacob Barandes headshot L106: 
+L107: cite64†Isaac Barnhill L108: 
+L109: Preceptor in Physics
+L110: 
+L111: cite65†Image: Isaac Barnhill headshot L112: 
+L113: cite66†Michael P. Brenner L114: 
+L115: Michael F. Cronin Professor of Applied Mathematics and Applied Physics and Professor of Physics
+L116: 
+L117: cite67†Image: Michael Brenner L118: cite68†SueYeon Chung L119: 
+L120: Assistant Professor of Physics and of Applied Mathematics
+L121: 
+L122: cite69†Image: headshot of SueYeon Chung L123: 
+L124: cite70†Adam E. Cohen L125: 
+L126: John P. Reardon, Jr., Professor of Chemistry and Chemical Biology and of Physics
+L127: 
+L128: cite71†Image: Adam Cohen L129: 
+L130: cite72†Jordan Cotler L131: 
+L132: Assistant Professor of Physics
+L133: 
+L134: cite73†Image: Prof. Jordan Cotler L135: 
+L136: cite74†Michael M. Desai L137: 
+L138: Professor of Organismic and Evolutionary Biology and of Physics
+L139: 
+L140: cite75†Image: Michael Desai L141: 
+L142: cite76†Louis Deslauriers L143: Director of Science Teaching and Learning in the FAS; Senior Preceptor in Physics
+L144: 
+L145: cite77†Image: Louis Deslauriers L146: 
+L147: cite78†John M. Doyle L148: 
+L149: Henry B. Silsbee Professor of Physics; Co-Director of the Quantum Science and Engineering Ph.D. Program
+L150: 
+L151: cite79†Image: Prof. John Doyle headshot L152: 
+L153: cite80†Cora Dvorkin L154: 
+L155: Professor of Physics
+L156: 
+L157: cite81†Image: Cora Dvorkin L158: 
+L159: cite82†Xing Fan L160: 
+L161: Assistant Professor of Physics
+L162: 
+L163: cite83†Image: Prof. Xing Fan portrait L164: 
+L165: cite84†Gary J. Feldman L166: 
+L167: Frank B. Baird, Jr., Professor of Science, Emeritus
+L168: cite85†Image: Prof. Gary Feldman photo L169: 
+L170: cite86†Douglas Finkbeiner L171: 
+L172: Professor of Astronomy and of Physics
+L173: 
+L174: cite87†Image: Douglas Finkbeiner L175: 
+L176: cite88†Melissa Franklin L177: 
+L178: Mallinckrodt Professor of Physics
+L179: 
+L180: cite89†Image: Melissa Franklin L181: 
+L182: cite90†Gerald Gabrielse L183: 
+L184: George Vasmer Leverett Professor of Physics, Emeritus
+L185: 
+L186: cite91†Image: Gerald Gabrielse L187: 
+L188: cite92†Peter L. Galison L189: 
+L190: Joseph Pellegrino University Professor
+L191: 
+L192: Director, Collection of Historical Scientific Instruments
+L193: 
+L194: cite93†Image: Peter Galison L195: 
+L196: cite94†Howard Georgi L197: Mallinckrodt Professor of Physics, Emeritus
+L198: 
+L199: cite95†Image: Howard Georgie L200: 
+L201: cite96†Sheldon L. Glashow L202: 
+L203: Higgins Professor of Physics, Emeritus
+L204: 
+L205: cite97†Image: Sheldon Glashow L206: 
+L207: cite98†Markus Greiner L208: 
+L209: George Vasmer Leverett Professor of Physics
+L210: 
+L211: cite99†Image: Markus Greiner L212: 
+L213: cite100†Girma Hailu L214: 
+L215: Senior Preceptor in Physics
+L216: 
+L217: cite101†Image: Girma Hailu L218: 
+L219: cite102†Bertrand I. Halperin L220: 
+L221: Hollis Professor of Mathematicks and Natural Philosophy, Emeritus
+L222: 
+L223: cite103†Image: Bertrand Halperin L224: 
+L225: cite104†Lene V. Hau L226: Mallinckrodt Professor of Physics and of Applied Physics
+L227: 
+L228: cite105†Image: Prof. Lene V. Hau headshot L229: 
+L230: cite106†Eric Heller L231: 
+L232: Abbott and James Lawrence Professor of Chemistry and Professor of Physics
+L233: 
+L234: (Accepting Graduate Students)
+L235: 
+L236: cite107†Image: Headshot of Professor Eric Heller L237: 
+L238: cite108†Jenny Hoffman L239: 
+L240: Clowes Professor of Science
+L241: 
+L242: cite109†Image: Jenny Hoffman L243: 
+L244: cite110†Gerald Holton L245: 
+L246: Mallinckrodt Professor of Physics and Professor of the History of Science, Emeritus
+L247: 
+L248: cite111†Image: Gerald Holton L249: 
+L250: cite112†Paul Horowitz L251: Professor of Physics and of Electrical Engineering, Emeritus
+L252: 
+L253: cite113†Image: Paul Horowitz L254: 
+L255: cite114†John Huth L256: 
+L257: Donner Professor of Science, Director of Graduate Studies
+L258: 
+L259: cite115†Image: John Huth L260: 
+L261: cite116†Arthur M. Jaffe L262: 
+L263: Landon T. Clay Professor of Mathematics and Theoretical Science
+L264: 
+L265: cite117†Image: Arthur Jaffe L266: 
+L267: cite118†Daniel L. Jafferis L268: 
+L269: Professor of Physics
+L270: 
+L271: cite119†Image: Daniel Jafferis L272: 
+L273: cite120†Efthimios Kaxiras L274: 
+L275: John Hasbrouck Van Vleck Professor of Pure and Applied Physics
+L276: 
+L277: cite121†Image: Efthimios Kaxiras L278: cite122†Gregory Kestin L279: 
+L280: Associate Director of Science Education
+L281: 
+L282: Lecturer on Physics
+L283: 
+L284: cite123†Image: Greg Kestin headshot L285: 
+L286: cite124†Eslam Khalaf L287: 
+L288: Assistant Professor of Physics
+L289: 
+L290: cite125†Image: Headshot of Professor Eslam Khalaf L291: 
+L292: cite126†Philip Kim L293: 
+L294: Professor of Physics and of Applied Physics
+L295: 
+L296: cite127†Image: Prof. Philip Kim L297: 
+L298: cite128†Anna Klales L299: 
+L300: Associate Director of Undergraduate Studies
+L301: 
+L302: Lecturer on Physics
+L303: 
+L304: cite129†Image: Dr. Anna Klales L305: 
+L306: cite130†Stefan Knirck L307: 
+L308: Assistant Professor of Physics
+L309: cite131†Image: Prof. Stefan Knirck headshot L310: 
+L311: cite132†John M. Kovac L312: 
+L313: Professor of Astronomy and Physics
+L314: 
+L315: cite133†Image: kovac.jpg L316: 
+L317: cite134†Kathryn Ledbetter L318: 
+L319: Associate Director of Instructional Physics Labs
+L320: 
+L321: Lecturer on Physics
+L322: 
+L323: cite135†Image: Kathryn Ledbetter headshot L324: 
+L325: cite136†Mikhail Lukin L326: 
+L327: Joshua and Beth Friedman University Professor
+L328: 
+L329: Co-Director of the Quantum Science and Engineering Initiative
+L330: 
+L331: cite137†Image: Mikhail Lukin L332: 
+L333: cite138†L. Mahadevan L334: Professor of Physics; de Valpine Professor of Applied Mathematics; Professor of Organismic and Evolutionary Biology
+L335: 
+L336: cite139†Image: L. Mahadevan L337: 
+L338: cite140†Vinothan N. Manoharan L339: 
+L340: Wagner Family Professor of Chemical Engineering and Professor of Physics
+L341: 
+L342: cite141†Image: Vinothan Manoharan L343: 
+L344: cite142†Eric Mazur L345: 
+L346: Balkanski Professor of Physics and Applied Physics
+L347: 
+L348: cite143†Image: Eric Mazur L349: 
+L350: cite144†Logan S. McCarty L351: 
+L352: Associate Dean of Science Education; Lecturer on Physics
+L353: 
+L354: cite145†Image: Logan McCarty L355: 
+L356: cite146†Nathan Melenbrink L357: Lecturer on Physics; Fabrication Lab Supervisor
+L358: 
+L359: cite147†Image: Photo of Dr. Nathan Melebrink L360: 
+L361: cite148†Rashmish K. Mishra L362: 
+L363: Preceptor in Physics
+L364: 
+L365: cite149†Image: Dr. Rashmish Mishra headshot L366: 
+L367: cite150†Matteo Mitrano L368: 
+L369: Associate Professor of Physics
+L370: 
+L371: cite151†Image: Prof. Matteo Mitrano portrait L372: 
+L373: cite152†Masahiro Morii L374: 
+L375: Donner Professor of Science
+L376: 
+L377: cite153†Image: Masahiro Morii L378: 
+L379: cite154†David J. Morin L380: 
+L381: Physics Concentration Advisor; Senior Lecturer on Physics
+L382: 
+L383: cite155†Image: Dr. David Morin L384: 
+L385: Show more refresh
+

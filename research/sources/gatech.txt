@@ -1,0 +1,85 @@
+Directory | School of Physics (https://physics.gatech.edu/people/directory/1000?rid=4)
+citeturn81view0 [wordlim: 200] Crawled: 3 months ago; Content type: text/html; Source: open({"ref_id":"https://physics.gatech.edu/people/directory/1000?rid=4","lineno":null}); Total lines: 187
+L0: cite0†Skip to content L1: 
+L2:  Skip To Keyboard Navigation
+L3: 
+L4:   Toggle navigation
+L5: 
+L6:  cite1† †gatech.edu L7: 
+L8:  cite2†School of Physics College of Sciences L9:   * cite3†About  L10:     * cite4†Mission L11:     * cite5†Bylaws L12:     * cite6†Outreach Programs L13:     * cite7†History L14:     * cite8†Guest Travel L15:     * cite9†Life in Atlanta L16:     * cite10†Directions L17:     * cite11†Contact Us L18:     * cite12†Values & Community L19:     * cite13†Concerns & Feedback L20:   * cite14†Academics  L21:     * cite15†Undergraduate Program L22:       * cite16†Current Students L23:       * cite17†Prospective Students L24:     * cite18†BS/MS in Physics L25:     * cite19†Graduate Program L26:       * cite20†Current Students L27:       * cite21†Prospective Students L28:     * cite22†Courses L29:       * cite23†Spring 2026 L30:       * cite24†Past Schedules†www.physics.gatech.edu L31:     * cite25†Student Organizations L32:     * cite26†Teaching Assistants L33:     * cite27†Physics REU†physicsreu.gatech.edu L34:     * cite28†Physics Challenge L35:   * cite29†Research  L36:     * cite30†Research Centers L37:       * cite31†Center for AI/ML†ai4science.ai.gatech.edu L38:       * cite32†Center for Nonlinear Science L39:       * cite33†Center for Relativistic Astrophysics†cra.gatech.edu L40:     * cite34†Research Areas L41:       * cite35†Artificial Intelligence & Machine Learning L42:       * cite36†Astrophysics, Astroparticles, & Gravitation L43:       * cite37†Atomic, Molecular, & Optical Physics L44:       * cite38†Condensed Matter and Quantum Materials L45:       * cite39†Non-linear Physics L46:       * cite40†Physics of Living Systems L47:       * cite41†Soft Matter L48:     * cite42†Undergraduate Research L49:     * cite43†Physics Education Research Group†per.gatech.edu L50:     * cite44†Physics REU†physicsreu.gatech.edu L51:   * cite45†News & Events  L52:     * cite46†Events Archive L53:     * cite47†News Archive L54:     * cite48†Experts in the News L55:     * cite49†Upcoming Events L56:   * cite50†People  L57:     * cite51†Graduate Students L58:     * cite52†Staff L59:     * cite53†Administration L60:     * cite54†Committees L61:     * cite55†Professors L62:     * cite56†Adjunct Faculty L63:     * cite57†Professors of Practice L64:     * cite58†Professors Emeriti L65:     * cite59†Research Scientists L66:     * cite60†Academic Professionals L67:     * cite61†Postdoctoral Researchers L68:     * cite62†Staff: Who Does What? L69:     * cite63†Instructors of Record†people.cos.gatech.edu L70:   * cite64†Colloquium  L71:     * cite65†Colloquia Archive: 2022-2023 L72:     * cite66†Colloquia Archive: 2023-2024 L73:   * cite11†Contact L74:   * cite67†Give L75: 
+L76:  cite68†Search L77: ## Search form
+L78: 
+L79: Enter your keywords
+L80: 
+L81:   * You are here:
+L82:   * cite69†GT Home†www.gatech.edu L83:   * cite2†Home L84: # Directory
+L85: 
+L86:   Roles
+L87: 
+L88: - Any -Profile: Professors Profile: Adjunct Faculty Profile: Professors Emeritus Profile: Academic Professionals Profile: Research Scientists Profile: Postdoctoral Researchers Profile: Staff Profile: Graduate Students
+L89: Name  Title  Phone  E-mail  Office Room
+L90: cite70†David Ballantyne Professor / Associate Chair for Academic Programs  (404) 385-3909  david.ballantyne@physics.gatech.edu 119
+L91: cite71†Shiladitya Banerjee Associate Professor  sbanerjee347@gatech.edu Howey W504
+L92: cite72†Tamara Bogdanović Professor  (404) 385-0113  tamarab@gatech.edu 113
+L93: cite73†Laura Cadonati Professor  cadonati@gatech.edu 121
+L94: cite74†Michael Chapman Professor  (404) 894-5223  mc191@gatech.edu N010
+L95: cite75†Jennifer Curtis Professor  (404) 894-8839  jcurtis6@gatech.edu G024 / G128
+L96: cite76†Dragomir Davidovic Associate Professor  (404) 385-1284 x385  dd121@gatech.edu N115
+L97: cite77†Walter de Heer Regents' Professor  (404) 894-7879  wd42@gatech.edu N103
+L98: cite78†Chunhui Rita Du Associate Professor  cdu71@gatech.edu Gilbert Hillhouse Boggs Building B-20
+L99: cite79†Flavio Fenton Professor  ffenton@gatech.edu C203
+L100: cite80†Phillip First Professor  (404) 894-0548 x894  pf17@gatech.edu N018/ S03
+L101: cite81†Aishik Ghosh Assistant Professor  AishikGhosh@physics.gatech.edu W506
+L102: cite82†Daniel Goldman Professor  (404) 894-0993  dgoldman3@gatech.edu N204
+L103: cite83†Roman Grigoriev Professor  (404) 385-1130  roman.grigoriev@physics.gatech.edu W502
+L104: cite84†JC Gumbart Professor  (404) 385-0797  jcgumbart@gatech.edu W202
+L105: cite85†Zhigang Jiang Professor  (404) 385-3906  zhigang.jiang@physics.gatech.edu B-18 (Labs: B-22/B-48)
+L106: cite86†Brian Kennedy Professor / Associate Chair for Undergraduate Program  (404) 894-5221  bk9@gatech.edu N119
+L107: cite87†Harold Kim Professor  (404) 894-0080  hkim438@gatech.edu Boggs B-83
+L108: cite88†Itamar Kimchi Assistant Professor  ikimchi3@gatech.edu
+L109: cite89†Itamar Kolvin Assistant Professor  (404) 894-9073  ikolvin@gatech.edu W304
+L110: cite90†Uzi Landman Regents' & Institute Professor - F.E. Callaway Chair in Computational Materials Science - Director, Center for Computational Materials Science  (404) 894-3368  uzi@gatech.edu W411/W410
+L111: cite91†Gongjie Li Associate Professor  (404) 385-7606  gongjie.li@physics.gatech.edu 120
+L112: cite92†Zhu-Xi Luo Assistant Professor  zhuxi_luo@gatech.edu  W406
+L113: cite93†Elisabetta Matsumoto Associate Professor  (404) 894-5263  sabetta@gatech.edu B-87
+L114: cite94†Martin Mourigal Dunn Family Professor  (404) 385-5669  mourigal@gatech.edu C202
+L115: cite95†A. Nepomuk Otte Professor  (404) 385-2503  otte@gatech.edu N112
+L116: cite96†Feryal Özel Chair and Professor  feryal.ozel@gatech.edu
+L117: cite97†Colin V Parker Associate Professor  (404) 385-4444  cparker@gatech.edu Howey N-05
+L118: cite98†Dimitrios Psaltis Professor  dpsaltis3@gatech.edu
+L119: cite99†Michael Pustilnik Associate Professor  (404) 385-4247  pustilnik@gatech.edu W307
+L120: cite100†Chandra Raman Professor  (404) 894-9062  craman@gatech.edu N04
+L121: cite101†D. Zeb Rocklin Associate Professor  (404) 385-8104  zeb.rocklin@physics.gatech.edu N106
+L122: cite102†Carlos Sa de Melo Professor  (404) 894-5088  cs164@gatech.edu W511
+L123: cite103†Surabhi Sachdev Assistant Professor  ssachdev38@gatech.edu 114
+L124: cite104†Michael Schatz Professor  (404) 894-5245  ms201@gatech.edu W306
+L125: cite105†Audrey Sederberg Assistant Professor  asederberg6@gatech.edu
+L126: cite106†Sven Simon Professor  (404) 385-1509  ssimon32@gatech.edu Ford ES&T Building, 311 Ferst Drive, Room 2258
+L127: cite107†Simon Sponberg Glen Robinson Professor in Complex Systems (Schools of Physics and Biological Sciences)  sponberg@gatech.edu C-206
+L128: cite108†Ignacio Taboada Professor  (404) 385-7679  itaboada@gatech.edu N116
+L129: cite109†Rick Trebino Professor  (404) 894-1690  rt81@gatech.edu N011
+L130: cite110†Hailong Wang Assistant Professor  hwang3021@gatech.edu Gilbert Hillhouse Boggs Building B-19
+L131: cite111†Xueda Wen Assistant Professor  xueda.wen@physics.gatech.edu Howey Physics building W404
+L132: cite112†John Wise Professor and CRA Director  (404) 894-5208  jwise@physics.gatech.edu 112
+L133: cite113†Peter Yunker Associate Professor  (404) 555-5555  pyunker3@gatech.edu B20
+L134: cite114†Andrew Zangwill Professor  (470) 388-8220  andrew.zangwill@physics.gatech.edu N102
+L135:   * cite115†Twitter†twitter.com L136:   * cite116†Instagram†instagram.com L137:   * cite117†Facebook†www.facebook.com L138:   * cite118†YouTube†www.youtube.com L139:   * cite119†LinkedIn†www.linkedin.com L140: 
+L141: Resources
+L142: #### Georgia Tech Resources
+L143: 
+L144:   * cite120†Offices & Departments†gatech.edu L145:   * cite121†News Center†news.gatech.edu L146:   * cite122†Campus Calendar†gatech.edu L147:   * cite123†Special Events†specialevents.gatech.edu L148:   * cite124†GreenBuzz†greenbuzz.gatech.edu L149:   * cite125†Institute Communications†comm.gatech.edu L150: #### Visitor Resources
+L151:   * cite126†Campus Visits†admission.gatech.edu L152:   * cite127†Directions to Campus†admission.gatech.edu L153:   * cite128†Visitor Parking Information†pts.gatech.edu L154:   * cite129†GTvisitor Wireless Network Information†lawn.gatech.edu L155:   * cite130†Georgia Tech Global Learning Center†pe.gatech.edu L156:   * cite131†Georgia Tech Hotel & Conference Center†gatechhotel.com L157:   * cite132†Barnes & Noble at Georgia Tech†gatech.bncollege.com L158:   * cite133†Ferst Center for the Arts†ferstcenter.gatech.edu L159:   * cite134†Robert C. Williams Paper Museum†paper.gatech.edu L160: cite146†Image: Map of Georgia Tech L161: 
+L162: Georgia Institute of Technology
+L163: North Avenue, Atlanta, GA 30332
+L164: Phone: 404-894-2000
+L165: 
+L166: Georgia Institute of Technology
+L167: North Avenue, Atlanta, GA 30332
+L168: 404.894.2000
+L169: 
+L170:   * cite135†Directory†directory.gatech.edu L171:   * cite136†Employment†careers.gatech.edu L172:   * cite137†Emergency Information†gatech.edu L173:   * Enable Accessibility
+L174:   * cite138†Legal & Privacy Information†gatech.edu L175:   * cite139†Human Trafficking Notice†gbi.georgia.gov L176:   * cite140†Title IX/Sexual Misconduct†titleix.gatech.edu L177:   * cite141†Hazing Public Disclosures†osi.gatech.edu L178:   * cite142†Accessibility†gatech.edu L179:   * cite143†Accountability†gatech.edu L180:   * cite144†Accreditation†gatech.edu L181: 
+L182:  cite147†Image: Georgia Institute of Technology L183: 
+L184: © Georgia Institute of Technology
+L185: 
+L186: cite145†Login 

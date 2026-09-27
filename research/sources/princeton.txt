@@ -1,0 +1,415 @@
+Faculty | Department of Physics (https://phy.princeton.edu/people/faculty)
+citeturn55view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://phy.princeton.edu/people/faculty","lineno":null}); Total lines: 557
+L0: # Department of Physics
+L1: 
+L2: cite0†Off screen link: Skip to content cite1†Off screen link: Skip to search L3: ## Main Menu
+L4: 
+L5: Menu
+L6: 
+L7:   * cite2†Academics Submenu
+L8: 
+L9: Academics
+L10:     * cite3†Graduate Program Submenu
+L11:       * cite4†Graduate Admissions Submenu
+L12:         * cite5†Horizon Fellows Program L13:         * cite6†FAQs L14:       * cite7†Student Experience L15:       * cite8†Degree Requirements Submenu
+L16:         * cite9†Core Courses L17:         * cite10†Preliminary Exams L18:         * cite11†Experimental Project L19:         * cite12†Final Steps L20:       * cite13†Fellowships, Awards, and Travel Funds L21:       * cite14†Graduate Important Dates L22:       * cite15†PhD. Theses Submenu
+L23:         * cite16†FPO Image Gallery by Year L24:       * cite17†Quick Links L25:       * cite18†Graduate Course Recordings L26:     * cite19†Undergraduate Program Submenu
+L27:       * cite20†Prospective Students L28:       * cite21†Choosing Courses L29:       * cite22†Senior Theses L30:       * cite23†Junior Papers L31:       * cite24†Important Dates L32:       * cite25†Tutoring Portal L33:       * cite26†Undergraduate Career Resources L34:   * cite27†Research Submenu
+L35: 
+L36: Research
+L37:     * cite28†Research Areas Submenu
+L38:       * cite29†Atomic Physics L39:       * cite30†Biological Physics L40:       * cite31†Condensed Matter Experiment L41:       * cite32†Condensed Matter Theory L42:       * cite33†Cosmology & Gravity Theory L43:       * cite34†Cosmology Experiment & Observation L44:       * cite35†High Energy Experiment L45:       * cite36†High Energy Theory L46:       * cite37†Mathematical Physics L47:       * cite38†Particle & Nuclear Astrophysics L48:       * cite39†Particle Phenomenology L49:       * cite40†Publications L50:     * cite41†Postdoctoral Fellows L51:     * cite42†Centers Submenu
+L52:       * cite43†Institute for Research and Innovation in Software for High Energy Physics L53:       * cite44†Leinweber Forum for Theoretical Physics L54:       * cite45†Princeton Center for Complex Materials L55:       * cite46†Princeton Center for Theoretical Science L56:       * cite47†Princeton Quantum Initiative L57:       * cite48†The Center for the Physics of Biological Function L58:       * cite49†The Princeton Gravity Initiative L59:   * cite50†People Submenu
+L60: 
+L61: People
+L62: 
+L63:     * cite51†Faculty L64:     * cite52†Administration L65:     * cite53†Researchers L66:     * cite54†Graduate Students L67:     * cite55†Visitors L68: 
+L69:   * cite56†Events Submenu
+L70: 
+L71: Events
+L72: 
+L73:     * cite57†Donald R. Hamilton Colloquium Series Submenu
+L74:       * cite58†Donald R. Hamilton: overview L75:       * cite59†Past Hamilton Lecture Speakers L76:     * cite60†Quantum Seminars†quantum.princeton.edu L77:     * cite61†Condensed Matter Seminars L78:     * cite62†Events Archive L79:     * cite63†Center for the Physics of Biological Function L80:   * cite64†About Submenu
+L81: 
+L82: About
+L83: 
+L84:     * cite65†History L85:     * cite66†Welcome to Physics L86:     * cite67†Employment L87:     * cite68†Associated Programs L88:     * cite69†Whom to Contact L89:     * cite70†Community and Culture L90: ## Section Menu
+L91: # Faculty
+L92: 
+L93: Search [Input]
+L94: 
+L95: [Input]
+L96: 
+L97: cite71†Dmitry Abanin L98: 
+L99: Professor of Physics
+L100: 
+L101: Condensed Matter Theory
+L102: 
+L103: cite72†Stephen Adler L104: 
+L105: Visiting Lecturer
+L106: 
+L107: High Energy Theory
+L108: 
+L109: cite73†Michael Aizenman L110: 
+L111: Professor of Physics & Mathematics
+L112: 
+L113: Mathematical Physics
+L114: 
+L115: cite74†Robert Austin L116: 
+L117: Professor of Physics
+L118: 
+L119: Biological Physics
+L120: 
+L121: cite75†Waseem Bakr L122: 
+L123: Professor of Physics
+L124: 
+L125: Atomic Physics
+L126: 
+L127: cite76†Bogdan A. Bernevig L128: 
+L129: Professor of Physics
+L130: 
+L131: Condensed Matter Theory
+L132: 
+L133: cite77†Ravindra Bhatt L134: Associated Professor - Electrical and Computer Engineering
+L135: 
+L136: Condensed Matter Theory
+L137: 
+L138: cite78†William Bialek L139: 
+L140: Professor of Physics & Biophysics
+L141: 
+L142: Biological Physics
+L143: 
+L144: cite79†Sylvia Biscoveanu L145: 
+L146: Assistant Professor
+L147: 
+L148: Cosmology & Gravity Theory
+L149: 
+L150: cite80†Grace Bosse L151: 
+L152: Senior Lecturer
+L153: 
+L154: cite81†Curtis Callan L155: 
+L156: Professor Emeritus
+L157: 
+L158: Biological Physics
+L159: 
+L160: High Energy Theory
+L161: 
+L162: cite82†Roberto Car L163: 
+L164: Associated Professor - Chemistry
+L165: 
+L166: Condensed Matter Theory
+L167: 
+L168: cite83†Paul Chaikin L169: 
+L170: Professor Emeritus
+L171: 
+L172: cite84†Saptarshi Chaudhuri L173: 
+L174: Assistant Professor
+L175: Cosmology Experiment & Observation
+L176: 
+L177: cite85†Lawrence Cheuk L178: 
+L179: Assistant Professor
+L180: 
+L181: Atomic Physics
+L182: 
+L183: cite86†Mihalis Dafermos L184: 
+L185: Associated Professor - Mathematics
+L186: 
+L187: The Princeton Gravity Initiative
+L188: 
+L189: cite87†Nathalie P. de Leon L190: 
+L191: Associated Professor - Electrical and Computer Engineering
+L192: 
+L193: Princeton Center for Complex Materials
+L194: 
+L195: Princeton Quantum Initiative
+L196: 
+L197: cite88†Jo Dunkley L198: 
+L199: Professor of Physics & Astrophysical Sciences
+L200: 
+L201: Cosmology Experiment & Observation
+L202: 
+L203: Cosmology & Gravity Theory
+L204: 
+L205: cite89†Cristiano Galbiati L206: Professor of Physics
+L207: 
+L208: Particle & Nuclear Astrophysics
+L209: 
+L210: cite90†Simone Giombi L211: 
+L212: Professor of Physics
+L213: 
+L214: Associate Chair
+L215: 
+L216: Director of Graduate Studies
+L217: 
+L218: High Energy Theory
+L219: 
+L220: cite91†Sarang Gopalakrishnan L221: 
+L222: Associated Professor - Electrical & Computer Engineering
+L223: 
+L224: Princeton Quantum Initiative
+L225: 
+L226: cite92†Thomas Gregor L227: 
+L228: Professor of Physics and Biophysics
+L229: 
+L230: Biological Physics
+L231: 
+L232: cite93†David Gross L233: 
+L234: Professor Emeritus
+L235: 
+L236: cite94†Edward Groth L237: 
+L238: Professor Emeritus
+L239: 
+L240: Cosmology Experiment & Observation
+L241: 
+L242: cite95†Duncan Haldane L243: Professor of Physics
+L244: 
+L245: Condensed Matter Theory
+L246: 
+L247: cite96†William Happer L248: 
+L249: Professor Emeritus
+L250: 
+L251: Atomic Physics
+L252: 
+L253: cite97†M. Zahid Hasan L254: 
+L255: Professor of Physics
+L256: 
+L257: Condensed Matter Experiment
+L258: 
+L259: cite98†John Hopfield L260: 
+L261: Associated Professor Emeritus - Molecular Biology
+L262: 
+L263: Biological Physics
+L264: 
+L265: cite99†Andrew Houck L266: 
+L267: Associated Professor - Electrical and Computer Engineering
+L268: 
+L269: Condensed Matter Experiment
+L270: 
+L271: cite100†David Huse L272: 
+L273: Professor of Physics
+L274: 
+L275: Condensed Matter Theory
+L276: 
+L277: cite101†William C. Jones L278: 
+L279: Professor of Physics
+L280: 
+L281: Associate Chair
+L282: Director of Undergraduate Studies
+L283: 
+L284: Cosmology Experiment & Observation
+L285: 
+L286: cite102†Igor Klebanov L287: 
+L288: Professor of Physics
+L289: 
+L290: High Energy Theory
+L291: 
+L292: cite103†Andrew Leifer L293: 
+L294: Associate Professor of Physics & Neuroscience
+L295: 
+L296: Biological Physics
+L297: 
+L298: cite104†Biao Lian L299: 
+L300: Assistant Professor
+L301: 
+L302: Condensed Matter Theory
+L303: 
+L304: cite105†Elliott Lieb L305: 
+L306: Professor Emeritus of Physics & Mathematics
+L307: 
+L308: Mathematical Physics
+L309: 
+L310: cite106†Henry W Lin L311: 
+L312: Assistant Professor
+L313: 
+L314: High Energy Theory
+L315: 
+L316: cite107†Mariangela Lisanti L317: 
+L318: Professor of Physics
+L319: 
+L320: Particle Phenomenology
+L321: cite108†Juan Maldacena L322: 
+L323: Visiting Lecturer
+L324: 
+L325: High Energy Theory
+L326: 
+L327: cite109†Daniel R. Marlow L328: 
+L329: Professor Emeritus
+L330: 
+L331: High Energy Experiment
+L332: 
+L333: cite110†Kirk McDonald L334: 
+L335: Professor Emeritus
+L336: 
+L337: High Energy Experiment
+L338: 
+L339: cite111†Peter Meyers L340: 
+L341: Professor Emeritus
+L342: 
+L343: Particle & Nuclear Astrophysics
+L344: 
+L345: High Energy Experiment
+L346: 
+L347: cite112†Katharine Moran L348: 
+L349: Lecturer
+L350: 
+L351: cite113†Chiara Nappi L352: 
+L353: Professor Emerita
+L354: 
+L355: High Energy Theory
+L356: 
+L357: cite114†Isobel Ojalvo L358: 
+L359: Associate Professor
+L360: 
+L361: High Energy Experiment
+L362: 
+L363: cite115†James Olsen L364: 
+L365: Professor of Physics
+L366: 
+L367: Department Chair
+L368: High Energy Experiment
+L369: 
+L370: cite116†Nai Phuan Ong L371: 
+L372: Professor of Physics
+L373: 
+L374: Condensed Matter Experiment
+L375: 
+L376: cite117†Lyman A. Page Jr. L377: 
+L378: Professor of Physics
+L379: 
+L380: Cosmology Experiment & Observation
+L381: 
+L382: cite118†P. James Peebles L383: 
+L384: Professor Emeritus
+L385: 
+L386: Cosmology & Gravity Theory
+L387: 
+L388: cite119†Alexander Polyakov L389: 
+L390: Professor Emeritus
+L391: 
+L392: High Energy Theory
+L393: 
+L394: cite120†Frans Pretorius L395: 
+L396: Professor of Physics
+L397: 
+L398: Cosmology & Gravity Theory
+L399: 
+L400: cite121†Silviu Pufu L401: 
+L402: Professor of Physics
+L403: 
+L404: High Energy Theory
+L405: 
+L406: cite122†Gautam Reddy L407: 
+L408: Assistant Professor
+L409: 
+L410: Biological Physics
+L411: cite123†Michael Romalis L412: 
+L413: Professor of Physics
+L414: 
+L415: Atomic Physics
+L416: 
+L417: cite124†Shinsei Ryu L418: 
+L419: Professor of Physics
+L420: 
+L421: Condensed Matter Theory
+L422: 
+L423: cite125†Peter Schiffer L424: 
+L425: Dean for Research
+L426: 
+L427: Vice President for Princeton Plasma Physics Laboratory
+L428: 
+L429: Class of 1909 Professor of Physics
+L430: 
+L431: Condensed Matter Experiment
+L432: 
+L433: cite126†Leslie Schoop L434: 
+L435: Associated Professor - Chemistry
+L436: 
+L437: cite127†Nathan Seiberg L438: 
+L439: Visiting Lecturer
+L440: 
+L441: High Energy Theory
+L442: 
+L443: cite128†Joshua Shaevitz L444: 
+L445: Professor of Physics & Biophysics
+L446: 
+L447: Biological Physics
+L448: 
+L449: cite129†Mansour Shayegan L450: Associated Professor - Electrical and Computer Engineering
+L451: 
+L452: cite130†Yakov Sinai L453: 
+L454: Associated Professor Emeritus - Mathematics
+L455: 
+L456: cite131†A. J. Stewart Smith L457: 
+L458: Professor Emeritus
+L459: 
+L460: High Energy Experiment
+L461: 
+L462: cite132†Shivaji Sondhi L463: 
+L464: Professor Emeritus
+L465: 
+L466: Condensed Matter Theory
+L467: 
+L468: cite133†David N. Spergel L469: 
+L470: Associated Professor Emeritus - Astrophysical Sciences
+L471: 
+L472: Cosmology Experiment & Observation
+L473: 
+L474: Cosmology & Gravity Theory
+L475: 
+L476: cite134†Suzanne T. Staggs L477: 
+L478: Professor of Physics
+L479: 
+L480: Cosmology Experiment & Observation
+L481: cite135†Paul J. Steinhardt L482: 
+L483: Professor of Physics
+L484: 
+L485: High Energy Theory
+L486: 
+L487: Cosmology & Gravity Theory
+L488: 
+L489: Condensed Matter Theory
+L490: 
+L491: cite136†David Tank L492: 
+L493: Associated Professor - Neuroscience
+L494: 
+L495: Biological Physics
+L496: 
+L497: cite137†Joseph Taylor L498: 
+L499: Professor Emeritus
+L500: 
+L501: Cosmology Experiment & Observation
+L502: 
+L503: Cosmology & Gravity Theory
+L504: 
+L505: cite138†Jeffrey D. Thompson L506: 
+L507: Associated Professor - Electrical and Computer Engineering
+L508: 
+L509: Princeton Quantum Initiative
+L510: 
+L511: cite139†Salvatore Torquato L512: 
+L513: Associated Professor - Chemistry
+L514: 
+L515: Condensed Matter Theory
+L516: cite140†Daniel Tsui L517: 
+L518: Associated Professor Emeritus - Electrical and Computer Engineering
+L519: 
+L520: Condensed Matter Experiment
+L521: 
+L522: cite141†Christopher Tully L523: 
+L524: Professor of Physics
+L525: 
+L526: High Energy Experiment
+L527: 
+L528: cite142†Silviu-Marian Udrescu L529: 
+L530: Incoming Assistant Professor
+L531: 
+L532: Atomic Physics
+L533: ### Department Title
+L534: 
+L535:   * cite143†Professors L536:   * cite144†Associate Professors L537:   * cite145†Assistant Professors L538:   * cite146†Professor Emeriti L539:   * cite147†Associated Professors L540: ### Research Area
+L541: 
+L542:   * cite148†Atomic Physics L543:   * cite149†Biological Physics L544:   * cite150†Condensed Matter Experiment L545:   * cite151†Condensed Matter Theory L546:   * cite152†Cosmology & Gravity Theory L547:   * cite153†Cosmology Experiment & Observation L548:   * cite154†High Energy Experiment L549:   * cite155†High Energy Theory L550:   * cite156†Mathematical Physics L551:   * cite157†Particle & Nuclear Astrophysics L552:   * cite158†Particle Phenomenology L553: 
+L554: Back to
+L555: 
+L556: Top
+

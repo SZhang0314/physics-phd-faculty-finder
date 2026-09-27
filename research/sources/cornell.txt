@@ -1,0 +1,342 @@
+Department Faculty | Department of Physics (https://physics.cornell.edu/faculty)
+citeturn48view0 [wordlim: 200] Crawled: 3 days ago; Content type: text/html; Source: open({"ref_id":"https://physics.cornell.edu/faculty","lineno":null}); Total lines: 524
+L0: cite0†Jump to main navigation cite1†Jump to section navigation cite2†Jump to main content L1: 
+L2: cite3†Cornell University†cornell.edu cite4†Department Homepage L3:   * cite5†Academics L4:     * cite6†Graduate Program L5:     * cite7†Undergraduate Program L6:     * cite8†Career Information L7:     * cite9†Courses L8:   * cite10†People L9:     * cite10†Department Faculty L10:     * cite11†Emeritus Faculty L11:     * cite12†Lecturers L12:     * cite13†Field Faculty L13:     * cite14†Current Graduate Students L14:     * cite15†Current Postdocs L15:     * cite16†Administrative & Technical Staff L16:   * cite17†Research L17:     * cite17†Research Areas L18:     * cite18†Multidisciplinary Research L19:     * cite19†Research Facilities L20:     * cite20†Research Resources L21:     * cite21†Safety Information L22:   * cite22†Lectures/Colloquia L23:     * cite23†Upcoming Colloquia L24:     * cite24†Bethe Lecture Series L25:   * cite25†About Us L26:     * cite26†Department News L27:     * cite27†General Contact Information L28:     * cite28†Women in Physics and Related Fields L29:     * cite29†Physics Community L30:     * cite30†General Resources L31:   * cite31†Alumni L32: cite32†The College of Arts & Sciences†as.cornell.edu L33: Open search
+L34: 
+L35: Open nav
+L36: 
+L37: Search for: [Input] [Input]
+L38: # Department Faculty
+L39: 
+L40: ### Leadership
+L41: 
+L42: cite33†Image: Image of Eanna Flanagan L43: 
+L44: ## cite34†Eanna Flanagan L45: 
+L46: Edward L. Nichols Professor of Physics and Professor of Astronomy
+L47: 
+L48: Department Chair
+L49: 
+L50: Astrophysics, General Relativity and Cosmology, Theoretical Elementary Particle Physics
+L51: 
+L52: cite35†Image: Image of Erich Mueller L53: 
+L54: ## cite36†Erich Mueller L55: 
+L56: Professor
+L57: 
+L58: Director of Graduate Studies
+L59: 
+L60: Theoretical Condensed-Matter Physics
+L61: 
+L62: cite37†Image: Image of Liam McAllister L63: ## cite38†Liam McAllister L64: 
+L65: Professor
+L66: 
+L67: Director of Undergraduate Studies
+L68: 
+L69: Theoretical Elementary Particle Physics
+L70: 
+L71: ### Faculty
+L72: 
+L73: cite39†Image: Image of Jim Alexander L74: 
+L75: ## cite40†Jim Alexander L76: 
+L77: Professor Emeritus
+L78: 
+L79: Experimental Elementary Particle Physics
+L80: 
+L81: cite41†Image: Image of Tomás Arias L82: ## cite42†Tomás Arias L83: 
+L84: James Gilbert White Distinguished Professor in the Physical Sciences and Stephen H. Weiss Presidential Fellow
+L85: 
+L86: Director of Undergraduate Studies
+L87: 
+L88: Theoretical Condensed-Matter Physics
+L89: 
+L90: cite43†Image: Image of Ivan Bazarov L91: 
+L92: ## cite44†Ivan Bazarov L93: 
+L94: Professor
+L95: 
+L96: Accelerator Physics
+L97: 
+L98: cite45†Image: Image of Eberhard Bodenschatz L99: 
+L100: ## cite46†Eberhard Bodenschatz L101: 
+L102: Adjunct Professor
+L103: 
+L104: Biological Physics, Experimental Condensed Matter Physics
+L105: 
+L106: cite47†Image: Image of Yiming Chen L107: ## cite48†Yiming Chen L108: 
+L109: Theoretical Elementary Particle Physics
+L110: 
+L111: cite49†Image: Debanjan chowdhury L112: 
+L113: ## cite50†Debanjan Chowdhury L114: 
+L115: Associate Professor
+L116: 
+L117: Theoretical Condensed-Matter Physics
+L118: 
+L119: cite51†Image: Image of Itai Cohen L120: 
+L121: ## cite52†Itai Cohen L122: 
+L123: Josephson Family Professor
+L124: 
+L125: Biological Physics, Experimental Condensed Matter Physics
+L126: 
+L127: cite53†Image: Abigail Crites L128: 
+L129: ## cite54†Abigail Crites L130: 
+L131: Assistant Professor & Fred Young Faculty Fellow
+L132: 
+L133: Astrophysics, General Relativity and Cosmology
+L134: 
+L135: cite55†Image: Image of Csaba Csaki L136: ## cite56†Csaba Csaki L137: 
+L138: John A. Newman Professor of Physical Sciences
+L139: 
+L140: Theoretical Elementary Particle Physics
+L141: 
+L142: cite57†Image: Image of Nils Deppe L143: 
+L144: ## cite58†Nils Deppe L145: 
+L146: Assistant Professor
+L147: 
+L148: Astrophysics, General Relativity and Cosmology
+L149: 
+L150: cite59†Image: Image of Jennet Dickinson L151: 
+L152: ## cite60†Jennet Dickinson L153: 
+L154: Assistant Professor
+L155: 
+L156: cite61†Image: Image of Eric Dufresne L157: 
+L158: ## cite62†Eric Dufresne L159: 
+L160: Professor
+L161: 
+L162: Biological Physics
+L163: 
+L164: cite63†Image: Image of Veit Elser L165: ## cite64†Veit Elser L166: 
+L167: Professor
+L168: 
+L169: Theoretical Condensed-Matter Physics, Biological Physics
+L170: 
+L171: cite33†Image: Image of Eanna Flanagan L172: 
+L173: ## cite34†Eanna Flanagan L174: 
+L175: Edward L. Nichols Professor of Physics and Professor of Astronomy
+L176: 
+L177: Department Chair
+L178: 
+L179: Astrophysics, General Relativity and Cosmology, Theoretical Elementary Particle Physics
+L180: 
+L181: cite65†Image: Image of Carl Franck L182: 
+L183: ## cite66†Carl Franck L184: 
+L185: Associate Professor
+L186: 
+L187: Biological Physics, Experimental Condensed Matter Physics
+L188: 
+L189: cite67†Image: Image of Lawrence Gibbons L190: ## cite68†Lawrence Gibbons L191: 
+L192: Professor
+L193: 
+L194: Experimental Elementary Particle Physics
+L195: 
+L196: cite69†Image: Image of Paul Ginsparg L197: 
+L198: ## cite70†Paul Ginsparg L199: 
+L200: Professor
+L201: 
+L202: Theoretical Elementary Particle Physics
+L203: 
+L204: cite71†Image: Image of Yuval Grossman L205: 
+L206: ## cite72†Yuval Grossman L207: 
+L208: Professor
+L209: 
+L210: Theoretical Elementary Particle Physics
+L211: 
+L212: cite73†Image: Image of Georg Hoffstaetter de Torquat L213: 
+L214: ## cite74†Georg Hoffstaetter de Torquat L215: 
+L216: Professor
+L217: 
+L218: Accelerator Physics
+L219: 
+L220: cite75†Image: Natasha Holmes portrait L221: ## cite76†Natasha Holmes L222: 
+L223: Ann S. Bowers Associate Professor
+L224: 
+L225: Physics Education Research
+L226: 
+L227: cite77†Image: Image of Chao-Ming Jian L228: 
+L229: ## cite78†Chao-Ming Jian L230: 
+L231: Assistant Professor
+L232: 
+L233: Theoretical Condensed-Matter Physics
+L234: 
+L235: cite79†Image: Image of Eun-Ah Kim L236: 
+L237: ## cite80†Eun-Ah Kim L238: 
+L239: Hans A. Bethe Professor
+L240: 
+L241: Theoretical Condensed-Matter Physics
+L242: 
+L243: cite81†Image: Image of Michael Lawler L244: 
+L245: ## cite82†Michael Lawler L246: 
+L247: Adjunct Professor
+L248: 
+L249: Theoretical Condensed-Matter Physics
+L250: 
+L251: cite83†Image: Image of Andre Leclair L252: ## cite84†Andre Leclair L253: 
+L254: Professor
+L255: 
+L256: Theoretical Elementary Particle Physics
+L257: 
+L258: cite85†Image: Image of Matthias Liepe L259: 
+L260: ## cite86†Matthias Liepe L261: 
+L262: Professor
+L263: 
+L264: Accelerator Physics
+L265: 
+L266: cite87†Image: Image of Xiaomeng Liu  L267: 
+L268: ## cite88†Xiaomeng Liu L269: 
+L270: Assistant Professor
+L271: 
+L272: Experimental Condensed Matter Physics
+L273: 
+L274: cite89†Image: Image of Nigel Lockyer L275: 
+L276: ## cite90†Nigel Lockyer L277: 
+L278: Director, Cornell Laboratory for Accelerator-based Sciences and Education
+L279: 
+L280: Accelerator Physics
+L281: 
+L282: cite91†Image: Image of Jared Maxson L283: ## cite92†Jared Maxson L284: 
+L285: Associate Professor
+L286: 
+L287: Accelerator Physics
+L288: 
+L289: cite37†Image: Image of Liam McAllister L290: 
+L291: ## cite38†Liam McAllister L292: 
+L293: Professor
+L294: 
+L295: Director of Undergraduate Studies
+L296: 
+L297: Theoretical Elementary Particle Physics
+L298: 
+L299: cite35†Image: Image of Erich Mueller L300: 
+L301: ## cite36†Erich Mueller L302: 
+L303: Professor
+L304: 
+L305: Director of Graduate Studies
+L306: 
+L307: Theoretical Condensed-Matter Physics
+L308: 
+L309: cite93†Image: Image of Christopher Myers L310: 
+L311: ## cite94†Christopher Myers L312: 
+L313: Adjunct Professor
+L314: 
+L315: Biological Physics
+L316: 
+L317: cite95†Image: Professor Michael Niemack L318: ## cite96†Michael Niemack L319: 
+L320: Professor and Director, Laboratory of Elementary Particle Physics
+L321: 
+L322: Astrophysics, General Relativity and Cosmology
+L323: 
+L324: cite97†Image: Image of Matthias Neubert L325: 
+L326: ## cite98†Matthias Neubert L327: 
+L328: Adjunct Professor
+L329: 
+L330: Theoretical Elementary Particle Physics
+L331: 
+L332: cite99†Image: Image of Katja Nowack L333: 
+L334: ## cite100†Katja Nowack L335: 
+L336: Associate Professor
+L337: 
+L338: Experimental Condensed Matter Physics
+L339: 
+L340: cite101†Image: Image of Ritchie Patterson L341: ## cite102†Ritchie Patterson L342: 
+L343: Helen T. Edwards Professor of Physics
+L344: 
+L345: Experimental Elementary Particle Physics
+L346: 
+L347: cite103†Image: Image of Maxim Perelstein L348: 
+L349: ## cite104†Maxim Perelstein L350: 
+L351: Professor
+L352: 
+L353: Theoretical Elementary Particle Physics
+L354: 
+L355: cite105†Image: Image of Daniel Ralph L356: 
+L357: ## cite106†Daniel Ralph L358: 
+L359: F.R. Newman Professor of Physics
+L360: 
+L361: Experimental Condensed Matter Physics
+L362: 
+L363: cite107†Image: Brad Ramshaw, smiling, with very short mustache and beard, in a polo shirt in front of a tree L364: ## cite108†Brad Ramshaw L365: 
+L366: Associate Professor; Director of the Laboratory of Atomic and Solid State Physics
+L367: 
+L368: Experimental Condensed Matter Physics
+L369: 
+L370: cite109†Image: Image of Anders Ryd L371: 
+L372: ## cite110†Anders Ryd L373: 
+L374: Professor
+L375: 
+L376: Experimental Elementary Particle Physics
+L377: 
+L378: cite111†Image: Image of Jie Shan L379: 
+L380: ## cite112†Jie Shan L381: 
+L382: Professor
+L383: 
+L384: Experimental Condensed Matter Physics
+L385: 
+L386: cite113†Image: Image of Kyle Shen L387: ## cite114†Kyle Shen L388: 
+L389: James A. Weeks Professor of Physical Sciences; Stephen H. Weiss Presidential Fellow
+L390: 
+L391: Experimental Condensed Matter Physics
+L392: 
+L393: cite115†Image: Image of Eric Siggia L394: 
+L395: ## cite116†Eric Siggia L396: 
+L397: Adjunct Professor
+L398: 
+L399: Biological Physics
+L400: 
+L401: cite117†Image: Image of Julia Thom-Levy L402: 
+L403: ## cite118†Julia Thom-Levy L404: 
+L405: Robert and Angela Biggar Professor of Physics
+L406: 
+L407: Department Chair
+L408: 
+L409: Experimental Elementary Particle Physics
+L410: 
+L411: cite119†Image: Image of Robert Thorne L412: ## cite120†Robert Thorne L413: 
+L414: Professor, Stephen H. Weiss Presidential Fellow
+L415: 
+L416: Biological Physics, Experimental Condensed Matter Physics, Physics Education Research
+L417: 
+L418: cite121†Image: Image of Cyrus Umrigar L419: 
+L420: ## cite122†Cyrus Umrigar L421: 
+L422: Adjunct Professor
+L423: 
+L424: Theoretical Condensed-Matter Physics
+L425: 
+L426: cite123†Image: Jane Wang's face, with short dark hair and a smile. L427: 
+L428: ## cite124†Z. Jane Wang L429: 
+L430: Professor
+L431: 
+L432: Theoretical Condensed-Matter Physics, Biological Physics
+L433: 
+L434: cite125†Image: Michelle Wang L435: ## cite126†Michelle Wang L436: 
+L437: James Gilbert White Distinguished Professor of the Physical Sciences, Howard Hughes Medical Institute Investigator
+L438: 
+L439: Biological Physics, Experimental Condensed Matter Physics
+L440: 
+L441: cite127†Image: Image of Hannsjörg Weber L442: 
+L443: ## cite128†Hannsjörg Weber L444: 
+L445: Assistant Research Professor
+L446: 
+L447: Experimental Elementary Particle Physics
+L448: 
+L449: cite129†Image: Image of Peter Wittich L450: ## cite130†Peter Wittich L451: 
+L452: Professor
+L453: 
+L454: Experimental Elementary Particle Physics
+L455:   * cite5†Academics Open subnav
+L456:     * cite6†Graduate Program Open subnav
+L457:       * cite131†About the Graduate Program L458:       * cite132†The Graduate Experience L459:       * cite133†Course of Study L460:       * cite134†Prospective Graduate Students L461:       * cite135†Research Group Meeting Schedules L462:     * cite7†Undergraduate Program Open subnav
+L463:       * cite136†Information For Prospective Undergraduates L464:       * cite137†Information for Physics Majors & Minors L465:       * cite138†Information for Non-Majors L466:       * cite139†Resources for Undergraduates L467:       * cite140†Transfer Credit L468:       * cite141†Undergraduate Scholarships L469:       * cite142†Advanced Standing Exams L470:       * cite143†Research Opportunities in the Department L471:       * cite144†Research, Outreach & Teaching Opportunities L472:       * cite145†Physics Learning Assistant Program L473:       * cite146†Physics Learning Strategies Center L474:     * cite9†Courses Open subnav
+L475:       * cite147†Enrollment Guide L476:     * cite8†Career Information L477:   * cite10†People Open subnav
+L478:     * cite10†Department Faculty L479:     * cite11†Emeritus Faculty L480:     * cite12†Lecturers L481:     * cite13†Field Faculty L482:     * cite15†Current Postdocs L483:     * cite16†Administrative & Technical Staff L484:     * cite14†Current Graduate Students L485:   * cite17†Research Open subnav
+L486:     * cite17†Research Areas L487:     * cite18†Multidisciplinary Research L488:     * cite19†Research Facilities L489:     * cite20†Research Resources L490:     * cite21†Safety Information L491:   * cite22†Lectures/Colloquia Open subnav
+L492:     * cite23†Upcoming Colloquia L493:     * cite24†Bethe Lecture Series L494:     * cite148†Information for Colloquium Speakers L495:   * cite25†About Us Open subnav
+L496:     * cite26†Department News L497:     * cite27†General Contact Information L498:     * cite28†Women in Physics L499:     * cite29†Physics Community L500:     * cite30†General Resources L501:   * cite31†Alumni L502:   * cite149†Donate to Physics†securelb.imodules.com L503: 
+L504: 109 Clark Hall
+L505: Ithaca, NY 14853
+L506: United States
+L507: 
+L508: Email Department of Physics (physics@cornell.edu)
+L509: 607-255-6016
+L510: 
+L511:   * cite150†Twitter†twitter.com L512:   * cite151†Facebook†www.facebook.com L513: 
+L514: cite152†Cornell University†cornell.edu cite32†The College of Arts & Sciences†as.cornell.edu L515:   * cite153†Website Accessibility†as.cornell.edu L516:   * cite154†Privacy Policy†as.cornell.edu L517:   * cite155†Equal Education & Employment†hr.cornell.edu L518:   * cite156†Emergency Information†emergency.cornell.edu L519:   * cite157†Land Acknowledgment†cals.cornell.edu L520: 
+L521: © 2026 Cornell University
+L522: 
+L523: cite158†Top 

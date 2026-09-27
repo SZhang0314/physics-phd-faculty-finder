@@ -1,0 +1,717 @@
+People | Physics & Astronomy | Johns Hopkins University (https://physics-astronomy.jhu.edu/people/)
+citeturn51view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://physics-astronomy.jhu.edu/people/","lineno":null}); Total lines: 1289
+L0: cite0†iframe†www.googletagmanager.com cite1†Johns Hopkins UniversityEST. 1876 America’s First Research University†150.jhu.edu L1: 
+L2: cite2†Krieger School of Arts & Sciences shield, to the KSAS homepage†krieger.jhu.edu L3: # William H. Miller III Department of cite3†Physics & Astronomy L4: 
+L5: Search Menu
+L6: 
+L7: Search
+L8: 
+L9: Search for: [Input: Search this site …] [Input]
+L10: 
+L11: Close search
+L12: 
+L13: Close Menu
+L14: 
+L15:   * cite4†About Show sub menu
+L16: 
+L17:     * cite5†Available Facilities Show sub menu
+L18: 
+L19:       * cite6†Research Instrumentation L20: 
+L21:     * cite7†Student Groups L22: 
+L23:     * cite8†Advisory Council L24: 
+L25:     * cite9†Committee for Diversity and Inclusion L26: 
+L27:     * cite10†Employment Opportunities L28: 
+L29:     * cite11†News Archive L30: 
+L31:   * cite12†Graduate Show sub menu
+L32: 
+L33:     * cite13†Admissions and Transfers L34:     * cite14†Graduate Courses L35: 
+L36:     * cite15†Requirements L37: 
+L38:     * cite16†Advising L39: 
+L40:     * cite17†Research and Careers L41: 
+L42:     * cite18†Miller Postdoctoral Prize Fellowships L43: 
+L44:     * cite19†Graduate Program Statistics L45: 
+L46:   * cite20†Undergraduate Show sub menu
+L47: 
+L48:     * cite21†Undergraduate Courses L49: 
+L50:     * cite22†Major Requirements L51: 
+L52:     * cite23†Minor Requirements L53: 
+L54:     * cite24†Bachelor/Master’s Dual Degree L55: 
+L56:     * cite25†Summer Research Fellowship L57: 
+L58:   * cite26†People Show sub menu
+L59: 
+L60:     * cite26†Faculty L61: 
+L62:     * cite27†Research Scientists L63:     * cite28†Postdoctoral Fellows L64: 
+L65:     * cite29†Graduate Students L66: 
+L67:     * cite30†Admin/Tech Staff L68: 
+L69:     * cite31†Visitors L70: 
+L71:     * cite32†Full Phone/Email Directory L72: 
+L73:   * cite33†Research Show sub menu
+L74: 
+L75:     * cite34†Astrophysics L76: 
+L77:     * cite35†Atomic, Molecular, and Optical Physics L78: 
+L79:     * cite36†Biological Physics L80: 
+L81:     * cite37†Condensed Matter Physics L82: 
+L83:     * cite38†Cosmology and Gravity L84: 
+L85:     * cite39†Information and Complexity L86: 
+L87:     * cite40†Particle Physics L88: 
+L89:     * cite41†Physics of Learning / Physics of AI L90: 
+L91:   * cite42†Events Show sub menu
+L92:     * cite43†Colloquia L93: 
+L94:     * cite44†Seminars L95: 
+L96:     * cite45†Observatory Open House L97: 
+L98:     * cite46†Annual Physics Fair L99: # People
+L100: 
+L101:   Inside People
+L102: 
+L103:   * cite26†Faculty L104:   * cite27†Research Scientists L105:   * cite28†Postdoctoral Fellows L106:   * cite29†Graduate Students L107:   * cite30†Admin/Tech Staff L108:   * cite31†Visitors L109:   * cite32†Full Phone/Email Directory L110: 
+L111: Use the filters and search box to explore our people directory.
+L112: Filter by Position or Title: [Button: faculty ] [Button: Joint Faculty ] [Button: Adjunct Faculty ] [Button: Emeritus Faculty ] Filter by Area of Expertise: [Button: Astrophysics ] [Button: Particle Physics ] [Button: Plasma Physics ] [Button: Atomic, molecular, and optical physics ] [Button: Biological Physics ] [Button: Hard Condensed Matter Physics ] [Button: Physics and Machine Learning ] [Button: Soft Condensed Matter Physics ] Search by name, title, or research interests: Enter term [Input: Enter description keyword]
+L113: ## faculty
+L114: 
+L115: ### cite47†N. Peter Armitage L116: 
+L117: Professor
+L118: 
+L119: #### Contact Information
+L120: 
+L121:   * cite48†[email protected] L122:   * Bloomberg 309
+L123:   * 410-516-0214
+L124:   * cite49†Group/Lab Website†sites.google.com L125: 
+L126: Research Interests: Experimental condensed matter physics
+L127: 
+L128: Education: PhD, Stanford University
+L129: 
+L130: ### cite50†Jonathan A. Bagger L131: 
+L132: Research Professor
+L133: #### Contact Information
+L134: 
+L135:   * cite51†[email protected] L136:   * 604-222-7353
+L137: 
+L138: Research Interests: Particle theory; theory and phenomenology of supersymmetry, supergravity, and superstrings
+L139: 
+L140: Education: PhD, Princeton
+L141: 
+L142: ### cite52†Ibrahima Bah L143: 
+L144: Associate Professor
+L145: #### Contact Information
+L146: 
+L147:   * cite53†[email protected] L148:   * Bloomberg 463
+L149:   * 410-516-4122
+L150: 
+L151: Research Interests: Theoretical high-energy physics and cosmology, string theory, supergravity, quantum field theory, and holography
+L152: 
+L153: Education: PhD, University of Michigan
+L154: 
+L155: ### cite54†Daniel Beller†pages.jh.edu L156: 
+L157: Assistant Professor
+L158: 
+L159: #### Contact Information
+L160: 
+L161:   * cite55†[email protected] L162:   * Bloomberg 237
+L163: 
+L164: Research Interests: Theoretical soft matter and biological physics
+L165: 
+L166: Education: PhD, University of Pennsylvania
+L167: ### cite56†Charles L. Bennett L168: 
+L169: Bloomberg Distinguished Professor, Alumni Centennial Professor of Physics and Astronomy, APL Principal Professional Staff
+L170: 
+L171: #### Contact Information
+L172: 
+L173:   * cite57†[email protected] L174:   * Bloomberg 209
+L175:   * 410-516-6177
+L176: 
+L177: Research Interests: Cosmology; cosmic microwave background; instrumentation and data analysis
+L178: 
+L179: Education: PhD, Massachusetts Institute of Technology
+L180: 
+L181: ### cite58†Emanuele Berti L182: 
+L183: Professor
+L184: #### Contact Information
+L185: 
+L186:   * cite59†[email protected] L187:   * Bloomberg 449
+L188:   * 410-516-2535
+L189: 
+L190: Education: PhD, University of Rome
+L191: 
+L192: ### cite60†Barry J. Blumenfeld L193: 
+L194: Research Professor
+L195: 
+L196: #### Contact Information
+L197: 
+L198:   * cite61†[email protected] L199: 
+L200: Research Interests: Experimental high-energy physics; neutrino physics, hadron colliders
+L201: 
+L202: Education: PhD, Columbia University
+L203: 
+L204: ### cite62†Collin L. Broholm L205: 
+L206: Gerhard H. Dieke Professor
+L207: #### Contact Information
+L208: 
+L209:   * cite63†[email protected] L210:   * Bloomberg 345
+L211:   * 410-516-7840
+L212: 
+L213: Research Interests: Experimental condensed matter physics, using neutron scattering
+L214: 
+L215: Education: PhD, University of Copenhagen
+L216: 
+L217: ### cite64†Brian Camley L218: 
+L219: Associate Professor
+L220: #### Contact Information
+L221: 
+L222:   * cite65†[email protected] L223:   * Bloomberg 243
+L224:   * 410-516-7683
+L225:   * cite66†Group/Lab Website†bcamley.github.io L226: 
+L227: Research Interests: Soft matter in cell biology; Physics of cell motility and sensing; collective motion
+L228: 
+L229: Education: PhD, University of California, Santa Barbara
+L230: 
+L231: ### cite67†Sean Carroll†www.preposterousuniverse.com L232: 
+L233: Homewood Professor
+L234: #### Contact Information
+L235: 
+L236:   * cite68†[email protected] L237:   * Bloomberg 455
+L238: 
+L239: Research Interests: Quantum mechanics, spacetime, emergence, and complexity
+L240: 
+L241: Education: PhD, Harvard University
+L242: 
+L243: ### cite69†Chia-Ling Chien L244: 
+L245: Jacob L. Hain Professor
+L246: 
+L247: #### Contact Information
+L248: 
+L249:   * cite70†Group/Lab Website†sites.krieger.jhu.edu L250: 
+L251: Research Interests: Experimental condensed matter physics; nanostructured solids
+L252: 
+L253: Education: PhD, Carnegie-Mellon University
+L254: ### cite71†Alessandra Corsi†www.alessandracorsi.com L255: 
+L256: W. H. Miller Professor
+L257: 
+L258: #### Contact Information
+L259: 
+L260:   * cite72†[email protected] L261:   * Bloomberg 457
+L262:   * 410-516-5464
+L263: 
+L264: Research Interests: Multi-messenger time-domain astronomy with special focus on gamma-ray bursts, core-collapse supernovae, and gravitational waves.
+L265: 
+L266: Education: PhD, University of Rome Sapienza
+L267: 
+L268: ### cite73†David DeMille (he/him/his)
+L269: 
+L270: Bloomberg Distinguished Professor
+L271: #### Contact Information
+L272: 
+L273:   * cite74†[email protected] L274:   * Bloomberg 149
+L275:   * cite75†Group/Lab Website†sites.krieger.jhu.edu L276: 
+L277: Research Interests: Atomic/molecular/optical physics; precision measurements; discrete symmetries; physics beyond the Standard Model
+L278: 
+L279: Education: PhD, University of California, Berkeley
+L280: 
+L281: ### cite76†Natalia Drichko L282: 
+L283: Professor
+L284: #### Contact Information
+L285: 
+L286:   * cite77†[email protected] L287:   * Bloomberg 333
+L288:   * 410-516-6693
+L289:   * cite78†Group/Lab Website†sites.google.com L290: 
+L291: Research Interests: Condensed Matter Physics
+L292: 
+L293: Education: PhD, Iofee Physico-Technical Institute
+L294: 
+L295: ### cite79†Joseph Eimer L296: 
+L297: Associate Research Professor; Director, Maryland Space Grant Consortium
+L298: 
+L299: #### Contact Information
+L300: 
+L301:   * cite80†[email protected] L302:   * Bloomberg 231
+L303:   * 410-516-4899
+L304: 
+L305: Research Interests: Astrophysics
+L306: 
+L307: Education: PhD, Johns Hopkins University
+L308: ### cite81†Andrei Gritsan L309: 
+L310: Professor
+L311: 
+L312: #### Contact Information
+L313: 
+L314:   * cite82†[email protected] L315:   * Bloomberg 433
+L316:   * 410-516-5070
+L317: 
+L318: Research Interests: Experimental high-energy physics; colliders
+L319: 
+L320: Education: PhD, University of Colorado at Boulder
+L321: 
+L322: ### cite83†Timothy Heckman L323: 
+L324: Dr. A. Hermann Pfund Professor Emeritus and Research Professor
+L325: #### Contact Information
+L326: 
+L327:   * cite84†[email protected] L328:   * Bloomberg 217
+L329:   * 410-516-7369
+L330: 
+L331: Research Interests: The formation and evolution of galaxies and supermassive black holes
+L332: 
+L333: Education: PhD, University of Washington
+L334: 
+L335: ### cite85†Richard Conn Henry†henry.pha.jhu.edu L336: 
+L337: Academy Professor
+L338: 
+L339: #### Contact Information
+L340: 
+L341:   * cite86†[email protected] L342: 
+L343: Research Interests: Astronomy and astrophysics
+L344: 
+L345: Education: PhD, Princeton University
+L346: 
+L347: ### cite87†Marc Kamionkowski L348: 
+L349: William R. Kenan, Jr. Professor
+L350: #### Contact Information
+L351: 
+L352:   * cite88†[email protected] L353:   * Bloomberg 439
+L354:   * 410-516-0373
+L355: 
+L356: Research Interests: Theoretical physics specializing in cosmology and particle physics
+L357: 
+L358: Education: PhD, University of Chicago
+L359: 
+L360: ### cite89†David Kaplan L361: 
+L362: Professor
+L363: 
+L364: #### Contact Information
+L365: 
+L366:   * cite90†[email protected] L367:   * Bloomberg 465
+L368:   * 410-516-4708
+L369: 
+L370: Research Interests: Theoretical particle physics and cosmology
+L371: 
+L372: Education: PhD, University of Washington
+L373: 
+L374: ### cite91†Jared Kaplan L375: 
+L376: Associate Professor
+L377: #### Contact Information
+L378: 
+L379:   * cite92†[email protected] L380:   * Bloomberg 457
+L381:   * 410-516-5464
+L382: 
+L383: Research Interests: Quantum Gravity, Conformal Field Theory, Machine Learning
+L384: 
+L385: Education: PhD, Harvard University
+L386: 
+L387: ### cite93†Julian H. Krolik L388: 
+L389: Professor
+L390: 
+L391: #### Contact Information
+L392: 
+L393:   * cite94†[email protected] L394:   * Bloomberg 531
+L395:   * 410-516-7926
+L396: 
+L397: Research Interests: Theoretical astrophysics, particularly high-energy and relativistic astrophysics
+L398: 
+L399: Education: PhD, University of California, Berkeley
+L400: ### cite95†Robert Leheny L401: 
+L402: Professor
+L403: 
+L404: #### Contact Information
+L405: 
+L406:   * cite96†[email protected] L407:   * Bloomberg 353
+L408:   * 410-516-6442
+L409: 
+L410: Research Interests: Experimental condensed matter physics; disordered materials; soft matter
+L411: 
+L412: Education: PhD, University of Chicago
+L413: 
+L414: ### cite97†Yi Li L415: 
+L416: Assistant Professor
+L417: 
+L418: #### Contact Information
+L419: 
+L420:   * cite98†[email protected] L421:   * Bloomberg 339
+L422:   * 410-516-6422
+L423:   * cite99†Group/Lab Website†www.qgmresearch.com L424: 
+L425: Research Interests: Condensed Matter Physics Theory
+L426: ### cite100†Meredith MacGregor L427: 
+L428: Vera C. Rubin Associate Professor
+L429: 
+L430: #### Contact Information
+L431: 
+L432:   * cite101†[email protected] L433:   * Bloomberg 509
+L434:   * cite102†Group/Lab Website†sites.krieger.jhu.edu L435: 
+L436: Research Interests: Observational Astronomy, Planet Formation, Exoplanets, Stellar Activity
+L437: 
+L438: Education: PhD, Harvard University
+L439: 
+L440: ### cite103†Petra Maksimovic (they/them)
+L441: 
+L442: Professor
+L443: #### Contact Information
+L444: 
+L445:   * cite104†[email protected] L446:   * Bloomberg 417
+L447:   * 410-516-3819
+L448: 
+L449: Research Interests: Experimental high-energy physics; hadron colliders
+L450: 
+L451: Education: PhD, Massachusetts Institute of Technology
+L452: 
+L453: ### cite105†Tobias Marriage (he/him/his)
+L454: 
+L455: Professor
+L456: 
+L457: #### Contact Information
+L458: 
+L459:   * cite106†[email protected] L460:   * Bloomberg 215
+L461:   * 410-516-6526
+L462: 
+L463: Research Interests: Cosmology and astrophysics
+L464: 
+L465: Education: PhD, Princeton University
+L466: 
+L467: ### cite107†Stephan McCandliss L468: 
+L469: Research Professor and Director, CAS
+L470: #### Contact Information
+L471: 
+L472:   * cite108†[email protected] L473:   * Bloomberg 119
+L474:   * 410-516-5272
+L475: 
+L476: Research Interests: Experimental astrophysics; sounding rocket space astronomy in the far UV; physics of the interstellar medium; physical properties of hot stars and their environments; astronomical instrumentation
+L477: 
+L478: Education: PhD, University of Colorado, Boulder
+L479: 
+L480: ### cite109†Tyrel M. McQueen L481: 
+L482: Professor and Henry A. Rowland Chair of Physics and Astronomy
+L483: #### Contact Information
+L484: 
+L485:   * cite110†[email protected] L486:   * Bloomberg 366, NCB 312
+L487:   * 410-516-6201
+L488: 
+L489: Research Interests: Solid state and inorganic chemistry; condensed matter physics. Joint professorship with the Department of Chemistry
+L490: 
+L491: Education: PhD, Princeton University
+L492: 
+L493: ### cite111†Brice Ménard L494: 
+L495: Professor
+L496: 
+L497: #### Contact Information
+L498: 
+L499:   * cite112†[email protected] L500:   * Bloomberg 529
+L501:   * 410-516-5743
+L502: 
+L503: Research Interests: Physics & Machine Learning, Astrophysics
+L504: 
+L505: Education: PhD, University of Paris
+L506: ### cite113†Satoru Nakatsuji†iqm.jhu.edu L507: 
+L508: Research Professor
+L509: 
+L510: #### Contact Information
+L511: 
+L512:   * cite114†[email protected] L513:   * Bloomberg 341
+L514: 
+L515: Research Interests: Experimental condensed matter physics and spintronics
+L516: 
+L517: Education: Ph. D., Kyoto University
+L518: 
+L519: ### cite115†David A. Neufeld L520: 
+L521: Research Professor and Professor Emeritus
+L522: #### Contact Information
+L523: 
+L524:   * cite116†[email protected] L525:   * Bloomberg 505
+L526:   * 410-516-8582
+L527: 
+L528: Research Interests: Theoretical astrophysics; interstellar medium, astrophysical masers
+L529: 
+L530: Education: PhD, Harvard University
+L531: 
+L532: ### cite117†Danielle Norcini (she/her)
+L533: 
+L534: Assistant Professor
+L535: 
+L536: #### Contact Information
+L537: 
+L538:   * cite118†[email protected] L539:   * Bloomberg 419
+L540:   * 410-516-4432
+L541: 
+L542: Research Interests: Experimental particle physics; neutrinos and dark matter
+L543: 
+L544: Education: PhD, Yale University
+L545: ### cite119†Colin A. Norman L546: 
+L547: Professor
+L548: 
+L549: #### Contact Information
+L550: 
+L551:   * cite120†[email protected] L552:   * Bloomberg 521
+L553:   * 410-516-7329
+L554: 
+L555: Research Interests: Theoretical Astrophysics, Observational Astronomy and Large Space Missions (Hubble, Chandra, JWST, AXIS)
+L556: 
+L557: Education: D.Phil, Oxford University
+L558: 
+L559: ### cite121†Christopher Overstreet L560: 
+L561: Assistant Professor
+L562: #### Contact Information
+L563: 
+L564:   * cite122†[email protected] L565:   * Bloomberg 141
+L566:   * cite123†Group/Lab Website†sites.google.com L567: 
+L568: Research Interests: Atomic, molecular, and optical physics
+L569: 
+L570: Education: PhD, Stanford University
+L571: 
+L572: ### cite124†Surjeet Rajendran L573: 
+L574: Associate Professor
+L575: 
+L576: #### Contact Information
+L577: 
+L578:   * cite125†[email protected] L579:   * Bloomberg 467
+L580: 
+L581: Research Interests: Theoretical particle physics
+L582: 
+L583: ### cite126†Daniel H. Reich L584: 
+L585: Professor
+L586: #### Contact Information
+L587: 
+L588:   * cite127†[email protected] L589:   * Bloomberg 245
+L590:   * 410-516-7899
+L591:   * cite128†Group/Lab Website†sites.krieger.jhu.edu L592: 
+L593: Research Interests: Experimental condensed matter physics; biological physics
+L594: 
+L595: Education: PhD, University of Chicago
+L596: 
+L597: ### cite129†Adam Riess L598: 
+L599: Bloomberg Distinguished Professor, Thomas J. Barber Professor of Physics and Astronomy, Nobel Laureate
+L600: #### Contact Information
+L601: 
+L602:   * cite130†[email protected] L603:   * Bloomberg 207
+L604:   * 410-516-4474
+L605: 
+L606: Research Interests: Observations of physical cosmology, primarily through the use of distance indicators like supernovae; measurements of dark energy and the expansion history of the universe using optical and near-infrared instruments from space and the ground
+L607: 
+L608: Education: PhD, Harvard University
+L609: 
+L610: ### cite131†Kevin Schlaufman L611: 
+L612: Associate Professor
+L613: #### Contact Information
+L614: 
+L615:   * cite132†[email protected] L616:   * Bloomberg 537
+L617:   * 410-516-3295
+L618: 
+L619: Research Interests: Galactic astronomy and exoplanets
+L620: 
+L621: Education: PhD, UC Santa Cruz
+L622: 
+L623: ### cite133†Joseph Silk L624: 
+L625: Research Professor and Homewood Professor of Physics and Astronomy
+L626: 
+L627: #### Contact Information
+L628: 
+L629:   * cite134†[email protected] L630:   * Bloomberg 517
+L631:   * 410-516-2881
+L632: 
+L633: Research Interests: Cosmology
+L634: 
+L635: Education: PhD, Harvard University
+L636: 
+L637: ### cite135†David Sing L638: 
+L639: Bloomberg Distinguished Professor
+L640: #### Contact Information
+L641: 
+L642:   * cite136†[email protected] L643:   * Bloomberg 523
+L644: 
+L645: Research Interests: Observations of exoplanets, characterizing the physics and chemistry of exoplanet atmospheres, comparative exoplanetology. Joint professorship with the Department of Earth and Planetary Science
+L646: 
+L647: Education: PhD, University of Arizona
+L648: 
+L649: ### cite137†Danielle Speller L650: 
+L651: Assistant Professor
+L652: #### Contact Information
+L653: 
+L654:   * cite138†[email protected] L655:   * Bloomberg 411
+L656:   * 410-516-0474
+L657:   * cite139†Group/Lab Website†sites.krieger.jhu.edu L658: 
+L659: Research Interests: Experimental particle physics
+L660: 
+L661: Education: PhD, University of California, Berkeley
+L662: 
+L663: ### cite140†Alex Sushkov L664: 
+L665: W. H. Miller Associate Professor
+L666: #### Contact Information
+L667: 
+L668:   * cite141†[email protected] L669:   * Bloomberg 147
+L670:   * cite142†Group/Lab Website†www.sushkov.com L671: 
+L672: Research Interests: quantum tool development
+L673: 
+L674: Education: PhD, University of California, Berkeley
+L675: 
+L676: ### cite143†Morris Swartz L677: 
+L678: Professor
+L679: 
+L680: #### Contact Information
+L681: 
+L682:   * cite144†[email protected] L683:   * Bloomberg 427
+L684:   * 410-516-5159
+L685: 
+L686: Research Interests: Experimental high-energy physics; precision tests of and searches for physics beyond the Standard Model
+L687: 
+L688: Education: PhD, University of Chicago
+L689: ### cite145†Alexander S. Szalay L690: 
+L691: Bloomberg Distinguished Professor (Director, IDIES)
+L692: 
+L693: #### Contact Information
+L694: 
+L695:   * cite146†[email protected] L696:   * Bloomberg 515
+L697:   * 410-516-7217
+L698:   * cite147†Group/Lab Website†idies.jhu.edu L699: 
+L700: Research Interests: Theoretical astrophysics; galaxy formation
+L701: 
+L702: Education: PhD, Etvs Lornd University
+L703: 
+L704: ### cite148†Oleg Tchernyshyov L705: 
+L706: Professor
+L707: #### Contact Information
+L708: 
+L709:   * cite149†[email protected] L710:   * Bloomberg 323
+L711:   * 410-516-8586
+L712: 
+L713: Research Interests: Theoretical condensed matter physics
+L714: 
+L715: Education: PhD, Columbia University
+L716: 
+L717: ### cite150†Ethan Vishniac L718: 
+L719: Research Professor
+L720: 
+L721: #### Contact Information
+L722: 
+L723:   * cite151†[email protected] L724:   * Bloomberg 501
+L725:   * 410-516-6021
+L726: 
+L727: Research Interests: Theoretical Astrophysics: magnetized turbulence, dynamos in stars and disks, and magnetic field reconnection and diffusion.
+L728: ### cite152†Benjamin D. Wandelt L729: 
+L730: Bloomberg Distinguished Professor of Cosmology and Scientific AI
+L731: 
+L732: #### Contact Information
+L733: 
+L734:   * cite153†[email protected] L735:   * Bloomberg 425
+L736: 
+L737: Research Interests: Cosmology, Physics, Astronomy, Artificial Intelligence, Statistics, and Computing. Joint professorship with the Department of Applied Mathematics and Statistics
+L738: 
+L739: Education: PhD, Imperial College
+L740: 
+L741: ### cite154†Matthieu Wyart L742: 
+L743: W. H. Miller Professor
+L744: #### Contact Information
+L745: 
+L746:   * cite155†[email protected] L747:   * Bloomberg 347
+L748: 
+L749: Research Interests: fields such as the architecture of allosteric materials, granular and suspension flows, the glass and the yielding transitions. More recently one central focus has been deep learning, in particular data structure and generative models.
+L750: 
+L751: Education: PhD, SPEC, CEA Saclay, Paris
+L752: 
+L753: ### cite156†Rosemary F.G. Wyse L754: 
+L755: Alumni Centennial Professor
+L756: #### Contact Information
+L757: 
+L758:   * cite157†[email protected] L759:   * Bloomberg 513
+L760:   * 410-516-5392
+L761: 
+L762: Research Interests: Astrophysics; galaxy formation and evolution
+L763: 
+L764: Education: PhD, Cambridge University
+L765: 
+L766: ### cite158†Nadia Zakamska L767: 
+L768: Professor
+L769: 
+L770: #### Contact Information
+L771: 
+L772:   * cite159†[email protected] L773:   * Bloomberg 507
+L774:   * 410-516-6657
+L775: 
+L776: Research Interests: Astronomy and astrophysics
+L777: 
+L778: Education: PhD, Princeton University
+L779: 
+L780: ### Leon Zaporski
+L781: 
+L782: Assistant Professor
+L783: #### Contact Information
+L784: 
+L785:   * cite160†[email protected] L786:   * Bloomberg 153
+L787:   * cite161†Group/Lab Website†zaporski-lab.github.io L788: 
+L789: Education: PhD, University of Cambridge
+L790: 
+L791: ### cite162†Yahui Zhang L792: 
+L793: Assistant Professor
+L794: 
+L795: #### Contact Information
+L796: 
+L797:   * cite163†[email protected] L798:   * Bloomberg 315
+L799: 
+L800: Research Interests: Theoretical condensed matter physics
+L801: 
+L802: Education: PhD, Massachusetts Institute of Technology
+L803: 
+L804: ### cite164†Yaojun Zhang L805: 
+L806: Assistant Professor
+L807: #### Contact Information
+L808: 
+L809:   * cite165†[email protected] L810:   * Bloomberg 251
+L811:   * 410-516-1306
+L812:   * cite166†Group/Lab Website†www.yaojunz.com L813: 
+L814: Research Interests: Biological physics theory
+L815: 
+L816: Education: PhD, University of California, San Diego
+L817: 
+L818: ## Joint Faculty
+L819: 
+L820: ### cite167†Luciana Bianchi L821: 
+L822: Research Professor
+L823: #### Contact Information
+L824: 
+L825:   * cite168†[email protected] L826:   * Bloomberg 473
+L827:   * 410-516-4009
+L828: 
+L829: Research Interests: Observational Astrophysics; hot stars; stellar populations in nearby galaxies; Ultraviolet space instrumentation; surveys
+L830: 
+L831: Education: PhD, University of Padua
+L832: 
+L833: ### cite169†William Blair L834: 
+L835: Research Professor
+L836: #### Contact Information
+L837: 
+L838:   * cite170†[email protected] L839:   * Bloomberg 473
+L840:   * 410-516-8447
+L841: 
+L842: Research Interests: Experimental astrophysics; supernova remnants; cataclysmic variable stars
+L843: 
+L844: Education: PhD, University of Michigan
+L845: 
+L846: ### cite171†Tamás Budavári†engineering.jhu.edu (he/him/his)
+L847: 
+L848: Associate Professor
+L849: #### Contact Information
+L850: 
+L851:   * cite172†[email protected] L852:   * Bloomberg 620
+L853:   * 410-516-0643
+L854: 
+L855: Research Interests: Observational cosmology; large-scale structure, galaxy clustering; galaxy properties and evolution; statistical inference and embedding; data intensive parallel computing. Joint professorship with the Department of Applied Mathematics And Statistics.
+L856: 
+L857: Education: PhD, Eotvos Lorand University
+L858: 
+L859: ### Tine Curk
+L860: 
+L861: Assistant Professor
+L862: #### Contact Information
+L863: 
+L864:   * cite173†[email protected] L865:   * Maryland Hall 101G
+L866:   * 410-516-7916
+L867: 
+L868: Research Interests: Joint professorship with the Department of Materials Science & Engineering
+L869: 
+L870: Education: PhD, University of Cambridge
+L871: 
+L872: ### cite174†Ana Damjanovic†biophysics.jhu.edu L873: 
+L874: Assistant Research Professor
+L875: #### Contact Information
+L876: 
+L877:   * cite175†[email protected] L878:   * Bloomberg 313
+L879:   * 410-516-5390
+L880:   * cite176†Group/Lab Website†sites.krieger.jhu.edu L881: 
+L882: Research Interests: Charge and energy transfer in biological systems. Joint professorship with the Department of Biophysics.
+L883: 
+L884: Education: PhD, University of Illinois
+L885: 
+

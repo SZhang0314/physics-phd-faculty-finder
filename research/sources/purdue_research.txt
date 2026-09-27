@@ -1,0 +1,126 @@
+All Research Specialties: Department of Physics and Astronomy: Purdue University (https://www.physics.purdue.edu/research/all-research-areas.html)
+citeturn126view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn124search0","lineno":null}); Total lines: 356
+L0: cite0†Skip to main content cite1†iframe†www.googletagmanager.com L1: 
+L2:   * cite2†Find Info For L3:     * cite3†Academics†www.purdue.edu L4:     * cite4†Become a Student†www.purdue.edu L5:     * cite5†Current Students†www.purdue.edu L6:     * cite6†Athletics†www.purdue.edu L7:     * cite7†About†www.purdue.edu L8:     * cite8†Careers†www.purdue.edu L9:     * cite9†Research and Partnerships†www.purdue.edu L10: 
+L11: cite10†Department of Physics and Astronomy L12:   * cite10†Home L13:   * cite11†About Us L14:     * cite12†College and Departments†www.purdue.edu L15:       * cite12†College of Science†www.purdue.edu L16:       * cite13†Department of Biological Sciences†www.bio.purdue.edu L17:       * cite14†James Tarpo Jr. and Margaret Tarpo Department of Chemistry†www.chem.purdue.edu L18:       * cite15†Department of Computer Science†www.cs.purdue.edu L19:       * cite16†Department of Earth, Atmospheric, and Planetary Sciences†www.eaps.purdue.edu L20:       * cite17†Department of Mathematics†www.math.purdue.edu L21:       * cite18†Department of Physics and Astronomy L22:       * cite19†Department of Statistics†www.stat.purdue.edu L23:     * cite20†Open Positions L24:     * cite21†Student Success L25:     * cite22†Mission and Vision L26:     * cite23†Prizes and Awards L27:     * cite24†History L28:     * cite25†Visit the Department L29:     * cite26†Contact Us L30:   * cite27†People L31:     * cite28†Faculty L32:     * cite29†Staff L33:     * cite30†Graduate Students L34:     * cite31†Research Associates and Post-docs L35:     * cite32†In Memoriam L36:     * cite33†Student Organizations L37:     * cite26†Contact Us L38:   * cite34†Research L39:     * cite34†Research Overview L40:     * cite35†Centers and Laboratories L41:     * cite36†Undergraduate Research Opportunities L42:     * cite37†Research Experience for Teachers L43:     * cite38†Graduate Student Research Assistantships L44:   * cite39†Academics L45:     * cite40†Future Students L46:     * cite41†Undergraduate Students L47:     * cite42†Graduate Students L48:     * cite43†Courses L49:     * cite44†Textbooks L50:     * cite45†CHIP†chip.physics.purdue.edu L51:   * cite46†Outreach L52:     * cite46†What We Do L53:     * cite47†Physics on the Road L54:     * cite48†Saturday Morning Astrophysics L55:     * cite49†Physics Inside Out L56:     * cite50†Sidewalk Science L57:     * cite51†Science Express L58:     * cite52†Service Learning L59:     * cite53†Quantum Open House L60:     * cite54†Support Outreach L61:   * cite55†News and Events L62:     * cite55†News L63:     * cite56†Events†www.purdue.edu L64:     * cite57†Marketing and Communications†www.purdue.edu L65:     * cite58†Social Media L66:     * cite59†Interactions Newsletter L67:   * cite60†Alumni L68:     * cite61†Alumni News L69:     * cite62†Distinguished Alumni L70:     * cite63†Outstanding Alumni L71:     * cite64†Honorary Doctorate Recipients L72:     * cite65†Giving L73:     * cite66†Alumni Resources L74:     * cite67†Keep in Touch L75:   * cite68†Resources L76:     * cite69†Business Office L77:     * cite70†Computing L78:     * cite71†Faculty Resources L79:     * cite72†Lecture Demos L80:     * cite73†Graduate Resources L81:     * cite74†Grade Submission Resources L82:     * cite75†Physics Instrument Shop L83:     * cite76†Physics Library†lib.purdue.edu L84:     * cite77†Building Safety L85:     * cite78†Lab Safety L86:     * cite41†Undergraduate Resources L87:   * cite79†Seminars L88:     * cite80†Calendar L89:     * cite81†General Colloquia L90:     * cite82†Astrophysics Seminars L91:     * cite83†Atomic, Molecular, Optical Seminars L92:     * cite84†Biophysics Seminars L93:     * cite85†Condensed Matter Seminars L94:     * cite86†Nuclear Physics Seminars L95:     * cite87†Physics Education Research Seminars L96:     * cite80†Candidate Seminars L97:     * cite88†Particle Physics Seminars L98:     * cite89†Hubert M. James Lectures L99:     * cite90†Quantum Information Science L100: # All Research Specialities
+L101: 
+L102: ## Accelerator Mass Spectrometry
+L103: 
+L104: cite91†Purdue Rare Isotope Measurement Laboratory L105: 
+L106: * * *
+L107: 
+L108: ## Applied Physics
+L109: 
+L110: Applied Physics research in our department investigates problems that have a high level of practical significance to society. Current research efforts occur at the interface of physics with biology, medicine, geology, and engineering.
+L111: ### Faculty Specializing in Applied Physics
+L112: 
+L113:   * cite92†Marc Caffee L114:   * cite93†Stephen Durbin L115:   * cite94†Jing Liu L116:   * cite95†David Nolte L117:   * cite96†Laura Pyrak-Nolte L118:   * cite97†Tiancong Zhu L119: 
+L120: #### Research Groups
+L121: 
+L122:   *     * cite98†Applied Physics Laboratory L123:     * cite99†Adaptive Optics and Biophotonics Group L124:     * cite91†PRIME Lab L125:     * Center for Sensing Science and Technology (CSST)
+L126:     * cite100†Laboratory for Applied Experimental Geophysics L127: 
+L128: * * *
+L129: ## Astrophysics & Relativity
+L130: Our astrophysics research programs investigate problems on scales from stars to galaxies to the cosmos. Current experimental interests include ultra-short-period pulsating variable stars, neutron stars, black holes, supernova remnants, interstellar medium, active galactic nuclei, relativistic jets, formation and evolution of galaxies, clusters of galaxies, cosmic background radiation, cosmic rays, dark matter, and dark energy.
+L131: Theorists explore topics in cosmology, cosmic background radiation, extra dimensions, tests of general relativity, plasma and high energy astrophysics, pulsars, active galactic nuclei, gamma ray bursts, and massive and supermassive black holes.
+L132: ### Faculty Specializing in Astrophysics and Relativity
+L133: 
+L134: #### Experimental
+L135: 
+L136:   * cite101†Kyoung-Soo Lee L137:   * cite102†Miaoyuan Liu L138:   * cite103†Danny Milisavljevic L139:   * cite104†John Peterson L140:   * cite105†Merel van 'tHoff†www.merelvanthoff.com L141: 
+L142: #### Theoretical
+L143: 
+L144:   * cite106†Paul Duffell L145:   * cite107†Dimitrios Giannios L146:   * cite108†Sergei Khlebnikov L147:   * cite109†Maxim Lyutikov L148:   * cite110†Abigail Polin†abigailpolin.com L149: 
+L150: * * *
+L151: ## Atomic, Molecular, and Optical (AMO) Physics
+L152: Atomic, Molecular, and Optical (AMO) Physics is one of the burgeoning areas in the landscape of experimental and theoretical physics. This field is concerned with understanding basic phenomena ranging from the few-body to the many-body level.
+L153: Included are processes such as chemical reactions of small molecules at ultracold temperatures, where the field begins to merge with the sister subject of chemical physics, and the behavior of quantum gases such as Bose-Einstein condensates and degenerate Fermi gases as well as Bose-Fermi mixtures, which connects with modern day condensed-matter physics.
+L154: AMO Physics also connects deeply with recent efforts worldwide in the subject of quantum information and computing, as well as the quantum teleportation and encryption of information. The physics of ultrafast laser pulses lasting less than 10^{-15} seconds, and the use of such pulses to control the behavior of quantum atomic and molecular systems, is another of these stimulating areas, ripe for new explorations.
+L155: The participation of the Purdue Physics and Astronomy Department in this dynamic subfield is presently in a growth phase, for both theory and experiment. One of the most exciting possibilities that is pervasive in nearly all aspects of AMO Physics is the idea of controlling the forces in any system through the clever application of external electromagnetic fields.
+L156: ### Faculty Specializing in AMO Physics
+L157: 
+L158: #### Experimental
+L159: 
+L160:   * cite111†Hadiseh Alaeian†engineering.purdue.edu L161:   * cite112†Daniel Elliott†engineering.purdue.edu L162:   * cite113†Jonathan Hood†www.chem.purdue.edu L163:   * cite114†Chen-Lung Hung L164:   * cite115†Tongcang Li L165:   * cite116†Qi-Yu (Grace) Liang L166:   * cite117†Vladimir Shalaev†engineering.purdue.edu L167:   * cite118†Niranjan Shivaram†physics.purdue.edu L168: #### Theoretical
+L169: 
+L170:   * cite119†Matthew Eiles L171:   * cite120†Christopher Greene L172:   * cite121†Zubin Jacob†www.electrodynamics.org L173:   * cite122†Yuli Lyanda-Geller L174:   * cite123†Francis Robicheaux L175:   * cite124†Valentin Walther†www.science.purdue.edu L176:   * cite125†Adam Wasserman†www.chem.purdue.edu L177:   * cite126†Qi Zhou†sites.google.com L178: 
+L179: * * *
+L180: 
+L181: ## Biological Physics
+L182: 
+L183: Learn more about the cite127†research in biological physics .
+L184: 
+L185: * * *
+L186: ## Condensed Matter Physics
+L187: The goals of Condensed Matter Physics consist in understanding how atoms aggregate to form materials and how electrons ultimately determine and shape the vast assortment of possible states of matter.
+L188: While pragmatically the ultimate purpose of Condensed Matter Physics is to determine experimentally, predict theoretically and tailor the properties of natural or artificial materials, from a more fundamental point of view great interest rests in making advances in the newest of frontiers, that of the physics of complex systems.
+L189: While many of the basic interactions at work in aggregates of atoms and electrons are in principle known, the sheer magnitude of the number of degrees of freedom involved leads to the emergence of completely unexpected and qualitatively new physical behavior.
+L190: Accordingly the study of Condensed Matter Physics involves not only the continuous introduction of innovative observational and fabrication techniques and devices, but also that of new physical ideas and insight in the fascinating way in which large assembly of atoms behave.
+L191: Recent developments in the field like the discovery of high temperature superconductors, the scanning tunneling microscopy, the quantum Hall effects, the Bose-Einstein condensation in atoms and the recent emergence of the nano physics paradigm have led and promise to further enhance our understanding and use of technologically relevant materials ranging from semiconductors, metals, insulators and superconductors.
+L192: This makes this broad and ever flourishing field the engine of intriguing, accelerating technological advances and discoveries.
+L193: ### Faculty Specializing in Condensed Matter Physics
+L194: 
+L195: #### Experimental
+L196: 
+L197:   * cite128†Arnab Banerjee L198:   * cite129†Gabor Csathy L199:   * Shengwang Du
+L200:   * cite93†Stephen Durbin L201:   * cite130†Oana Malis L202:   * cite131†Michael Manfra L203:   * cite99†David Nolte L204:   * cite96†Laura Pyrak-Nolte L205:   * cite132†Leonid Rokhinson L206:   * Yihang Zeng
+L207:   * cite97†Tiancong Zhu L208: #### Theoretical
+L209: 
+L210:   * cite133†Erica Carlson L211:   * Claudio Chamon (cchamon@purdue.edu)
+L212:   * cite134†Birgit Kaufmann†www.math.purdue.edu L213:   * cite122†Yuli Lyanda-Geller L214:   * cite135†Laimei Nie L215:   * cite136†Jukka Vayrynen†sites.google.com L216: 
+L217: ### Research Groups
+L218: 
+L219:   *     * cite99†Adaptive Optics and Biophotonics Group L220:     * Computational Biomolecular & Mesoscopic Physics
+L221:     * cite137†Infrared Nanostructured Devices L222: 
+L223: * * *
+L224: ## High Energy Nuclear and Particle Physics
+L225: Research in nuclear physics has a long and storied tradition at Purdue University, beginning in 1937, when one of the first cyclotrons in the United States was built by members of the Physics Department.
+L226: Understanding the strong force, responsible for the binding of atomic nuclei, is a major goal of the field. This can be accomplished by studying properties of nuclear systems over a wide range of excitation energies and densities, covering many different types of nuclear phenomena, from studies of nuclear structure to the creation of the quark-gluon plasma."
+L227: Particle physics research attempts to answer fundamental questions about the nature of space itself, the matter that fills it and the physical laws that govern its behavior and consequently, the large-scale structure and behavior of the universe. The currently most complete theoretical description of fundamental particles and their interactions is realized in the "Standard Model".
+L228: ### Faculty Specializing in High Energy Nuclear Physics and Particle Physics
+L229: 
+L230: #### Experimental
+L231: 
+L232:   * cite138†Matthew Jones L233:   * cite139†Andreas Jung L234:   * cite102†Mia Liu L235:   * cite140†Norbert Neumeister L236:   * cite104†John Peterson L237:   * cite141†Brijesh Srivastava L238:   * cite142†Fuqiang Wang L239:   * cite143†Qing Xia L240:   * cite144†Wei Xie L241: 
+L242: Theoretical
+L243: 
+L244:   * cite108†Sergei Khlebnikov L245:   * cite145†Martin Kruczenski L246:   * cite146†Nima Lashkari L247: 
+L248: ### Research Groups
+L249: 
+L250:   * cite147†High Energy Nuclear Physics Experiment L251:   * cite148†Particle Physics L252: 
+L253: * * *
+L254: ## Physics Education
+L255: Our faculty combine their knowledge of educational theory and practice with physics specific concepts to better understand how students learn and teachers teach.  The Physics Education Research group works closely with colleagues in the cite46†Physics Outreach program, the cite149†College of Education†www.education.purdue.edu , and Purdue's cite150†Discovery Learning Research Center†www.purdue.edu to implement new ideas in learning and teaching.
+L256:  Current interests include science teacher education, sociocultural influences on teaching and learning, evidence-based inquiry in teacher education, teacher knowledge and beliefs, and student attitudes and perceptions of physics.
+L257: ### Faculty Specializing in Physics Education
+L258: 
+L259:   * cite151†Sanjay Rebello L260: 
+L261: * * *
+L262: ## Planetary Physics and Geophysics
+L263: Planetary physics and geophysics research in our department explores processes that occur on spatial scales ranging microns to astronomical units and time scales from microseconds to billions of years.   Students and faculty conduct geophysical investigations into rock mechanics, acoustics of materials, hydrology and percolation physics, impact cratering, planetary tectonics, and earthquakes and landslides.  Using accelerator mass spectrometry at the department's PRIME Lab facility, we measure cosmogenic radionuclides to study meteorites, geomagnetism, glacial cycles, and geomorphology.
+L264: ### Faculty Specializing in Planetary Physics and Geophysics
+L265: 
+L266:   * cite92†Marc Caffee L267:   * cite152†Brandon Johnson†www.eaps.purdue.edu L268:   * cite153†Nat Lifton†www.eaps.purdue.edu L269:   * cite154†David Minton†www.eaps.purdue.edu L270:   * cite96†Laura Pyrak-Nolte L271: 
+L272: ### Research Groups
+L273: 
+L274:   * cite100†Laboratory for Applied Experimental Geophysics L275:   * cite91†PRIME Lab L276: ## Quantum Information Science
+L277: QIS is at the frontier of several traditional research disciplines including condensed matter physics, atomic, molecular, and optical physics, information theory, applied math and computer science, and chemistry.
+L278: QIS strives to harness the unusual quantum mechanical properties of superposition and entanglement to provide breakthrough advances for computing, secure communications, and novel device functionalities.  This new research direction within the Department of Physics and Astronomy incorporates quantum computing with superconducting qubits, spins in semiconductors and other condensed matter systems, cold atomic ions, Rydberg, photonic systems chemical physics, quantum materials, quantum algorithm research and information theoretic analysis.
+L279: ### Faculty Specializing in QIS
+L280:   * cite128†Arnab Banerjee L281:   * cite133†Erica Carlson L282:   * Claudio Chamon (cchamon@purdue.edu)
+L283:   * cite155†Xingshan Cui†www.math.purdue.edu L284:   * Colleen Delaney
+L285:   * Shengwang Du
+L286:   * cite93†Stephen Durbin L287:   * cite119†Matthew Eiles L288:   * Tyler Ellison (tdelliso@purdue.edu)
+L289:   * cite120†Christopher Greene L290:   * cite113†Jonathan Hood†www.chem.purdue.edu L291:   * cite114†Chen-Lung Hung L292:   * cite121†Zubin Jacob†www.electrodynamics.org L293:   * cite139†Andreas Jung L294:   * cite134†Birgit Kaufmann†www.math.purdue.edu L295:   * cite156†Ralph Kaufmann†www.math.purdue.edu L296:   * cite145†Martin Kruczenski L297:   * cite146†Nima Lashkari L298:   * cite115†Tongcang Li L299:   * cite157†Qi-Yu (Grace) Liang†quantum.research.purdue.edu L300:   * cite94†Jing Liu L301:   * cite122†Yuli Lyanda-Geller L302:   * cite158†Alex Ruichao Ma†www.ma-quantumlab.com L303:   * cite131†Michael Manfra L304:   * cite135†Laimei Nie L305:   * cite123†Francis Robicheaux L306:   * cite132†Leonid Rokhinson L307:   * cite117†Vladimir Shalaev†engineering.purdue.edu L308:   * cite159†Niranjan Shivaram L309:   * cite125†Adam Wasserman†www.chem.purdue.edu L310:   * cite160†Jukka Vayrynen L311:   * cite126†Qi Zhou†sites.google.com L312:   * cite97†Tiancong Zhu L313: ### Research Groups
+L314: 
+L315:   * cite161†Purdue Quantum Science and Engineering Institute†www.purdue.edu L316: 
+L317: Last Updated: Sep 3, 2026 4:01 PM
+L318: 
+L319:   * cite34†Research L320:   * cite162†Areas L321:   * cite35†Centers and Laboratories L322:   * cite79†Seminars and Colloquia L323:   * cite36†Undergraduate Research Opportunities L324:   * cite163†Research Experience for Undergraduates (REU) L325:   * cite37†Research Experience for Teachers L326: #### cite164†Purdue Resources L327: 
+L328:   * cite165†Brightspace†purdue.brightspace.com L329:   * cite166†Campus Map†www.purdue.edu L330:   * cite167†Purdue Directory†www.purdue.edu L331:   * cite168†OneCampus Portal†one.purdue.edu L332: 
+L333: #### cite169†Physics Resources L334: 
+L335:   * cite69†Business Office L336:   * cite80†Calendars L337:   * cite170†Teaching Assignments L338:   * cite171†Information Technology†www.it.purdue.edu L339: #### cite172†News & Giving L340: 
+L341:   * cite55†Physics News L342:   * cite59†Interactions Newsletter L343:   * cite173†Purdue Today†www.purdue.edu L344:   * cite65†Give to Physics L345:   * cite43†Academic Calendar L346: #### cite174†People L347: 
+L348:   * cite27†People L349:   * cite28†Faculty L350:   * cite29†Staff L351:   * cite31†Researchers/Post Docs/Visitors L352:   * cite30†Graduate Students L353: 
+L354: Department of Physics and Astronomy, 525 Northwestern Avenue, West Lafayette, IN 47907-2036 • Phone: (765) 494-3000 • Fax: (765) 494-0706
+L355: cite175†Copyright © 2026 Purdue University†www.purdue.edu | cite176†An equal access/equal opportunity university†www.purdue.edu | cite177†Copyright Complaints†www.purdue.edu | cite178†DOE Degree Scorecards†collegescorecard.ed.gov | cite179†Accessibility†www.purdue.edu 

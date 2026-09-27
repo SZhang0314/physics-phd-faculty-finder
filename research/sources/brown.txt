@@ -1,0 +1,558 @@
+Faculty | Department of Physics | Brown University (https://physics.brown.edu/about/people/faculty)
+citeturn65view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://physics.brown.edu/about/people/faculty","lineno":null}); Total lines: 752
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Skip to Main Content L3: 
+L4: cite2†Brown University†www.brown.edu L5: 
+L6: # cite3†Physics L7: 
+L8: ## Secondary Navigation Navigation
+L9: 
+L10:   * cite4†Give to Physics†bbis.advancement.brown.edu L11: 
+L12: cite5†Search cite6†Menu L13: ## Site Navigation
+L14: 
+L15:   * cite7†About L16: 
+L17:     * cite8†People L18:     * cite9†Chair's Message L19:     * cite10†Our Facilities L20:     * cite11†Ladd Observatory L21:     * cite12†Physics Student Groups; Faculty, Student and Staff Resources L22:     * cite13†Diversity & Inclusion L23:     * cite14†Mission L24:     * cite15†Contact Us L25: 
+L26:   * cite16†Academics L27: 
+L28:     * cite17†Instruction & Courses L29:     * cite18†Undergraduate L30:     * cite19†Graduate L31:     * cite20†Special Topics Schools L32: 
+L33:   * cite21†Research L34:     * cite22†Astrophysics & Cosmology L35:     * cite23†Biological Physics L36:     * cite24†Condensed Matter Experiment L37:     * cite25†Condensed Matter Theory L38:     * cite26†Elementary Particle Experiment L39:     * cite27†High Energy Theory L40:     * cite28†Research ​​Centers L41: 
+L42:   * cite29†News & Events L43: 
+L44:     * cite30†Events L45:     * cite31†Colloquia L46:     * cite32†Condensed Matter and Biophysics Seminars L47:     * cite33†Looking Back: Physics News 2024 - 2012 L48:     * cite34†Imagine: Brown Physics Magazine L49:     * cite35†Conferences L50: 
+L51:   * cite36†Prospective Students L52:     * cite37†For Prospective Master's Students L53:     * cite38†For Prospective PhD Students L54:     * cite39†For Prospective Undergraduate Concentrators L55:     * cite40†Uniquely Brown Physics: Courses found only at Brown L56:     * cite41†Why Physics? L57: 
+L58: cite5†Search L59: 
+L60: Physics
+L61: # Faculty
+L62: ## Professors of Physics
+L63: 
+L64: Back to Top
+L65: 
+L66:   * ### cite42†Vesna Mitrović†vivo.brown.edu L67: 
+L68: Department Chair, L. Herbert Ballou University Professor of Physics & Engineering
+L69: 
+L70: vesna_mitrovic@brown.edu
+L71: 
+L72: 401-863-2644 / 401-863-2587
+L73: 
+L74: Barus & Holley 402 / Barus & Holley 337
+L75: Professor Mitrović is an experimental condensed matter physicist. Her research interests include the study of quantum phenomena arising in strongly correlated electron systems at low temperatures and high magnetic fields using magnetic resonance techniques.
+L76: 
+L77:   * ### cite43†Stephon Alexander†vivo.brown.edu L78: 
+L79: Professor of Physics
+L80: 
+L81: stephon_alexander@brown.edu
+L82: 
+L83: 401-863-6803
+L84: 
+L85: Barus & Holley, 506
+L86: Professor Alexander is a theoretical physicist specializing in the interface between cosmology, particle physics, and quantum gravity (String Theory and Loop Quantum Gravity).
+L87: 
+L88:   * ### cite44†Ian Dell'Antonio†vivo.brown.edu L89: 
+L90: Professor of Physics, Undergraduate Concentration Advisor
+L91: 
+L92: ian_dell'antonio@brown.edu
+L93: 
+L94: 401-863-1154
+L95: 
+L96: Professor Dell'Antonio's research centers on observational cosmology, the experimental measurement of the fundamental properties of the universe.
+L97: 
+L98:   * ### cite45†JiJi Fan†vivo.brown.edu L99: Associate Professor of Physics
+L100: 
+L101: jiji_fan@brown.edu
+L102: 
+L103: 401-863-2623
+L104: 
+L105: Barus & Holley 529
+L106: 
+L107: Professor Fan works on particle theories, particularly beyond Standard Model theories such as Higgs phenomenology, supersymmetry, dark matter models and signatures.
+L108: 
+L109:   * ### cite46†Dmitri Feldman†vivo.brown.edu L110: 
+L111: Professor of Physics, Director of Graduate Studies (Spring 2027)
+L112: 
+L113: dmitri_feldman@brown.edu
+L114: 
+L115: 401-863-3056
+L116: Professor Feldman handles all Ph.D. program and student issues, including degree requirements and milestone completion, transfer credit, etc.
+L117: 
+L118: Professor Feldman is a theoretical condensed matter physicist, with emphasis on strongly correlated electronic low-dimensional systems, topological solids, and quenched disorder in hard and soft condensed matter.
+L119: 
+L120:   * ### cite47†Richard Gaitskell†vivo.brown.edu L121: 
+L122: Hazard Professor of Physics
+L123: 
+L124: richard_gaitskell@brown.edu
+L125: 
+L126: 401-863-9783
+L127: 
+L128: Barus & Holley 516
+L129: Professor Gaitskell leads a research team hunting for direct evidence of particle dark matter. His group is working on an experiment, LUX, that has the world's most sensitive dark matter detector located in the underground laboratories in the Sanford Lab, South Dakota.
+L130: 
+L131:   * ### cite48†Loukas Gouskos†vivo.brown.edu L132: 
+L133: Associate Professor of Physics
+L134: 
+L135: loukas_gouskos@brown.edu
+L136: 
+L137: 401-863-2683
+L138: 
+L139: Barus & Holley 504
+L140: Professor Gouskos specializes in experimental particle physics, with a primary focus on studying the properties of the Higgs boson and searching for physics beyond the standard model. Leveraging cutting-edge Deep Learning techniques, his research extends to diverse areas within particle physics.
+L141: 
+L142:   * ### cite49†Ulrich Heintz†vivo.brown.edu L143: 
+L144: Professor of Physics
+L145: 
+L146: ulrich_heintz@brown.edu
+L147: 
+L148: 401-863-6817
+L149: 
+L150: Barus & Holley 510
+L151: Professor Heintz is an experimental physicist studying the fundamental building blocks of matter. His interest is in testing the validity of the standard model of elementary particle physics at very high energies.
+L152: 
+L153:   * cite50†Image: A. Hui L154: ### Aaron Hui
+L155: 
+L156: Assistant Professor
+L157: 
+L158: Aaron_hui@brown.edu
+L159: 
+L160: 401-863-2983
+L161: 
+L162: Barus 203
+L163: 
+L164: Professor Hui is a theoretical condensed matter physicist. He studies strongly correlated and topological systems, with an emphasis on electron transport and phase transitions.
+L165: 
+L166:   * ### cite51†Antal Jevicki†vivo.brown.edu L167: 
+L168: Professor of Physics
+L169: 
+L170: antal_jevicki@brown.edu
+L171: 
+L172: 401-863-2624
+L173: 
+L174: Barus Building (340 Brook Street), 115
+L175: Professor Jevicki's research is in quantum field theory focusing on string theory, quantum gravity, black holes, non-perturbative and collective phenomena.
+L176: 
+L177:   * ### cite52†Savvas Koushiappas†vivo.brown.edu L178: 
+L179: Professor of Physics, Director of Graduate Studies (Fall 2026)
+L180: 
+L181: savvas_koushiappas@brown.edu
+L182: Professor Koushiappas' theoretical work is in the interface between cosmology and particle physics. His work is predominantly in the area of dark matter physics and the search for the nature of the dark matter particle from an experimentally-motivated theoretical perspective.
+L183: 
+L184:   * ### cite53†Matthias Kuehne†vivo.brown.edu L185: 
+L186: Assistant Professor of Physics, Christopher M. Barter Assistant Professor of Physics
+L187: 
+L188: kuehne@brown.edu
+L189: 
+L190: 401-863-1010
+L191: 
+L192: Barus & Holley 718
+L193: Professor Kuehne is an experimental condensed matter physicist. He investigates electronics, ionics, and fluidics in low-dimensional materials and devices.
+L194: 
+L195:   * ### cite54†Greg Landsberg†vivo.brown.edu L196: 
+L197: Thomas J Watson Sr., Professor of Physics
+L198: 
+L199: greg_landsberg@brown.edu
+L200: 
+L201: 401-863-1464
+L202: 
+L203: Barus & Holley 526
+L204: Professor Landsberg's experimental research is in broad areas of beyond the standard model and Higgs physics, including exotic Higgs boson decays, searches for dark matter, supersymmetry, exotic particles, extra spatial dimensions, and black holes.
+L205: 
+L206:   * ### cite55†Xinsheng Sean Ling†vivo.brown.edu L207: 
+L208: Professor of Physics
+L209: 
+L210: xinsheng_ling@brown.edu
+L211: 
+L212: 401-863-2582
+L213: 
+L214: Barus & Holley 710
+L215: Professor Ling is an experimental condensed matter physicist.  His current research interests are in defect dynamics and glassy behavior in colloidal matter.  He also has longstanding interests in the effects of impurities and fluctuations in superconductors.
+L216: 
+L217:   * ### cite56†David Lowe†vivo.brown.edu L218: 
+L219: Professor of Physics
+L220: 
+L221: david_lowe@brown.edu
+L222: 
+L223: 401-863-2618
+L224: 
+L225: Barus & Holley 549
+L226: Professor Lowe is a high-energy theorist who primarily studies fundamental questions in quantum gravity of relevance to black holes and quantum cosmology.
+L227: 
+L228:   * ### cite57†Brad Marston†vivo.brown.edu L229: 
+L230: Professor of Physics, Harrison E. Farnsworth Professor of Physics
+L231: 
+L232: john_marston@brown.edu
+L233: 
+L234: 401-863-2061
+L235: 
+L236: Barus Building (340 Brook Street), 205
+L237: Professor Marston is a theoretical condensed matter physicist. His research focuses on the non-equilibrium statistical physics of atmospheres and oceans for the purpose of understanding climate and climate change. He also studies strongly correlated electronic systems.
+L238: 
+L239:   * cite58†Image: leenoy meshulam L240: ### Leenoy Meshulam
+L241: 
+L242: June and Howard Zimmerman Assistant Professor of Physics, Neuroscience and Brain Science
+L243: 
+L244: leenoy_meshulam@brown.edu
+L245: 
+L246: 401-863-1485
+L247: 
+L248: Barus Building 201
+L249: Professor Meshulam is a theoretical biological physicist who seeks the physical principles by which large-scale neural dynamics—and more broadly, living processes—give rise to computation and behavior. She develops models that connect microscopic interactions to emergent function, drawing on ideas from statistical physics such as renormalization-group theory, maximum-entropy modeling, and information theory.
+L250: Working closely with experimentalists on systems ranging from mammalian brain circuits to the color-shifting skin of octopuses, her group turns high-resolution data into quantitative, testable laws of living, thinking matter.
+L251: 
+L252: 
+L253: 
+L254: 
+L255:   * ### cite59†Robert Pelcovits†vivo.brown.edu L256: 
+L257: Professor of Physics, Honors Coordinator
+L258: 
+L259: robert_pelcovits@brown.edu
+L260: 
+L261: 401-863-1432
+L262: 
+L263: Barus & Holley 333
+L264: 
+L265: Professor Pelcovits is a theoretical condensed matter physicist. His research focuses on the physics of liquid crystals and topological defects, dynamics, and self-assembly in biological systems, using numerical simulations and visualizations.
+L266: 
+L267:   * ### cite60†Kemp Plumb†vivo.brown.edu L268: 
+L269: Associate Professor of Physics, Director of Master's Program
+L270: kemp_plumb@brown.edu
+L271: 
+L272: 401-863-5815
+L273: 
+L274: Professor Plumb handles all Sc.M. program and student issues, including admission, advising, degree requirements, etc.
+L275: 
+L276: Professor Plumb is an experimental condensed matter physicist. He uses neutron and x-ray spectroscopies to discover new collective electronic and magnetic phenomena arising in quantum materials.
+L277: 
+L278:   * ### cite61†Jonathan Pober†vivo.brown.edu L279: 
+L280: Associate Professor of Physics
+L281: 
+L282: jonathan_pober@brown.edu
+L283: 
+L284: 401-863-1301
+L285: 
+L286: Barus & Holley 518
+L287: Professor Pober is an experimental astrophysicist. His research focuses on the history of the universe through observations of neutral hydrogen on cosmic scales. He develops ultrasensitive radio telescopes for his astronomical observation.
+L288: 
+L289:   * cite62†Image: Jennifer Roloff L290: ### Jennifer Roloff
+L291: 
+L292: Assistant Professor of Physics
+L293: 
+L294: jennifer_roloff@brown.edu
+L295: 
+L296: 401-863-2634
+L297: 
+L298: Barus & Holley 524
+L299: 
+L300: Professor Roloff is an experimental particle physicist working on the CMS experiment. Her work focuses on precision tests of QCD, searches for physics beyond the Standard model, and novel reconstruction and calibration methods for jets.
+L301: 
+L302:   * ### cite63†Marcus Spradlin†vivo.brown.edu L303: 
+L304: Professor of Physics, Concentration Advisor
+L305: 
+L306: marcus_spradlin@brown.edu
+L307: 
+L308: 401-863-1468
+L309: 
+L310: Barus & Holley 531
+L311: Professor Spradlin is a theoretical high-energy physicist, working on string theory, quantum gravity, and mathematical aspects of quantum field theory.
+L312: 
+L313:   * ### cite64†Jay Tang†vivo.brown.edu L314: 
+L315: Professor of Physics & Engineering, Concentration Advisor
+L316: 
+L317: jay_tang@brown.edu
+L318: 
+L319: 401-863-2292
+L320: 
+L321: Barus & Holley 702
+L322: Professor Tang is an experimental biological physicist. His research focuses on cell mechanics and mobility and addressing outstanding questions on morphology, pattern formation, force generation and mobility of bacteria and other cells.
+L323: 
+L324:   * ### cite65†Gregory Tucker†vivo.brown.edu L325: 
+L326: Professor of Physics
+L327: 
+L328: gregory_tucker@brown.edu
+L329: 
+L330: 401-863-1441
+L331: 
+L332: Barus & Holley 520
+L333: Professor Tucker is an experimental astrophysicist. His cosmology group studies the universe by measuring the cosmic microwave background (CMB) and by intensity mapping of neutral hydrogen. He is also interested in measuring the characteristics of exoplanets.
+L334: 
+L335:   * ### cite66†James Valles, Jr.†vivo.brown.edu L336: 
+L337: Professor of Physics, Undergraduate Concentration Advisor
+L338: 
+L339: james_valles_jr@brown.edu
+L340: 
+L341: 401-863-7559
+L342: 
+L343: Barus & Holley 722
+L344: Professor Valles is an experimental condensed matter physicist. He studies superconductivity and electron correlation effects in disordered metals and nanostructures. He also investigates effects of strong magnetic fields in cell biology and bio-polymerization.
+L345: 
+L346:   * ### cite67†Anastasia Volovich†vivo.brown.edu L347: 
+L348: Professor of Physics
+L349: 
+L350: anastasia_volovich@brown.edu
+L351: 
+L352: Professor Volovich works on theoretical physics: quantum field theory, general relativity, string theory and related areas in mathematics.
+L353:   * ### cite68†Gang Xiao†vivo.brown.edu L354: 
+L355: Ford Foundation Professor of Physics & Engineering
+L356: 
+L357: gang_xiao@brown.edu
+L358: 
+L359: 401-863-2586
+L360: 
+L361: Barus & Holley 720
+L362: 
+L363: Professor Xiao is an experimental condensed matter physicist, focusing on nanoscale physics and devices. He studies spin-based electronic systems, electron transport in low dimensional systems, and magnetism in artificial and self-assembled systems.
+L364: ## Research Faculty
+L365: 
+L366: Back to Top
+L367: 
+L368: ## Assistant Professors (Research)
+L369: 
+L370:   * ### cite69†Gaetano Barone†vivo.brown.edu L371: 
+L372: Assistant Professor of Physics (Research)
+L373: 
+L374: Gaetano_Barone@brown.edu
+L375: 
+L376:   * ### cite70†Matt LeBlanc†vivo.brown.edu L377: 
+L378: Assistant Professor of Physics (Research)
+L379: 
+L380: Matt_LeBlanc@brown.edu
+L381: 
+L382:   * ### Adrien Rosuel
+L383: 
+L384: Assistant Professor of Physics (Research)
+L385: 
+L386: Adrien_Rosuel@brown.edu
+L387: ## Distinguished Senior Research Scientist
+L388: 
+L389:   * ### Gabriele Benelli
+L390: 
+L391: Distinguished Senior Research Scientist
+L392: 
+L393: Gabriele_Benelli@brown.edu
+L394: 
+L395: ## Senior Research Associates
+L396: 
+L397:   * ### Pushkaraj Joshi
+L398: 
+L399: Senior Research Associate
+L400: 
+L401: Pushkaraj_Joshi@brown.edu
+L402: 
+L403:   * ### Andrei Korotkov
+L404: 
+L405: Senior Research Associate
+L406: 
+L407: Andrei_Korotkov@brown.edu
+L408: ## Research Associates
+L409: 
+L410:   * ### Jingyu Luo
+L411: 
+L412: Research Associate
+L413: 
+L414: Jingyu_Luo@brown.edu
+L415: 
+L416:   * ### Spandan Mondal
+L417: 
+L418: Research Associate
+L419: 
+L420: Spandan_Mondal@brown.edu
+L421: 
+L422:   * ### Jan Offermann
+L423: 
+L424: Research Associate
+L425: 
+L426: Jan_Offermann@brown.edu
+L427: 
+L428:   * ### Marko Stamenkovic
+L429: 
+L430: Research Associate
+L431: 
+L432: Marko_Stamenkovic@brown.edu
+L433: 
+L434: ## Visiting and Adjunct
+L435: 
+L436: Back to Top
+L437: ## Joint and Affiliated Faculty
+L438: 
+L439:   * ### Lucas Caretta
+L440: 
+L441: Assistant Professor of Engineering and Physics
+L442: 
+L443: Lucas_Caretta@brown.edu
+L444: 
+L445:   * ### Carina Curto
+L446: 
+L447: Professor of Computational Neuroscience, Applied Mathematics and Physics
+L448: 
+L449:   * ### cite71†Daniel Mittleman†vivo.brown.edu L450: 
+L451: Professor of Engineering and Physics
+L452: 
+L453: daniel_mittleman@brown.edu
+L454: 
+L455:   * ### Arto Nurmikko
+L456: 
+L457: Professor of Engineering and Physics
+L458: 
+L459: Arto_Nurmikko@brown.edu
+L460: 
+L461:   * ### Domenico Pacifici
+L462: 
+L463: Associate Professor of Engineering and Physics
+L464: Domenico_Pacifici@brown.edu
+L465: 
+L466:   * ### Thomas Powers
+L467: 
+L468: Professor of Engineering and Physics
+L469: 
+L470: Thomas_Powers@brown.edu
+L471: 
+L472:   * ### Brenda Rubenstein
+L473: 
+L474: Professor of Chemistry and Physics
+L475: 
+L476: Brenda_Rubenstein@brown.edu
+L477: 
+L478:   * ### Richard Stratt
+L479: 
+L480: Professor of Chemistry and Physics
+L481: 
+L482: Richard_Stratt@brown.edu
+L483: 
+L484:   * ### Jingming Xu
+L485: 
+L486: Professor of Engineering and Physics
+L487: 
+L488: Jimmy_Xu@brown.edu
+L489: 
+L490:   * ### Alexander Zaslavsky
+L491: 
+L492: Professor of Engineering and Physics
+L493: 
+L494: Alexander_Zaslavsky@brown.edu
+L495: 
+L496:   * ### Rashid Zia
+L497: Professor of Engineering and Physics
+L498: 
+L499: Rashid_Zia@brown.edu
+L500: ## Adjunct Faculty
+L501: 
+L502:   * ### Oludurotimi Adetunji
+L503: 
+L504: Adjunct Assistant Professor
+L505: 
+L506: Oludurotimi_Adetunji@brown.edu
+L507: 
+L508:   * ### Miquel Dorca
+L509: 
+L510: Adjunct Lecturer
+L511: 
+L512: Miquel_Dorca@brown.edu
+L513: 
+L514:   * ### Jan Tobochnik
+L515: 
+L516: Adjunct Professor of Physics
+L517: 
+L518: Jan_Tobochnik@brown.edu
+L519: ## Visiting Faculty
+L520: 
+L521:   * ### Luka Lambrecht
+L522: 
+L523: Visiting Research Associate
+L524: 
+L525: Luka_Lambrecht@brown.edu
+L526: 
+L527:   * ### Jia (Leo) Li
+L528: 
+L529: Visiting Associate Professor of Physics
+L530: 
+L531: jia_li@brown.edu
+L532: 
+L533:   * ### Yong P. Chen
+L534: 
+L535: Visiting Professor of Physics, Villum Investigator and Professor at the Department of Physics and Astronomy at Aarhus University
+L536: 
+L537: ## Emeritus
+L538: 
+L539: Back to Top
+L540: 
+L541:   * cite72†Image: J. Baird L542: ### James C. Baird
+L543: 
+L544: james_baird@brown.edu
+L545: 
+L546:   * ### cite73†David Cutts†vivo.brown.edu L547: 
+L548: david_cutts@brown.edu
+L549: 
+L550:   * ### cite74†J. Michael Kosterlitz†vivo.brown.edu L551: 
+L552: j_kosterlitz@brown.edu
+L553: 
+L554:   * ### cite75†Frank S. Levin L555: 
+L556: frank_levin@brown.edu
+L557: 
+L558:   * ### cite76†George Seidel L559: 
+L560: george_seidel@brown.edu
+L561: 
+L562:   * ### cite77†Derek Stein†vivo.brown.edu L563: 
+L564: derek_stein@brown.edu
+L565: 
+L566:   * cite78†Image: See-Chen Ying L567: 
+L568: ### See-Chen Ying
+L569: 
+L570: see-chen_ying@brown.edu
+L571: ## In Memoriam
+L572: 
+L573: Back to Top
+L574: 
+L575:   * ### Leon N. Cooper
+L576: 
+L577: Nobel Laureate, 1972, Professor Emeritus, Biological Physics
+L578: 
+L579: cite79†Professor Leon Cooper L580: 
+L581:   * ### cite80†Charles Elbaum L582: 
+L583: Professor Emeritus
+L584: Professor Elbaum received the Master's and Ph.D. degrees from the University of Toronto. He was a Research Fellow at the University of Toronto and at Harvard University before joining the faculty at Brown University in 1959. He then also conducted research at the University of Paris. Professor Elbaum was a frequent advisor to government and industrial research laboratories and was a Fellow of the American Physical Society. Professor Elbaum served as Chairperson of the Physics Department from 1980 to 1986.
+L585: In 1991 he was appointed the Hazard Professor of Physics.
+L586:   * ### Peder Estrup
+L587: 
+L588: Professor Emeritus
+L589: 
+L590: Peder Jan Estrup, age 94, Professor Emeritus of Chemistry and Physics and Dean Emeritus of the Graduate School and Research, passed away on Thursday, September 18, 2025.
+L591: 
+L592: Professor Estrup was born in Copenhagen, Denmark, and published over 100 papers, receiving numerous awards and accolades. The Nobel Prize Committee invited him to submit proposals in both chemistry and physics.
+L593: 
+L594:   * ### cite81†Herbert Fried L595: 
+L596: Professor Emeritus
+L597: cite82†Professor Herbert Fried†www.nardolillofh.com joined the department in 1964, specializing in functional methods developed by Schwinger and others.
+L598: According to his obituary, he authored four books and approximately one hundred and forty scientific papers. He knew personally many twentieth-century physics luminaries including Robert Oppenheimer, Freeman Dyson, and, especially, Julian Schwinger. He lectured and performed research in university departments and institutes throughout the world, principally in Paris, Marseille, and Nice, and was Director of the Workshops on Non-Perturbative Quantum Chromodynamics at the American University of Paris and La Citadelle of Villefranche-sur-mer.
+L599: He continued active research throughout his life, completing his fourth book in 2014 at age 84 and publishing scientific papers well into his 90s.
+L600:   * ### cite83†Gerald Guralnik L601: 
+L602: Professor
+L603: 
+L604: Professor cite84†Gerald S. Guralnik†news.brown.edu , a revered member of the Brown faculty for 47 years whose theoretical work helped complete the Standard Model of particle physics, died Saturday, April 26, 2014. He was 77.
+L605: 
+L606: Guralnik, the Chancellor’s Professor of Physics at Brown, was a leading theorist in the field of elementary particle theory and made enduring contributions to the understanding of mass in the universe.
+L607: 
+L608:   * ### cite85†Kyungsik Kang L609: 
+L610: Professor
+L611: Professor Kyungsik Kang died on Monday, May 8, 2006. He graduated from Seoul National University in 1959, where he received the SNU President's Award (Gold Medal). He then received the Ph.D. degree from Indiana University in 1964. A physics professor for 41 years, Prof. Kang retired from teaching in 2005.
+L612: Professor Kang's influence extended beyond national borders. He was a fellow of The American Physical Society, The Korea Academy of Science and Technology, the Korean Association for the Advancement of Sciences, and the Korean Physical Society. His international recognition was further solidified by his service as president of the Seoul National University Alumni Association in New England and the National Association of Korean Schools. He served on the board of directors for the R.I.
+L613: Korean American Association, the Korea-U.S. Science Cooperation Center and was a council member of the Advisory Council for Democratic and Peaceful Re-Unification of Korea. Prof. Kang was awarded The Cameliia Medal (Legion of Honor) from the Government of Korea, an Official Citation from the State of RI, and the Honorary Citizenship Award (as an Exceptional Overseas Korean) from The Metropolitan Government of Seoul, Korea.
+L614:   * ### cite86†Robert Lanou L615: 
+L616: Professor Emeritus
+L617: Professor Robert Lanou passed away on August 17, 2026. He was a member of the Brown faculty since 1959, Professor Lanou was a Fellow of the American Physical Society and the American Association for the Advancement of Science. He was previously on the staff of the University of California, Berkeley, a Visiting Fellow in the Italian National Universities at Padua and Bari, FNAL, Osaka University, Japan, and the Center for Particle Astrophysics (Berkeley).
+L618: He had served on the High Energy Physics Program Advisory Committee of several National Laboratories, as well as the Executive Committee of the A.P.S. Division of Particles and Fields. He was a graduate of Worcester Polytechnic Institute and received the Ph.D. from Yale University. Professor Lanou was Chairman of the Physics Department from 1986 -1992.
+L619:   * ### cite87†Humphrey Maris†vivo.brown.edu L620: 
+L621: Professor Emeritus
+L622: 
+L623: Professor Humphrey John Maris, 86, passed away on July 28, 2025. Born and raised in England, he earned a Ph.D in physics at Imperial College, London in 1963 and moved to the United States shortly after.
+L624: Professor Maris joined the Brown Department of Physics faculty in 1965, where he remained until his retirement in 2014. For his research, he received many awards, including cite88†Brown's inaugural Impact Award for being the most successful inventor in Brown University history.
+L625: 
+L626:   * ### cite89†Meenakshi Narain L627: 
+L628: Professor
+L629: cite90†Professor Meenakshi Narain†www.brown.edu earned her Ph.D. in Physics from the State University of New York, Stony Brook. She had an Sc.B. degree from Gorakhpur University in India and an Sc.M. in Physics from Indian Institute of Technology, Kanpur, India. In 2012, she was elected a Fellow of the LHC Physics Center at Fermilab, where she served as Coordinator promoting collaboration with colleagues from South America, Europe, India, and Iran.
+L630: In 2000, she earned an Outstanding Junior Investigator Award from the U.S. Department of Energy (DOE) and a National Science Foundation Faculty Early Career Development Award
+L631: Professor Narain joined the Brown University Department of Physics faculty in 2007 and was the first woman to chair the department, beginning on July 1, 2022.
+L632: ##### cite90†News from Brown†www.brown.edu L633: 
+L634: Meenakshi Narain, an accomplished high-energy experimentalist and a longtime professor of physics at Brown University, died on Sunday, Jan. 1, at age 58. Narain joined Brown’s Department of Physics faculty in 2007 and had served as department chair since July 2022 — the first woman to hold that role in the department’s history.
+L635: A prominent physicist who collaborated with researchers across the globe, Narain was cite91†deeply involved with the Compact Muon Solenoid (CMS) experiment†www.brown.edu at the Large Hadron Collider particle accelerator at CERN in Switzerland, as well as the DØ experiment at Fermilab, the U.S. Department of Energy’s particle physics and accelerator laboratory.
+L636: Narain conducted pioneering research on the Higgs Boson, which upon its discovery in 2012 was the final missing piece in the Standard Model of particle physics. An author on more than 850 peer-reviewed studies in leading physics journals, she spearheaded a multidisciplinary effort to bring advanced quantum sensing and quantum computing techniques to high-energy physics, and was instrumental in discovering the top quark, the heaviest fundamental particle, in 1995.
+L637: Vesna Mitrovic, a professor of physics and engineering at Brown, said that much of Narain’s success stemmed from the courage to tackle complex questions in physics: “Often, it’s easy to find a million reasons why you shouldn’t take on a particular challenge — it’s too difficult, or it will take too much time,” Mitrovic said. “This was not Meenakshi. She’d say: ‘What is it that we could do better? Let’s jump on it.”
+L638: Mitrovic said that Narain brought a unique mix of kindness, generosity and a drive for excellence and professionalism. She was demanding, Mitrovic said, but would support her students and faculty colleagues in meaningful and concrete ways.
+L639: “She was a truly special, amazing friend to me,” Mitrovic said. “What I really appreciated was that in the physics department, we worked as professional colleagues and even when we didn’t agree, she was amazingly professional. For someone to be that warm of a friend and human outside of the department, yet when it comes to work to be so incredibly ethical and professional, that’s unique. This is what made Meenakshi so successful.”
+L640: cite92†Image: Meenakshi Narain†www.brown.edu Narain was deeply involved with the Compact Muon Solenoid (CMS) experiment at the Large Hadron Collider particle accelerator at CERN in Switzerland, as well as the DØ experiment at Fermilab, the U.S. Department of Energy’s particle physics and accelerator laboratory.
+L641: In an “In Memoriam” cite93†tribute†news.fnal.gov published by Fermilab, the United States leadership team on the CMS experiment noted that Narain’s “impact on CMS has been immeasurable and her many contributions have been critical to the success of the collaboration.” Narain had served as a member of the CMS Management Board as the U.S. regional representative, chair of the U.S. CMS Collaboration, and a leader of the CMS group from Brown.
+L642: She was also a founding chair of the CMS Diversity Office and a leader of the CMS Women’s Forum.
+

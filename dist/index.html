@@ -1,179 +1,265 @@
 <!doctype html>
 <html lang="zh-CN">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta
-      name="description"
-      content="美国 QS 前 30 院校物理学 PhD 导师线索库：30 所大学、30 位代表性教授/研究员，附官方主页与研究方向筛选。"
-    />
-    <meta name="theme-color" content="#07111f" />
-    <title>Physics PhD Atlas｜美国 QS 前 30 物理导师线索</title>
-    <link
-      rel="icon"
-      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%2307111f'/%3E%3Ccircle cx='32' cy='32' r='5' fill='%23ffca6a'/%3E%3Cellipse cx='32' cy='32' rx='23' ry='9' fill='none' stroke='%236ee7f2' stroke-width='3'/%3E%3Cellipse cx='32' cy='32' rx='9' ry='23' fill='none' stroke='%236ee7f2' stroke-width='3' transform='rotate(40 32 32)'/%3E%3C/svg%3E"
-    />
-    <link rel="stylesheet" href="styles.css" />
-  </head>
-  <body>
-    <a class="skip-link" href="#results">跳到导师列表</a>
-
-    <header class="site-header">
-      <a class="brand" href="#top" aria-label="返回页面顶部">
-        <span class="brand-mark" aria-hidden="true">
-          <span class="orbit orbit-a"></span>
-          <span class="orbit orbit-b"></span>
-          <span class="nucleus"></span>
-        </span>
-        <span>
-          <strong>Physics PhD Atlas</strong>
-          <small>美国导师线索 · 2027 QS 口径</small>
-        </span>
-      </a>
-      <a class="header-link" href="#method">数据说明</a>
-    </header>
-
-    <main id="top">
-      <section class="hero" aria-labelledby="hero-title">
-        <div class="hero-copy">
-          <p class="eyebrow">PHYSICS · PHD · SHORTLIST</p>
-          <h1 id="hero-title">从学校排名出发，<br />把注意力落到<span>研究匹配</span>上。</h1>
-          <p class="hero-intro">
-            按 2027 QS 世界大学排名筛出美国排名最高的 30 所院校，每校选择 1 位物理学相关、具有官方机构主页的代表性教授或研究员。它是一份申请起点，不是录取或招生承诺。
-          </p>
-          <div class="hero-actions">
-            <a class="button primary" href="#explore">开始筛选</a>
-            <a
-              class="button ghost"
-              href="https://www.topuniversities.com/qs-top-uni-wur"
-              target="_blank"
-              rel="noreferrer"
-            >查看 QS 官方排名 ↗</a>
-          </div>
-        </div>
-
-        <div class="field-map" aria-label="四个研究方向组成的选校坐标图">
-          <div class="map-grid" aria-hidden="true"></div>
-          <span class="map-axis axis-x">实验 ← 方法 → 理论</span>
-          <span class="map-axis axis-y">尺度：宇宙 → 量子</span>
-          <div class="map-node node-a"><b>AMO</b><small>原子·光学·量子</small></div>
-          <div class="map-node node-b"><b>CM</b><small>凝聚态·材料</small></div>
-          <div class="map-node node-c"><b>HEP</b><small>粒子·宇宙</small></div>
-          <div class="map-node node-d"><b>ASTRO</b><small>天体·引力</small></div>
-          <div class="map-pulse" aria-hidden="true"></div>
-        </div>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="按学校浏览美国 QS 前 30 高校的物理教授、研究方向与重点实验室。">
+  <meta name="theme-color" content="#071f33">
+  <title>美国 QS 前 30 物理 PhD 导师地图</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到正文</a>
+  <header class="site-header"><a class="brand" href="index.html"><span class="brand-mark">φ</span><span>Physics PhD Atlas</span></a><a class="method-link" href="methodology.html">口径与使用方法</a></header>
+  <main id="main">
+      <section class="hero home-hero"><div class="eyebrow">U.S. QS TOP 30 · PHYSICS PHD</div><h1>先选学校，再找与你匹配的物理导师</h1><p>30 所美国高校的学校级研究地图：先看强项与重点实验室，再进入独立页面筛选教授、方向和成果入口。</p>
+        <div class="hero-stats"><div><strong>30</strong><span>所高校</span></div><div><strong>1,644</strong><span>名教授 / 研究人员</span></div><div><strong>90</strong><span>个重点平台入口</span></div></div>
       </section>
-
-      <section class="stats" aria-label="数据概况">
-        <div><strong id="school-count">30</strong><span>所美国院校</span></div>
-        <div><strong id="faculty-count">30</strong><span>位代表性导师</span></div>
-        <div><strong>4</strong><span>类研究方向</span></div>
-        <div><strong>2026.09</strong><span>最近核验</span></div>
-      </section>
-
-      <section class="explore" id="explore" aria-labelledby="explore-title">
-        <div class="section-heading">
-          <div>
-            <p class="eyebrow">EXPLORE THE FIELD</p>
-            <h2 id="explore-title">建立你的第一版导师清单</h2>
-          </div>
-          <p>先按方向缩小范围，再逐一阅读论文、实验室页面和院系招生要求。</p>
-        </div>
-
-        <form class="filters" id="filters" role="search">
-          <label class="search-field">
-            <span>搜索</span>
-            <input
-              id="search"
-              type="search"
-              autocomplete="off"
-              placeholder="姓名、学校、关键词…"
-            />
-          </label>
-          <label>
-            <span>研究方向</span>
-            <select id="field-filter">
-              <option value="all">全部方向</option>
-              <option value="量子信息与 AMO">量子信息与 AMO</option>
-              <option value="凝聚态与材料">凝聚态与材料</option>
-              <option value="粒子与宇宙">粒子与宇宙</option>
-              <option value="天体与引力">天体与引力</option>
-            </select>
-          </label>
-          <label>
-            <span>研究方式</span>
-            <select id="mode-filter">
-              <option value="all">全部方式</option>
-              <option value="实验">实验</option>
-              <option value="理论">理论</option>
-              <option value="观测 / 数据">观测 / 数据</option>
-            </select>
-          </label>
-          <label>
-            <span>排名范围</span>
-            <select id="scope-filter">
-              <option value="us30">美国院校中的前 30</option>
-              <option value="global30">全球前 30 内的美国院校</option>
-            </select>
-          </label>
-          <label>
-            <span>排序</span>
-            <select id="sort-filter">
-              <option value="usRank">美国顺位</option>
-              <option value="qsRank">QS 全球排名</option>
-              <option value="school">学校名称</option>
-            </select>
-          </label>
-          <button class="reset-button" id="reset" type="reset">重置</button>
-        </form>
-
-        <div class="result-bar">
-          <p><span id="result-count">30</span> 个结果</p>
-          <p class="result-note">“代表性”不等于“正在招生”，申请前请向院系或导师核实。</p>
-        </div>
-
-        <div class="faculty-grid" id="results" aria-live="polite"></div>
-        <div class="empty-state" id="empty-state" hidden>
-          <p>没有匹配项。试试减少关键词，或重置筛选。</p>
-          <button class="button ghost" id="empty-reset" type="button">清空筛选</button>
-        </div>
-      </section>
-
-      <section class="method" id="method" aria-labelledby="method-title">
-        <div>
-          <p class="eyebrow">READ BEFORE APPLYING</p>
-          <h2 id="method-title">这份清单该怎么用</h2>
-        </div>
-        <div class="method-grid">
-          <article>
-            <span>01</span>
-            <h3>排名只是入口</h3>
-            <p>院校范围采用 2027 QS 世界大学排名：先在美国院校内排序，再取前 30。筛选器也可切换成“全球前 30 内的美国院校”。</p>
-          </article>
-          <article>
-            <span>02</span>
-            <h3>每校仅一条线索</h3>
-            <p>为保持首版可读性，每校只展示一位代表性导师。它不是院系完整名单，也不表示这位导师比同校其他导师更适合你。</p>
-          </article>
-          <article>
-            <span>03</span>
-            <h3>名额必须复核</h3>
-            <p>职位、研究主题与招生状态会变化。提交申请前，请核对导师主页、近期论文、实验室成员与院系 PhD 招生页。</p>
-          </article>
-        </div>
-        <div class="source-note">
-          <p><strong>核验口径：</strong>院校排名来自 QS 官方页面；姓名、职位与研究方向优先取自大学、院系或实验室官方页面。资料最后核验于 2026-09-27。</p>
-          <a href="https://www.topuniversities.com/qs-top-uni-wur" target="_blank" rel="noreferrer">QS 2027 官方来源 ↗</a>
-        </div>
-      </section>
+      <section class="home-tools" aria-label="学校筛选"><label>搜索学校、方向或实验室<input id="schoolSearch" type="search" placeholder="例如：量子信息、宇宙学、MIT"></label><label>突出方向<select id="strengthFilter"><option value="">全部方向</option><option value="凝聚态">凝聚态</option><option value="加速器">加速器</option><option value="天体与引力波">天体与引力波</option><option value="天体与粒子">天体与粒子</option><option value="天体与量子材料">天体与量子材料</option><option value="天体物理">天体物理</option><option value="天体粒子">天体粒子</option><option value="宇宙与粒子">宇宙与粒子</option><option value="宇宙学">宇宙学</option><option value="引力与宇宙">引力与宇宙</option><option value="引力波">引力波</option><option value="材料物理">材料物理</option><option value="核与粒子">核与粒子</option><option value="核物理">核物理</option><option value="核理论">核理论</option><option value="生物物理">生物物理</option><option value="相对论天体">相对论天体</option><option value="空间物理">空间物理</option><option value="等离子体">等离子体</option><option value="粒子与宇宙">粒子与宇宙</option><option value="粒子与核">粒子与核</option><option value="粒子天体">粒子天体</option><option value="粒子实验">粒子实验</option><option value="粒子物理">粒子物理</option><option value="粒子理论">粒子理论</option><option value="软物质">软物质</option><option value="量子信息">量子信息</option><option value="量子光学">量子光学</option><option value="量子器件">量子器件</option><option value="量子工程">量子工程</option><option value="量子材料">量子材料</option><option value="量子模拟">量子模拟</option><option value="量子物质">量子物质</option><option value="量子现象">量子现象</option><option value="量子科学">量子科学</option><option value="高能与宇宙">高能与宇宙</option><option value="高能实验">高能实验</option><option value="高能物理">高能物理</option><option value="高能理论">高能理论</option></select></label><p id="schoolResultCount">显示 30 所学校</p></section>
+      <section class="notice"><b>覆盖说明</b><p>以物理系官方在职教师名录、研究领域页和研究生培养名单为主，纳入官方列出的联合/关联研究人员；排除荣休、纯教学、访问与兼职岗位。不同学校官网口径不同，因此不以不可靠的百分比制造“精确覆盖率”，而逐校公开人数、来源和日期。</p></section>
+      <section class="school-grid" id="schoolGrid"><article class="school-card" data-school-card data-search="massachusetts institute of technology mit 量子信息 凝聚态 粒子与宇宙 天体物理与宇宙学 粒子、核与高能物理 凝聚态与量子材料" data-rank="1">
+      <div class="school-card-head"><span class="rank">QS 1</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/mit.html">Massachusetts Institute of Technology</a></h2>
+      <p class="school-short">MIT · 已收录 <strong>79</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">天体物理与宇宙学 · 37</span><span class="chip">粒子、核与高能物理 · 24</span><span class="chip">凝聚态与量子材料 · 10</span></div>
+      <p class="strength-line"><b>突出方向</b>　量子信息 · 凝聚态 · 粒子与宇宙</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://mki.mit.edu/" target="_blank" rel="noopener">MIT Kavli Institute</a><a href="https://ctp.mit.edu/" target="_blank" rel="noopener">Center for Theoretical Physics</a><a href="https://www.psfc.mit.edu/" target="_blank" rel="noopener">Plasma Science and Fusion Center</a></div>
+      <a class="card-cta" href="schools/mit.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="stanford university stanford 量子科学 天体粒子 材料物理 天体物理与宇宙学 原子分子光学与量子信息 凝聚态与量子材料" data-rank="2">
+      <div class="school-card-head"><span class="rank">QS =2</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/stanford.html">Stanford University</a></h2>
+      <p class="school-short">Stanford · 已收录 <strong>50</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">天体物理与宇宙学 · 21</span><span class="chip">原子分子光学与量子信息 · 8</span><span class="chip">凝聚态与量子材料 · 6</span></div>
+      <p class="strength-line"><b>突出方向</b>　量子科学 · 天体粒子 · 材料物理</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://kipac.stanford.edu/" target="_blank" rel="noopener">KIPAC</a><a href="https://qfarm.stanford.edu/" target="_blank" rel="noopener">Q-FARM</a><a href="https://glam.stanford.edu/" target="_blank" rel="noopener">GLAM</a></div>
+      <a class="card-cta" href="schools/stanford.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="harvard university harvard 量子光学 软物质 高能与宇宙 天体物理与宇宙学 物理教育 官网未细分 / 跨学科" data-rank="3">
+      <div class="school-card-head"><span class="rank">QS 5</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/harvard.html">Harvard University</a></h2>
+      <p class="school-short">Harvard · 已收录 <strong>38</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">天体物理与宇宙学 · 4</span><span class="chip">物理教育 · 2</span><span class="chip">官网未细分 / 跨学科 · 32</span></div>
+      <p class="strength-line"><b>突出方向</b>　量子光学 · 软物质 · 高能与宇宙</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://quantum.harvard.edu/" target="_blank" rel="noopener">Harvard Quantum Initiative</a><a href="https://bhi.fas.harvard.edu/" target="_blank" rel="noopener">Black Hole Initiative</a><a href="https://itamp.harvard.edu/" target="_blank" rel="noopener">ITAMP</a></div>
+      <a class="card-cta" href="schools/harvard.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="california institute of technology caltech 量子信息 引力波 高能理论 天体物理与宇宙学 原子分子光学与量子信息 凝聚态与量子材料" data-rank="4">
+      <div class="school-card-head"><span class="rank">QS 7</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/caltech.html">California Institute of Technology</a></h2>
+      <p class="school-short">Caltech · 已收录 <strong>63</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">天体物理与宇宙学 · 33</span><span class="chip">原子分子光学与量子信息 · 13</span><span class="chip">凝聚态与量子材料 · 6</span></div>
+      <p class="strength-line"><b>突出方向</b>　量子信息 · 引力波 · 高能理论</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://www.ligo.caltech.edu/" target="_blank" rel="noopener">LIGO Laboratory</a><a href="https://iqim.caltech.edu/" target="_blank" rel="noopener">IQIM</a><a href="https://burkeinstitute.caltech.edu/" target="_blank" rel="noopener">Burke Institute</a></div>
+      <a class="card-cta" href="schools/caltech.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="university of pennsylvania penn 量子材料 宇宙学 生物物理 天体物理与宇宙学 官网未细分 / 跨学科" data-rank="5">
+      <div class="school-card-head"><span class="rank">QS 15</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/upenn.html">University of Pennsylvania</a></h2>
+      <p class="school-short">Penn · 已收录 <strong>44</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">天体物理与宇宙学 · 22</span><span class="chip">官网未细分 / 跨学科 · 22</span></div>
+      <p class="strength-line"><b>突出方向</b>　量子材料 · 宇宙学 · 生物物理</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://www.lrsm.upenn.edu/" target="_blank" rel="noopener">LRSM</a><a href="https://quantum.upenn.edu/" target="_blank" rel="noopener">Penn Quantum Hardware Lab</a><a href="https://www.nano.upenn.edu/" target="_blank" rel="noopener">Singh Center for Nanotechnology</a></div>
+      <a class="card-cta" href="schools/upenn.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="cornell university cornell 凝聚态 加速器 天体与粒子 凝聚态与量子材料 天体物理与宇宙学 粒子、核与高能物理" data-rank="6">
+      <div class="school-card-head"><span class="rank">QS =16</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/cornell.html">Cornell University</a></h2>
+      <p class="school-short">Cornell · 已收录 <strong>44</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">凝聚态与量子材料 · 21</span><span class="chip">天体物理与宇宙学 · 9</span><span class="chip">粒子、核与高能物理 · 7</span></div>
+      <p class="strength-line"><b>突出方向</b>　凝聚态 · 加速器 · 天体与粒子</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://www.lassp.cornell.edu/" target="_blank" rel="noopener">LASSP</a><a href="https://www.classe.cornell.edu/" target="_blank" rel="noopener">CLASSE</a><a href="https://www.lepp.cornell.edu/" target="_blank" rel="noopener">LEPP</a></div>
+      <a class="card-cta" href="schools/cornell.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="yale university yale 量子器件 核与粒子 宇宙学 天体物理与宇宙学 官网未细分 / 跨学科" data-rank="7">
+      <div class="school-card-head"><span class="rank">QS =16</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/yale.html">Yale University</a></h2>
+      <p class="school-short">Yale · 已收录 <strong>41</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">天体物理与宇宙学 · 5</span><span class="chip">官网未细分 / 跨学科 · 36</span></div>
+      <p class="strength-line"><b>突出方向</b>　量子器件 · 核与粒子 · 宇宙学</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://quantuminstitute.yale.edu/" target="_blank" rel="noopener">Yale Quantum Institute</a><a href="https://wlab.yale.edu/" target="_blank" rel="noopener">Wright Laboratory</a><a href="https://ycaa.yale.edu/" target="_blank" rel="noopener">Yale Center for Astronomy &amp; Astrophysics</a></div>
+      <a class="card-cta" href="schools/yale.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="johns hopkins university johns hopkins 宇宙学 量子材料 粒子理论 天体物理与宇宙学 凝聚态与量子材料 粒子、核与高能物理" data-rank="8">
+      <div class="school-card-head"><span class="rank">QS =20</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/jhu.html">Johns Hopkins University</a></h2>
+      <p class="school-short">Johns Hopkins · 已收录 <strong>65</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">天体物理与宇宙学 · 26</span><span class="chip">凝聚态与量子材料 · 11</span><span class="chip">粒子、核与高能物理 · 10</span></div>
+      <p class="strength-line"><b>突出方向</b>　宇宙学 · 量子材料 · 粒子理论</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://cas.jhu.edu/" target="_blank" rel="noopener">Center for Astrophysical Sciences</a><a href="https://iqm.jhu.edu/" target="_blank" rel="noopener">Institute for Quantum Matter</a><a href="https://quantum.jhu.edu/" target="_blank" rel="noopener">Center for Quantum Information</a></div>
+      <a class="card-cta" href="schools/jhu.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="university of california, berkeley uc berkeley 量子科学 高能物理 凝聚态 凝聚态与量子材料 原子分子光学与量子信息 粒子、核与高能物理" data-rank="9">
+      <div class="school-card-head"><span class="rank">QS =20</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/berkeley.html">University of California, Berkeley</a></h2>
+      <p class="school-short">UC Berkeley · 已收录 <strong>76</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">凝聚态与量子材料 · 28</span><span class="chip">原子分子光学与量子信息 · 16</span><span class="chip">粒子、核与高能物理 · 15</span></div>
+      <p class="strength-line"><b>突出方向</b>　量子科学 · 高能物理 · 凝聚态</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://quantum.berkeley.edu/" target="_blank" rel="noopener">Berkeley Quantum</a><a href="https://bctp.berkeley.edu/" target="_blank" rel="noopener">Berkeley Center for Theoretical Physics</a><a href="https://www.lbl.gov/" target="_blank" rel="noopener">Lawrence Berkeley National Laboratory</a></div>
+      <a class="card-cta" href="schools/berkeley.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="university of chicago uchicago 量子工程 宇宙学 软物质 官网未细分 / 跨学科" data-rank="10">
+      <div class="school-card-head"><span class="rank">QS 24</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/uchicago.html">University of Chicago</a></h2>
+      <p class="school-short">UChicago · 已收录 <strong>59</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">官网未细分 / 跨学科 · 59</span></div>
+      <p class="strength-line"><b>突出方向</b>　量子工程 · 宇宙学 · 软物质</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://kicp.uchicago.edu/" target="_blank" rel="noopener">Kavli Institute for Cosmological Physics</a><a href="https://efi.uchicago.edu/" target="_blank" rel="noopener">Enrico Fermi Institute</a><a href="https://jfi.uchicago.edu/" target="_blank" rel="noopener">James Franck Institute</a></div>
+      <a class="card-cta" href="schools/uchicago.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="princeton university princeton 高能理论 量子材料 引力与宇宙 天体物理与宇宙学 凝聚态与量子材料 粒子、核与高能物理" data-rank="11">
+      <div class="school-card-head"><span class="rank">QS 27</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/princeton.html">Princeton University</a></h2>
+      <p class="school-short">Princeton · 已收录 <strong>49</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">天体物理与宇宙学 · 17</span><span class="chip">凝聚态与量子材料 · 14</span><span class="chip">粒子、核与高能物理 · 8</span></div>
+      <p class="strength-line"><b>突出方向</b>　高能理论 · 量子材料 · 引力与宇宙</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://pcts.princeton.edu/" target="_blank" rel="noopener">Princeton Center for Theoretical Science</a><a href="https://quantum.princeton.edu/" target="_blank" rel="noopener">Princeton Quantum Initiative</a><a href="https://gravity.princeton.edu/" target="_blank" rel="noopener">Princeton Gravity Initiative</a></div>
+      <a class="card-cta" href="schools/princeton.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="columbia university columbia 粒子与核 量子材料 宇宙学 天体物理与宇宙学 粒子、核与高能物理 原子分子光学与量子信息" data-rank="12">
+      <div class="school-card-head"><span class="rank">QS =43</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/columbia.html">Columbia University</a></h2>
+      <p class="school-short">Columbia · 已收录 <strong>38</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">天体物理与宇宙学 · 17</span><span class="chip">粒子、核与高能物理 · 16</span><span class="chip">原子分子光学与量子信息 · 5</span></div>
+      <p class="strength-line"><b>突出方向</b>　粒子与核 · 量子材料 · 宇宙学</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://www.nevis.columbia.edu/" target="_blank" rel="noopener">Nevis Laboratories</a><a href="https://quantum.columbia.edu/" target="_blank" rel="noopener">Columbia Quantum Initiative</a><a href="https://cni.columbia.edu/" target="_blank" rel="noopener">Columbia Nano Initiative</a></div>
+      <a class="card-cta" href="schools/columbia.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="northwestern university northwestern 天体与引力波 量子器件 软物质 原子分子光学与量子信息 天体物理与宇宙学 官网未细分 / 跨学科" data-rank="13">
+      <div class="school-card-head"><span class="rank">QS =45</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/northwestern.html">Northwestern University</a></h2>
+      <p class="school-short">Northwestern · 已收录 <strong>43</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">原子分子光学与量子信息 · 2</span><span class="chip">天体物理与宇宙学 · 2</span><span class="chip">官网未细分 / 跨学科 · 39</span></div>
+      <p class="strength-line"><b>突出方向</b>　天体与引力波 · 量子器件 · 软物质</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://ciera.northwestern.edu/" target="_blank" rel="noopener">CIERA</a><a href="https://capst.northwestern.edu/" target="_blank" rel="noopener">CAPST</a><a href="https://quantum.northwestern.edu/" target="_blank" rel="noopener">NU Quantum</a></div>
+      <a class="card-cta" href="schools/northwestern.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="university of california, los angeles ucla 等离子体 粒子物理 天体与量子材料 天体物理与宇宙学 凝聚态与量子材料 粒子、核与高能物理" data-rank="14">
+      <div class="school-card-head"><span class="rank">QS 49</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/ucla.html">University of California, Los Angeles</a></h2>
+      <p class="school-short">UCLA · 已收录 <strong>56</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">天体物理与宇宙学 · 15</span><span class="chip">凝聚态与量子材料 · 14</span><span class="chip">粒子、核与高能物理 · 7</span></div>
+      <p class="strength-line"><b>突出方向</b>　等离子体 · 粒子物理 · 天体与量子材料</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://bhaumik-institute.physics.ucla.edu/" target="_blank" rel="noopener">Bhaumik Institute</a><a href="https://www.galacticcenter.astro.ucla.edu/" target="_blank" rel="noopener">Galactic Center Group</a><a href="https://plasma.physics.ucla.edu/" target="_blank" rel="noopener">Basic Plasma Science Facility</a></div>
+      <a class="card-cta" href="schools/ucla.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="university of michigan–ann arbor michigan 量子科学 高能实验 生物物理 天体物理与宇宙学 原子分子光学与量子信息 凝聚态与量子材料" data-rank="15">
+      <div class="school-card-head"><span class="rank">QS 51</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/michigan.html">University of Michigan–Ann Arbor</a></h2>
+      <p class="school-short">Michigan · 已收录 <strong>54</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">天体物理与宇宙学 · 19</span><span class="chip">原子分子光学与量子信息 · 15</span><span class="chip">凝聚态与量子材料 · 9</span></div>
+      <p class="strength-line"><b>突出方向</b>　量子科学 · 高能实验 · 生物物理</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://lsa.umich.edu/lctp" target="_blank" rel="noopener">Leinweber Center for Theoretical Physics</a><a href="https://quantum.umich.edu/" target="_blank" rel="noopener">Michigan Quantum Research</a><a href="https://lsa.umich.edu/physics/research.html" target="_blank" rel="noopener">Physics Research Areas</a></div>
+      <a class="card-cta" href="schools/michigan.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="carnegie mellon university carnegie mellon 宇宙学 粒子物理 量子材料 凝聚态与量子材料 天体物理与宇宙学 粒子、核与高能物理" data-rank="16">
+      <div class="school-card-head"><span class="rank">QS 55</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/cmu.html">Carnegie Mellon University</a></h2>
+      <p class="school-short">Carnegie Mellon · 已收录 <strong>44</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">凝聚态与量子材料 · 14</span><span class="chip">天体物理与宇宙学 · 10</span><span class="chip">粒子、核与高能物理 · 9</span></div>
+      <p class="strength-line"><b>突出方向</b>　宇宙学 · 粒子物理 · 量子材料</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://www.cmu.edu/cosmology/" target="_blank" rel="noopener">McWilliams Center for Cosmology</a><a href="https://www.pqi.org/" target="_blank" rel="noopener">Pittsburgh Quantum Institute</a><a href="https://www.cmu.edu/physics/research/index.html" target="_blank" rel="noopener">CMU Physics Research</a></div>
+      <a class="card-cta" href="schools/cmu.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="new york university nyu 软物质 宇宙与粒子 量子现象 粒子、核与高能物理 天体物理与宇宙学 生物、软物质与复杂系统" data-rank="17">
+      <div class="school-card-head"><span class="rank">QS 58</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/nyu.html">New York University</a></h2>
+      <p class="school-short">NYU · 已收录 <strong>26</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">粒子、核与高能物理 · 6</span><span class="chip">天体物理与宇宙学 · 6</span><span class="chip">生物、软物质与复杂系统 · 4</span></div>
+      <p class="strength-line"><b>突出方向</b>　软物质 · 宇宙与粒子 · 量子现象</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://cosmo.nyu.edu/" target="_blank" rel="noopener">Center for Cosmology and Particle Physics</a><a href="https://physics.nyu.edu/cqp/" target="_blank" rel="noopener">Center for Quantum Phenomena</a><a href="https://physics.nyu.edu/softmatter/" target="_blank" rel="noopener">Center for Soft Matter Research</a></div>
+      <a class="card-cta" href="schools/nyu.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="brown university brown 高能理论 凝聚态 生物物理 粒子、核与高能物理 凝聚态与量子材料 天体物理与宇宙学" data-rank="18">
+      <div class="school-card-head"><span class="rank">QS 66</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/brown.html">Brown University</a></h2>
+      <p class="school-short">Brown · 已收录 <strong>38</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">粒子、核与高能物理 · 13</span><span class="chip">凝聚态与量子材料 · 11</span><span class="chip">天体物理与宇宙学 · 4</span></div>
+      <p class="strength-line"><b>突出方向</b>　高能理论 · 凝聚态 · 生物物理</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://btpc.brown.edu/" target="_blank" rel="noopener">Brown Theoretical Physics Center</a><a href="https://quantum.brown.edu/" target="_blank" rel="noopener">Brown Quantum Initiative</a><a href="https://physics.brown.edu/research" target="_blank" rel="noopener">Physics Research</a></div>
+      <a class="card-cta" href="schools/brown.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="duke university duke 量子信息 核物理 软物质 天体物理与宇宙学 生物、软物质与复杂系统 原子分子光学与量子信息" data-rank="19">
+      <div class="school-card-head"><span class="rank">QS 70</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/duke.html">Duke University</a></h2>
+      <p class="school-short">Duke · 已收录 <strong>48</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">天体物理与宇宙学 · 3</span><span class="chip">生物、软物质与复杂系统 · 2</span><span class="chip">原子分子光学与量子信息 · 1</span></div>
+      <p class="strength-line"><b>突出方向</b>　量子信息 · 核物理 · 软物质</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://quantum.duke.edu/" target="_blank" rel="noopener">Duke Quantum Center</a><a href="https://tunl.duke.edu/" target="_blank" rel="noopener">Triangle Universities Nuclear Laboratory</a><a href="https://cncs.duke.edu/" target="_blank" rel="noopener">Center for Nonlinear and Complex Systems</a></div>
+      <a class="card-cta" href="schools/duke.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="university of texas at austin ut austin 凝聚态 高能理论 等离子体 粒子、核与高能物理 凝聚态与量子材料 等离子体、聚变与加速器" data-rank="20">
+      <div class="school-card-head"><span class="rank">QS 72</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/utaustin.html">University of Texas at Austin</a></h2>
+      <p class="school-short">UT Austin · 已收录 <strong>40</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">粒子、核与高能物理 · 12</span><span class="chip">凝聚态与量子材料 · 9</span><span class="chip">等离子体、聚变与加速器 · 5</span></div>
+      <p class="strength-line"><b>突出方向</b>　凝聚态 · 高能理论 · 等离子体</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://weinberg.utexas.edu/" target="_blank" rel="noopener">Weinberg Institute</a><a href="https://quantum.utexas.edu/" target="_blank" rel="noopener">Texas Quantum Institute</a><a href="https://ifs.utexas.edu/" target="_blank" rel="noopener">Institute for Fusion Studies</a></div>
+      <a class="card-cta" href="schools/utaustin.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="university of illinois urbana-champaign uiuc 量子信息 凝聚态 高能物理 原子分子光学与量子信息 天体物理与宇宙学 凝聚态与量子材料" data-rank="21">
+      <div class="school-card-head"><span class="rank">QS 74</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/uiuc.html">University of Illinois Urbana-Champaign</a></h2>
+      <p class="school-short">UIUC · 已收录 <strong>73</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">原子分子光学与量子信息 · 32</span><span class="chip">天体物理与宇宙学 · 20</span><span class="chip">凝聚态与量子材料 · 9</span></div>
+      <p class="strength-line"><b>突出方向</b>　量子信息 · 凝聚态 · 高能物理</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://iquist.illinois.edu/" target="_blank" rel="noopener">IQUIST</a><a href="https://mrl.illinois.edu/" target="_blank" rel="noopener">Materials Research Laboratory</a><a href="https://physics.illinois.edu/research" target="_blank" rel="noopener">Illinois Physics Research</a></div>
+      <a class="card-cta" href="schools/uiuc.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="university of california, san diego uc san diego 量子材料 等离子体 粒子与宇宙 生物、软物质与复杂系统 粒子、核与高能物理 天体物理与宇宙学" data-rank="22">
+      <div class="school-card-head"><span class="rank">QS 81</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/ucsd.html">University of California, San Diego</a></h2>
+      <p class="school-short">UC San Diego · 已收录 <strong>52</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">生物、软物质与复杂系统 · 1</span><span class="chip">粒子、核与高能物理 · 1</span><span class="chip">天体物理与宇宙学 · 1</span></div>
+      <p class="strength-line"><b>突出方向</b>　量子材料 · 等离子体 · 粒子与宇宙</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://q-meen-c.ucsd.edu/" target="_blank" rel="noopener">Q-MEEN-C</a><a href="https://cass.ucsd.edu/" target="_blank" rel="noopener">CASS</a><a href="https://physics.ucsd.edu/research" target="_blank" rel="noopener">UCSD Physics Research</a></div>
+      <a class="card-cta" href="schools/ucsd.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="pennsylvania state university penn state 引力与宇宙 量子材料 粒子物理 凝聚态与量子材料 天体物理与宇宙学 粒子、核与高能物理" data-rank="23">
+      <div class="school-card-head"><span class="rank">QS =92</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/pennstate.html">Pennsylvania State University</a></h2>
+      <p class="school-short">Penn State · 已收录 <strong>60</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">凝聚态与量子材料 · 16</span><span class="chip">天体物理与宇宙学 · 12</span><span class="chip">粒子、核与高能物理 · 10</span></div>
+      <p class="strength-line"><b>突出方向</b>　引力与宇宙 · 量子材料 · 粒子物理</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://igc.psu.edu/" target="_blank" rel="noopener">Institute for Gravitation and the Cosmos</a><a href="https://www.mri.psu.edu/" target="_blank" rel="noopener">Materials Research Institute</a><a href="https://www.mri.psu.edu/2d-crystal-consortium" target="_blank" rel="noopener">2D Crystal Consortium</a></div>
+      <a class="card-cta" href="schools/pennstate.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="university of washington washington 核理论 粒子实验 量子物质 天体物理与宇宙学 原子分子光学与量子信息 粒子、核与高能物理" data-rank="24">
+      <div class="school-card-head"><span class="rank">QS =92</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/washington.html">University of Washington</a></h2>
+      <p class="school-short">Washington · 已收录 <strong>61</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">天体物理与宇宙学 · 16</span><span class="chip">原子分子光学与量子信息 · 13</span><span class="chip">粒子、核与高能物理 · 13</span></div>
+      <p class="strength-line"><b>突出方向</b>　核理论 · 粒子实验 · 量子物质</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://www.int.washington.edu/" target="_blank" rel="noopener">Institute for Nuclear Theory</a><a href="https://cenpa.washington.edu/" target="_blank" rel="noopener">CENPA</a><a href="https://quantumx.washington.edu/" target="_blank" rel="noopener">QuantumX</a></div>
+      <a class="card-cta" href="schools/washington.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="boston university boston university 空间物理 粒子实验 凝聚态 天体物理与宇宙学 物理教育 官网未细分 / 跨学科" data-rank="25">
+      <div class="school-card-head"><span class="rank">QS 94</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/bu.html">Boston University</a></h2>
+      <p class="school-short">Boston University · 已收录 <strong>71</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">天体物理与宇宙学 · 11</span><span class="chip">物理教育 · 11</span><span class="chip">官网未细分 / 跨学科 · 49</span></div>
+      <p class="strength-line"><b>突出方向</b>　空间物理 · 粒子实验 · 凝聚态</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://www.bu.edu/photonics/" target="_blank" rel="noopener">Photonics Center</a><a href="https://www.bu.edu/csp/" target="_blank" rel="noopener">Center for Space Physics</a><a href="https://www.bu.edu/physics/research/" target="_blank" rel="noopener">BU Physics Research</a></div>
+      <a class="card-cta" href="schools/bu.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="purdue university purdue 量子科学 粒子与核 天体物理 天体物理与宇宙学 原子分子光学与量子信息 凝聚态与量子材料" data-rank="26">
+      <div class="school-card-head"><span class="rank">QS =100</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/purdue.html">Purdue University</a></h2>
+      <p class="school-short">Purdue · 已收录 <strong>82</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">天体物理与宇宙学 · 40</span><span class="chip">原子分子光学与量子信息 · 17</span><span class="chip">凝聚态与量子材料 · 7</span></div>
+      <p class="strength-line"><b>突出方向</b>　量子科学 · 粒子与核 · 天体物理</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://www.purdue.edu/discoverypark/quantum/" target="_blank" rel="noopener">Purdue Quantum Science and Engineering Institute</a><a href="https://www.purdue.edu/prime-lab/" target="_blank" rel="noopener">PRIME Lab</a><a href="https://www.purdue.edu/birck/" target="_blank" rel="noopener">Birck Nanotechnology Center</a></div>
+      <a class="card-cta" href="schools/purdue.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="rice university rice 量子模拟 天体物理 软物质 天体物理与宇宙学 官网未细分 / 跨学科" data-rank="27">
+      <div class="school-card-head"><span class="rank">QS 122</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/rice.html">Rice University</a></h2>
+      <p class="school-short">Rice · 已收录 <strong>60</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">天体物理与宇宙学 · 1</span><span class="chip">官网未细分 / 跨学科 · 59</span></div>
+      <p class="strength-line"><b>突出方向</b>　量子模拟 · 天体物理 · 软物质</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://sci.rice.edu/" target="_blank" rel="noopener">Smalley–Curl Institute</a><a href="https://quantum.rice.edu/" target="_blank" rel="noopener">Rice Quantum Initiative</a><a href="https://rsi.rice.edu/" target="_blank" rel="noopener">Rice Space Institute</a></div>
+      <a class="card-cta" href="schools/rice.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="university of wisconsin–madison wisconsin 量子信息 粒子天体 等离子体 天体物理与宇宙学 粒子、核与高能物理 物理教育" data-rank="28">
+      <div class="school-card-head"><span class="rank">QS =131</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/wisconsin.html">University of Wisconsin–Madison</a></h2>
+      <p class="school-short">Wisconsin · 已收录 <strong>102</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">天体物理与宇宙学 · 25</span><span class="chip">粒子、核与高能物理 · 9</span><span class="chip">物理教育 · 7</span></div>
+      <p class="strength-line"><b>突出方向</b>　量子信息 · 粒子天体 · 等离子体</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://quantum.wisc.edu/" target="_blank" rel="noopener">Wisconsin Quantum Institute</a><a href="https://wipac.wisc.edu/" target="_blank" rel="noopener">WIPAC</a><a href="https://plasma.physics.wisc.edu/" target="_blank" rel="noopener">Wisconsin Plasma Physics</a></div>
+      <a class="card-cta" href="schools/wisconsin.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="university of california, davis uc davis 宇宙学 核物理 凝聚态 天体物理与宇宙学 粒子、核与高能物理 官网未细分 / 跨学科" data-rank="29">
+      <div class="school-card-head"><span class="rank">QS 137</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/ucdavis.html">University of California, Davis</a></h2>
+      <p class="school-short">UC Davis · 已收录 <strong>43</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">天体物理与宇宙学 · 5</span><span class="chip">粒子、核与高能物理 · 4</span><span class="chip">官网未细分 / 跨学科 · 34</span></div>
+      <p class="strength-line"><b>突出方向</b>　宇宙学 · 核物理 · 凝聚态</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://cyclotron.crocker.ucdavis.edu/" target="_blank" rel="noopener">Crocker Nuclear Laboratory</a><a href="https://cosmos.ucdavis.edu/" target="_blank" rel="noopener">UC Davis Cosmology</a><a href="https://cme.physics.ucdavis.edu/" target="_blank" rel="noopener">Condensed Matter Experiment</a></div>
+      <a class="card-cta" href="schools/ucdavis.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article><article class="school-card" data-school-card data-search="georgia institute of technology georgia tech 相对论天体 软物质 量子材料 生物、软物质与复杂系统 凝聚态与量子材料 官网未细分 / 跨学科" data-rank="30">
+      <div class="school-card-head"><span class="rank">QS =142</span><span class="coverage">高覆盖名录</span></div>
+      <h2><a href="schools/gatech.html">Georgia Institute of Technology</a></h2>
+      <p class="school-short">Georgia Tech · 已收录 <strong>45</strong> 名教授/研究人员</p>
+      <div class="chips"><span class="chip">生物、软物质与复杂系统 · 1</span><span class="chip">凝聚态与量子材料 · 1</span><span class="chip">官网未细分 / 跨学科 · 43</span></div>
+      <p class="strength-line"><b>突出方向</b>　相对论天体 · 软物质 · 量子材料</p>
+      <div class="lab-links"><b>重点平台</b><a href="https://cra.gatech.edu/" target="_blank" rel="noopener">Center for Relativistic Astrophysics</a><a href="https://quantum.gatech.edu/" target="_blank" rel="noopener">Georgia Tech Quantum Alliance</a><a href="https://soft-matter.gatech.edu/" target="_blank" rel="noopener">Soft Matter Incubator</a></div>
+      <a class="card-cta" href="schools/gatech.html">查看学校详情与完整导师列表 <span>→</span></a>
+    </article></section>
     </main>
-
-    <footer>
-      <p>Physics PhD Atlas · 为申请调研而整理</p>
-      <p>请用研究契合度、导师指导风格和经费情况做最终判断。</p>
-    </footer>
-
-    <script src="data.js"></script>
-    <script src="app.js"></script>
-  </body>
+  <footer><p>用于 PhD 选校与导师初筛 · 数据核验日期 2026-09-27 · 申请与招生状态请以学校官网及导师回复为准</p><p><a href="https://github.com/SZhang0314/physics-phd-faculty-finder">GitHub 源码与数据方法</a></p></footer>
+  <script src="assets/site.js" defer></script>
+</body>
 </html>

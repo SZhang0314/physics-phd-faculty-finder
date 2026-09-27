@@ -1,0 +1,525 @@
+Faculty - Department of Physics - Mellon College of Science - Carnegie Mellon University (https://www.cmu.edu/physics/people/faculty/index.html)
+citeturn61view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.cmu.edu/physics/people/faculty/index.html","lineno":null}); Total lines: 625
+L0: cite0†iframe†www.googletagmanager.com L1: 
+L2: cite1†Carnegie Mellon University ———
+L3: 
+L4: [Input] [Input] [Input] Search [Input: Search] [Button: Search] Search this site only [Input]
+L5: 
+L6: cite2†Department of Physics L7: 
+L8: ## cite3†Mellon College of Science L9: 
+L10: # Physics Faculty
+L11: 
+L12: Jump to: cite4†D-H / cite5†HU-M / cite6†MA-P / cite7†PE-S / cite8†T-Z L13: 
+L14: ## John Alison
+L15: 
+L16: Associate Professor
+L17: 
+L18: Wean Hall 7420
+L19: EMAIL (johnalison@cmu.edu)
+L20: 
+L21: cite9†Profile cite10†Group Site L22: 
+L23: Research Areas: Nuclear & Particle Physics; High Energy Physics Experiment
+L24: ## David Anderson
+L25: 
+L26: Teaching Professor
+L27: 
+L28: Wean Hall 7412
+L29: Email (dra@andrew.cmu.edu)
+L30: 
+L31: cite11†Profile L32: 
+L33: ## Shelley Anna
+L34: 
+L35: Courtesy Professor
+L36: 
+L37: Doherty Hall A207C
+L38: 412-268-6492
+L39: EMAIL (sanna@cmu.edu)
+L40: 
+L41: cite12†Profile†www.cheme.engineering.cmu.edu cite13†Group Site†annalab.org L42: 
+L43: Research Areas: Mechanical Engineering, Complex Fluids Engineering
+L44: 
+L45: ## Axel Brandenburg
+L46: 
+L47: Adjunct Professor
+L48: 
+L49: Off-campus at Nordita
+L50: EMAIL (brandenb@nordita.org)
+L51: 
+L52: cite14†Profile cite15†Group Site†www.nordita.org L53: 
+L54: Research Areas: Astrophysics & Cosmology
+L55: ## Katelyn Breivik
+L56: 
+L57: Assistant Professor
+L58: 
+L59: Wean Hall 8319
+L60: EMAIL (kbreivik@andrew.cmu.edu)
+L61: 
+L62: cite16†Profile L63: 
+L64: Research Areas: Astrophysics & Cosmology
+L65: 
+L66: ## Roy Briere
+L67: 
+L68: Professor
+L69: 
+L70: Wean Hall 7418
+L71: 412-268-2742
+L72: EMAIL (rbriere@andrew.cmu.edu)
+L73: 
+L74: cite17†Profile L75: 
+L76: Research Areas: Nuclear & Particle Physics High Energy Physics Experiment
+L77: 
+L78: ## Shubhayu Chatterjee
+L79: 
+L80: Assistant Professor
+L81: 
+L82: Wean Hall 6424
+L83: 
+L84: EMAIL (shubhayuchatterjee@cmu.edu)
+L85: 
+L86: cite18†Profile L87: ## Juan Chamorro
+L88: 
+L89: Courtesy Professor
+L90: 
+L91: EMAIL (jchamorr@andrew.cmu.edu)
+L92: 
+L93: cite19†Profile†www.materials.cmu.edu cite20†Group Site†chamorrolab.andrew.cmu.edu L94: 
+L95: cite21†Image: No image available L96: 
+L97: ## Hael Collins
+L98: 
+L99: Associate Teaching Professor
+L100: 
+L101: Wean Hall 7414
+L102: 412-268-2758
+L103: EMAIL (hcollins@andrew.cmu.edu)
+L104: 
+L105: ## Matteo Cremonesi
+L106: 
+L107: Assistant Professor
+L108: 
+L109: Wean Hall 7424
+L110: 
+L111: EMAIL (mcremone@andrew.cmu.edu)
+L112: 
+L113: cite22†Profile L114: ## Rupert Croft
+L115: 
+L116: Professor
+L117: 
+L118: Wean Hall 8311
+L119: EMAIL (rcroft@andrew.cmu.edu)
+L120: 
+L121: cite23†Profile L122: 
+L123: Research Areas: Astrophysics & Cosmology
+L124: 
+L125: ## Markus Deserno
+L126: 
+L127: Professor
+L128: Director of Graduate Affairs
+L129: 
+L130: Wean Hall 6319
+L131: EMAIL (deserno@andrew.cmu.edu)
+L132: 
+L133: cite24†Profile cite25†Group Site†research.phys.cmu.edu L134: 
+L135: Research Areas: Biological Physics Theory
+L136: ## Tiziana Di Matteo
+L137: 
+L138: Professor
+L139: Director, McWilliams Center for Cosmology & Astrophysics
+L140: 
+L141: Wean Hall 8305
+L142: 412-268-1888
+L143: EMAIL (tiziana@phys.cmu.edu)
+L144: 
+L145: cite26†Profile cite27†Group Site†web.phys.cmu.edu L146: 
+L147: Research Areas: Astrophysics & Cosmology
+L148: 
+L149: ## Scott Dodelson
+L150: 
+L151: Professor
+L152: 
+L153: Off-Campus at Fermilab
+L154: EMAIL (sdodelso@andrew.cmu.edu)
+L155: 
+L156: cite28†Profile L157: 
+L158: Research Areas: Astrophysics & Cosmology
+L159: 
+L160: ## Valentina Dutta
+L161: 
+L162: Assistant Professor
+L163: 
+L164: Wean Hall 7311
+L165: EMAIL (vdutta@cmu.edu)
+L166: 
+L167: cite29†Profile L168: 
+L169: cite30†Image: Carlos Floyd L170: ## Carlos Floyd
+L171: 
+L172: Assistant Professor, Starting January 2027
+L173: 
+L174: cite31†Group Site†sites.google.com L175: 
+L176: ## Frank Heinrich
+L177: 
+L178: Associate Research Professor
+L179: 
+L180: Off-campus at NIST
+L181: EMAIL (fheinrich@cmu.edu)
+L182: 
+L183: cite32†Profile cite33†Group Site L184: 
+L185: Research Areas: Biological Physics Experiment
+L186: 
+L187: ## Shirley Ho
+L188: 
+L189: Adjunct Professor
+L190: 
+L191: Off-campus at Flatiron Institute
+L192: EMAIL (shirleyh@andrew.cmu.edu)
+L193: 
+L194: cite34†Profile cite35†Group Site†users.flatironinstitute.org L195: 
+L196: Research Areas: Astrophysics & Cosmology
+L197: ## Benjamin Hunt
+L198: 
+L199: Associate Professor
+L200: 
+L201: Wean Hall 6412
+L202: 412-268-9918
+L203: EMAIL (bmhunt@andrew.cmu.edu)
+L204: 
+L205: cite36†Profile cite37†Group Site†huntlab-cmu.com L206: 
+L207: Research Areas:Condensed Matter Experiment
+L208: 
+L209: ## Mohammad Islam
+L210: 
+L211: Courtesy Professor
+L212: 
+L213: Wean Hall 3305
+L214: 412-268-8999
+L215: EMAIL (mohammad@andrew.cmu.edu)
+L216: 
+L217: cite38†Profile cite39†Group Site†sites.google.com L218: 
+L219: Research Areas: Materials Science and Engineering
+L220: ## Tina Kahniashvili
+L221: 
+L222: Research Professor
+L223: 
+L224: Wean Hall 8020
+L225: 412-268-1818
+L226: EMAIL (tinatin@andrew.cmu.edu)
+L227: 
+L228: cite40†Profile L229: 
+L230: Research Areas: Astrophysics & Cosmology
+L231: 
+L232: ## Jyoti Katoch
+L233: 
+L234: Associate Professor
+L235: 
+L236: Wean Hall 6414
+L237: 412-268-8897
+L238: EMAIL (jkatoch@andrew.cmu.edu)
+L239: 
+L240: cite41†Profile cite42†Group Site†www.liquidgroupcmu.com L241: 
+L242: Research Areas: Condensed Matter Experiment
+L243: 
+L244: ## Vladyslav Kozii
+L245: 
+L246: Assistant Professor
+L247: 
+L248: Wean Hall 6418
+L249: EMAIL (vkozii@andrew.cmu.edu)
+L250: 
+L251: cite43†Profile L252: 
+L253: Research Areas: Condensed Matter Theory
+L254: ## Rachel Kurchin
+L255: 
+L256: Courtesy Research Faculty
+L257: 
+L258: MSE
+L259: EMAIL (rkurchin@andrew.cmu.edu)
+L260: 
+L261: cite44†Profile†mse.engineering.cmu.edu L262: 
+L263: ## Sara Majetich
+L264: 
+L265: Professor
+L266: 
+L267: Wean Hall 6404
+L268: 412-268-3105
+L269: EMAIL (sara@cmu.edu)
+L270: 
+L271: cite45†Profile cite46†Group Site†majetichgroup.weebly.com L272: 
+L273: Research Areas: Condensed Matter Experiment
+L274: 
+L275: ## Sayan Mandal
+L276: 
+L277: Special Lecturer
+L278: 
+L279: Wean Hall 8110
+L280: EMAIL (sayanm@cmu.edu)
+L281: 
+L282: cite47†Profile L283: ## Rachel Mandelbaum
+L284: 
+L285: Professor and Department Head
+L286: 
+L287: Wean Hall 7325
+L288: EMAIL (rmandelb@andrew.cmu.edu)
+L289: 
+L290: cite48†Profile cite49†Group Site†www.andrew.cmu.edu L291: 
+L292: Research Areas:Astrophysics & Cosmology
+L293: 
+L294: ## Noa Marom
+L295: 
+L296: Courtesy Professor
+L297: Materials Science and Engineering
+L298: 
+L299: Roberts Engineering Hall 142
+L300: 412-268-1393
+L301: EMAIL (nmarom@andrew.cmu.edu)
+L302: 
+L303: cite50†Profile cite51†Group Site†www.noamarom.com L304: ## Michael McHenry
+L305: 
+L306: Courtesy Professor
+L307: Materials Science and Engineering
+L308: 
+L309: Roberts Engineering Hall 243
+L310: 412-268-2703
+L311: Email (mm7g@andrew.cmu.edu)
+L312: 
+L313: cite52†Profile cite53†Group Site†www.andrew.cmu.edu L314: 
+L315: ## Curtis Meyer
+L316: 
+L317: Otto Stern Professor of Physics
+L318: Courtesy Professor Pittsburgh Supercomputing Center
+L319: 
+L320: Wean Hall 8410
+L321: EMAIL (cmeyer@cmu.edu)
+L322: 
+L323: cite54†Profile cite55†Group Site†www.curtismeyer.com L324: 
+L325: Research Areas: Nuclear & Particle Physics; Quark Interaction Experiment
+L326: ## Colin Morningstar
+L327: 
+L328: Professor
+L329: 
+L330: Wean Hall 8420
+L331: EMAIL (colin_morningstar@cmu.edu)
+L332: 
+L333: cite56†Profile cite57†Group Site†www.andrew.cmu.edu L334: 
+L335: Research Areas: Nuclear & Particle Physics; Quark Interaction Theory
+L336: 
+L337: ## Brendan Mullan
+L338: 
+L339: Director of Undergraduate Laboratories
+L340: Associate Teaching Professor
+L341: 
+L342: Doherty Hall A301A
+L343: EMAIL (bmullan@andrew.cmu.edu)
+L344: 
+L345: cite58†Profile L346: ## Antonella Palmese
+L347: 
+L348: Assistant Professor
+L349: 
+L350: Wean Hall 8412
+L351: EMAIL (apalmese@andrew.cmu.edu)
+L352: 
+L353: cite59†Profile cite60†Group Site†antonellapalmese.wordpress.com L354: 
+L355: Research Areas: Astrophysics & Cosmology
+L356: 
+L357: ## Diana Parno
+L358: 
+L359: Falco-DeBenedetti Associate Professor of Physics
+L360: 
+L361: Wean Hall 8414
+L362: EMAIL (dparno@cmu.edu)
+L363: 
+L364: cite61†Profile cite62†Website†www.andrew.cmu.edu L365: 
+L366: Research Areas: Nuclear & Particle Physics; Neutrino Physics
+L367: ## Manfred Paulini
+L368: 
+L369: Professor
+L370: MCS Associate Dean for Research
+L371: 
+L372: Wean Hall 7307
+L373: 412-268-3887
+L374: EMAIL (paulini@cmu.edu)
+L375: 
+L376: cite63†Profile L377: 
+L378: Research Areas: Nuclear & Particle Physics; High Energy Physics Experiment
+L379: 
+L380: ## Riccardo Penco
+L381: 
+L382: Associate Professor
+L383: 
+L384: Wean Hall 7408
+L385: 412-268-5159
+L386: EMAIL (rpenco@andrew.cmu.edu)
+L387: 
+L388: cite64†Profile L389: 
+L390: Research Areas: High Energy Physics Theory
+L391: 
+L392: ## Jeffrey Peterson
+L393: 
+L394: Professor
+L395: 
+L396: Wean Hall 8418
+L397: EMAIL (jbp@cmu.edu)
+L398: 
+L399: cite65†Profile L400: 
+L401: Research Areas: Astrophysics & Cosmology
+L402: ## Anthony D. Rollett
+L403: 
+L404: Courtesy Professor
+L405: 
+L406: Wean Hall 3313
+L407: 412-268-3177
+L408: EMAIL (rollett@andrew.cmu.edu)
+L409: 
+L410: cite66†Profile cite67†Group Site†anthony.rollett.org L411: 
+L412: Research Areas: Materials Science and Engineering
+L413: 
+L414: ## Rachel Rosen
+L415: 
+L416: Associate Professor
+L417: 
+L418: Wean Hall 7305
+L419: Quantum Field Theory and Gravity
+L420: EMAIL (rarosen@cmu.edu)
+L421: 
+L422: cite68†Profile L423: 
+L424: ## Ira Rothstein
+L425: 
+L426: Professor
+L427: 
+L428: Wean Hall 7406
+L429: 412-268-2739
+L430: EMAIL (izr@andrew.cmu.edu)
+L431: 
+L432: cite69†Profile L433: 
+L434: Research Areas: Nuclear & Particle Physics; High Energy Physics Theory
+L435: ## Gillian Lynn Ryan
+L436: 
+L437: Teaching Professor
+L438: Director of Undergraduate Affairs
+L439: 
+L440: Wean Hall 7303
+L441: EMAIL (gryan@andrew.cmu.edu)
+L442: 
+L443: cite70†Profile L444: 
+L445: ## Sufei Shi
+L446: 
+L447: Professor
+L448: 
+L449: Wean Hall 6307
+L450: EMAIL (sufeis@andrew.cmu.edu)
+L451: 
+L452: cite71†Profile cite72†Website†sufei-shi.weebly.com L453: 
+L454: Research Areas: Condensed Matter Physics
+L455: 
+L456: ## Fangwei Si
+L457: 
+L458: Cooper-Siegel Assistant Professor of Physics
+L459: 
+L460: Wean Hall 6311
+L461: 
+L462: EMAIL (fsi@cmu.edu)
+L463: 
+L464: cite73†Profile cite74†Group Site†sifangwei.github.io L465: 
+L466: Research Areas: Biological Physics Experiment
+L467: ## Simranjeet Singh
+L468: 
+L469: Associate Professor
+L470: 
+L471: Wean Hall 6408
+L472: EMAIL (simranjs@andrew.cmu.edu)
+L473: 
+L474: cite75†Profile cite42†Group Site†www.liquidgroupcmu.com L475: 
+L476: Research Areas: Condensed Matter Experiment
+L477: 
+L478: ## Marek Skowronski
+L479: 
+L480: Courtesy Professor
+L481: 
+L482: Roberts Engineering Hall 150
+L483: 412-268-7596
+L484: EMAIL (mareks@cmu.edu)
+L485: 
+L486: cite76†Profile cite77†Group Site L487: 
+L488: Research Areas: Materials Science and Engineering
+L489: ## Grigory Tarnopolskiy
+L490: 
+L491: Associate Professor
+L492: 
+L493: Wean Hall 7301
+L494: EMAIL (gtarnopo@andrew.cmu.edu)
+L495: 
+L496: cite78†Profile L497: 
+L498: Research Areas: Condensed Matter Theory; High Energy Physics Theory
+L499: 
+L500: ## Hy Trac
+L501: 
+L502: Professor
+L503: 
+L504: Wean Hall 8307
+L505: 412-268-8351
+L506: EMAIL (hytrac@cmu.edu)
+L507: 
+L508: cite79†Profile L509: 
+L510: Research Areas: Astrophysics & Cosmology
+L511: 
+L512: ## Diane Turnshek
+L513: 
+L514: Special Lecturer
+L515: 
+L516: Doherty Hall 2200
+L517: 412-268-6822
+L518: EMAIL (dianet@andrew.cmu.edu)
+L519: 
+L520: cite80†Profile cite81†Group Site†dianeturnshek.com L521: ## Matthew Walker
+L522: 
+L523: Professor
+L524: 
+L525: Wean Hall 8408
+L526: EMAIL (mgwalker@andrew.cmu.edu)
+L527: 
+L528: cite82†Profile L529: 
+L530: Research Areas: Astrophysics & Cosmology
+L531: 
+L532: ## Michael Widom
+L533: 
+L534: Professor
+L535: 
+L536: Wean Hall 6305
+L537: 412-268-7645
+L538: EMAIL (widom@cmu.edu)
+L539: 
+L540: cite83†Profile cite84†Group Site†euler.phys.cmu.edu L541: 
+L542: Research Areas: Condensed Matter Theory
+L543: 
+L544: ## Huaiying Zhang
+L545: 
+L546: Courtesy Professor, Biological Sciences
+L547: 
+L548: 601A Mellon Institute
+L549: EMAIL (huaiyinz@andrew.cmu.edu)
+L550: 
+L551: cite85†Profile cite86†Group Site†labs.bio.cmu.edu L552: ## Jiang-Gang (Jimmy) Zhu
+L553: 
+L554: Courtesy Professor
+L555: Electricial & Computing Engineering
+L556: 
+L557: Roberts Engineering Hall 348
+L558: 412-268-8373
+L559: EMAIL (jzhu@cmu.edu)
+L560: 
+L561: cite87†Profile†engineering.cmu.edu cite88†Group Site†www.ece.cmu.edu L562: 
+L563: cite89†Contact L564: 
+L565: cite90†Administration L566: 
+L567: cite91†Directory L568: 
+L569: cite92†Outreach L570: 
+L571: cite93†Employment L572: 
+L573: cite94†HISTORY L574: 
+L575: cite95†ALUMNI L576: 
+L577: cite96†Intranet L578: 
+L579: Department of Physics
+L580: Mellon College of Science
+L581: Carnegie Mellon University
+L582: 5000 Forbes Avenue
+L583: Pittsburgh, PA 15213
+L584: 412-268-2740
+L585: 
+L586:   * cite97†Legal Info L587:   * cite1†www.cmu.edu L588:   * © 2026 Carnegie Mellon University
+L589:   * cite98†Discover L590:     * cite99†Inclusive Excellence L591:   * cite100†Research L592:     * cite101†Astrophysics & Cosmology L593:     * cite102†Biological Physics L594:     * cite103†Computational Physics L595:     * cite104†Condensed Matter L596:     * cite105†Nuclear & Particle Physics L597:     * cite106†Theoretical Physics L598:   * cite107†Undergraduate Program L599:     * cite108†Degrees and Tracks L600:     * cite109†Placement & Outcomes L601:     * cite110†Honors & Awards L602:     * cite111†Undergraduate Research L603:     * cite112†Advising L604:     * cite113†Admission L605:     * cite114†Getting Help L606:   * cite115†Graduate Program L607:     * cite116†M.S. in Modern Physics L608:     * cite117†Research L609:     * cite118†Fellowships L610:     * cite119†Honors & Awards L611:   * cite120†People L612:     * cite121†Emeritus Faculty L613:     * cite122†Faculty L614:     * cite123†Researchers L615:     * cite124†Graduate Students L616:     * cite90†Staff L617:     * cite125†Recognition L618:   * cite126†News & Events L619:     * cite127†Departmental Calendar L620:     * cite128†InterActions Newsletter L621:     * cite93†Employment L622:   * cite92†Outreach L623:   * cite89†Contact Us L624:   * cite129†Giving 

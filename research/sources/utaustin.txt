@@ -1,0 +1,410 @@
+Chapter 1 (https://physics.utexas.edu/media/100/download?inline=)
+citeturn114view0 [wordlim: 200] Crawled: today; Content type: application/pdf; Number of pages: 84; Source: open({"ref_id":"turn113view0","lineno":2350}); Total lines: 3053
+L2236@P54: 4. Before you begin welding, you must set up the welding shields to protect others from the effects
+L2237@P54: of the UV radiation on their eyes and skin. The shields are to be erected across the entrance to
+L2238@P54: the welding area if the welding is being done in the welding area. If the work piece cannot be
+L2239@P54: brought into the welding area then the shields must be encircling the welding being done.
+L2240@P54: 5. Welding on zinc plated metals is hazardous to your health, and can be fatal. Do not weld on zinc
+L2241@P54: plated metal (galvanized metal).
+L2242@P54: 6. For assistance in setting up the welding equipment ask the supervisor.
+L2243@P54: 7. After your weld is complete, quench the work piece in water or mark it "HOT." if an air cool is
+L2244@P54: necessary.
+L2245@P54: A.4.3 Spot Welding
+L2246@P54: 1. Open the water coolant valve to maintain a slow water flow.
+L2247@P54: 2. Wear welding gloves and face shield when using the spot welder. Observers must be protected
+L2248@P54: from flying sparks.
+L2249@P54: 3. Prevent excessive "explosion" by proper preparation of work, correct setup, and operation of the
+L2250@P54: spot welder.
+L2251@P54: 4. Handle completed spot welded objects carefully as they may be hot and sharp.
+L2252@P54: 5. The electrodes are hot and cool slowly after they have been used.
+L2253@P54: 6. The electrodes should not be brought together unless a piece of stock is between them.
+L2254@P54: 7. Should the electrodes need cleaning, ask the supervisor for help. Do not use a file.
+L2255@P54: A.5 Wood Tools
+L2256@P54: Before using any wood tools you must inspect your material for foreign metal objects, such as nails, screws,
+L2257@P54: staples, etc.
+L2258@P54: A.5.1 Router (Portable)
+L2259@P54: 1. Wear a face shield when operating the router.
+L2260@P54: 2. Make certain the router bit is tightened before using the router.
+L2261@P54: 3. The router cutter must be completely stopped before laying the router down on its side.
+L2262@P54: 4. Do not stand the router on the cutter end when not in use.
+L2263@P54: 5. Hold the router firmly with both hands before turning on the power.
+L2264@P54: 6. Feed the router at a moderate rate; too slow a feed rate will cause burning of the wood, too rapid
+L2265@P54: a rate will produce a rough splintery surface.
+L2266@P54: A.5.2 Saber Saw
+L2267@P54: 1. Select the proper blade for the material to be cut, and secure the blade in the saw before plugging
+L2268@P54: in the electric cord.
+L2269@P54: 2. Use a relief cut on corners to prevent binding or pinching the blade which will cause the blade to
+L2270@P54: break.
+L2271@P54: 3. Hold the saber saw firmly against the work piece to prevent vibration or injury.
+L2272@P54-55: 4. The saw should be placed on its side on the workbench when not in use.56
+L2273@P55: A.5.3 Portable Belt Sander
+L2274@P55: 1. Place the sander on its side before plugging the power plug into the outlet
+L2275@P55: 2. Securely clamp the work piece before sanding.
+L2276@P55: 3. Start the sander before touching it to the surface to be sanded.
+L2277@P55: 4. Disconnect the power plug before changing the sanding belt.
+L2278@P55: 5. The weight of the sander will apply adequate pressure to the sanding surface in most cases. Do
+L2279@P55: not apply pressure that causes the sander to slow down.
+L2280@P55: A.5.4 Disk / Belt Sander
+L2281@P55: 1. Check the belt or disk to make sure it is in good condition and not torn. The shop supervisor will
+L2282@P55: replace worn belts or disks.
+L2283@P55: 2. Keep fingers and hands clear of the moving or rotating surface.
+L2284@P55: 3. Hold the work piece securely and use only moderate pressure.
+L2285@P55: 4. Sand only on the downward motion side of the disk sander.
+L2286@P55: 5. Move the work piece side to side on the sanding surface to prevent rapid wear of the belt or disc.
+L2287@P55: A.5.5 Table and Radial Circular Saw
+L2288@P55: 1. You must ask the supervisor's permission to use the radial arm saw or the table saw.
+L2289@P55: 2. Unplug the machine before handling or changing the blade.
+L2290@P55: 3. Select the proper blade for the cut to be made. Check the blade to be free of cracks or nicks, and
+L2291@P55: that it is sharp.
+L2292@P55: 4. Limit the blade extension to ~ inch through the piece being sawed.
+L2293@P55: 5. Use the ripping fence or the cutoff gauge when cutting material.
+L2294@P55: 6. Keep a push stick immediately available and use it to keep fingers away from the saw blade.
+L2295@P55: 7. Feed the work piece at a moderate rate, but not so fast the motor slows down.
+L2296@P55: 8. When using the fence to rip cut a work piece the operator and all observers must not stand in line
+L2297@P55: with the work piece because it can get pinched between the spinning blade and the fence causing
+L2298@P55: it to kick back (be fired strait back out of the saw at a very rapid rate).
+L2299@P55: 9. When cutting large or long pieces on the table saw, use an assistant to SUPPORT the edge or end
+L2300@P55: of large or long pieces being sawed. The assistant does not "feed" the material into or pull it
+L2301@P55: through the saw. This can cause the operator to loose their balance if the work piece moves more
+L2302@P55: rapidly then they anticipated and the operator can fall into the saw.
+L2303@P55: 10. Make sure the table saw has a blade guard, splitter, and anti-kickback device installed and
+L2304@P55: operational before using the saw. Exceptions may be made for specialty cuts (e.g., dados). Check
+L2305@P55: with the shop supervisor before disengaging or removing these guards.
+L2306@P55: 11. You may not cut any work piece on the radial arm saw that is less than 12 inches in length.
+L2307@P55: 12. The table and radial arm saws are for cutting wood materials only.
+L2308@P55: A.5.6 Jig Saw
+L2309@P55: 1. Select the proper size and type of blade for the material to be cut.
+L2310@P55: 2. Cut only stock that is flat on at least one side.
+L2311@P55: 3. See the technician about setting the proper blade tension.
+L2312@P55: 4. The jig saw foot should apply pressure to the work piece. The foot holds the work piece down on
+L2313@P55: the table.
+L2314@P55: 5. Turn the machine through by hand to check for proper operation before turning on the power.
+L2315@P55: A.5.7 Jointer
+L2316@P55-56: 1. All guards will remain in place and properly operating before using the jointer. 57
+L2317@P56: 2. Stand to the side of the machine when in operation.
+L2318@P56: 3. Limit the depth of the cut to 1/16 inch maximum; the jointer is intended for light finish cuts only.
+L2319@P56: 4. Use a push stick, and do not feed material less than 12 inches long through the jointer.
+L2320@P56: 5. Never allow hand pressure on top of the work piece to be directly over or just past the cutter. If
+L2321@P56: kickback should occur with the hand over the cutter, serious injury will result.
+L2322@P56: 6. The work piece must be pushed far enough past the cutter knives before picking it up to allow
+L2323@P56: the guard to return.
+L2324@P56: 7. Feed the work piece at a constant moderate rate and into the rotation of the cutter.
+L2325@P56: A.6 Other Tools
+L2326@P56: A.6.1 Sand Blaster
+L2327@P56: 1. All work pieces must be clean (free of grease, oil, etc) and dry.
+L2328@P56: 2. You must ask the supervisor's permission to sand blast.
+L2329@P56: 3. Discontinue use and inform the supervisor if the sand blasting machines gloves develop cracks,
+L2330@P56: tears or holes.
+L2331@P56: A.6.2 Compressed Air
+L2332@P56: 1. Wear safety glasses, goggles, or face shield when using the blow gun.
+L2333@P56: 2. Blowing compressed air at your skin or that of others can inject air bubbles into the blood stream
+L2334@P56: and cause death.
+L2335@P56: 3. You are responsible for insuring that your use of the air hose does not injure others, (i.e., do not
+L2336@P56: blow chips at someone without eye protection). LOOK FIRST.
+L2337@P56: A.6.3 Solvent Tank
+L2338@P56: 1. Use of the rubber gloves provided is strongly recommended but not required.
+L2339@P56: 2. Pre-clean the parts to remove excess grease, oil and other foreign substances so that the solvent
+L2340@P56: is not instantly too contaminated to use. Note: the solvent is recirculated continuously.
+L2341@P56: 3. When not in use the lid is to remain closed and not used as a table.
+L2342@P56: 4. No additional solvents may be added to the solvent tank.
+L2343@P56: 5. The supervisor is responsible for replacing the solvent.
+L2344@P56: A.6.4 Spray Painting
+L2345@P56: 1. No spray painting will be done in this shop. It does not meet the Air Pollution Control District or
+L2346@P56: OSHA regulations and requirements.
+L2347@P56: 2. Check with the supervisor for alternatives if painting is required to complete your project.
+L2348@P56: A.6.5 Hydraulic and Arbor Press
+L2349@P56: 1. Make certain work is solidly supported on the table and is aligned with the ram.
+L2350@P56: 2. Make certain that accessories, ram or arbor, are properly positioned so as to prevent parts from
+L2351@P56-58: slipping out when under pressure and endangering yourself or observers. 5859
+L2352@P58: Appendix B: Student Shop After Hours Policy
+L2353@P58: B.1 Rules for Student Machine Shop for after hours and weekends
+L2354@P58: 1. All shop safety rules will be strictly adhered to, see: Appendix A.
+L2355@P58: 2. Only physics approved students, working as part of an official physics department group, are
+L2356@P58: allowed in the shop. Each individual must provide, on the sign-up sheet, his or her name and an
+L2357@P58: emergency contact (this will include the name, relationship, and phone number of a responsible
+L2358@P58: party in the event of an accident).
+L2359@P58: 3. No machinery will be operated and no work will be done unless there are two student members
+L2360@P58: physically present in the shop. This will allow, in the event of an injury, for the second person to
+L2361@P58: call for help by using the EMERGENCY PHONE and then render aid. See: EMERGENCY
+L2362@P58: PROCEDURES, below.
+L2363@P58: 4. Any breach of safety procedures will result in the loss of shop privileges.
+L2364@P58: 5. Faculty sponsor must approve after hours work and provide a means of contact for the group.
+L2365@P58: 6. Leave doors open while working in student machine shop.
+L2366@P58: B.2 Minor Emergencies
+L2367@P58: If treatment is required for minor accidents, University Health Services or any ERT can be contacted. Telephone
+L2368@P58: numbers and locations will be posted on the door by sign-in sheet.
+L2369@P58: B.3 Emergency Procedures
+L2370@P58: In the event of a serious accident the second person performs procedures listed below:
+L2371@P58: 1. Press the RED button on the EMERGENCY PHONE located on the left side of the doorway and
+L2372@P58: under the large RED sign. This will put you in direct contact with the University of Texas Police
+L2373@P58: Department (UTPD). This will also give UTPD the exact location (Robert Lee Moore/PMA) and
+L2374@P58: the room number (3.210/student shop).
+L2375@P58: 2. Explain the nature and severity of the emergency and if Emergency Medical Services (EMS)
+L2376@P58: and/or the fire department are needed.
+L2377@P58: 3. Render aid until emergency response teams arrive. The FIRST AID KIT is located on the wall by
+L2378@P58: the sink.
+L2379@P58: 4. Contact the faculty supervisor.
+L2380@P58: 5. Ask EMS personnel which hospital the individual will be transported to.
+L2381@P58: 6. Faculty Supervisor: Phone the emergency contact (from sign-up sheet) and tell them which
+L2382@P58: hospital the student will be taken to.
+L2383@P58: 7. Contact the student shop supervisor, Jack Clifford at 380-0670, and the shop supervisor, Allan
+L2384@P58: Schroeder at 281-3261.
+L2385@P58: 8. E-mail Allan Schroeder at als@physics.utexas.edu a detailed report covering the accident and
+L2386@P58: procedures followed including as many names as possible.
+L2387@P58-60: 9. Secure all shop entrance doors before leaving. 6061
+L2388@P60: Appendix C: FAQs about Computer Support
+L2389@P60: Who provides computing support for Physics?
+L2390@P60: Answer: The College of Natural Sciences Office of Information Technology (CNS OIT) provides services via the
+L2391@P60: CNS Help Desk. CNS OIT is a service group dedicated to supplying computing support for the college. In
+L2392@P60: addition, some groups within Physics may have their own local support staff to help members of their groups.
+L2393@P60: More information about the services provided by the CNS OIT are found here:
+L2394@P60: https://cns.utexas.edu/information-technology.
+L2395@P60: How do I get a Physics account for web, computation, or general use?
+L2396@P60: Answer: We provide Linux accounts which can be used for computation, personal web pages, and general
+L2397@P60: computing use. Pick up a new user account form from Matthew Ervin, Graduate Program
+L2398@P60: Administrator/Coordinator. Fill out the form and have the associated research sponsor, Matthew Ervin, or the
+L2399@P60: Department Chair sign the form. After having the form signed, please bring the form with correct identification
+L2400@P60: to PMA 7.126. Unless there is a problem with your form, your account will be set up within one business day,
+L2401@P60: often within about 15 minutes.
+L2402@P60: How do I get a Physics e-mail account?
+L2403@P60: Answer: We no longer provide physics e-mail accounts for students. Students should get a UT Mail account by
+L2404@P60: going to: http://utmail.utexas.edu/.
+L2405@P60: How do I subscribe to the Physics department graduate email list?
+L2406@P60: Answer: You may sign up for this list by going to: https://utlists.utexas.edu/sympa/info/gradlist.
+L2407@P60: What computers are available for use?
+L2408@P60: Answer: Your LINUX account will work for accessing our 15 LINUX machines named linux1.ph.utexas.edu
+L2409@P60: through linux15.ph.utexas.edu.
+L2410@P60: You may access all the LINUX machines remotely via SSH. You can also directly access a few of these
+L2411@P60: machines in the Graduate Lounge in PMA 7.306.
+L2412@P60: Printing is available in PMA 7.306 for the LINUX machines. Note that printer usage is monitored for
+L2413@P60: abuse.
+L2414@P60: How do I make a any other request for help in a computer related matter?
+L2415@P60: Answer: Go to the website http://www.cns.utexas.edu/help/.
+L2416@P60: How do I access the homework server machine?
+L2417@P60-62: Answer: Go to http://quest.cns.utexas.edu/.6263
+L2418@P62: Appendix D: Faculty Information
+L2419@P62: (revised: November 2023)
+L2420@P62: Alvarado, José R., Ph.D., Vrije Universiteit
+L2421@P62: Amsterdam, 2013. Assistant Professor of Physics.
+L2422@P62: Biophysics. Soft matter, fluid mechanics, active
+L2423@P62: matter.
+L2424@P62: Andeen, Timothy R., Ph.D., Northwestern
+L2425@P62: University, 2008. Associate Professor of Physics.
+L2426@P62: High Energy Physics. Experimental searches for new
+L2427@P62: particles and interactions and investigation of
+L2428@P62: electroweak symmetry breaking; high-speed
+L2429@P62: electronics development for new, large scale particle
+L2430@P62: detectors.
+L2431@P62: Baldini, Edoardo, Ph.D., École Polytechnique
+L2432@P62: Fédérale de Lausanne, 2017. Assistant Professor of
+L2433@P62: Physics. Experimental Condensed Matter Physics.
+L2434@P62: Emergent phenomena in quantum materials.
+L2435@P62: Boddy, Kimberly K., Ph.D., California Institute of
+L2436@P62: Technology, 2014. Assistant Professor of Physics.
+L2437@P62: Theoretical Cosmology. Astro-particle physics, dark
+L2438@P62: matter.
+L2439@P62: Breizman, Boris, Ph.D., Budker Institute of
+L2440@P62: Nuclear Physics, 1971. Research Professor of
+L2441@P62: Physics. Plasma and Fusion. Theoretical plasma
+L2442@P62: physics, beam-plasma interactions.
+L2443@P62: Burby, Joshua W., D.Sc., Princeton University,
+L2444@P62: 2015. Assistant Professor of Physics. Plasma and
+L2445@P62: Fusion.
+L2446@P62: Caceres, Elena, Ph.D., The University of Texas at
+L2447@P62: Austin, 1996. Associate Professor of Physics. String
+L2448@P62: Theory and Gravity: gauge/gravity duality,
+L2449@P62: supergravity solutions, and holography.
+L2450@P62: Chelikowsky, James R., Ph.D., University of
+L2451@P62: California, Berkeley, 1975. Professor of Physics &
+L2452@P62: Chemical Engineering. Director, Center for
+L2453@P62: Computational Materials, Oden Institute for
+L2454@P62: Computational Engineering and Sciences.
+L2455@P62: Condensed matter physics. Materials physics.
+L2456@P62: Electronic, optical and magnetic properties of
+L2457@P62: materials. High performance computational
+L2458@P62: algorithms for the quantum theory of materials.
+L2459@P62: Chen, Hsin-Yu, Ph.D., University of Chicago, 2017.
+L2460@P62: Assistant Professor of Physics. Relativity &
+L2461@P62: Gravitation.
+L2462@P62: Coker, William Rory, Ph.D., University of Georgia,
+L2463@P62: 1966. Professor of Physics. Nuclear Physics.
+L2464@P62: Theoretical nuclear physics, with emphasis on
+L2465@P62: scattering and reactions of hadrons and nuclei at
+L2466@P62: medium energies.
+L2467@P62: Demkov, Alexander A., Ph.D., University of
+L2468@P62: Arizona, 1995. Professor of Physics. Condensed
+L2469@P62: Matter Physics. Condensed-matter theory; physics of
+L2470@P62: electronic materials, surfaces, and interfaces; thin
+L2471@P62: films and devices; novel materials; quantum
+L2472@P62: transport.
+L2473@P62: Distler, Jacques, Ph.D., Harvard University, 1987.
+L2474@P62: Professor of Physics. Cosmology & String Theory.
+L2475@P62: High-energy theory, mathematical physics, string
+L2476@P62: theory.
+L2477@P62: Ditmire, Todd, Ph.D., University of California,
+L2478@P62: Davis, 1995. Professor of Physics. Director, Texas
+L2479@P62: Center for High Energy-Density Science. Advanced
+L2480@P62: accelerator concepts, laser/plasma particle
+L2481@P62: acceleration and interactions, strong field quantum
+L2482@P62: field physics, advanced x-ray and gamma-ray
+L2483@P62: radiation sources, experimental & computational
+L2484@P62: relativistic plasma and particle physics, nuclear
+L2485@P62: physics, ultrahigh intensity laser-matter interaction.
+L2486@P62: Downer, Michael W., Ph.D., Harvard University,
+L2487@P62: 1983. Professor of Physics. Atomic, Molecular, &
+L2488@P62: Optical Physics, Condensed Matter Physics. Atomic
+L2489@P62: and molecular physics, atomic physics, femtosecond
+L2490@P62: spectroscopy, condensed matter surfaces, high-field
+L2491@P62: atomic and plasma physics.
+L2492@P62: Fischler, Willy, Ph.D., Université Libre de
+L2493@P62: Bruxelles, 1976. Professor of Physics. Director,
+L2494@P62: Weinberg Theory Group, The Weinberg Institute.
+L2495@P62: Cosmology & String Theory, Relativity & Gravitation.
+L2496@P62: Theoretical physics, particle theory, invisible axion
+L2497@P62-63: and supersymmetry.64
+L2498@P63: Fitzpatrick, Richard, Ph.D., University of Sussex,
+L2499@P63: 1988. Professor of Physics & Graduate Advisor.
+L2500@P63: Plasma and Fusion. Magnetic reconnection and
+L2501@P63: gross plasma instabilities in fusion, terrestrial, and
+L2502@P63: astrophysical contexts.
+L2503@P63: Florin, Ernst-Ludwig, Ph.D., Technische
+L2504@P63: Universität München, 1995. Associate Professor of
+L2505@P63: Physics. Biophysics, Nonlinear Dynamics.
+L2506@P63: Experimental nonlinear dynamics, biophysics.
+L2507@P63: Freese, Katherine, Ph.D., University of Chicago,
+L2508@P63: 1984. Professor of Physics. Director, The Weinberg
+L2509@P63: Institute. Director, Texas Center for Cosmology and
+L2510@P63: Astroparticle Physics, The Weinberg Institute.
+L2511@P63: Astrophysics, Cosmology, & String Theory.
+L2512@P63: Galitzki, Nicholas, Ph.D., University of
+L2513@P63: Pennsylvania, 2016. Assistant Professor of Physics.
+L2514@P63: Experimental Cosmology. Astrophysical
+L2515@P63: instrumentation, data analysis, polarimetry, cosmic
+L2516@P63: microwave background, interstellar medium, dust.
+L2517@P63: Gentle, Kenneth W., Ph.D., Massachusetts
+L2518@P63: Institute of Technology, 1962. Professor of Physics.
+L2519@P63: Plasma and Fusion. Experimental plasma physics,
+L2520@P63: particle and electron transport.
+L2521@P63: Gilpin, William, Ph.D., Stanford University, 2019.
+L2522@P63: Assistant Professor of Physics. Biophysics,
+L2523@P63: Nonlinear Dynamics. Chaos, data-driven modeling
+L2524@P63: and statistical learning, mathematical biology,
+L2525@P63: complex fluid flows and pattern formation.
+L2526@P63: Giustino, Feliciano, Ph.D., École Polytechnique
+L2527@P63: Fédérale de Lausanne, 2005. Professor of Physics.
+L2528@P63: Condensed Matter Physics. Electronic structure
+L2529@P63: theory, materials design. High-performance
+L2530@P63: computing.
+L2531@P63: Gordon, Vernita, Ph.D., Harvard University, 2003.
+L2532@P63: Associate Professor of Physics. Biophysics.
+L2533@P63: Experimental biological physics, multicellular
+L2534@P63: systems, the role of physics and spatial structure in
+L2535@P63: developmental and evolutionary systems, biological
+L2536@P63: physics and engineering of membranes.
+L2537@P63: Hegelich, B. Manuel, Ph.D., Ludwig-MaximiliansUniversität München, 2002. Associate Professor of
+L2538@P63: Physics. High Energy-Density Science. Laser-plasma
+L2539@P63: simulations and strongfield quantum field theory.
+L2540@P63: Atomic, Molecular, & Optical Physics, Plasma and
+L2541@P63: Fusion. Interaction of ultra-intense electromagnetic
+L2542@P63: fields with matter; high-energy density physics; laser
+L2543@P63: particle acceleration.
+L2544@P63: Heinzen, Daniel J., Ph.D., Massachusetts Institute
+L2545@P63: of Technology, 1988. Professor of Physics. Atomic,
+L2546@P63: Molecular, & Optical Physics. Atomic and molecular
+L2547@P63: physics, laser cooling and atom trapping, BoseEinstein condensation.
+L2548@P63: Hunter-Jones, Nick, Ph.D., California Institute of
+L2549@P63: Technology, 2018. Assistant Professor of Physics &
+L2550@P63: Computer Science. Condensed Matter Physics:
+L2551@P63: Quantum Information. Quantum many-body physics,
+L2552@P63: random quantum circuits, unitary designs,
+L2553@P63: demonstrations of quantum advantage, noise in
+L2554@P63: quantum systems, quantum complexity, quantum
+L2555@P63: chaos and scrambling, thermalization, Hamiltonian
+L2556@P63: simulation, topological phases.
+L2557@P63: Ippoliti, Matteo, D.Sc., Princeton University, 2019.
+L2558@P63: Assistant Professor of Physics. Condensed Matter
+L2559@P63: Physics: Quantum Information. Quantum dynamics
+L2560@P63: and simulation.
+L2561@P63: Kaplunovsky, Vadim, Ph.D., Tel Aviv University,
+L2562@P63: 1983. Professor of Physics. Cosmology & String
+L2563@P63: Theory. Particle theory, string phenomenology.
+L2564@P63: Karch, Andreas, Ph.D., Humboldt-Universität zu
+L2565@P63: Berlin, 1998. Professor of Physics & Associate Chair
+L2566@P63: for Graduate Education (GSC Chair). Particle
+L2567@P63: Theory.
+L2568@P63: Keto, John W., Ph.D., University of WisconsinMadison, 1972. Professor of Physics. Atomic,
+L2569@P63: Molecular, & Optical Physics. Reactions and
+L2570@P63: radiative processes of excited atoms and molecules,
+L2571@P63: laser spectroscopy, nanoparticles.
+L2572@P63: Kilic, Can, Ph.D., Harvard University, 2006.
+L2573@P63: Associate Professor of Physics. Particles and Fields.
+L2574@P63: Theoretical particle physics, extensions of the
+L2575@P63: Standard Model, collider phenomenology, dark
+L2576@P63: matter models and searches.
+L2577@P63: Kravitz, Scott, Stanford University, 2017. Assistant
+L2578@P63: Professor of Physics. High Energy Physics.
+L2579@P63: Experimental particle physics, dark matter direct
+L2580@P63: detection, machine learning, rare event searches.
+L2581@P63: Kunz, Paul D., D.Sc., University of Colorado at
+L2582@P63: Boulder 2013. Adjunct Associate Professor of
+L2583@P63: Physics. Atomic, Molecular, & Optical Physics.
+L2584@P63: Laguna, Pablo, Ph.D., The University of Texas at
+L2585@P63: Austin, 1987. Professor of Physics & Department
+L2586@P63-64: Chair. Relativity & Gravitation.65
+L2587@P64: Lai, Keji, Ph.D., Princeton University, 2006.
+L2588@P64: Associate Professor of Physics. Condensed Matter
+L2589@P64: Physics. Experimental condensed matter physics,
+L2590@P64: nanoscale electromagnetic imaging, complex oxides,
+L2591@P64: nanomaterials, transport in low-dimensional
+L2592@P64: systems.
+L2593@P64: Lang, Karol, Ph.D., University of Rochester, 1985.
+L2594@P64: Professor of Physics. Director, Center for Particles
+L2595@P64: and Fields. High Energy Physics. Experimental
+L2596@P64: particle physics, rare kaon decays, neutrino
+L2597@P64: interactions and oscillations, searches for
+L2598@P64: neutrinoless double beta decay, axions, processes
+L2599@P64: beyond the Standard Model, development of particle
+L2600@P64: detectors and analysis techniques of complex data
+L2601@P64: sets, medical nuclear imaging.
+L2602@P64: Li, Xiaoqin “Elaine”, Ph.D., University of Michigan,
+L2603@P64: 2003. Professor of Physics. Experimental
+L2604@P64: Condensed Matter Physics. Quantum control, and
+L2605@P64: nanophotonics. ultrafast spectroscopy and inelastic
+L2606@P64: light scattering of metallic films and nanoparticles,
+L2607@P64: van der Waals materials, semiconductor
+L2608@P64: nanostructures, magnetic thin films.
+L2609@P64: MacDonald, Allan H., Ph.D., University of Toronto,
+L2610@P64: 1978. Professor of Physics. Condensed Matter
+L2611@P64: Physics. Condensed-matter theory with emphasis on
+L2612@P64: electron-electron interactions.
+L2613@P64: Mahajan, Swadesh M., Ph.D., University of
+L2614@P64: Maryland 1973. Research Professor of Physics.
+L2615@P64: Plasma and Fusion.
+L2616@P64: Marder, Michael P., Ph.D., University of California,
+L2617@P64: Santa Barbara, 1986. Professor of Physics. CoDirector of UTeach. Director, Center for Nonlinear
+L2618@P64: Dynamics. Condensed Matter Physics, Nonlinear
+L2619@P64: Dynamics and Complex Systems, Physics Education.
+L2620@P64: Nonlinear dynamics, statistical physics of nonlinear
+L2621@P64: dynamics and complex systems, physics and other
+L2622@P64: solids.
+L2623@P64: Markert Christina, Ph.D., Johann Wolfgang Goethe
+L2624@P64: Universität, 2001. Professor of Physics. Nuclear
+L2625@P64: Physics. High energy nuclear physics, relativistic
+L2626@P64: heavy-ion physics, the quark-gluon plasma (QGP)
+L2627@P64: phase.
+L2628@P64: Markert, John T., Ph.D., Cornell University, 1987.
+L2629@P64: Professor of Physics. Associate Chair for
+L2630@P64: Foundational Physics Education. Condensed Matter
+L2631@P64: Physics, Physics Education. Experimental
+L2632@P64: condensed-matter physics, crystal growth, pulsedlaser-ablation thin-film deposition, high-Tc
+L2633@P64: materials, magnetic materials, magnetic resonance,
+L2634@P64: magnetic resonance force microscopy,
+L2635@P64: interferometer/oscillator technologies.
+L2636@P64: Matzner, Richard A., Ph.D., University of
+L2637@P64: Maryland, 1967. Professor of Physics. Relativity &
+L2638@P64: Gravitation. General relativity and cosmology,
+L2639@P64: manifolds with little symmetry, kinetic theory,
+L2640@P64: conservation laws in general relativity, black hole
+L2641@P64: physics and gravitational radiation.
+L2642@P64: Morrison, Philip. J., Ph.D., University of California,
+
