@@ -21,6 +21,10 @@ def main() -> None:
     for school in data:
         for faculty in school["faculty"]:
             assert faculty.get("department")
+            assert faculty.get("summary_zh")
+            assert re.search(r"[\u4e00-\u9fff]", faculty["summary_zh"])
+            assert faculty.get("summary_translation_mode") in {"topics", "translated", "area"}
+            assert "summary_original" in faculty
             assert "education" in faculty
             assert "phd_recruitment_history" in faculty
             assert "summer_research_history" in faculty
@@ -40,6 +44,10 @@ def main() -> None:
             if not target.exists():
                 broken.append((str(page.relative_to(ROOT)), url))
     assert not broken, broken[:20]
+    school_html = next((DIST / "schools").glob("*.html")).read_text(encoding="utf-8")
+    assert "中文简介" in school_html
+    assert 'id="publicFilter"' in school_html
+    assert 'id="facultySort"' in school_html
     print(f"OK: {len(pages)} HTML pages, 30 schools, {sum(len(item['faculty']) for item in data)} faculty, no broken internal links")
 
 

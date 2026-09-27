@@ -233,6 +233,105 @@ def safe_title(value: str) -> str:
     return value
 
 
+JUNK_NAME_RE = re.compile(
+    r"(?i)^(?:giving opportunit(?:y|ies)|giving opportunties|pappalardo fellowships|resources overview|our history|"
+    r"tax information|job opportunities for physicists|diverse minds seminar series|film and media|"
+    r"general resources|career information|careers seminar|alumni resources|purdue resources|employment opportunities|"
+    r"resources for visitors|safety resources|skip to main content|important dates and deadlines|"
+    r"concurrent enrollment & summer sessions|inaugural hans frauenfelder lecture|"
+    r"independent study approval form|thin film fabrication and characterization|"
+    r"x-ray imaging and spectroscopy|harvard-mit sps chilloquium|wright lab media|"
+    r"molecular & optical atomic|nuclear & particle experiment|positions available|equity & inclusion|"
+    r"follow us|quick links|secondary navigation|phd alumni|ladd observatory|our facilities|site navigation|"
+    r"superconductivity milestones|campus map|keep in touch|herndon homepage|icecube homepage|"
+    r"soares-furtado homepage|string theory|theory and practice|wipac homepage|wippl homepage|catalog navigation)$"
+)
+
+
+TOPIC_PATTERNS = [
+    (r"gravitational[- ]wave", "引力波物理与天体物理"),
+    (r"black hole", "黑洞物理"),
+    (r"compact (?:object|binary|merger)|neutron star|cosmic explosion|transient", "致密天体与瞬变源"),
+    (r"large[- ]scale structure", "宇宙大尺度结构"),
+    (r"early[- ]universe|cosmic dawn|cosmolog", "宇宙学"),
+    (r"galax", "星系形成与演化"),
+    (r"stellar|stars?\b", "恒星天体物理"),
+    (r"exoplanet|planetary", "系外行星与行星物理"),
+    (r"observational astrophysics|radio astronomy|astroinformatics|sky surve", "观测天体物理与巡天"),
+    (r"theoretical astrophysics|astroparticle|high[- ]energy astrophysics", "理论与高能天体物理"),
+    (r"dark matter", "暗物质"),
+    (r"dark energy", "暗能量"),
+    (r"neutrino", "中微子物理"),
+    (r"heavy[- ]ion|quark.gluon|\bqcd\b", "强相互作用与重离子物理"),
+    (r"experimental (?:nuclear|particle|high energy)|collider|higgs", "实验粒子与核物理"),
+    (r"theoretical (?:nuclear|particle|high energy)|quantum field theor", "理论粒子与高能物理"),
+    (r"nuclear physics|nucleon|hadron", "核物理与强子物理"),
+    (r"accelerator", "加速器物理"),
+    (r"quantum gravity|holograph|black hole information", "量子引力与全息原理"),
+    (r"string theory", "弦理论"),
+    (r"quantum information|quantum comput|quantum measurement", "量子信息与计算"),
+    (r"atomic,? molecular,? and optical|\bamo\b|atom optics", "原子分子光物理（AMO）"),
+    (r"quantum optics|nanophotonic|photonics", "量子光学与光子学"),
+    (r"ultracold|cold atoms?", "超冷原子与量子气体"),
+    (r"theoretical condensed matter", "理论凝聚态物理"),
+    (r"experimental condensed matter", "实验凝聚态物理"),
+    (r"quantum material|quantum matter|electronic states? of matter", "量子材料与量子物态"),
+    (r"topolog", "拓扑物态与拓扑材料"),
+    (r"many[- ]body|strongly (?:interacting|correlated)|electron correlation", "强关联与量子多体物理"),
+    (r"superconduct", "超导物理"),
+    (r"mesoscopic|semiconductor|two-dimensional|\b2d\b", "介观与低维量子系统"),
+    (r"plasma|nuclear fusion|\bfusion\b", "等离子体与聚变物理"),
+    (r"biophys|biological", "生物物理"),
+    (r"soft matter", "软物质物理"),
+    (r"complex systems?|collective behavior|non-equilibrium", "复杂系统与非平衡物理"),
+    (r"fluid|hydrodynamic", "流体与流体力学"),
+    (r"machine learning|artificial intelligence|data[- ]driven", "机器学习与物理数据方法"),
+    (r"instrumentation|detector", "物理仪器与探测技术"),
+    (r"physics education|science teaching", "物理教育"),
+]
+
+
+def chinese_summary(item: dict) -> tuple[str, str, str]:
+    """Create a cautious Chinese research synopsis and preserve a source excerpt."""
+    original = re.sub(r"\s+", " ", item.get("summary", "")).strip()
+    area = item.get("area") or "官网未细分 / 跨学科"
+    area_label = "官网未细分 / 跨学科" if area == "跨学科与其他" else area
+
+    if "公开名录将其归入" in original or "官方院系与研究中心信息归入" in original:
+        return (
+            f"{item['name']} 在当前官方目录中归入“{area_label}”方向。公开目录未提供足够详细的个人研究摘要，建议进入官方主页核对近期课题与论文。",
+            "",
+            "area",
+        )
+
+    lowered = original.lower()
+    topics: list[str] = []
+    for pattern, label in TOPIC_PATTERNS:
+        if re.search(pattern, lowered, re.I) and label not in topics:
+            topics.append(label)
+    if topics:
+        synopsis = f"当前来源页提及的研究关键词包括：{' · '.join(topics[:6])}。"
+        if len(topics) > 6:
+            synopsis += "还涵盖其他交叉方向。"
+        excerpt = re.sub(r"^(?:官网列出的研究主题包括：|官网研究页：)", "", original)
+        excerpt = re.sub(r"†\S+", "", excerpt).replace("* ", "").strip(" 。;")
+        return synopsis, excerpt, "topics"
+
+    if re.search(r"[\u4e00-\u9fff]", original) and not re.search(r"[A-Za-z]{4,}", original):
+        return original, "", "translated"
+
+    return (
+        f"{item['name']} 在当前目录中归入“{area_label}”方向。来源页暂未提供可稳妥译写的详细研究摘要，请以其个人主页和近期论文为准。",
+        original if re.search(r"[A-Za-z]{4,}", original) else "",
+        "area",
+    )
+
+
+def faculty_initials(name: str) -> str:
+    parts = re.findall(r"[A-Za-zÀ-ɏ]+", re.sub(r"\([^)]*\)", "", name))
+    return ((parts[0][0] if parts else "φ") + (parts[-1][0] if len(parts) > 1 else "")).upper()
+
+
 def area_counts(records: list[dict]) -> Counter:
     return Counter(item["area"] for item in records)
 
@@ -286,7 +385,9 @@ def school_card(meta: dict, records: list[dict]) -> str:
 def faculty_card(item: dict, school_name: str) -> str:
     name = item["name"]
     area = item["area"]
-    summary = item["summary"]
+    summary = item["summary_zh"]
+    original_summary = item.get("summary_original", "")
+    translation_mode = item.get("summary_translation_mode", "area")
     if area == "跨学科与其他":
         area_label = "官网未细分 / 跨学科"
     else:
@@ -325,11 +426,26 @@ def faculty_card(item: dict, school_name: str) -> str:
         background_text = "未发现课题组官网公开的可核验汇总；不根据姓名推断国籍"
         background_html = esc(background_text)
     department = item.get("department", "")
-    blob = " ".join([name, area_label, item.get("mode", ""), summary, education, department, background_text]).lower()
-    return f"""<article class="faculty-card" data-faculty-card data-area="{esc(area_label)}" data-search="{esc(blob)}">
-      <div class="faculty-top"><div><h3>{esc(name)}</h3><p class="faculty-title">{esc(safe_title(item['title']))}</p><p class="faculty-department">{esc(department)}</p></div><span class="area-tag">{esc(area_label)}</span></div>
-      <p class="faculty-summary">{esc(summary)}</p>
-      <div class="faculty-meta"><span>{esc(item.get('mode', '综合 / 待核实'))}</span></div>
+    public_fields = []
+    if item.get("education"):
+        public_fields.append("education")
+    if phd_history:
+        public_fields.append("phd")
+    if summer_history:
+        public_fields.append("summer")
+    if backgrounds:
+        public_fields.append("group")
+    completeness = len(public_fields)
+    mode_label = {"topics": "研究关键词译写", "translated": "中文简介", "area": "保守方向摘要"}.get(translation_mode, "中文译写")
+    original_html = ""
+    if original_summary:
+        original_html = f'      <details class="original-summary"><summary>查看来源页英文摘录</summary><p lang="en">{esc(original_summary)}</p></details>'
+    blob = " ".join([name, area_label, item.get("mode", ""), summary, original_summary, education, department, background_text]).lower()
+    return f"""<article class="faculty-card" data-faculty-card data-area="{esc(area_label)}" data-name="{esc(name.lower())}" data-public="{esc(' '.join(public_fields))}" data-completeness="{completeness}" data-search="{esc(blob)}">
+      <div class="faculty-top"><div class="faculty-identity"><span class="faculty-avatar" aria-hidden="true">{esc(faculty_initials(name))}</span><div><h3>{esc(name)}</h3><p class="faculty-title">{esc(safe_title(item['title']))}</p><p class="faculty-department">{esc(department)}</p></div></div><span class="area-tag">{esc(area_label)}</span></div>
+      <div class="bio-block"><div class="bio-label"><span>中文简介</span><small>{esc(mode_label)}</small></div><p class="faculty-summary">{esc(summary)}</p></div>
+{original_html}
+      <div class="faculty-meta"><span>{esc(item.get('mode', '综合 / 待核实'))}</span><span>官网来源可追溯</span></div>
       <details class="faculty-more"><summary>学位、招生与组内背景</summary><dl>
         <div><dt>所属院系</dt><dd>{esc(department)}</dd></div>
         <div><dt>职称</dt><dd>{esc(safe_title(item['title']))}</dd></div>
@@ -376,9 +492,10 @@ def build_school(meta: dict, records: list[dict]) -> None:
       <section class="hero school-hero"><div><div class="eyebrow">QS 世界大学排名 {esc(meta['rank'])}</div><h1>{esc(meta['name'])}</h1><p>物理 PhD 研究生态与导师名录。突出方向：{esc('、'.join(meta['strengths']))}。</p><div class="hero-actions"><a class="primary" href="{esc(source)}" target="_blank" rel="noopener">官方教师名录 ↗</a><a href="#faculty">浏览 {len(records)} 名教师</a></div></div><div class="school-number"><strong>{len(records)}</strong><span>名在册教授 / 研究人员</span><small>官网口径 · 核验 {CHECKED}</small></div></section>
       <section class="detail-grid"><div><div class="section-kicker">研究版图</div><h2>方向分布</h2><div class="bars">{bars}</div></div><div><div class="section-kicker">申请观察</div><h2>适合重点关注</h2><div class="focus-chips">{''.join(f'<span>{esc(x)}</span>' for x in meta['strengths'])}</div><p class="muted">分布来自官网公开文字的规则分类；“官网未细分”不代表没有研究方向，应进入个人主页查看近期项目与论文。</p></div></section>
       <section class="labs-section"><div class="section-heading"><div><div class="section-kicker">LABS & CENTERS</div><h2>突出的实验室与研究平台</h2></div><p>优先用于判断学校的设备、合作网络与共同导师资源。</p></div><div class="labs-grid">{labs}</div></section>
-      <section class="faculty-section" id="faculty"><div class="section-heading"><div><div class="section-kicker">FACULTY DIRECTORY</div><h2>教授与研究人员</h2></div><p>官方名录高覆盖收集；招生状态需单独确认。</p></div>
-        <div class="faculty-tools"><label>按姓名或关键词搜索<input id="facultySearch" type="search" placeholder="姓名、量子材料、引力波……"></label><label>细分方向<select id="areaFilter"><option value="">全部方向（{len(records)}）</option>{options}</select></label><p id="facultyResultCount">显示 {len(records)} 名</p></div>
-        <div class="faculty-grid">{faculty}</div>
+      <section class="faculty-section" id="faculty"><div class="section-heading"><div><div class="section-kicker">FACULTY DIRECTORY</div><h2>教授与研究人员</h2></div><p>{len(records)} 条记录均配有中文简介；保留来源摘录和官网入口便于核对。</p></div>
+        <aside class="translation-note"><span>译写说明</span><p>中文简介用于申请初筛。当来源页只有学科分类、职务或上下文不足时，页面会显示“保守方向摘要”，不补写具体成果。最终请以个人主页和近期论文为准。</p></aside>
+        <div class="faculty-tools"><label>按姓名或关键词搜索<input id="facultySearch" type="search" placeholder="姓名、量子材料、引力波……"></label><label>细分方向<select id="areaFilter"><option value="">全部方向（{len(records)}）</option>{options}</select></label><label>公开资料<select id="publicFilter"><option value="">不限</option><option value="education">已公开学位信息</option><option value="phd">已公开 PhD 招收数</option><option value="summer">已公开暑研人数</option><option value="group">已公开组员背景</option></select></label><label>排序<select id="facultySort"><option value="name">姓名 A–Z</option><option value="completeness">公开资料较多优先</option></select></label><div class="faculty-tool-actions"><p id="facultyResultCount">显示 {len(records)} 名</p><button id="facultyReset" type="button">重置筛选</button></div></div>
+        <div class="faculty-grid" id="facultyGrid">{faculty}</div>
       </section>
       <section class="source-box"><h2>本页口径</h2><p>收录范围以学校物理系官方在职名录为主，并保留官网明确列出的联合/关联研究人员；排除荣休、访问、兼职和纯教学岗位。研究方向摘要来自官方名录或研究领域页；若官网列表没有公开细分方向，会明确标为“官网未细分 / 跨学科”。</p><p>学位、PhD/暑研历年名额和学生背景只记录官方公开内容。学生国籍仅在本人或学校明确公开时记录，绝不根据姓名、照片或毕业学校推断。个人招聘意向但未给人数时也不会换算为“1 人”。</p><p><a href="{esc(source)}" target="_blank" rel="noopener">查看本校核心官方来源 ↗</a>　<a href="../methodology.html">查看完整方法与局限</a></p></section>
     </main>"""
@@ -387,13 +504,15 @@ def build_school(meta: dict, records: list[dict]) -> None:
 
 
 def build_methodology(total: int) -> None:
-    body = f"""<main id="main" class="prose-page"><nav class="breadcrumb"><a href="index.html">全部学校</a><span>／</span><span>口径与使用方法</span></nav><article><div class="eyebrow">METHODOLOGY</div><h1>数据口径与申请使用方法</h1><p class="lead">本项目的目标是帮助申请者建立候选学校与导师长名单，而不是替代学校官网、论文数据库或与导师的直接沟通。</p><h2>学校范围</h2><p>学校范围按 QS 世界大学综合排名中的美国高校顺序选取前 30 所；这是机构综合排名，不等同于物理学科排名。站内保留 QS 名次便于复现筛选口径。</p><h2>教师覆盖</h2><p>当前共整理 {total:,} 条教授/研究人员记录。优先使用物理系官方在职 faculty 页面、研究领域名单及研究生培养手册；官网明确列出的联合或关联研究人员会保留。排除荣休、纯教学、访问、兼职与博士后。由于学校对“faculty”的定义不同，页面公开实际收录人数与来源，不伪造跨校可比的精确百分比。</p><h2>研究方向与成果</h2><p>研究方向先读取官方目录和研究领域页，再按统一物理子领域归类。官网没有公开描述时明确标注“官网未细分 / 跨学科”。每位教师提供官方主页/名录入口和 Google Scholar 论文检索；论文作者同名时请用单位与 ORCID 交叉核对。</p><h2>学位、招生和学生背景</h2><p>学位只采用官方简介、CV 或院系名录明确列出的学位、授予学校和专业；缺少任一项时不补猜。PhD 与暑研人数必须同时有年份、明确人数和官方来源，“正在招人”不能换算为人数。“未公开”不等于 0。学生国籍属于容易被误推断的信息，只有本人或学校明确公开时才记录；毕业学校也只来自官方实验室成员简介，不使用姓名、照片、社交媒体或第三方聚合站推断。</p><h2>推荐使用顺序</h2><ol><li>先在首页按强项筛出 6–10 所学校。</li><li>进入学校页，按细分方向形成 3–8 位导师长名单。</li><li>阅读最近 3–5 年论文、实验室新闻与招生说明。</li><li>核对是否招收 PhD、经费、轮转制度和截止日期。</li><li>最终按研究匹配度、培养模式与生活成本，而不是仅按排名排序。</li></ol><h2>时效性</h2><p>最后核验日期：{CHECKED}。教师流动和招生状态变化很快，申请前必须再次打开官网核实。</p><p><a class="primary inline-button" href="index.html">返回学校地图</a></p></article></main>"""
+    body = f"""<main id="main" class="prose-page"><nav class="breadcrumb"><a href="index.html">全部学校</a><span>／</span><span>口径与使用方法</span></nav><article><div class="eyebrow">METHODOLOGY</div><h1>数据口径与申请使用方法</h1><p class="lead">本项目的目标是帮助申请者建立候选学校与导师长名单，而不是替代学校官网、论文数据库或与导师的直接沟通。</p><h2>学校范围</h2><p>学校范围按 QS 世界大学综合排名中的美国高校顺序选取前 30 所；这是机构综合排名，不等同于物理学科排名。站内保留 QS 名次便于复现筛选口径。</p><h2>教师覆盖</h2><p>当前共整理 {total:,} 条教授/研究人员记录。优先使用物理系官方在职 faculty 页面、研究领域名单及研究生培养手册；官网明确列出的联合或关联研究人员会保留。排除荣休、纯教学、访问、兼职与博士后。由于学校对“faculty”的定义不同，页面公开实际收录人数与来源，不伪造跨校可比的精确百分比。</p><h2>研究方向、成果与中文译写</h2><p>研究方向先读取官方目录和研究领域页，再按统一物理子领域归类。英文条目会转换为中文研究关键词，并在有来源摘录时保留英文原文供对照。当公开页只有职务、学科分类或上下文不足时，只给出“保守方向摘要”，不自行补写具体成果。每位教师均提供官方主页/名录入口和 Google Scholar 论文检索；论文作者同名时请用单位与 ORCID 交叉核对。</p><h2>学位、招生和学生背景</h2><p>学位只采用官方简介、CV 或院系名录明确列出的学位、授予学校和专业；缺少任一项时不补猜。PhD 与暑研人数必须同时有年份、明确人数和官方来源，“正在招人”不能换算为人数。“未公开”不等于 0。学生国籍属于容易被误推断的信息，只有本人或学校明确公开时才记录；毕业学校也只来自官方实验室成员简介，不使用姓名、照片、社交媒体或第三方聚合站推断。</p><h2>推荐使用顺序</h2><ol><li>先在首页按强项筛出 6–10 所学校。</li><li>进入学校页，按细分方向形成 3–8 位导师长名单。</li><li>阅读最近 3–5 年论文、实验室新闻与招生说明。</li><li>核对是否招收 PhD、经费、轮转制度和截止日期。</li><li>最终按研究匹配度、培养模式与生活成本，而不是仅按排名排序。</li></ol><h2>时效性</h2><p>最后核验日期：{CHECKED}。教师流动和招生状态变化很快，申请前必须再次打开官网核实。</p><p><a class="primary inline-button" href="index.html">返回学校地图</a></p></article></main>"""
     (DIST / "methodology.html").write_text(page_shell("数据口径与使用方法", "物理 PhD 导师地图的数据来源、覆盖范围、局限与使用方法。", body), encoding="utf-8")
 
 
 def main() -> None:
     parsed = json.loads(DATA.read_text(encoding="utf-8"))
     enrichment = json.loads(ENRICHMENT.read_text(encoding="utf-8")) if ENRICHMENT.exists() else {}
+    for school_id, records in parsed.items():
+        parsed[school_id] = [item for item in records if not JUNK_NAME_RE.match(item["name"].strip())]
     for item in parsed.get("nyu", []):
         if item["name"] in NYU_AREAS:
             item["area"] = NYU_AREAS[item["name"]]
@@ -413,6 +532,10 @@ def main() -> None:
             verified = enrichment.get(school_id, {}).get(item["name"], {})
             for field, value in verified.items():
                 item[field] = value
+            summary_zh, summary_original, summary_translation_mode = chinese_summary(item)
+            item["summary_zh"] = summary_zh
+            item["summary_original"] = summary_original
+            item["summary_translation_mode"] = summary_translation_mode
 
     metadata = []
     for order, (sid, name, short, rank, strengths, labs) in enumerate(SCHOOLS, 1):
