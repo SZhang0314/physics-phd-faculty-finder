@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="美国 QS 前 30 院校物理学 PhD 导师线索库：30 所大学、30 位代表性教授/研究员，附官方主页与研究方向筛选。"
+    />
+    <meta name="theme-color" content="#07111f" />
+    <title>Physics PhD Atlas｜美国 QS 前 30 物理导师线索</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%2307111f'/%3E%3Ccircle cx='32' cy='32' r='5' fill='%23ffca6a'/%3E%3Cellipse cx='32' cy='32' rx='23' ry='9' fill='none' stroke='%236ee7f2' stroke-width='3'/%3E%3Cellipse cx='32' cy='32' rx='9' ry='23' fill='none' stroke='%236ee7f2' stroke-width='3' transform='rotate(40 32 32)'/%3E%3C/svg%3E"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#results">跳到导师列表</a>
+
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="返回页面顶部">
+        <span class="brand-mark" aria-hidden="true">
+          <span class="orbit orbit-a"></span>
+          <span class="orbit orbit-b"></span>
+          <span class="nucleus"></span>
+        </span>
+        <span>
+          <strong>Physics PhD Atlas</strong>
+          <small>美国导师线索 · 2027 QS 口径</small>
+        </span>
+      </a>
+      <a class="header-link" href="#method">数据说明</a>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="eyebrow">PHYSICS · PHD · SHORTLIST</p>
+          <h1 id="hero-title">从学校排名出发，<br />把注意力落到<span>研究匹配</span>上。</h1>
+          <p class="hero-intro">
+            按 2027 QS 世界大学排名筛出美国排名最高的 30 所院校，每校选择 1 位物理学相关、具有官方机构主页的代表性教授或研究员。它是一份申请起点，不是录取或招生承诺。
+          </p>
+          <div class="hero-actions">
+            <a class="button primary" href="#explore">开始筛选</a>
+            <a
+              class="button ghost"
+              href="https://www.topuniversities.com/qs-top-uni-wur"
+              target="_blank"
+              rel="noreferrer"
+            >查看 QS 官方排名 ↗</a>
+          </div>
+        </div>
+
+        <div class="field-map" aria-label="四个研究方向组成的选校坐标图">
+          <div class="map-grid" aria-hidden="true"></div>
+          <span class="map-axis axis-x">实验 ← 方法 → 理论</span>
+          <span class="map-axis axis-y">尺度：宇宙 → 量子</span>
+          <div class="map-node node-a"><b>AMO</b><small>原子·光学·量子</small></div>
+          <div class="map-node node-b"><b>CM</b><small>凝聚态·材料</small></div>
+          <div class="map-node node-c"><b>HEP</b><small>粒子·宇宙</small></div>
+          <div class="map-node node-d"><b>ASTRO</b><small>天体·引力</small></div>
+          <div class="map-pulse" aria-hidden="true"></div>
+        </div>
+      </section>
+
+      <section class="stats" aria-label="数据概况">
+        <div><strong id="school-count">30</strong><span>所美国院校</span></div>
+        <div><strong id="faculty-count">30</strong><span>位代表性导师</span></div>
+        <div><strong>4</strong><span>类研究方向</span></div>
+        <div><strong>2026.09</strong><span>最近核验</span></div>
+      </section>
+
+      <section class="explore" id="explore" aria-labelledby="explore-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">EXPLORE THE FIELD</p>
+            <h2 id="explore-title">建立你的第一版导师清单</h2>
+          </div>
+          <p>先按方向缩小范围，再逐一阅读论文、实验室页面和院系招生要求。</p>
+        </div>
+
+        <form class="filters" id="filters" role="search">
+          <label class="search-field">
+            <span>搜索</span>
+            <input
+              id="search"
+              type="search"
+              autocomplete="off"
+              placeholder="姓名、学校、关键词…"
+            />
+          </label>
+          <label>
+            <span>研究方向</span>
+            <select id="field-filter">
+              <option value="all">全部方向</option>
+              <option value="量子信息与 AMO">量子信息与 AMO</option>
+              <option value="凝聚态与材料">凝聚态与材料</option>
+              <option value="粒子与宇宙">粒子与宇宙</option>
+              <option value="天体与引力">天体与引力</option>
+            </select>
+          </label>
+          <label>
+            <span>研究方式</span>
+            <select id="mode-filter">
+              <option value="all">全部方式</option>
+              <option value="实验">实验</option>
+              <option value="理论">理论</option>
+              <option value="观测 / 数据">观测 / 数据</option>
+            </select>
+          </label>
+          <label>
+            <span>排名范围</span>
+            <select id="scope-filter">
+              <option value="us30">美国院校中的前 30</option>
+              <option value="global30">全球前 30 内的美国院校</option>
+            </select>
+          </label>
+          <label>
+            <span>排序</span>
+            <select id="sort-filter">
+              <option value="usRank">美国顺位</option>
+              <option value="qsRank">QS 全球排名</option>
+              <option value="school">学校名称</option>
+            </select>
+          </label>
+          <button class="reset-button" id="reset" type="reset">重置</button>
+        </form>
+
+        <div class="result-bar">
+          <p><span id="result-count">30</span> 个结果</p>
+          <p class="result-note">“代表性”不等于“正在招生”，申请前请向院系或导师核实。</p>
+        </div>
+
+        <div class="faculty-grid" id="results" aria-live="polite"></div>
+        <div class="empty-state" id="empty-state" hidden>
+          <p>没有匹配项。试试减少关键词，或重置筛选。</p>
+          <button class="button ghost" id="empty-reset" type="button">清空筛选</button>
+        </div>
+      </section>
+
+      <section class="method" id="method" aria-labelledby="method-title">
+        <div>
+          <p class="eyebrow">READ BEFORE APPLYING</p>
+          <h2 id="method-title">这份清单该怎么用</h2>
+        </div>
+        <div class="method-grid">
+          <article>
+            <span>01</span>
+            <h3>排名只是入口</h3>
+            <p>院校范围采用 2027 QS 世界大学排名：先在美国院校内排序，再取前 30。筛选器也可切换成“全球前 30 内的美国院校”。</p>
+          </article>
+          <article>
+            <span>02</span>
+            <h3>每校仅一条线索</h3>
+            <p>为保持首版可读性，每校只展示一位代表性导师。它不是院系完整名单，也不表示这位导师比同校其他导师更适合你。</p>
+          </article>
+          <article>
+            <span>03</span>
+            <h3>名额必须复核</h3>
+            <p>职位、研究主题与招生状态会变化。提交申请前，请核对导师主页、近期论文、实验室成员与院系 PhD 招生页。</p>
+          </article>
+        </div>
+        <div class="source-note">
+          <p><strong>核验口径：</strong>院校排名来自 QS 官方页面；姓名、职位与研究方向优先取自大学、院系或实验室官方页面。资料最后核验于 2026-09-27。</p>
+          <a href="https://www.topuniversities.com/qs-top-uni-wur" target="_blank" rel="noreferrer">QS 2027 官方来源 ↗</a>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>Physics PhD Atlas · 为申请调研而整理</p>
+      <p>请用研究契合度、导师指导风格和经费情况做最终判断。</p>
+    </footer>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
