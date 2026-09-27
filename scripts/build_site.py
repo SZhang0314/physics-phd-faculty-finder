@@ -14,6 +14,7 @@ from urllib.parse import quote_plus
 ROOT = Path(__file__).resolve().parents[1]
 DIST = ROOT / "dist"
 DATA = ROOT / "research" / "parsed.json"
+ENRICHMENT = ROOT / "research" / "public_enrichment.json"
 CHECKED = "2026-09-27"
 SITE_URL = "https://szhang0314.github.io/physics-phd-faculty-finder"
 
@@ -188,6 +189,40 @@ NYU_AREAS = {
 }
 
 
+DEPARTMENTS = {
+    "mit": "Department of Physics",
+    "stanford": "Department of Physics",
+    "harvard": "Department of Physics",
+    "caltech": "Division of Physics, Mathematics and Astronomy",
+    "upenn": "Department of Physics and Astronomy",
+    "cornell": "Department of Physics",
+    "yale": "Department of Physics",
+    "jhu": "Department of Physics and Astronomy",
+    "berkeley": "Department of Physics",
+    "uchicago": "Department of Physics",
+    "princeton": "Department of Physics",
+    "columbia": "Department of Physics",
+    "northwestern": "Department of Physics and Astronomy",
+    "ucla": "Department of Physics and Astronomy",
+    "michigan": "Department of Physics",
+    "cmu": "Department of Physics",
+    "nyu": "Physics Department, Faculty of Arts and Science",
+    "brown": "Department of Physics",
+    "duke": "Department of Physics",
+    "utaustin": "Department of Physics",
+    "uiuc": "Department of Physics",
+    "ucsd": "Department of Physics",
+    "pennstate": "Department of Physics",
+    "washington": "Department of Physics",
+    "bu": "Department of Physics",
+    "purdue": "Department of Physics and Astronomy",
+    "rice": "Department of Physics and Astronomy",
+    "wisconsin": "Department of Physics",
+    "ucdavis": "Department of Physics and Astronomy",
+    "gatech": "School of Physics",
+}
+
+
 def esc(value: object) -> str:
     return html.escape(str(value), quote=True)
 
@@ -258,11 +293,51 @@ def faculty_card(item: dict, school_name: str) -> str:
         area_label = area
     scholar = f"https://scholar.google.com/scholar?q={quote_plus(name + ' ' + school_name + ' physics')}"
     profile = item.get("profile") or item["source"]
-    blob = " ".join([name, area_label, item.get("mode", ""), summary]).lower()
+    education = item.get("education") or "未在已查官方页面公开完整学位院校与专业"
+    education_source = item.get("education_source")
+    education_html = esc(education)
+    if education_source:
+        education_html += f' <a href="{esc(education_source)}" target="_blank" rel="noopener">来源 ↗</a>'
+    phd_history = item.get("phd_recruitment_history", [])
+    summer_history = item.get("summer_research_history", [])
+    backgrounds = item.get("group_student_backgrounds", [])
+
+    def history_html(rows: list[dict], empty: str) -> str:
+        if not rows:
+            return esc(empty)
+        rendered = []
+        for row in rows:
+            source_link = f'<a href="{esc(row["source"])}" target="_blank" rel="noopener">来源 ↗</a>' if row.get("source") else ""
+            scope = f' · {esc(row["scope"])}' if row.get("scope") else ""
+            note = f'<small>{esc(row["note"])}</small>' if row.get("note") else ""
+            rendered.append(f'<span class="history-row"><b>{esc(row["year"])}</b>：{esc(row["count"])}{scope} {source_link}{note}</span>')
+        return "".join(rendered)
+
+    phd_text = history_html(phd_history, "未发现公开的历年个人名额（不等于 0 人）")
+    summer_text = history_html(summer_history, "未发现公开的历年暑研人数（不等于 0 人）")
+    if backgrounds:
+        background_text = "；".join(row["text"] for row in backgrounds)
+        background_html = "；".join(
+            f'{esc(row["text"])}' + (f' <a href="{esc(row["source"])}" target="_blank" rel="noopener">来源 ↗</a>' if row.get("source") else "")
+            for row in backgrounds
+        )
+    else:
+        background_text = "未发现课题组官网公开的可核验汇总；不根据姓名推断国籍"
+        background_html = esc(background_text)
+    department = item.get("department", "")
+    blob = " ".join([name, area_label, item.get("mode", ""), summary, education, department, background_text]).lower()
     return f"""<article class="faculty-card" data-faculty-card data-area="{esc(area_label)}" data-search="{esc(blob)}">
-      <div class="faculty-top"><div><h3>{esc(name)}</h3><p class="faculty-title">{esc(safe_title(item['title']))}</p></div><span class="area-tag">{esc(area_label)}</span></div>
+      <div class="faculty-top"><div><h3>{esc(name)}</h3><p class="faculty-title">{esc(safe_title(item['title']))}</p><p class="faculty-department">{esc(department)}</p></div><span class="area-tag">{esc(area_label)}</span></div>
       <p class="faculty-summary">{esc(summary)}</p>
       <div class="faculty-meta"><span>{esc(item.get('mode', '综合 / 待核实'))}</span></div>
+      <details class="faculty-more"><summary>学位、招生与组内背景</summary><dl>
+        <div><dt>所属院系</dt><dd>{esc(department)}</dd></div>
+        <div><dt>职称</dt><dd>{esc(safe_title(item['title']))}</dd></div>
+        <div><dt>公开学位信息</dt><dd>{education_html}</dd></div>
+        <div><dt>PhD 历年招收计划</dt><dd>{phd_text}</dd></div>
+        <div><dt>暑研历年招收人数</dt><dd>{summer_text}</dd></div>
+        <div><dt>组内学生公开背景</dt><dd>{background_html}</dd></div>
+      </dl><p class="evidence-note">仅记录学校、院系或实验室官网明确公开的信息；“未公开”不代表没有招生。</p></details>
       <div class="faculty-links"><a href="{esc(profile)}" target="_blank" rel="noopener">个人主页 / 官方名录 ↗</a><a href="{esc(scholar)}" target="_blank" rel="noopener">论文检索 ↗</a></div>
     </article>"""
 
@@ -305,23 +380,39 @@ def build_school(meta: dict, records: list[dict]) -> None:
         <div class="faculty-tools"><label>按姓名或关键词搜索<input id="facultySearch" type="search" placeholder="姓名、量子材料、引力波……"></label><label>细分方向<select id="areaFilter"><option value="">全部方向（{len(records)}）</option>{options}</select></label><p id="facultyResultCount">显示 {len(records)} 名</p></div>
         <div class="faculty-grid">{faculty}</div>
       </section>
-      <section class="source-box"><h2>本页口径</h2><p>收录范围以学校物理系官方在职名录为主，并保留官网明确列出的联合/关联研究人员；排除荣休、访问、兼职和纯教学岗位。研究方向摘要来自官方名录或研究领域页；若官网列表没有公开细分方向，会明确标为“官网未细分 / 跨学科”。</p><p><a href="{esc(source)}" target="_blank" rel="noopener">查看本校核心官方来源 ↗</a>　<a href="../methodology.html">查看完整方法与局限</a></p></section>
+      <section class="source-box"><h2>本页口径</h2><p>收录范围以学校物理系官方在职名录为主，并保留官网明确列出的联合/关联研究人员；排除荣休、访问、兼职和纯教学岗位。研究方向摘要来自官方名录或研究领域页；若官网列表没有公开细分方向，会明确标为“官网未细分 / 跨学科”。</p><p>学位、PhD/暑研历年名额和学生背景只记录官方公开内容。学生国籍仅在本人或学校明确公开时记录，绝不根据姓名、照片或毕业学校推断。个人招聘意向但未给人数时也不会换算为“1 人”。</p><p><a href="{esc(source)}" target="_blank" rel="noopener">查看本校核心官方来源 ↗</a>　<a href="../methodology.html">查看完整方法与局限</a></p></section>
     </main>"""
     path = DIST / "schools" / f"{meta['id']}.html"
     path.write_text(page_shell(f"{meta['short']} 物理 PhD 导师与实验室", f"{meta['name']} 物理教授、研究方向和重点实验室。", body, "../"), encoding="utf-8")
 
 
 def build_methodology(total: int) -> None:
-    body = f"""<main id="main" class="prose-page"><nav class="breadcrumb"><a href="index.html">全部学校</a><span>／</span><span>口径与使用方法</span></nav><article><div class="eyebrow">METHODOLOGY</div><h1>数据口径与申请使用方法</h1><p class="lead">本项目的目标是帮助申请者建立候选学校与导师长名单，而不是替代学校官网、论文数据库或与导师的直接沟通。</p><h2>学校范围</h2><p>学校范围按 QS 世界大学综合排名中的美国高校顺序选取前 30 所；这是机构综合排名，不等同于物理学科排名。站内保留 QS 名次便于复现筛选口径。</p><h2>教师覆盖</h2><p>当前共整理 {total:,} 条教授/研究人员记录。优先使用物理系官方在职 faculty 页面、研究领域名单及研究生培养手册；官网明确列出的联合或关联研究人员会保留。排除荣休、纯教学、访问、兼职与博士后。由于学校对“faculty”的定义不同，页面公开实际收录人数与来源，不伪造跨校可比的精确百分比。</p><h2>研究方向与成果</h2><p>研究方向先读取官方目录和研究领域页，再按统一物理子领域归类。官网没有公开描述时明确标注“官网未细分 / 跨学科”。每位教师提供官方主页/名录入口和 Google Scholar 论文检索；论文作者同名时请用单位与 ORCID 交叉核对。</p><h2>推荐使用顺序</h2><ol><li>先在首页按强项筛出 6–10 所学校。</li><li>进入学校页，按细分方向形成 3–8 位导师长名单。</li><li>阅读最近 3–5 年论文、实验室新闻与招生说明。</li><li>核对是否招收 PhD、经费、轮转制度和截止日期。</li><li>最终按研究匹配度、培养模式与生活成本，而不是仅按排名排序。</li></ol><h2>时效性</h2><p>最后核验日期：{CHECKED}。教师流动和招生状态变化很快，申请前必须再次打开官网核实。</p><p><a class="primary inline-button" href="index.html">返回学校地图</a></p></article></main>"""
+    body = f"""<main id="main" class="prose-page"><nav class="breadcrumb"><a href="index.html">全部学校</a><span>／</span><span>口径与使用方法</span></nav><article><div class="eyebrow">METHODOLOGY</div><h1>数据口径与申请使用方法</h1><p class="lead">本项目的目标是帮助申请者建立候选学校与导师长名单，而不是替代学校官网、论文数据库或与导师的直接沟通。</p><h2>学校范围</h2><p>学校范围按 QS 世界大学综合排名中的美国高校顺序选取前 30 所；这是机构综合排名，不等同于物理学科排名。站内保留 QS 名次便于复现筛选口径。</p><h2>教师覆盖</h2><p>当前共整理 {total:,} 条教授/研究人员记录。优先使用物理系官方在职 faculty 页面、研究领域名单及研究生培养手册；官网明确列出的联合或关联研究人员会保留。排除荣休、纯教学、访问、兼职与博士后。由于学校对“faculty”的定义不同，页面公开实际收录人数与来源，不伪造跨校可比的精确百分比。</p><h2>研究方向与成果</h2><p>研究方向先读取官方目录和研究领域页，再按统一物理子领域归类。官网没有公开描述时明确标注“官网未细分 / 跨学科”。每位教师提供官方主页/名录入口和 Google Scholar 论文检索；论文作者同名时请用单位与 ORCID 交叉核对。</p><h2>学位、招生和学生背景</h2><p>学位只采用官方简介、CV 或院系名录明确列出的学位、授予学校和专业；缺少任一项时不补猜。PhD 与暑研人数必须同时有年份、明确人数和官方来源，“正在招人”不能换算为人数。“未公开”不等于 0。学生国籍属于容易被误推断的信息，只有本人或学校明确公开时才记录；毕业学校也只来自官方实验室成员简介，不使用姓名、照片、社交媒体或第三方聚合站推断。</p><h2>推荐使用顺序</h2><ol><li>先在首页按强项筛出 6–10 所学校。</li><li>进入学校页，按细分方向形成 3–8 位导师长名单。</li><li>阅读最近 3–5 年论文、实验室新闻与招生说明。</li><li>核对是否招收 PhD、经费、轮转制度和截止日期。</li><li>最终按研究匹配度、培养模式与生活成本，而不是仅按排名排序。</li></ol><h2>时效性</h2><p>最后核验日期：{CHECKED}。教师流动和招生状态变化很快，申请前必须再次打开官网核实。</p><p><a class="primary inline-button" href="index.html">返回学校地图</a></p></article></main>"""
     (DIST / "methodology.html").write_text(page_shell("数据口径与使用方法", "物理 PhD 导师地图的数据来源、覆盖范围、局限与使用方法。", body), encoding="utf-8")
 
 
 def main() -> None:
     parsed = json.loads(DATA.read_text(encoding="utf-8"))
+    enrichment = json.loads(ENRICHMENT.read_text(encoding="utf-8")) if ENRICHMENT.exists() else {}
     for item in parsed.get("nyu", []):
         if item["name"] in NYU_AREAS:
             item["area"] = NYU_AREAS[item["name"]]
             item["summary"] = f"根据 NYU 官方院系与研究中心信息归入“{item['area']}”；近期成果与招生状态请进入主页核实。"
+
+    for school_id, records in parsed.items():
+        for item in records:
+            item["department"] = DEPARTMENTS[school_id]
+            item.setdefault("education", "")
+            if item.get("education"):
+                item.setdefault("education_source", item.get("source", ""))
+            else:
+                item.setdefault("education_source", "")
+            item.setdefault("phd_recruitment_history", [])
+            item.setdefault("summer_research_history", [])
+            item.setdefault("group_student_backgrounds", [])
+            verified = enrichment.get(school_id, {}).get(item["name"], {})
+            for field, value in verified.items():
+                item[field] = value
 
     metadata = []
     for order, (sid, name, short, rank, strengths, labs) in enumerate(SCHOOLS, 1):

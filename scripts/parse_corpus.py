@@ -128,6 +128,7 @@ def split_source_lines(text: str) -> list[tuple[int, str, list[str]]]:
 
 def simplify_name(label: str) -> str:
     value = re.sub(r"^(?:Image|Photo|Headshot)(?::| of)?\s*", "", label, flags=re.I)
+    value = re.sub(r"†.*$", "", value)
     value = re.sub(r"\s+(?:headshot|portrait|profile|photo)$", "", value, flags=re.I)
     value = re.sub(
         r"^(?:Director,?\s+)?(?:Distinguished\s+|Centennial\s+|Associate\s+|Assistant\s+)?Professor(?:\s+Emeritus)?\s+",
@@ -153,10 +154,10 @@ def simplify_name(label: str) -> str:
 def looks_like_name(value: str) -> bool:
     if not 2 <= len(value.split()) <= 7:
         return False
-    if len(value) > 70 or any(char.isdigit() for char in value):
+    if len(value) > 70 or any(char.isdigit() for char in value) or any(char in value for char in "@[]"):
         return False
     blocked = re.compile(
-        r"department|faculty|professors?|professionals?|academic|postdoctoral|emeriti|students?|research|people|physics|program|center|laborator|university|school|directory|website|group|area|admission|graduate|undergraduate|contact|news|event|office|science|community|culture|degrees?|courses?|curricula|filters?|\bhome\b|\bchair\b",
+        r"department|faculty|professors?|professionals?|academic|postdoctoral|emeriti|students?|staff|appointments?|scholars?|memoriam|how to apply|initiative|research|people|physics|program|center|laborator|university|school|directory|website|group|area|admission|graduate|undergraduate|contact|news|event|office|science|community|culture|degrees?|courses?|curricula|filters?|\bhome\b|\bchair\b",
         re.I,
     )
     if blocked.search(value):
@@ -185,6 +186,39 @@ def classify_mode(text: str) -> str:
     if has_theory:
         return "理论 / 计算"
     return "综合 / 待官网核实"
+
+
+def extract_education(school: str, block: list[str]) -> str:
+    """Return only degree information explicitly present in the official block."""
+    def clean(value: str) -> str:
+        value = re.sub(r"[\x00-\x1f]+", " ", value)
+        return re.sub(r"\s+", " ", value).strip(" .;,")
+
+    raw = " ".join(block)
+    for item in block:
+        education = re.search(r"Education:\s*(.+)$", item, re.I)
+        if education:
+            return clean(education.group(1))
+
+    # Faculty handbooks often use: "Surname, Name, Ph.D., University, 2017."
+    if school == "utaustin":
+        handbook = re.search(
+            r",\s*((?:Ph\.?D\.?|D\.?Sc\.?)),\s*(.{2,100}?)(?=,\s*\d{4}\.|\.\s+(?:Assistant|Associate|Professor|Research)|$)",
+            raw,
+            re.I,
+        )
+        if handbook:
+            return clean(f"{handbook.group(1)}, {handbook.group(2)}")
+
+    for label in (
+        "Doctor of Philosophy (Ph.D.)",
+        "Doctorate (Academic)",
+        "Ph.D. Equivalent",
+        "Doctoral",
+    ):
+        if school == "nyu" and label.lower() in raw.lower():
+            return label
+    return ""
 
 
 def slugify(value: str) -> str:
@@ -248,6 +282,7 @@ def build_record(
         "area": area,
         "mode": classify_mode(raw),
         "summary": choose_summary(name, title, block, area),
+        "education": extract_education(school, block),
         "profile": profile or inferred_profile_url(school, name, SCHOOL_SOURCES[school]),
         "source": SCHOOL_SOURCES[school],
     }
@@ -398,7 +433,8 @@ def parse_nyu_bulletin_records(
         title = lines[index - 1][1].strip()
         if not looks_like_name(name) or not TITLE_RE.search(title) or EXCLUDE_TITLE_RE.search(title):
             continue
-        add_record(records, seen, build_record(school, name, title, [title, content]))
+        degree_context = [item for _, item, _ in lines[index + 1 : index + 3] if item]
+        add_record(records, seen, build_record(school, name, title, [title, content, *degree_context]))
 
 
 def parse_sequential_records(
@@ -621,6 +657,8 @@ def main() -> None:
                     current["area"] = record["area"]
                     current["mode"] = record["mode"]
                     current["summary"] = record["summary"]
+                if not current.get("education") and record.get("education"):
+                    current["education"] = record["education"]
                 if current["profile"] == SCHOOL_SOURCES[school] and record["profile"] != SCHOOL_SOURCES[school]:
                     current["profile"] = record["profile"]
         result[school] = sorted(merged.values(), key=lambda item: item["name"].casefold())

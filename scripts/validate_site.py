@@ -18,6 +18,16 @@ def main() -> None:
     assert len(list((DIST / "schools").glob("*.html"))) == 30
     assert sum(len(item["faculty"]) for item in data) >= 1200
     assert (DIST / "index.html").read_text(encoding="utf-8").count("data-school-card") == 30
+    for school in data:
+        for faculty in school["faculty"]:
+            assert faculty.get("department")
+            assert "education" in faculty
+            assert "phd_recruitment_history" in faculty
+            assert "summer_research_history" in faculty
+            assert "group_student_backgrounds" in faculty
+            for field in ("phd_recruitment_history", "summer_research_history", "group_student_backgrounds"):
+                for row in faculty[field]:
+                    assert row.get("source", "").startswith("https://")
 
     broken: list[tuple[str, str]] = []
     for page in pages:

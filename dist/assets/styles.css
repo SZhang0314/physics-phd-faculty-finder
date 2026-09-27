@@ -98,13 +98,24 @@ input:focus, select:focus { border-color: var(--teal); box-shadow: 0 0 0 3px rgb
 .lab-card a { margin-top: auto; color: var(--teal); font-size: .82rem; font-weight: 750; }
 .faculty-tools { margin: 0 0 1.6rem; box-shadow: none; }
 .faculty-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: .85rem; }
-.faculty-card { min-height: 285px; padding: 1.25rem; display: flex; flex-direction: column; background: var(--white); border: 1px solid var(--line); border-radius: 10px; }
+.faculty-card { min-height: 345px; padding: 1.25rem; display: flex; flex-direction: column; background: var(--white); border: 1px solid var(--line); border-radius: 10px; }
 .faculty-top { display: flex; justify-content: space-between; gap: 1rem; align-items: start; }
 .faculty-card h3 { margin: 0; font: 1.2rem/1.2 Georgia, serif; }
 .faculty-title { margin: .3rem 0 0; color: var(--muted); font-size: .77rem; }
+.faculty-department { margin: .18rem 0 0; color: #78909c; font-size: .7rem; }
 .area-tag { max-width: 190px; padding: .28rem .52rem; color: #285c58; background: var(--aqua); border-radius: 5px; font-size: .68rem; font-weight: 750; text-align: right; }
 .faculty-summary { margin: 1.2rem 0 .8rem; color: #425b6b; font-size: .87rem; }
 .faculty-meta { margin-top: auto; color: #758894; font-size: .72rem; }
+.faculty-more { margin-top: .8rem; border-top: 1px solid #edf1f2; }
+.faculty-more summary { padding: .72rem 0 .2rem; color: var(--teal); cursor: pointer; font-size: .78rem; font-weight: 800; }
+.faculty-more dl { margin: .65rem 0 0; display: grid; gap: .65rem; }
+.faculty-more dl div { display: grid; grid-template-columns: 115px 1fr; gap: .8rem; }
+.faculty-more dt { color: #718793; font-size: .72rem; font-weight: 750; }
+.faculty-more dd { margin: 0; color: #344f5e; font-size: .76rem; }
+.faculty-more dd a { color: var(--teal); font-weight: 750; }
+.history-row { display: block; margin-bottom: .45rem; }
+.history-row small { display: block; margin-top: .12rem; color: #6d828d; line-height: 1.45; }
+.evidence-note { margin: .8rem 0 0; padding: .6rem .7rem; color: #607984; background: #f2f6f6; border-radius: 6px; font-size: .69rem; }
 .faculty-links { display: flex; flex-wrap: wrap; gap: .8rem; margin-top: .8rem; padding-top: .75rem; border-top: 1px solid #edf1f2; }
 .faculty-links a { color: var(--blue); font-size: .77rem; font-weight: 750; }
 .source-box { max-width: 1240px; margin: 0 auto 5rem; padding: 1.6rem; color: #d6e5e9; background: var(--navy); border-radius: 12px; }

@@ -1,0 +1,94 @@
+{
+  "mit": {
+    "Nuh Gedik": {
+      "education": "PhD, University of California, Berkeley",
+      "education_source": "https://web.mit.edu/~gediklab/members.html",
+      "group_student_backgrounds": [
+        {
+          "text": "当前官网列出的 9 名 graduate students 本科院校：University of Cambridge、Peking University、Fudan University、University of Notre Dame、Williams College、Seoul National University、Cornell University、University of Arkansas、University of Alabama；官网未公开国籍。",
+          "source": "https://web.mit.edu/~gediklab/members.html"
+        }
+      ]
+    }
+  },
+  "stanford": {
+    "Monika Schleier-Smith": {
+      "education": "Ph.D. in Physics, Massachusetts Institute of Technology (2011)",
+      "education_source": "https://web.stanford.edu/~schleier/Monika_Schleier-Smith_CV.pdf"
+    },
+    "Giorgio Gratta": {
+      "phd_recruitment_history": [
+        {
+          "year": "2026",
+          "count": "人数未公开",
+          "scope": "Giorgio Gratta Group",
+          "note": "官网明确写有从 2026 年夏季开始的研究生位置，但未公布名额数。",
+          "source": "https://web.stanford.edu/group/grattalab/"
+        }
+      ],
+      "summer_research_history": [
+        {
+          "year": "2026",
+          "count": "至少 2",
+          "scope": "Giorgio Gratta Group / Stanford Physics SURP",
+          "note": "课题组新闻明确列出 2 名暑研本科生；该数字可能不是完整录取人数。",
+          "source": "https://web.stanford.edu/group/grattalab/"
+        }
+      ]
+    }
+  },
+  "harvard": {
+    "Mikhail Lukin": {
+      "education": "Ph.D., Texas A&M University (1998)",
+      "education_source": "https://lukin.physics.harvard.edu/people?page=3",
+      "group_student_backgrounds": [
+        {
+          "text": "官网当前标注 36 名 students；公开详细简介的已核验示例：Francisca Abdo Arias，2024 年获 Amherst College 物理与数学 B.A.。其余成员未完整公开前置院校，不做推断。",
+          "source": "https://lukin.physics.harvard.edu/people?page=3"
+        }
+      ]
+    }
+  },
+  "yale": {
+    "Helen Caines": {
+      "phd_recruitment_history": [
+        {
+          "year": "官网长期公开口径",
+          "count": "1–2",
+          "scope": "Yale Relativistic Heavy Ion Group（联合组）",
+          "note": "这是联合研究组每年的典型新研究生名额，不是单一导师个人配额。",
+          "source": "https://star.physics.yale.edu/students.html"
+        }
+      ],
+      "summer_research_history": [
+        {
+          "year": "官网长期公开口径",
+          "count": "约 2",
+          "scope": "Yale Relativistic Heavy Ion Group（联合组）",
+          "note": "官网写明每年夏季通常有一对 Yale 本科生在组内研究。",
+          "source": "https://star.physics.yale.edu/students.html"
+        }
+      ]
+    },
+    "Laura Havener": {
+      "phd_recruitment_history": [
+        {
+          "year": "官网长期公开口径",
+          "count": "1–2",
+          "scope": "Yale Relativistic Heavy Ion Group（联合组）",
+          "note": "这是联合研究组每年的典型新研究生名额，不是单一导师个人配额。",
+          "source": "https://star.physics.yale.edu/students.html"
+        }
+      ],
+      "summer_research_history": [
+        {
+          "year": "官网长期公开口径",
+          "count": "约 2",
+          "scope": "Yale Relativistic Heavy Ion Group（联合组）",
+          "note": "官网写明每年夏季通常有一对 Yale 本科生在组内研究。",
+          "source": "https://star.physics.yale.edu/students.html"
+        }
+      ]
+    }
+  }
+}
